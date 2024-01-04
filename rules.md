@@ -110,33 +110,33 @@ VS-Sjaelland<br>
 HM-Hiiu<br>
 HR-Harju<br>
 IV-Ida-Viru<br>
-JG-JÃµgeva<br>
-JR-JÃ¤rva<br>
-LN-LÃ¤Ã¤ne<br>
-LV-LÃ¤Ã¤ne-Viru<br>
-PL-PÃ¶lva<br>
-PU-PÃ¤rnu<br>
+JG-Jögeva<br>
+JR-Järva<br>
+LN-Lääne<br>
+LV-Lääne-Viru<br>
+PL-Pölva<br>
+PU-Pärnu<br>
 RP-Rapla<br>
 SR-Saare<br>
 TA-Tartu<br>
 TL-Tallinn<br>
 VC-Valga<br>
-VO-VÃµru<br>
 VP-Viljandi<br>
+VO-Vöru<br>
 
 ### Finland
 
 AL-Ahvenanmaa<br>
-EK-EtelÃ¤-Karjala<br>
-EP-EtelÃ¤-Pohjanmaa<br>
-ES-EtelÃ¤-Savo<br>
+EK-Etelä-Karjala<br>
+EP-Etelä-Pohjanmaa<br>
+ES-Etelä-Savo<br>
 KE-Keski-Suomi<br>
 KL-Kymenlaakso<br>
 KP-Keski-Pohjanmaa<br>
-KT-Kanta-HÃ¤me<br>
+KT-Kanta-Häme<br>
 KU-Kainuu<br>
 LA-Lappi<br>
-PH-PÃ¤ijÃ¤t-HÃ¤me<br>
+PH-Päijät-Häme<br>
 PK-Pohjois-Karjala<br>
 PM-Pirkanmaa<br>
 PO-Pohjanmaa<br>
@@ -148,7 +148,7 @@ VA-Varsinais-Suomi<br>
 
 ### Iceland
 
-IS-Island
+IS-Island<br>
 
 ### Latvia
 
@@ -182,17 +182,17 @@ VR-Valmiera<br>
 ### Lithuania
 
 AT-Alytus<br>
-KD-Klaipeda-city<br>
-KI-Klaipeda<br>
+KD-Klaipėda-city<br>
+KI-Klaipėda<br>
 KM-Kaunas-city<br>
 KN-Kaunas<br>
-MM-Marijampole<br>
-PA-Panevezys<br>
-PN-Panevezys-city<br>
-SI-Siauliai-city<br>
-SU-Siauliai<br>
-TG-Taurage<br>
-TI-Telsiai<br>
+MM-Marijampolė<br>
+PA-Panevėžys<br>
+PN-Panevėžys-city<br>
+SI-Šiauliai-city<br>
+SU-Šiauliai<br>
+TG-Tauragė<br>
+TI-Telšiai<br>
 UT-Utena<br>
 VU-Vilnius-city<br>
 VV-Vilnius<br>
@@ -200,41 +200,40 @@ VV-Vilnius<br>
 ### Norway
 
 AG-Agder<br>
-BO-BjÃ¸rn Ã˜ya Svalbard<br>
+BO-Björnöya<br>
 FI-Finnmark<br>
 HO-Vestland<br>
 IN-Innlandet<br>
 JA-Jan Mayen<br>
-MO-MÃ¸re og Romsdal<br>
+MO-Möre og Romsdal<br>
 NO-Nordland<br>
 OS-Oslo<br>
 RL-Rogaland<br>
 SV-Svalbard<br>
 TE-Vestfold og Telemark<br>
-TR-TrÃ¸ndelag<br>
+TR-Tröndelag<br>
 VF-Viken<br>
 XX-Troms<br>
 
 ### Sweden
-
 BL-Blekinge<br>
 DA-Dalarna<br>
-GA-GÃ¤vleborg<br>
+GA-Gävleborg<br>
 GO-Gotland<br>
 HA-Halland<br>
-JL-JÃ¤mtland<br>
-JO-JÃ¶nkÃ¶ping<br>
+JL-Jämtland<br>
+JO-Jönköping<br>
 KA-Kalmar<br>
 KR-Kronoberg<br>
 NB-Norrbotten<br>
-OG-Ã–stergÃ¶tland<br>
-OR-Ã–rebro<br>
-SE-SkÃ¥ne<br>
+OG-Östergötland<br>
+OR-Örebro<br>
+SE-Skåne<br>
 SL-Stockholm<br>
-SO-SÃ¶dermanland<br>
+SO-Södermanland<br>
 UP-Uppsala<br>
-VB-VÃ¤sterbotten<br>
-VD-VÃ¤stra GÃ¶taland<br>
-VL-VÃ¤rmland<br>
-VM-VÃ¤stmanland<br>
-VN-VÃ¤sternorrland<br>
+VB-Västerbotten<br>
+VD-Västra Götaland<br>
+VL-Värmland<br>
+VM-Västmanland<br>
+VN-Västernorrland<br>
