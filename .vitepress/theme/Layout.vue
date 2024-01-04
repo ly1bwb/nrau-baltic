@@ -9,6 +9,8 @@ const { page, frontmatter } = useData();
 
 const navigationItems = {
 	"/": "Home",
+	"/rules": "Rules",
+	"/ubn": "UBN",
 };
 </script>
 
