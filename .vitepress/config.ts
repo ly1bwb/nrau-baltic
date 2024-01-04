@@ -1,5 +1,5 @@
 import { defineConfig } from "vitepress";
-import { genFeed } from "@/genFeed.js";
+import { genFeed } from "./genFeed.js";
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
