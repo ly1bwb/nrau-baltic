@@ -1,8 +1,8 @@
 <script setup lang="ts">
-import type { NavigationItems } from "./types";
+import type { NavigationItems } from "@/theme/types";
 import { MenuIcon } from "lucide-vue-next";
 import { Popover, PopoverButton, PopoverPanel } from "@headlessui/vue";
-import ThemeSwitch from "./ThemeSwitch.vue";
+import ThemeSwitch from "@/theme/ThemeSwitch.vue";
 
 const props = defineProps<{
 	navigationItems: NavigationItems;

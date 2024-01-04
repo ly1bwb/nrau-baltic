@@ -1,6 +1,6 @@
 <script setup lang="ts">
-import type { NavigationItems } from "./types";
-import ThemeSwitch from "./ThemeSwitch.vue";
+import type { NavigationItems } from "@/theme/types";
+import ThemeSwitch from "@/theme/ThemeSwitch.vue";
 
 const props = defineProps<{
 	navigationItems: NavigationItems;

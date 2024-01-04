@@ -1,13 +1,12 @@
 <script setup>
 import { ref } from 'vue'
-import ResultsTable from '.vitepress/components/ResultsTable.vue'
-import Listbox from '.vitepress/theme/Listbox.vue'
+import ResultsTable from '@/components/ResultsTable.vue'
+import Listbox from '@/theme/Listbox.vue'
 
-import { data as results } from ".vitepress/results.data.ts";
+import { data as results } from "@/results.data.ts";
 
 const availableYears = Object.keys(results).map(Number)
 const selectedYear = ref(Math.max(...availableYears));
-
 </script>
 
 # CW results

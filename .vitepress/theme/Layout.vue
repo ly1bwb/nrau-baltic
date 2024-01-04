@@ -1,9 +1,9 @@
 <script setup lang="ts">
 import { useData } from "vitepress";
-import NotFound from "./NotFound.vue";
-import Navigation from "./Navigation.vue";
-import MobileNavigation from "./MobileNavigation.vue";
-import Prose from "./Prose.vue";
+import NotFound from "@/theme/NotFound.vue";
+import Navigation from "@/theme/Navigation.vue";
+import MobileNavigation from "@/theme/MobileNavigation.vue";
+import Prose from "@/theme/Prose.vue";
 
 const { page } = useData();
 
@@ -11,6 +11,7 @@ const navigationItems = {
 	"/": "Home",
 	"/rules": "Rules",
 	"/cw": "CW",
+	"/countries": "Countries",
 };
 </script>
 

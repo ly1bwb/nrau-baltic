@@ -3,6 +3,9 @@
 	"include": [".vitepress/**/*"],
 	"compilerOptions": {
 		"composite": true,
-		"baseUrl": "."
+		"baseUrl": ".",
+		"paths": {
+			"@/*": [".vitepress/*"]
+		}
 	}
 }

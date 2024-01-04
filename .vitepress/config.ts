@@ -1,5 +1,5 @@
 import { defineConfig } from "vitepress";
-import { genFeed } from "./genFeed.js";
+import { genFeed } from "@/genFeed.js";
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
@@ -8,6 +8,7 @@ export default defineConfig({
 	description: "NRAU Baltic contest",
 	cleanUrls: true,
 	buildEnd: genFeed,
+	srcDir: "pages",
 	head: [
 		[
 			"link",
@@ -143,4 +144,11 @@ export default defineConfig({
 			},
 		],
 	],
+	vite: {
+		resolve: {
+			alias: {
+				"@": "./.vitepress",
+			},
+		},
+	},
 });
