@@ -8,8 +8,8 @@
 	"devDependencies": {
 		"@tailwindcss/typography": "^0.5.9",
 		"@types/markdown-it": "^12.2.3",
-		"@types/node": "^20.4.4",
 		"@types/md5": "^2.3.2",
+		"@types/node": "^20.4.4",
 		"@vue/tsconfig": "^0.4.0",
 		"autoprefixer": "^10.4.14",
 		"feed": "^4.2.2",
@@ -22,6 +22,7 @@
 	"dependencies": {
 		"@headlessui/vue": "^1.7.14",
 		"@vueuse/core": "^10.2.1",
+		"csv-parse": "^5.5.3",
 		"lucide-vue-next": "^0.263.0",
 		"md5": "^2.3.0",
 		"vitepress": "^1.0.0-beta.6",

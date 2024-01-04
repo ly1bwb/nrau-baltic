@@ -10,6 +10,7 @@ const { page } = useData();
 const navigationItems = {
 	"/": "Home",
 	"/rules": "Rules",
+	'/cw': "CW",
 };
 </script>
 

@@ -27,7 +27,7 @@ const props = defineProps<{
 			leave-to-class="translate-y-1 opacity-0"
 		>
 			<PopoverPanel
-				class="absolute right-0 mt-3 w-screen max-w-[14rem] pl-8 sm:px-0"
+				class="absolute right-0 mt-3 w-screen max-w-[15rem] pl-8 sm:px-0"
 				v-slot="{ close }"
 			>
 				<div
