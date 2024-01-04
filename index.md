@@ -1,7 +1,6 @@
 ---
 title: NRAU Baltic
 titleTemplate: false
-layout: prose
 ---
 
 <script setup>

@@ -5,10 +5,11 @@ import Navigation from "./Navigation.vue";
 import MobileNavigation from "./MobileNavigation.vue";
 import Prose from "./Prose.vue";
 
-const { page, frontmatter } = useData();
+const { page } = useData();
 
 const navigationItems = {
 	"/": "Home",
+	"/rules": "Rules",
 };
 </script>
 
@@ -34,7 +35,6 @@ const navigationItems = {
 		class="max-w-3xl xl:max-w-5xl mx-auto my-8 lg:my-16 px-4 sm:px-6 xl:px-0"
 	>
 		<NotFound v-if="page.isNotFound" />
-		<Prose v-else-if="frontmatter.layout === 'prose'" />
-		<Content v-else />
+		<Prose v-else />
 	</main>
 </template>

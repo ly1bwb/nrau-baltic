@@ -7,7 +7,7 @@ const toggleDark = useToggle(isDark);
 </script>
 
 <template>
-	<button @click="toggleDark()" title="Pakeisti temą">
+	<button @click="toggleDark()" title="Change theme">
 		<SunIcon v-if="isDark" />
 		<MoonIcon v-else />
 		<slot />
