@@ -10,13 +10,13 @@ const { page } = useData();
 const navigationItems = {
 	"/": "Home",
 	"/rules": "Rules",
-	'/cw': "CW",
+	"/cw": "CW",
 };
 </script>
 
 <template>
 	<div
-		class="sticky top-0 z-10 w-full backdrop-blur py-4 border-b border-slate-900/10 bg-white supports-backdrop-blur:bg-white/95 dark:border-slate-300/10 dark:bg-slate-900/75"
+		class="sticky top-0 z-10 w-full backdrop-blur py-4 border-b border-gray-900/10 bg-white supports-backdrop-blur:bg-white/95 dark:border-gray-300/10 dark:bg-gray-900/75"
 	>
 		<nav
 			class="flex justify-between items-center max-w-3xl mx-auto px-4 sm:px-6 xl:max-w-5xl xl:px-0"

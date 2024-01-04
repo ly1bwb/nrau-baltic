@@ -3,7 +3,7 @@
 @tailwind utilities;
 
 body {
-	@apply antialiased text-slate-500 dark:text-slate-400 bg-white dark:bg-slate-900;
+	@apply antialiased text-gray-500 dark:text-gray-400 bg-white dark:bg-gray-900;
 }
 
 @layer utilities {

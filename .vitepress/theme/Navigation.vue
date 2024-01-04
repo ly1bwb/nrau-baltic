@@ -8,7 +8,7 @@ const props = defineProps<{
 </script>
 
 <template>
-	<div class="flex gap-4 font-semibold text-slate-700 dark:text-slate-200">
+	<div class="flex gap-4 font-semibold text-gray-700 dark:text-gray-200">
 		<a
 			v-for="(title, href) of props.navigationItems"
 			:href="href"

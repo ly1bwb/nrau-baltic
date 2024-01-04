@@ -13,7 +13,7 @@ const props = defineProps<{
 	<Popover class="relative">
 		<PopoverButton
 			title="Atidaryti meniu"
-			class="p-2 text-slate-700 dark:text-slate-200"
+			class="p-2 text-gray-700 dark:text-gray-200"
 		>
 			<MenuIcon />
 		</PopoverButton>
@@ -31,14 +31,14 @@ const props = defineProps<{
 				v-slot="{ close }"
 			>
 				<div
-					class="divide-y divide-slate-100 dark:divide-slate-700 px-4 py-2 rounded-lg shadow-lg border border-slate-900/10 dark:border-slate-300/10 text-base font-semibold bg-white text-slate-700 dark:bg-slate-800 dark:text-slate-200"
+					class="divide-y divide-gray-100 dark:divide-gray-700 px-4 py-2 rounded-lg shadow-lg border border-gray-900/10 dark:border-gray-300/10 text-base font-semibold bg-white text-gray-700 dark:bg-gray-800 dark:text-gray-200"
 				>
 					<div class="py-2">
 						<a
 							v-for="(title, href) of props.navigationItems"
 							:href="href"
 							:key="href"
-							class="flex w-full items-center rounded-md p-2 transition duration-150 ease-in-out hover:bg-slate-200 dark:hover:bg-slate-700"
+							class="flex w-full items-center rounded-md p-2 transition duration-150 ease-in-out hover:bg-gray-200 dark:hover:bg-gray-700"
 							@click="close"
 						>
 							{{ title }}
@@ -46,7 +46,7 @@ const props = defineProps<{
 					</div>
 					<div class="py-2">
 						<ThemeSwitch
-							class="flex w-full items-center rounded-md p-2 transition duration-150 ease-in-out hover:bg-slate-200 dark:hover:bg-slate-700"
+							class="flex w-full items-center rounded-md p-2 transition duration-150 ease-in-out hover:bg-gray-200 dark:hover:bg-gray-700"
 							aria-hidden="true"
 							><span class="ml-2">Change theme</span></ThemeSwitch
 						>
