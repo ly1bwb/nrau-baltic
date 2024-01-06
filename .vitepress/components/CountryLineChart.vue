@@ -26,14 +26,26 @@ import { data as results } from "../results.data.js";
 import { COUNTRIES } from "../counties";
 
 const availableYears = Object.keys(results).map(Number);
-const mock: LineSeriesOption[] = COUNTRIES.map((country) => ({
+const countryScores: LineSeriesOption[] = COUNTRIES.map((country) => ({
 	name: country,
 	type: "line",
-	data: Object.values(results).map((yearResult) =>
-		yearResult
-			.filter((result) => result.COUNTRY === country)
-			.reduce((scoreSum, result) => scoreSum + result.SCORE, 0),
-	),
+	data: Object.values(results).map((yearResult) => {
+		const countryResults = yearResult.filter(
+			(result) => result.COUNTRY === country,
+		);
+		const countryCWResults = countryResults
+			.filter((result) => result.MODE === "CW")
+			.slice(0, 10);
+
+		const countryPHResults = countryResults
+			.filter((result) => result.MODE === "PH")
+			.slice(0, 10);
+
+		return [...countryCWResults, ...countryPHResults].reduce(
+			(scoreSum, result) => scoreSum + result.SCORE,
+			0,
+		);
+	}),
 }));
 
 use([
@@ -60,7 +72,7 @@ const isDark = useDark({ storageKey: "vitepress-theme-appearance" });
 const option = ref<EChartsOption>({
 	backgroundColor: "transparent",
 	title: {
-		text: "Total score",
+		text: "National competition",
 	},
 	tooltip: {
 		trigger: "axis",
@@ -83,7 +95,7 @@ const option = ref<EChartsOption>({
 	yAxis: {
 		type: "value",
 	},
-	series: mock,
+	series: countryScores,
 });
 </script>
 
