@@ -76,6 +76,7 @@ const option = ref<EChartsOption>({
 	},
 	tooltip: {
 		trigger: "axis",
+		order: "valueDesc",
 	},
 	legend: {
 		data: COUNTRIES,
