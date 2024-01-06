@@ -74,13 +74,6 @@ const columns = [
 	}),
 ];
 
-// const filter = computed(() => [
-// 	{
-// 		id: "year",
-// 		value: props.year,
-// 	},
-// ]);
-
 const table = useVueTable({
 	columns,
 	get data() {
@@ -88,11 +81,6 @@ const table = useVueTable({
 	},
 	getCoreRowModel: getCoreRowModel(),
 	getFilteredRowModel: getFilteredRowModel(),
-	// state: {
-	// 	get columnFilters() {
-	// 		return filter.value;
-	// 	},
-	// },
 });
 </script>
 

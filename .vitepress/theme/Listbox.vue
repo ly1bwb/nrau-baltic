@@ -1,12 +1,11 @@
 <script setup lang="ts">
-import { defineProps, defineModel } from "vue";
 import {
 	Listbox,
 	ListboxButton,
 	ListboxOptions,
 	ListboxOption,
 } from "@headlessui/vue";
-import { CheckIcon, ChevronUpDownIcon } from "@heroicons/vue/20/solid";
+import { CheckIcon, ChevronsUpDownIcon } from "lucide-vue-next";
 
 const model = defineModel<string | number>({ required: true });
 
@@ -28,9 +27,9 @@ defineProps({
 				<span
 					class="pointer-events-none absolute inset-y-0 right-0 flex items-center pr-2"
 				>
-					<ChevronUpDownIcon
+					<ChevronsUpDownIcon
 						class="h-5 w-5 text-gray-500 dark:text-gray-400"
-						aria-hidden="true"
+						aria-hidden
 					/>
 				</span>
 			</ListboxButton>
@@ -71,7 +70,7 @@ defineProps({
 								v-if="selected"
 								class="absolute inset-y-0 left-0 flex items-center pl-3 text-gray-500 dark:text-gray-400"
 							>
-								<CheckIcon class="h-5 w-5" aria-hidden="true" />
+								<CheckIcon class="h-5 w-5" aria-hidden />
 							</span>
 						</li>
 					</ListboxOption>
