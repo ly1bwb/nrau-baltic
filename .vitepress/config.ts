@@ -150,5 +150,8 @@ export default defineConfig({
 				"@": "./.vitepress",
 			},
 		},
+		ssr: {
+			noExternal: ["echarts", "zrender", "vue-echarts", "resize-detector"],
+		},
 	},
 });
