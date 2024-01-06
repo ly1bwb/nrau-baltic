@@ -6,7 +6,7 @@ import MobileNavigation from "@/theme/MobileNavigation.vue";
 import Prose from "@/theme/Prose.vue";
 
 const { page } = useData();
-	
+
 const navigationItems = {
 	"/": "Home",
 	"/rules": "Rules",
