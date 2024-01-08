@@ -29,7 +29,7 @@ const navigationItems = {
 				<img
 					class="w-10 h-[78px]"
 					src="/logo.svg"
-					alt="NRAU Baltic contest logo"
+					alt="NRAU-Baltic contest logo"
 				/>
 				NRAU-Baltic contest
 			</a>

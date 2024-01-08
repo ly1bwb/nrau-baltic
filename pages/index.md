@@ -1,11 +1,11 @@
 ---
-title: NRAU Baltic
+title: NRAU-Baltic
 titleTemplate: false
 ---
 
-# NRAU Baltic contest
+# NRAU-Baltic contest
 
-Welcome to the NRAU Baltic contest 2024 on the 14th of January.
+Welcome to the NRAU-Baltic contest 2024 on the 14th of January.
 
 This year's host is SSA - Sweden. Log upload and results can be found on the website https://<span>logs.nraubaltic.eu/</span>.
 

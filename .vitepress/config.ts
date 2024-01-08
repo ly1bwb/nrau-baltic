@@ -3,9 +3,9 @@ import { genFeed } from "./genFeed.js";
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
-	title: "NRAU Baltic",
+	title: "NRAU-Baltic",
 	lang: "en-US",
-	description: "NRAU Baltic contest",
+	description: "NRAU-Baltic contest",
 	cleanUrls: true,
 	buildEnd: genFeed,
 	srcDir: "pages",
@@ -84,14 +84,14 @@ export default defineConfig({
 			"meta",
 			{
 				property: "og:title",
-				content: "NRAU Baltic",
+				content: "NRAU-Baltic",
 			},
 		],
 		[
 			"meta",
 			{
 				property: "og:description",
-				content: "NRAU Baltic contest",
+				content: "NRAU-Baltic contest",
 			},
 		],
 		[
@@ -126,14 +126,14 @@ export default defineConfig({
 			"meta",
 			{
 				name: "twitter:title",
-				content: "NRAU Baltic",
+				content: "NRAU-Baltic",
 			},
 		],
 		[
 			"meta",
 			{
 				name: "twitter:description",
-				content: "NRAU Baltic contest",
+				content: "NRAU-Baltic contest",
 			},
 		],
 		[
