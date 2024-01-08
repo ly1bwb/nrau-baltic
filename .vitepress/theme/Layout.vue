@@ -10,8 +10,14 @@ const { page } = useData();
 const navigationItems = {
 	"/": "Home",
 	"/rules": "Rules",
+	"/search": "Search",
 	"/cw": "CW",
+	"/ph": "PH",
+	"/mixed": "Mixed",
 	"/countries": "Countries",
+	"/regions": "Regions",
+	"/soapbox": "Soapbox",
+	"/ubn": "UBN",
 };
 </script>
 
