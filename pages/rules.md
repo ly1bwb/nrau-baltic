@@ -200,19 +200,21 @@ VV-Vilnius<br>
 ### Norway
 
 AG-Agder<br>
+AK-Akershus<br>
 BO-Björnöya<br>
+BU-Buskerud<br>
 FI-Finnmark<br>
 HO-Vestland<br>
 IN-Innlandet<br>
 JA-Jan Mayen<br>
 MO-Möre og Romsdal<br>
 NO-Nordland<br>
+OF-Østfold<br>
 OS-Oslo<br>
 RL-Rogaland<br>
 SV-Svalbard<br>
 TE-Vestfold og Telemark<br>
 TR-Tröndelag<br>
-VF-Viken<br>
 XX-Troms<br>
 
 ### Sweden
