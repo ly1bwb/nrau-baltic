@@ -29,6 +29,7 @@ const navigationItems = {
 					alt="NRAU-Baltic contest logo"
 				/>
 			</a>
+			<div class="w-full custom-block-title text-gray-700 dark:text-gray-200">NRAU-Baltic contest</div>
 			<Navigation class="hidden lg:flex" :navigation-items="navigationItems" />
 			<MobileNavigation class="lg:hidden" :navigation-items="navigationItems" />
 		</nav>
