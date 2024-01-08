@@ -11,9 +11,11 @@ This year's host is SSA - Sweden. Log upload and results can be found on the web
 
 <!-- todo: change this to button -->
 
-[CLICK HERE TO SUBMIT YOUR LOG >>](https://logs.nraubaltic.eu/submit/65947b7f2f903b1b56c43a15)
-
 _73, Ingo SM5AJV SSA HF Contest Manager_
+
+---
+
+<a class="text-5xl font-bold" href="https://logs.nraubaltic.eu/submit/65947b7f2f903b1b56c43a15">SUBMIT LOG >></a>
 
 ---
 
