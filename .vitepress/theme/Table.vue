@@ -1,13 +1,13 @@
 <script setup lang="ts" generic="TData">
 import { ref } from "vue";
 import {
-	createColumnHelper,
 	useVueTable,
 	getCoreRowModel,
 	FlexRender,
 	getSortedRowModel,
 	type SortingState,
 	type ColumnDef,
+	type TableOptions,
 } from "@tanstack/vue-table";
 import {
 	ArrowUpDownIcon,
@@ -20,9 +20,12 @@ import {
 const props = defineProps<{
 	columns: ColumnDef<TData, any>[];
 	data: TData[];
+	tableOptions?: Partial<TableOptions<TData>>;
 }>();
 
-const sortingState = ref<SortingState>([]);
+const sortingState = ref<SortingState>(
+	props.tableOptions?.initialState?.sorting || [],
+);
 
 const table = useVueTable({
 	columns: props.columns,
@@ -42,6 +45,7 @@ const table = useVueTable({
 				? updaterOrValue(sortingState.value)
 				: updaterOrValue;
 	},
+	...props.tableOptions,
 });
 </script>
 

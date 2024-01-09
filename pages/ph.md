@@ -73,8 +73,8 @@ const columns = [
 ];
 </script>
 
-# CW results
+# PH results
 
 <Listbox v-model="selectedYear" :items="availableYears" class="w-24 mb-4" />
 
-<Table :data="phResults" :columns="columns" />
+<Table :data="phResults" :columns="columns" :table-options="{ initialState: { sorting: [{ id: 'SCORE', desc: true }] } }" />

@@ -77,4 +77,4 @@ const columns = [
 
 <Listbox v-model="selectedYear" :items="availableYears" class="w-24 mb-4" />
 
-<Table :data="cwResults" :columns="columns" />
+<Table :data="cwResults" :columns="columns" :table-options="{ initialState: { sorting: [{ id: 'SCORE', desc: true }] } }" />
