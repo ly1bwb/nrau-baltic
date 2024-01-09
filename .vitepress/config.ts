@@ -1,15 +1,35 @@
-import { defineConfig } from "vitepress";
+import { defineConfigWithTheme } from "vitepress";
 import { genFeed } from "./genFeed.js";
 import path from "path";
 
+type NavItem = {
+	text: string;
+	link: string;
+};
+
+export type ThemeConfig = {
+	nav: NavItem[];
+};
+
 // https://vitepress.dev/reference/site-config
-export default defineConfig({
+export default defineConfigWithTheme<ThemeConfig>({
 	title: "NRAU-Baltic",
 	lang: "en-US",
 	description: "NRAU-Baltic contest",
 	cleanUrls: true,
 	buildEnd: genFeed,
 	srcDir: "pages",
+	themeConfig: {
+		nav: [
+			{ text: "Home", link: "/" },
+			{ text: "Rules", link: "/rules" },
+			{ text: "CW", link: "/cw" },
+			{ text: "PH", link: "/ph" },
+			{ text: "Mixed", link: "/mixed" },
+			{ text: "Countries", link: "/countries" },
+			{ text: "Regions", link: "/regions" },
+		],
+	},
 	head: [
 		[
 			"link",

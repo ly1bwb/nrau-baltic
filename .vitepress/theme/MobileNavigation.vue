@@ -1,12 +1,14 @@
 <script setup lang="ts">
-import type { NavigationItems } from "@/theme/types";
 import { MenuIcon } from "lucide-vue-next";
 import { Popover, PopoverButton, PopoverPanel } from "@headlessui/vue";
 import ThemeSwitch from "@/theme/ThemeSwitch.vue";
+import type { ThemeConfig } from "@/config";
+import { useData, useRoute } from "vitepress";
 
-const props = defineProps<{
-	navigationItems: NavigationItems;
-}>();
+const { site } = useData<ThemeConfig>();
+const route = useRoute();
+
+const navigationItems = site.value.themeConfig.nav;
 </script>
 
 <template>
@@ -35,13 +37,16 @@ const props = defineProps<{
 				>
 					<div class="py-2">
 						<a
-							v-for="(title, href) of props.navigationItems"
-							:href="href"
-							:key="href"
+							v-for="{ text, link } of navigationItems"
+							:href="link"
+							:key="text"
 							class="flex w-full items-center rounded-md p-2 transition duration-150 ease-in-out hover:bg-gray-200 dark:hover:bg-gray-700"
+							:class="{
+								'text-blue-600 dark:text-blue-300': route.path === link,
+							}"
 							@click="close"
 						>
-							{{ title }}
+							{{ text }}
 						</a>
 					</div>
 					<div class="py-2">

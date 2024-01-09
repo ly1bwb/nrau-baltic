@@ -6,19 +6,6 @@ import MobileNavigation from "@/theme/MobileNavigation.vue";
 import Prose from "@/theme/Prose.vue";
 
 const { page, frontmatter } = useData();
-
-const navigationItems = {
-	"/": "Home",
-	"/rules": "Rules",
-	"/search": "Search",
-	"/cw": "CW",
-	"/ph": "PH",
-	"/mixed": "Mixed",
-	"/countries": "Countries",
-	"/regions": "Regions",
-	"/soapbox": "Soapbox",
-	"/ubn": "UBN",
-};
 </script>
 
 <template>
@@ -39,8 +26,8 @@ const navigationItems = {
 				/>
 				NRAU-Baltic contest
 			</a>
-			<Navigation class="hidden lg:flex" :navigation-items="navigationItems" />
-			<MobileNavigation class="lg:hidden" :navigation-items="navigationItems" />
+			<Navigation class="hidden lg:flex" />
+			<MobileNavigation class="lg:hidden" />
 		</nav>
 	</div>
 	<main
