@@ -1,6 +1,6 @@
 <script setup lang="ts">
 import { computed, ref } from "vue";
-import { data as results, type Result } from "../results.data.js";
+import { data as results, type Result } from "@/results.data.js";
 import {
 	createColumnHelper,
 	useVueTable,

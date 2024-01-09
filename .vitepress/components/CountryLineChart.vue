@@ -22,8 +22,8 @@ import VChart from "vue-echarts";
 import { ref } from "vue";
 import { useDark } from "@vueuse/core";
 
-import { data as results } from "../results.data.js";
-import { COUNTRIES } from "../counties";
+import { data as results } from "@/results.data.js";
+import { COUNTRIES } from "@/counties";
 
 const availableYears = Object.keys(results).map(Number);
 const countryScores: LineSeriesOption[] = COUNTRIES.map((country) => ({

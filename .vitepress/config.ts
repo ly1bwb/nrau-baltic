@@ -1,5 +1,6 @@
 import { defineConfig } from "vitepress";
 import { genFeed } from "./genFeed.js";
+import path from "path";
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
@@ -147,7 +148,7 @@ export default defineConfig({
 	vite: {
 		resolve: {
 			alias: {
-				"@": "./.vitepress",
+				"@": path.resolve(__dirname, "./"),
 			},
 		},
 		ssr: {
