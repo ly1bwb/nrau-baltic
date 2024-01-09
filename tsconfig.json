@@ -1,6 +1,6 @@
 {
 	"extends": "@vue/tsconfig/tsconfig.dom.json",
-	"include": [".vitepress/**/*"],
+	"include": [".vitepress/**/*", "pages/**/*.md"],
 	"exclude": [".vitepress/cache", ".vitepress/dist"],
 	"compilerOptions": {
 		"composite": true,
