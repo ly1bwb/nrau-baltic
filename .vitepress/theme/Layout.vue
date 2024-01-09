@@ -17,14 +17,14 @@ const { page, frontmatter } = useData();
 		>
 			<a
 				href="/"
-				class="mr-4 flex items-center gap-4 font-semibold text-lg text-gray-700 dark:text-gray-200"
+				class="mr-4 flex items-center gap-4 font-semibold text-lg text-gray-700 dark:text-gray-200 whitespace-nowrap"
 			>
 				<img
 					class="w-10 h-[78px]"
 					src="/logo.svg"
 					alt="NRAU-Baltic contest logo"
 				/>
-				NRAU-Baltic contest
+				NRAU-Baltic
 			</a>
 			<Navigation class="hidden lg:flex" />
 			<MobileNavigation class="lg:hidden" />
