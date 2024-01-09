@@ -5,7 +5,7 @@ import Navigation from "@/theme/Navigation.vue";
 import MobileNavigation from "@/theme/MobileNavigation.vue";
 import Prose from "@/theme/Prose.vue";
 
-const { page } = useData();
+const { page, frontmatter } = useData();
 
 const navigationItems = {
 	"/": "Home",
@@ -43,6 +43,6 @@ const navigationItems = {
 		class="max-w-3xl xl:max-w-5xl mx-auto my-8 lg:my-16 px-4 sm:px-6 xl:px-0"
 	>
 		<NotFound v-if="page.isNotFound" />
-		<Prose v-else />
+		<Prose :class="{ 'max-w-full': frontmatter.fullWidth }" v-else />
 	</main>
 </template>

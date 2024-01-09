@@ -1,13 +1,21 @@
 <script setup lang="ts">
-import { computed } from "vue";
+import { computed, ref } from "vue";
 import { data as results, type Result } from "../results.data.js";
 import {
 	createColumnHelper,
 	useVueTable,
 	getCoreRowModel,
-	getFilteredRowModel,
 	FlexRender,
+	getSortedRowModel,
+	type SortingState,
 } from "@tanstack/vue-table";
+import {
+	ArrowUpDownIcon,
+	ArrowDownAZIcon,
+	ArrowDownZAIcon,
+	ArrowDown01Icon,
+	ArrowDown10Icon,
+} from "lucide-vue-next";
 
 const props = defineProps({
 	year: {
@@ -29,6 +37,7 @@ const columns = [
 	}),
 	columnHelper.accessor("CALL", {
 		header: "Call",
+		sortingFn: "text",
 	}),
 	columnHelper.group({
 		header: "QSO count",
@@ -74,13 +83,26 @@ const columns = [
 	}),
 ];
 
+const sortingState = ref<SortingState>([{ id: "SCORE", desc: true }]);
+
 const table = useVueTable({
 	columns,
 	get data() {
 		return cwResults.value;
 	},
 	getCoreRowModel: getCoreRowModel(),
-	getFilteredRowModel: getFilteredRowModel(),
+	getSortedRowModel: getSortedRowModel(),
+	state: {
+		get sorting() {
+			return sortingState.value;
+		},
+	},
+	onSortingChange: (updaterOrValue) => {
+		sortingState.value =
+			typeof updaterOrValue === "function"
+				? updaterOrValue(sortingState.value)
+				: updaterOrValue;
+	},
 });
 </script>
 
@@ -96,12 +118,48 @@ const table = useVueTable({
 						v-for="header in headerGroup.headers"
 						:key="header.id"
 						:colSpan="header.colSpan"
+						:class="{
+							'cursor-pointer select-none': header.column.getCanSort(),
+						}"
+						@click="header.column.getToggleSortingHandler()?.($event)"
 					>
-						<FlexRender
-							v-if="!header.isPlaceholder"
-							:render="header.column.columnDef.header"
-							:props="header.getContext()"
-						/>
+						<div class="flex items-center gap-2">
+							<FlexRender
+								v-if="!header.isPlaceholder"
+								:render="header.column.columnDef.header"
+								:props="header.getContext()"
+							/>
+							<template
+								v-if="!header.isPlaceholder && header.column.getCanSort()"
+							>
+								<ArrowUpDownIcon
+									class="text-gray-400 dark:text-gray-500"
+									v-if="header.column.getIsSorted() === false"
+								/>
+								<template
+									v-if="
+										typeof table
+											.getFilteredRowModel()
+											.flatRows[0]?.getValue(header.column.id) === 'string'
+									"
+								>
+									<ArrowDownAZIcon
+										v-if="header.column.getIsSorted() === 'asc'"
+									/>
+									<ArrowDownZAIcon
+										v-else-if="header.column.getIsSorted() === 'desc'"
+									/>
+								</template>
+								<template v-else>
+									<ArrowDown01Icon
+										v-if="header.column.getIsSorted() === 'asc'"
+									/>
+									<ArrowDown10Icon
+										v-else-if="header.column.getIsSorted() === 'desc'"
+									/>
+								</template>
+							</template>
+						</div>
 					</th>
 				</tr>
 			</thead>

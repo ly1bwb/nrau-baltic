@@ -1,3 +1,7 @@
+---
+fullWidth: true
+---
+
 <script setup>
 import { ref } from 'vue'
 import ResultsTable from '@/components/ResultsTable.vue'

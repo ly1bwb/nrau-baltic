@@ -1,3 +1,7 @@
+---
+fullWidth: true
+---
+
 <script setup lang="ts">
 import { ref, computed } from 'vue'
 // import Listbox from '@/theme/Listbox.vue'
