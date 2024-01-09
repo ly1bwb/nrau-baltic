@@ -4,7 +4,6 @@ fullWidth: true
 
 <script setup lang="ts">
 import { ref, computed } from 'vue'
-import ResultsTable from '@/components/ResultsTable.vue'
 import Listbox from '@/theme/Listbox.vue'
 import Table from '@/theme/Table.vue'
 
