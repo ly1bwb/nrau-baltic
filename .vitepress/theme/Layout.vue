@@ -28,12 +28,16 @@ const navigationItems = {
 		<nav
 			class="flex justify-between items-center max-w-3xl mx-auto px-4 sm:px-6 xl:max-w-5xl xl:px-0"
 		>
-			<a href="/" class="mr-4">
+			<a
+				href="/"
+				class="mr-4 flex items-center gap-4 font-semibold text-lg text-gray-700 dark:text-gray-200"
+			>
 				<img
 					class="w-10 h-[78px]"
 					src="/logo.svg"
 					alt="NRAU-Baltic contest logo"
 				/>
+				NRAU-Baltic contest
 			</a>
 			<Navigation class="hidden lg:flex" :navigation-items="navigationItems" />
 			<MobileNavigation class="lg:hidden" :navigation-items="navigationItems" />

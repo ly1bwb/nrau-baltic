@@ -1,6 +1,6 @@
-# NRAU Baltic competition website
+# NRAU-Baltic competition website
 
-NRAU Baltic is an amateur radio contest for Nordic and Baltic countries.
+NRAU-Baltic is an amateur radio contest for Nordic and Baltic countries.
 
 ## Development
 
