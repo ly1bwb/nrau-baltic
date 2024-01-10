@@ -1,3 +1,5 @@
+import { zipObject } from "lodash-es";
+
 export type Country = keyof typeof COUNTIES;
 
 export type CountyCode = {
@@ -569,6 +571,19 @@ export const COUNTIES = {
 } as const;
 
 export const COUNTRIES = Object.keys(COUNTIES) as Country[];
+
+const colorList = [
+	"#5470c6",
+	"#91cc75",
+	"#fac858",
+	"#ee6666",
+	"#73c0de",
+	"#3ba272",
+	"#fc8452",
+	"#9a60b4",
+];
+
+export const countryColorMap = zipObject(COUNTRIES, colorList);
 
 export const findCountry = (county: CountyCode): Country | undefined => {
 	const country = Object.entries(COUNTIES).find(([_, counties]) =>
