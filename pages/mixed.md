@@ -6,7 +6,7 @@ fullWidth: true
 import { ref, computed } from 'vue'
 import Listbox from '@/theme/Listbox.vue'
 import Table from '@/theme/Table.vue'
-import { groupBy } from 'lodash'
+import { groupBy } from 'lodash-es'
 
 import { data as results, type Result } from "@/results.data";
 import { createColumnHelper } from '@tanstack/vue-table';
