@@ -28,6 +28,7 @@ export default defineConfigWithTheme<ThemeConfig>({
 			{ text: "Mixed", link: "/mixed" },
 			{ text: "Countries", link: "/countries" },
 			{ text: "Regions", link: "/regions" },
+			{ text: "UBN", link: "/ubn" },
 		],
 	},
 	head: [
