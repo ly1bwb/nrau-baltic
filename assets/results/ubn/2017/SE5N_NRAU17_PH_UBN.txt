@@ -1,0 +1,92 @@
+     Call: SE5N
+ Operator: SM5ISM
+ Category: Single Op                      Band   QSO  Points  Mults
+ Power: HIGH                              40m     45      88     29
+     Name: Lars Parnesten                 80m     36      70     28
+  Address: Larssonvagen 7                 Sum     81     158     57
+  Address: Eskilstuna,   63508            Total: 9006
+  Address: SWEDEN
+
+
+
+ 3775 PH  0640 SE5N       59    1 YL3FT      59   13 OE OE 2
+ 3769 PH  0642 SE5N       59    2 YL1A       59   16 RR    0  Call/YL1S
+ 3766 PH  0643 SE5N       59    3 LY4L       59   26 KM KM 2
+ 3763 PH  0644 SE5N       59    4 OF3P       59    8 PM PM 2
+ 3754 PH  0645 SE5N       59    5 YL2SM      59   27 AU AU 2
+ 3748 PH  0645 SE5N       59    6 YL2BJ      59   34 VR VR 2
+ 3744 PH  0646 SE5N       59    7 OF8L       59   16 PP PP 2
+ 3741 PH  0647 SE5N       59    8 LY5O       59   30 KM    2
+ 3735 PH  0649 SE5N       59    9 ES6QC      59   28 VO VO 2
+ 3724 PH  0650 SE5N       59   10 LY2SA      59   36 MM MM 2
+ 3715 PH  0652 SE5N       59   11 OH7A       59   35 PK PK 2
+ 3707 PH  0653 SE5N       59   12 ES2MC      59   53 HR HR 2
+ 3703 PH  0654 SE5N       59   13 YL2VW      59   48 RR RR 2
+ 3700 PH  0655 SE5N       59   14 OZ11A      59   16 NJ NJ 2
+ 3720 PH  0656 SE5N       59   15 YL2KF      59   46 LM LM 2
+ 3729 PH  0657 SE5N       59   16 YL9T       59   50 VK VK 2
+ 3727 PH  0658 SE5N       59   17 OF1F       59   34 SA SA 2
+ 3751 PH  0659 SE5N       59   18 OH3Z       59   35 VA VA 2
+ 3762 PH  0702 SE5N       59   19 LY2J       59   39 MM    2
+ 3759 PH  0703 SE5N       59   20 OH2PM      59   55 VA    2
+ 3771 PH  0704 SE5N       59   21 YL2PJ      59   47 RE RE 2
+ 3738 PH  0705 SE5N       59   22 OZ8PG      59   39 FB FB 2
+ 3718 PH  0705 SE5N       59   23 OZ7X       59   49 AH AH 2
+ 3703 PH  0706 SE5N       59   24 LY5W       59   40 KN KN 2
+ 3643 PH  0709 SE5N       59   25 OF1Z       59   52 VA    2
+ 3628 PH  0711 SE5N       59   26 ES5QA      59   58 JG JG 2
+ 3647 PH  0713 SE5N       59   27 LY2TS      59   46 TI TI 2
+ 3709 PH  0715 SE5N       59   28 LY6A       59   72 KN    2
+ 3747 PH  0718 SE5N       59   29 LB1AH      59   36 HO HO 2
+ 3757 PH  0719 SE5N       59   30 ES4NY      59   39 IV IV 2
+ 3762 PH  0720 SE5N       59   31 ES2EZ      59   74 HR    2
+ 3768 PH  0722 SE5N       59   32 SA1CCQ     59   43 GO GO 2
+ 3765 PH  0723 SE5N       59   33 LY4A       59   99 SU SU 2
+ 3723 PH  0725 SE5N       59   34 OH8NW      59   80 VA    2
+ 3705 PH  0727 SE5N       59   35 LY2BAW     59   81 VV VV 2
+ 3707 PH  0728 SE5N       59   36 ES7GM      59  108 VP VP 2
+ 7089 PH  0734 SE5N       59   37 ES6RW      59  115 VO VO 2
+ 7100 PH  0734 SE5N       59   38 ES7GM      59  120 VP VP 2
+ 7062 PH  0736 SE5N       59   39 LY6A       59   91 KN KN 2
+ 7060 PH  0737 SE5N       59   40 ES6QC      59   82 VO    2
+ 7133 PH  0739 SE5N       59   41 OH7A       59   91 PK PK 2
+ 7140 PH  0740 SE5N       59   42 YL2GD      59  105 AU AU 2
+ 7150 PH  0741 SE5N       59   43 LY3BN      59   87 KN    2
+ 7173 PH  0742 SE5N       59   44 LY4A       59  125 SU SU 2
+ 7187 PH  0743 SE5N       59   45 YL2KO      59   95 AU    2
+ 7155 PH  0747 SE5N       59   46 LY5W       59   79 KN    2
+ 7151 PH  0747 SE5N       59   47 LY2J       59   71 MM MM 2
+ 7144 PH  0748 SE5N       59   48 OZ7X       59  108 AH AH 2
+ 7175 PH  0750 SE5N       59   49 LY4L       59  111 KM KM 2
+ 7184 PH  0751 SE5N       59   50 LY9Y       59   76 SU    2
+ 7184 PH  0752 SE5N       59   51 OH7JL      59   60 PK    2
+ 7184 PH  0753 SE5N       59   52 ES6RMR     59   53 VC VC 2
+ 7184 PH  0754 SE5N       59   53 YL9T       59  118 VK VK 2
+ 7168 PH  0758 SE5N       59   54 ES6PA      59   74 VO    2
+ 7095 PH  0800 SE5N       59   55 LY2BAW     59  120 VV VV 2
+ 7181 PH  0801 SE5N       59   56 OZ8PG      59  101 FB FB 2
+ 7183 PH  0802 SE5N       59   57 OZ11A      59   79 NJ NJ 2
+ 7193 PH  0803 SE5N       59   58 YL3FT      59  122 OE OE 2
+ 7136 PH  0809 SE5N       59   59 LY2NY      59   76 KN    2
+ 7136 PH  0810 SE5N       59   60 YL2PJ      59  112 RE RE 2
+ 7136 PH  0811 SE5N       59   61 LY3B       59   86 PA PA 2
+ 7136 PH  0811 SE5N       59   62 LY4K       59   68 KM    2
+ 7136 PH  0812 SE5N       59   63 LY2ZO      59   74 KM    2
+ 7136 PH  0812 SE5N       59   64 LY3CY      59   70 VU VU 2
+ 7136 PH  0812 SE5N       59   65 OF8UV      59   52 KU KU 2
+ 7136 PH  0814 SE5N       59   66 LY2BOK     59   49 AT AT 2
+ 7136 PH  0815 SE5N       59   67 ES5QA      59  133 JG JG 2
+ 7136 PH  0815 SE5N       59   68 LY1CO      59   70 KN    2
+ 7136 PH  0816 SE5N       59   69 YL7A       59  118 VK    2
+ 7136 PH  0816 SE5N       59   70 YL2VW      59  134 RR RR 2
+ 7136 PH  0817 SE5N       59   71 OZ0AP      59   35 SS SS 2
+ 7136 PH  0817 SE5N       59   72 YL3IR      59   42 GU GU 2
+ 7136 PH  0818 SE5N       59   73 ES5TF      59   63 TA TA 2
+ 7136 PH  0819 SE5N       59   74 LY2TS      59   97 TI TI 2
+ 7136 PH  0820 SE5N       59   75 ES5JR      59   59 SN    1  Mult/TA
+ 7136 PH  0821 SE5N       59   76 YL3GAO     59   76 DO DO 1  Nr/59
+ 7136 PH  0822 SE5N       59   77 LY2SA      59  136 MM    2
+ 7136 PH  0823 SE5N       59   78 YL2BJ      59  134 VR VR 2
+ 7136 PH  0824 SE5N       59   79 ES4NY      59   75 IV IV 2
+ 7140 PH  0826 SE5N       59   80 OZ9VA      59   86 FB    2
+ 7183 PH  0828 SE5N       59   81 YL2SM      59  165 AU    2

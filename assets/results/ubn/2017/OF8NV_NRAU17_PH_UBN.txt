@@ -1,0 +1,60 @@
+     Call: OF8NV
+ Operator: OH8NV
+ Category: Single Op                      Band   QSO  Points  Mults
+ Power: LOW                               40m     15      28     11
+     Name: KALEVI KÄÄR                    80m     34      57     26
+  Address: NORRMINNEVÄGEN 50              Sum     49      85     37
+  Address: FI-66540 PETSMO                Total: 3145
+  Address: FINLAND
+
+
+
+ 3500 PH  0630 OF8NV      59    1 YL2BJ      59    1 VR VR 2
+ 3500 PH  0631 OF8NV      59    2 ES4NY      59    1 IV IV 2
+ 3500 PH  0633 OF8NV      59    3 OH7A       59    8 PK PK 2
+ 3500 PH  0635 OF8NV      59    4 YL2GD      59   10 AU AU 2
+ 3500 PH  0638 OF8NV      59    5 YL1T       59   10 VK    0  Call/YL9T
+ 3500 PH  0646 OF8NV      59    6 ES2MC      59   33 HR HR 2
+ 3500 PH  0648 OF8NV      59    7 OZ8PG      59   16 FB FB 2
+ 3500 PH  0650 OF8NV      59    8 LY5O       59   33 KM KM 2
+ 3500 PH  0652 OF8NV      59    9 LY2SA      59   39 MM MM 2
+ 3500 PH  0656 OF8NV      59   10 YL7A       59   41 VK VK 2
+ 3500 PH  0658 OF8NV      59   11 ES1BH      59   17 TL TL 2
+ 3500 PH  0659 OF8NV      59   12 OF6MW      59   46 KT KT 2
+ 3500 PH  0700 OF8NV      59   13 OH8NW      59   48 VA VA 2
+ 3500 PH  0703 OF8NV      59   14 ES7GM      59   66 VV    0  NotinLog
+ 3500 PH  0705 OF8NV      59   15 ES5QA      59   27 VM    0  Nr/46 Mult/JG
+ 3500 PH  0706 OF8NV      59   16 OF1Z       59   45 VA    2
+ 3500 PH  0707 OF8NV      59   17 LY2BAW     59   66 VV VV 2
+ 3500 PH  0709 OF8NV      59   18 SM5ACQ     59   27 VM VM 2
+ 3500 PH  0711 OF8NV      59   19 8S0C       59   78 AU    0  Nr/27 Mult/SL
+ 3500 PH  0714 OF8NV      59   20 SE5L       59   26 VM    2
+ 3500 PH  0716 OF8NV      59   21 LY2SM      59   78 AU    0  Call/YL2SM
+ 3500 PH  0717 OF8NV      59   22 OZ7X       59   62 AH AH 2
+ 3500 PH  0718 OF8NV      59   23 OF1F       59   75 SA SA 2
+ 3500 PH  0721 OF8NV      59   24 ES6RW      59  100 VO VO 2
+ 3500 PH  0724 OF8NV      59   25 OH6RE      59   76 KE KE 1  Nr/73
+ 3500 PH  0726 OF8NV      59   26 OH3Z       59   89 VA    2
+ 3500 PH  0726 OF8NV      59   27 OF8L       59   57 PP PP 2
+ 3500 PH  0731 OF8NV      59   28 LB1AH      59   54 HO HO 2
+ 3500 PH  0733 OF8NV      59   29 OZ11A      59   33 NJ NJ 2
+ 3500 PH  0734 OF8NV      59   30 OH2KW      59   56 UU UU 2
+ 3500 PH  0736 OF8NV      59   31 LA2XNA     59   34 AK AK 2
+ 3500 PH  0738 OF8NV      59   32 OF0RJ      59   42 AL AL 2
+ 3500 PH  0739 OF8NV      59   33 ES5JR      59   44 TA TA 2
+ 7000 PH  0741 OF8NV      59   34 LY6A       59  101 KN KN 2
+ 7000 PH  0742 OF8NV      59   35 LY2SA      59   90 MM MM 2
+ 7000 PH  0744 OF8NV      59   36 ES6RW      59   34 VO VO 1  Nr/134
+ 7000 PH  0745 OF8NV      59   37 ES6QC      59   91 VO    2
+ 7000 PH  0749 OF8NV      59   38 YL2SM      59  120 AU AU 2
+ 7000 PH  0750 OF8NV      59   39 YL2VW      59  111 RR RR 2
+ 7000 PH  0752 OF8NV      59   40 LY2BAW     59  107 VV VV 2
+ 7000 PH  0754 OF8NV      59   41 LY1SR      59   81 KM KM 2
+ 7000 PH  0756 OF8NV      59   42 YL2GD      59  122 AU    2
+ 7000 PH  0758 OF8NV      59   43 LY7M       59   77 UT UT 2
+ 7000 PH  0800 OF8NV      59   44 LA5UF      59   48 VF VF 2
+ 7000 PH  0802 OF8NV      59   45 YL1S       59   96 RR    2
+ 7000 PH  0807 OF8NV      59   46 YL2KO      59  128 AU    2
+ 7000 PH  0808 OF8NV      59   47 YL9T       59  129 VK VK 2
+ 7000 PH  0815 OF8NV      59   48 YL3FT      59  133 OE OE 1  Nr/134
+ 3500 PH  0828 OF8NV      59   49 YL100ZK    59   71 RR RR 2

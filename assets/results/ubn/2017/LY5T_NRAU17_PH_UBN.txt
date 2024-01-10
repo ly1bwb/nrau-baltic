@@ -1,0 +1,97 @@
+     Call: LY5T
+ Operator:
+ Category: CheckLog                       Band   QSO  Points  Mults
+ Power: LOW                               40m     36      69     23
+     Name: Vytenis Sciucka                80m     50      98     36
+  Address: Sudvaju 24-24                  Sum     86     167     59
+  Address: Alytus, LT 63281               Total: 9853
+  Address: LITHUANIA
+
+
+
+ 3646 PH  0637 LY5T       59    1 LY2BAW     59    8 VV VV 2
+ 3649 PH  0638 LY5T       59    2 ES6RW      59   17 VO VO 2
+ 3652 PH  0638 LY5T       59    3 LY2NY      59   12 KN KN 2
+ 3601 PH  0640 LY5T       59    4 LY4Q       59   15 VU VU 2
+ 3611 PH  0642 LY5T       59    5 ES7GM      59   29 VP VP 2
+ 3614 PH  0643 LY5T       59    6 LY2MM      59   23 KM KM 2
+ 3617 PH  0644 LY5T       59    7 LY2PBV     59   12 MM MM 1  RST
+ 3630 PH  0647 LY5T       59    8 LY6A       59   36 KN    2
+ 3619 PH  0647 LY5T       59    9 OF6MW      59   27 KT KT 2
+ 3621 PH  0648 LY5T       59   10 SK2T       59    8 VB VB 2
+ 3625 PH  0649 LY5T       59   11 LY4A       59   46 SU SU 2
+ 3622 PH  0650 LY5T       59   12 LY1CT      59   17 KD KD 2
+ 3643 PH  0652 LY5T       59   13 LY2CO      59   47 TI TI 2
+ 3701 PH  0653 LY5T       59   14 SE5L       59   15 VM VM 2
+ 3703 PH  0654 LY5T       59   15 YL2VW      59   49 RR RR 2
+ 3707 PH  0655 LY5T       59   16 ES2MC      59   56 HR HR 2
+ 3715 PH  0657 LY5T       59   17 OH7A       59   42 PK PK 2
+ 3724 PH  0659 LY5T       59   18 YL2KO      59   44 AU AU 2
+ 3724 PH  0700 LY5T       59   19 8S0C       59   17 SL SL 2
+ 3724 PH  0701 LY5T       59   20 OF3P       59   23 PM PM 2
+ 3724 PH  0701 LY5T       59   21 LY9Y       59   38 SU    2
+ 3775 PH  0704 LY5T       59   22 YL3FT      59   55 OE OE 2
+ 3720 PH  0705 LY5T       59   23 YL2KF      59   62 LM LM 2
+ 3724 PH  0706 LY5T       59   24 YL2BJ      59   74 VR VR 2
+ 3724 PH  0707 LY5T       59   25 LY4LA      59   30 KD    2
+ 3771 PH  0708 LY5T       59   26 YL2PJ      59   57 RE RE 2
+ 3729 PH  0709 LY5T       59   27 YL9T       59   72 VK VK 2
+ 3751 PH  0710 LY5T       59   28 OH3Z       59   60 VA VA 2
+ 3742 PH  0711 LY5T       59   29 OH6RE      59   52 KE KE 2
+ 3724 PH  0712 LY5T       59   30 LY2IJ      59    6 UT UT 2
+ 3724 PH  0713 LY5T       59   31 SM6IQD     59   18 VD VD 2
+ 3724 PH  0714 LY5T       59   32 ES5TF      59   35 TA TA 2
+ 3724 PH  0714 LY5T       59   33 LY3BN      59   65 KN    2
+ 3724 PH  0714 LY5T       59   34 LY2J       59   48 MM    2
+ 3724 PH  0715 LY5T       59   35 LY5P       59   20 SI SI 2
+ 3724 PH  0715 LY5T       59   36 LY4K       59   32 KM    2
+ 3724 PH  0716 LY5T       59   37 LY4L       59   72 KN    1  Mult/KM
+ 3724 PH  0716 LY5T       59   38 SE4E       59   41 DA DA 2
+ 3724 PH  0716 LY5T       59   39 LY3CY      59   40 VU    2
+ 3724 PH  0717 LY5T       59   40 YL2GD      59   85 AU    2
+ 3724 PH  0719 LY5T       59   41 SE5E       59   25 UP UP 2
+ 3729 PH  0722 LY5T       59   42 ES1BH      59   53 TL TL 2
+ 3718 PH  0723 LY5T       59   43 OZ7X       59   72 AH AH 2
+ 3757 PH  0723 LY5T       59   44 ES4NY      59   45 IV IV 2
+ 3616 PH  0724 LY5T       59   45 LY1CO      59   50 KN    2
+ 3762 PH  0725 LY5T       59   46 ES2EZ      59   80 HR    2
+ 3702 PH  0727 LY5T       59   47 YL7A       59   82 VK    2
+ 3613 PH  0729 LY5T       59   48 ES5QA      59   84 JG JG 2
+ 3744 PH  0730 LY5T       59   49 LY5W       59   67 KN    2
+ 3609 PH  0732 LY5T       59   50 LY7M       59   49 UT    2
+ 7070 PH  0733 LY5T       59   51 ES2MC      59  101 HR HR 2
+ 7158 PH  0736 LY5T       59   52 OF1F       59   94 SA SA 2
+ 7173 PH  0737 LY5T       59   53 LY4A       59  118 SU SU 2
+ 7170 PH  0738 LY5T       59   54 OH6RE      59   84 KE KE 2
+ 7170 PH  0739 LY5T       59   55 ES1TU      59   64 TL TL 2
+ 7170 PH  0739 LY5T       59   56 OF8L       59   73 PP PP 2
+ 7170 PH  0741 LY5T       59   57 OH8NW      59   97 VA VA 2
+ 7170 PH  0741 LY5T       59   58 OH3JP      59   49 KT KT 2
+ 7170 PH  0742 LY5T       59   59 OZ9VA      59   37 FB FB 2
+ 7068 PH  0747 LY5T       59   60 SE4E       59   67 DA DA 2
+ 7072 PH  0749 LY5T       59   61 ES3BM      59   47 RP RP 2
+ 7073 PH  0749 LY5T       59   62 OH3Z       59  125 VA    2
+ 7082 PH  0750 LY5T       59   63 ES5QA      59  108 JG JG 2
+ 7172 PH  0751 LY5T       59   64 8S0C       59   75 SL SL 2
+ 7179 PH  0752 LY5T       59   65 LB1AH      59   78 HO HO 2
+ 7181 PH  0752 LY5T       59   66 OZ8PG      59   82 FB    2
+ 7170 PH  0754 LY5T       59   67 OF2KM      59   68 UU UU 2
+ 7170 PH  0756 LY5T       59   68 OF3R       59   36 PH PH 2
+ 7170 PH  0756 LY5T       59   69 OF1LAR     59   21 VA    2
+ 7170 PH  0757 LY5T       59   70 OH3RT      59   18 PH    2
+ 7170 PH  0757 LY5T       59   71 ES1QD      59   58 TL    2
+ 7170 PH  0758 LY5T       59   72 ES2IPA     59   48 HR    2
+ 7085 PH  0800 LY5T       59   73 LY2MM      59  102 KM KM 2
+ 7133 PH  0802 LY5T       59   74 OH7A       59  131 PK PK 2
+ 7089 PH  0803 LY5T       59   75 ES6RW      59  164 VO VO 2
+ 7175 PH  0807 LY5T       59   76 OF1Z       59  105 VA    2
+ 7175 PH  0808 LY5T       59   77 LA2XNA     59   55 AK AK 2
+ 7175 PH  0808 LY5T       59   78 ES2EZ      59  123 HR    2
+ 7175 PH  0809 LY5T       59   79 OH2KW      59   84 UU    2
+ 7175 PH  0812 LY5T       59   80 OF0RJ      59   62 AL AL 1  Nr/61
+ 7175 PH  0815 LY5T       59   81 ES1CN      59   73 TL    2
+ 7175 PH  0816 LY5T       59   82 OH6ECM     59   64 PO PO 2
+ 7175 PH  0817 LY5T       59   83 LY2BOK     59   51 AT AT 2
+ 7175 PH  0818 LY5T       59   84 ES6PA      59   92 VO    2
+ 7175 PH  0821 LY5T       59   85 OF1TD      59   73 SA    2
+ 7085 PH  0830 LY5T       59   86 LA5UF      59   73 VF    0 Time

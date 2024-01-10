@@ -1,0 +1,85 @@
+     Call: SD6M
+ Operator: SA6BGR
+ Category: Single Op                      Band   QSO  Points  Mults
+ Power: LOW                               40m     44      84     28
+     Name: Per-Eric Säwerström            80m     31      57     24
+  Address: Bergavägen 22                  Sum     75     141     52
+  Address: SE-43735 Lindome               Total: 7332
+
+
+
+ 3609 PH  0633 SD6M       59    1 ES2ES      59    8 HR    0  Call/ES2EZ
+ 3618 PH  0636 SD6M       59    2 OF6MW      59   13 KT KT 2
+ 3625 PH  0638 SD6M       59    3 LY4A       59   20 SU    0  NotinLog
+ 3643 PH  0647 SD6M       59    4 LY2CO      59   34 TI TI 2
+ 3720 PH  0650 SD6M       59    5 YL2KF      59   32 LM LM 2
+ 3727 PH  0651 SD6M       59    6 OF1F       59   21 SA SA 2
+ 3759 PH  0653 SD6M       59    7 OH2PM      59   39 VA VA 2
+ 3775 PH  0654 SD6M       59    8 YL3FT      59   35 OE OE 1  Nr/36
+ 3715 PH  0656 SD6M       59    9 OH7A       59   41 PK PK 2
+ 3643 PH  0702 SD6M       59   10 OF1Z       59   36 VA    2
+ 3646 PH  0704 SD6M       59   11 LY2BAW     59   64 VV VV 2
+ 3707 PH  0706 SD6M       59   12 ES7GM      59   72 VP VP 2
+ 3742 PH  0708 SD6M       59   13 OH6RE      59   46 KE KE 2
+ 3754 PH  0709 SD6M       59   14 LY4L       59   67 KM KM 2
+ 3702 PH  0714 SD6M       59   15 YL2SM      59   73 AU AU 2
+ 3709 PH  0716 SD6M       59   16 LY6A       59   73 KN KN 2
+ 3718 PH  0717 SD6M       59   17 OZ7X       59   63 AH AH 2
+ 3740 PH  0719 SD6M       59   18 LY5O       59   76 KM    2
+ 3721 PH  0721 SD6M       59   19 SE5L       59   30 VM VM 2
+ 3744 PH  0725 SD6M       59   20 OZ8PG      59   53 FB FB 2
+ 3744 PH  0725 SD6M       59   21 ES2MC      59   96 HR HR 2
+ 3744 PH  0726 SD6M       59   22 LY5W       59   59 KN    2
+ 3748 PH  0728 SD6M       59   23 LY2TS      59   61 TI    2
+ 3748 PH  0729 SD6M       59   24 YL2BJ      59   95 VR VR 2
+ 3738 PH  0731 SD6M       59   25 OZ4NA      59   38 NJ NJ 2
+ 3738 PH  0733 SD6M       59   26 LA8FTA     59   22 AK AK 2
+ 3738 PH  0734 SD6M       59   27 LY9Y       59   61 SU SU 2
+ 3738 PH  0735 SD6M       59   28 OZ7SG      59   22 NJ    2
+ 3738 PH  0735 SD6M       59   29 SM6IQD     59   29 VD VD 2
+ 3738 PH  0736 SD6M       59   30 YL2PJ      59   84 RE RE 2
+ 3708 PH  0741 SD6M       59   31 SE4E       59   62 DA DA 2
+ 7073 PH  0743 SD6M       59   32 OH3Z       59  113 VA VA 2
+ 7082 PH  0746 SD6M       59   33 ES5QA      59  100 JG JG 2
+ 7086 PH  0746 SD6M       59   34 LY2SA      59   98 MM MM 2
+ 7089 PH  0747 SD6M       59   35 ES6RW      59  143 VO VO 2
+ 7095 PH  0748 SD6M       59   36 LY2BAW     59  100 VV VV 2
+ 7100 PH  0749 SD6M       59   37 ES7GM      59  151 VP VP 2
+ 7149 PH  0750 SD6M       59   38 LY3BN      59  102 KN KN 2
+ 7175 PH  0751 SD6M       59   39 LY4L       59  116 KM KM 2
+ 7186 PH  0752 SD6M       59   40 OH2PM      59   95 VA    2
+ 7195 PH  0753 SD6M       59   41 OF5MW      59   92 KT    0  Call/OF6MW
+ 7135 PH  0754 SD6M       59   42 ES1O       59   32 TL TL 2
+ 7135 PH  0754 SD6M       59   43 OF2J       59   34 UU UU 2
+ 7135 PH  0755 SD6M       59   44 SA1CCQ     59   68 GO GO 2
+ 7137 PH  0757 SD6M       59   45 ES2EZ      59  115 HR HR 2
+ 7137 PH  0758 SD6M       59   46 ES1TU      59   81 TL    2
+ 7137 PH  0758 SD6M       59   47 OH6ECM     59   54 PO PO 2
+ 7137 PH  0759 SD6M       59   48 LY2N       59   18 KM    2
+ 7137 PH  0801 SD6M       59   49 ES6RMR     59   57 VC VC 2
+ 7102 PH  0804 SD6M       59   50 8S0C       59   88 SL SL 2
+ 7092 PH  0805 SD6M       59   51 SE5L       59   59 VM VM 2
+ 7086 PH  0809 SD6M       59   52 LY3B       59   84 PA PA 2
+ 7086 PH  0810 SD6M       59   53 ES0DJ      59   36 SR SR 2
+ 7086 PH  0811 SD6M       59   54 OH3JP      59   66 KT KT 2
+ 7086 PH  0812 SD6M       59   55 SE4E       59   90 DA DA 2
+ 7086 PH  0813 SD6M       59   56 LY6A       59  145 KN    2
+ 7086 PH  0814 SD6M       59   57 LY2NY      59   80 KN    2
+ 7086 PH  0817 SD6M       59   58 ES6QC      59  113 VO    2
+ 7086 PH  0817 SD6M       59   59 OF8L       59  122 PP PP 2
+ 7086 PH  0819 SD6M       59   60 ES1BH      59   91 TL    2
+ 7086 PH  0820 SD6M       59   61 LY2CO      59  122 TI TI 2
+ 7086 PH  0820 SD6M       59   62 ES2O       59   66 HR    2
+ 7086 PH  0821 SD6M       59   63 ES2IPA     59   57 HR    2
+ 7086 PH  0822 SD6M       59   64 LY2TS      59   99 TI    2
+ 7086 PH  0822 SD6M       59   65 LY2J       59   87 MM    2
+ 7086 PH  0824 SD6M       59   66 OH6RE      59  139 KE KE 2
+ 7086 PH  0825 SD6M       59   67 YL2KO      59  154 AU AU 2
+ 7086 PH  0825 SD6M       59   68 YL1S       59  113 RR RR 2
+ 7086 PH  0827 SD6M       59   69 LY2ZO      59   83 KM    2
+ 7086 PH  0828 SD6M       59   70 YL2PJ      59  127 RE RE 2
+ 7086 PH  0828 SD6M       59   71 OH3LS      59   70 PM PM 2
+ 7086 PH  0828 SD6M       59   72 YL3FT      59  151 OE OE 2
+ 7086 PH  0829 SD6M       59   73 OH2KW      59  100 UU    2
+ 7086 PH  0829 SD6M       59   74 LY2MM      59  133 KM    2
+ 7086 PH  0830 SD6M       59   75 LY4A       59  185 SU    0 Time

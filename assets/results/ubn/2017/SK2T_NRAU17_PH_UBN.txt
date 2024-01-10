@@ -1,0 +1,106 @@
+     Call: SK2T
+ Operator: SM2MTR
+ Category: Single Op                      Band   QSO  Points  Mults
+ Power: HIGH                              40m     47      84     30
+     Name: FURA                           80m     49      97     36
+  Address: UME?, AC 90321                 Sum     96     181     66
+  Address: SWEDEN                         Total: 11946
+
+
+
+ 3638 PH  0631 SK2T       59    1 YL7A       59    3 VK VK 2
+ 3649 PH  0633 SK2T       59    2 ES6RW      59    9 VO VO 2
+ 3643 PH  0635 SK2T       59    3 LY2CO      59   12 TI TI 2
+ 3633 PH  0637 SK2T       59    4 ES5QA      59   12 JG JG 2
+ 3625 PH  0640 SK2T       59    5 LY4A       59   28 SU SU 2
+ 3623 PH  0642 SK2T       59    6 OH3Z       59   14 VA VA 2
+ 3621 PH  0645 SK2T       59    7 OF1Z       59   11 VA    2
+ 3621 PH  0648 SK2T       59    8 LY5T       59   10 AT AT 2
+ 3621 PH  0650 SK2T       59    9 OH3LS      59   19 PM PM 2
+ 3621 PH  0653 SK2T       59   10 ES1BH      59    4 TL TL 2
+ 3621 PH  0653 SK2T       59   11 ES7GM      59   53 VP VP 2
+ 3621 PH  0654 SK2T       59   12 OH6RE      59   29 KE KE 2
+ 3621 PH  0655 SK2T       59   13 OH3JP      59   19 KT KT 2
+ 3621 PH  0656 SK2T       59   14 LY2MM      59   42 KM KM 2
+ 3621 PH  0656 SK2T       59   15 OF2KM      59   27 UU UU 2
+ 3621 PH  0657 SK2T       59   16 OZ4NA      59   17 NJ NJ 2
+ 3621 PH  0658 SK2T       59   17 ES1CN      59   26 TL    2
+ 3707 PH  0659 SK2T       59   18 ES2MC      59   65 HR HR 2
+ 3703 PH  0700 SK2T       59   19 LY5W       59   35 KN KN 2
+ 3715 PH  0701 SK2T       59   20 OH7A       59   50 PK PK 2
+ 3601 PH  0703 SK2T       59   21 LY4Q       59   45 VU VU 1  Nr/49
+ 3621 PH  0704 SK2T       59   22 OF8L       59   40 PP PP 2
+ 3621 PH  0705 SK2T       59   23 YL2VW      59   63 RR RR 2
+ 3621 PH  0705 SK2T       59   24 LY4L       59   60 KM    2
+ 3621 PH  0706 SK2T       59   25 OZ9VA      59   22 FB FB 2
+ 3621 PH  0706 SK2T       59   26 ES1TU      59   42 TL    2
+ 3621 PH  0707 SK2T       59   27 SE4E       59   33 DA DA 2
+ 3762 PH  0709 SK2T       59   28 YL2KO      59   58 AU AU 2
+ 3729 PH  0710 SK2T       59   29 YL9T       59   73 VK    2
+ 3720 PH  0710 SK2T       59   30 YL2KF      59   68 LM LM 2
+ 3735 PH  0712 SK2T       59   31 ES6QC      59   64 VO    2
+ 3619 PH  0715 SK2T       59   32 OF6MW      59   59 KT    2
+ 3621 PH  0716 SK2T       59   33 ES2IPA     59   30 HR    2
+ 3621 PH  0717 SK2T       59   34 ES1QD      59   36 TL    2
+ 3621 PH  0718 SK2T       59   35 OF3R       59   22 PH PH 2
+ 3621 PH  0719 SK2T       59   36 YL2BJ      59   89 VR VR 2
+ 3621 PH  0720 SK2T       59   37 LY3B       59   46 PA PA 2
+ 3621 PH  0721 SK2T       59   38 OZ0AP      59   16 SS SS 2
+ 3614 PH  0723 SK2T       59   39 LA5UF      59   26 VF VF 2
+ 3718 PH  0725 SK2T       59   40 OZ7X       59   78 AH AH 2
+ 3748 PH  0726 SK2T       59   41 LB1AH      59   48 HO HO 2
+ 3757 PH  0727 SK2T       59   42 ES4NY      59   53 IV IV 2
+ 3762 PH  0728 SK2T       59   43 ES2EZ      59   86 HR    2
+ 3775 PH  0730 SK2T       59   44 YL3FT      59   90 OE OE 2
+ 3770 PH  0730 SK2T       59   45 OF3P       59   49 PM    2
+ 3712 PH  0731 SK2T       59   46 YL2SM      59   94 AU    2
+ 3709 PH  0732 SK2T       59   47 OH2KW      59   55 UU    2
+ 3701 PH  0734 SK2T       59   48 LA2XNA     59   32 AK AK 2
+ 3767 PH  0735 SK2T       59   49 SE5E       59   42 UP UP 2
+ 7075 PH  0738 SK2T       59   50 ES1BH      59   71 TL TL 2
+ 7072 PH  0739 SK2T       59   51 ES2O       59   47 HR HR 2
+ 7063 PH  0739 SK2T       59   52 LY6A       59  100 KN KN 2
+ 7061 PH  0741 SK2T       59   53 LY9T       59  106 VK    0  Call/YL9T
+ 7060 PH  0741 SK2T       59   54 ES6QC      59   87 VO VO 2
+ 7150 PH  0743 SK2T       59   55 LY3BN      59   95 KN    2
+ 7144 PH  0744 SK2T       59   56 OZ7X       59  100 AH AH 2
+ 7158 PH  0745 SK2T       59   57 OF1F       59  111 SA SA 2
+ 7160 PH  0747 SK2T       59   58 YL2PJ      59   95 RE RE 2
+ 7160 PH  0748 SK2T       59   59 OZ6ARC     59   36 SJ SJ 2
+ 7160 PH  0749 SK2T       59   60 ES5UR      59   48 TA    0  Call/ES5JR
+ 7160 PH  0750 SK2T       59   61 ES6RMR     59   52 VC VC 2
+ 7160 PH  0750 SK2T       59   62 YL7A       59  103 VK VK 2
+ 7160 PH  0751 SK2T       59   63 YL2GD      59  117 AU AU 2
+ 7160 PH  0751 SK2T       59   64 ES5TF      59   52 TA TA 2
+ 7160 PH  0752 SK2T       59   65 LA9PTA     59   20 OF OF 2
+ 7160 PH  0753 SK2T       59   66 YL2VW      59  113 RR RR 2
+ 7160 PH  0754 SK2T       59   67 OZ9VA      59   44 FB FB 2
+ 7160 PH  0754 SK2T       59   68 YL2KO      59  110 AU    2
+ 7160 PH  0755 SK2T       59   69 LY4A       59  150 SU SU 2
+ 7160 PH  0755 SK2T       59   70 ES6PA      59   73 VO    2
+ 7181 PH  0800 SK2T       59   71 OZ8PG      59   98 FB    2
+ 7183 PH  0801 SK2T       59   72 OZ11A      59   77 NJ NJ 2
+ 7185 PH  0803 SK2T       59   73 SE4E       59   84 DA DA 2
+ 7185 PH  0804 SK2T       59   74 LY9Y       59   88 SU    2
+ 7185 PH  0805 SK2T       59   75 LY2NY      59   73 KN    2
+ 7185 PH  0805 SK2T       59   76 LY3IZ      59   42 UT UT 2
+ 7185 PH  0807 SK2T       59   77 YL1S       59  101 RR    2
+ 7085 PH  0807 SK2T       59   78 LY2MM      59  108 KM KM 2
+ 7095 PH  0808 SK2T       59   79 LY2BAW     59  127 VV VV 2
+ 7100 PH  0809 SK2T       59   80 ES7GM      59  175 VP VP 2
+ 7082 PH  0809 SK2T       59   81 SM5ACQ     59   68 VM VM 2
+ 7186 PH  0811 SK2T       59   82 LY2SA      59  124 MM MM 2
+ 7186 PH  0811 SK2T       59   83 LY5W       59  107 KN    2
+ 7186 PH  0812 SK2T       59   84 LY2TS      59   93 TI TI 2
+ 7186 PH  0813 SK2T       59   85 OZ1KKH     59   45 AH    2
+ 7186 PH  0814 SK2T       59   86 LY2N       59   27 KM    2
+ 7179 PH  0817 SK2T       59   87 LB1AH      59  109 HO HO 2
+ 7199 PH  0819 SK2T       59   88 SE5E       59   91 UP UP 2
+ 7194 PH  0821 SK2T       59   89 YL2KF      59  111 LM LM 2
+ 7191 PH  0825 SK2T       59   90 OH2PM      59  146 VA VA 2
+ 7194 PH  0826 SK2T       59   91 YL2BJ      59  137 VR VR 2
+ 7194 PH  0826 SK2T       59   92 ES1TU      59   95 TL    2
+ 7194 PH  0828 SK2T       59   93 LY2CO      59  124 TI    2
+ 7194 PH  0830 SK2T       59   94 LB4FH      59   42 RL    0  Time
+ 7194 PH  0830 SK2T       59   95 YL3GAO     59   61 DO    0  Time
+ 7194 PH  0830 SK2T       59   96 OH7UL      59   76 PK    0  Time Call/OH7JL

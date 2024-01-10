@@ -1,0 +1,39 @@
+     Call: OF1LAR
+ Operator:
+ Category: Single Op                      Band   QSO  Points  Mults
+ Power: HIGH                              40m     11      20     10
+     Name: MATTI SEULANTO                 80m     19      38     16
+  Address: KOUVOLANTIE 83                 Sum     30      58     26
+                                          Total: 1508
+
+
+ 3500 PH  0633 OF1LAR     59    1 ES6QC      59    4 VO VO 2
+ 3500 PH  0635 OF1LAR     59    2 LY5O       59    6 KM KM 2
+ 3500 PH  0636 OF1LAR     59    3 YL2BJ      59   14 VR VR 2
+ 3500 PH  0638 OF1LAR     59    4 YL2SM      59   15 AU AU 2
+ 3500 PH  0640 OF1LAR     59    5 OH2PM      59   20 VA VA 2
+ 3500 PH  0642 OF1LAR     59    6 OF3P       59    4 PM PM 2
+ 3500 PH  0643 OF1LAR     59    7 YL3FT      59   17 OE OE 2
+ 3500 PH  0646 OF1LAR     59    8 YL9T       59   24 VK VK 2
+ 3500 PH  0649 OF1LAR     59    9 YL2KF      59   27 LM LM 2
+ 3500 PH  0651 OF1LAR     59   10 YL2GD      59   43 AU    2
+ 3500 PH  0654 OF1LAR     59   11 ES2MC      59   52 HR HR 2
+ 3500 PH  0657 OF1LAR     59   12 OZ11A      59   17 NJ NJ 2
+ 3500 PH  0700 OF1LAR     59   13 ES6RW      59   71 VO    2
+ 3500 PH  0720 OF1LAR     59   14 ES5QA      59   71 JG JG 2
+ 3500 PH  0722 OF1LAR     59   15 ES3BM      59   37 RP RP 2
+ 3500 PH  0731 OF1LAR     59   16 ES7GM      59  112 VP VP 2
+ 3500 PH  0733 OF1LAR     59   17 OH2KW      59   53 UU UU 2
+ 3500 PH  0740 OF1LAR     59   18 OF0RJ      59   43 AL AL 2
+ 7000 PH  0751 OF1LAR     59   19 LY3BN      59  104 KN KN 2
+ 7000 PH  0755 OF1LAR     59   20 OZ6ARC     59   40 SJ SJ 2
+ 7000 PH  0757 OF1LAR     59   21 LY5T       59   69 AT AT 2
+ 7000 PH  0801 OF1LAR     59   22 LY5A       59  152 PN    0  Unique <10
+ 3500 PH  0806 OF1LAR     59   23 LY4MA      59   42 KM    2
+ 7000 PH  0813 OF1LAR     59   24 OZ9VA      59   67 FB FB 2
+ 7000 PH  0814 OF1LAR     59   25 OZ7X       59  159 AH AH 2
+ 7000 PH  0818 OF1LAR     59   26 YL2PJ      59  118 RE RE 2
+ 7000 PH  0821 OF1LAR     59   27 LB1AH      59  112 HO HO 2
+ 7000 PH  0825 OF1LAR     59   28 LY2IJ      59    9 UT UT 2
+ 7000 PH  0827 OF1LAR     59   29 LY2BAW     59  148 VV VV 2
+ 7000 PH  0829 OF1LAR     59   30 LA5UF      59   71 VF VF 2

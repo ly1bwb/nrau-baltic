@@ -1,0 +1,77 @@
+     Call: ES1QD
+ Operator:
+ Category: Single Op                      Band   QSO  Points  Mults
+ Power: LOW                               40m      9      17      8
+     Name: VELLO PRIIMANN                 80m     59     116     42
+  Address: P.O.BOX 3739                   Sum     68     133     50
+                                          Total: 6650
+
+
+ 3500 PH  0631 ES1QD      59    1 ES6RW      59    2 VO VO 2
+ 3500 PH  0632 ES1QD      59    2 LY2BAW     59    1 VV VV 2
+ 3500 PH  0633 ES1QD      59    3 YL9T       59    2 VK VK 2
+ 3500 PH  0635 ES1QD      59    4 ES5QA      59    8 JG JG 2
+ 3500 PH  0636 ES1QD      59    5 LY6A       59   19 KN KN 2
+ 3500 PH  0637 ES1QD      59    6 LY3BN      59   14 KN    2
+ 3500 PH  0638 ES1QD      59    7 LY4A       59   24 SU SU 2
+ 3500 PH  0640 ES1QD      59    8 OF6MW      59   18 KT KT 2
+ 3500 PH  0640 ES1QD      59    9 LY2MM      59   21 KM KM 2
+ 3500 PH  0641 ES1QD      59   10 ES2EZ      59   19 HR HR 2
+ 3500 PH  0643 ES1QD      59   11 ES1O       59    5 TL TL 2
+ 3500 PH  0645 ES1QD      59   12 YL7A       59   24 VK    2
+ 3500 PH  0648 ES1QD      59   13 OZ7X       59   23 AH AH 2
+ 3500 PH  0649 ES1QD      59   14 OF1F       59   18 SA SA 2
+ 3500 PH  0651 ES1QD      59   15 ES6QC      59   32 VO    2
+ 3500 PH  0652 ES1QD      59   16 OZ8PG      59   23 FB FB 2
+ 3500 PH  0653 ES1QD      59   17 ES4NY      59   24 IV IV 2
+ 3500 PH  0654 ES1QD      59   18 YL2BJ      59   53 VR VR 2
+ 3500 PH  0654 ES1QD      59   19 OF8L       59   27 PP PP 2
+ 3500 PH  0655 ES1QD      59   20 YL1S       59   30 RR RR 2
+ 3500 PH  0657 ES1QD      59   21 OH2PM      59   45 VA VA 2
+ 3500 PH  0657 ES1QD      59   22 OF2J       59   12 UU UU 2
+ 3500 PH  0701 ES1QD      59   23 YL3FT      59   47 OE OE 2
+ 3500 PH  0703 ES1QD      59   24 SA1CCQ     59   20 GO GO 2
+ 3500 PH  0704 ES1QD      59   25 LY2TS      59   39 TI TI 2
+ 7000 PH  0705 ES1QD      59   26 OH3Z       59   49 VA VA 2
+ 3500 PH  0706 ES1QD      59   27 OH6RE      59   43 KE KE 2
+ 3500 PH  0708 ES1QD      59   28 YL2KF      59   65 LM LM 2
+ 3500 PH  0709 ES1QD      59   29 OH7A       59   61 PK PK 2
+ 3500 PH  0710 ES1QD      59   30 ES7GM      59   81 VP VP 2
+ 3500 PH  0712 ES1QD      59   31 SE4E       59   37 DA DA 2
+ 3500 PH  0712 ES1QD      59   32 OZ11A      59   23 NJ NJ 2
+ 3500 PH  0713 ES1QD      59   33 YL2SM      59   72 AU AU 2
+ 3500 PH  0715 ES1QD      59   34 ES3BM      59   30 RP RP 2
+ 3500 PH  0716 ES1QD      59   35 YL2GD      59   83 AU    2
+ 3500 PH  0717 ES1QD      59   36 SK2T       59   34 VB VB 2
+ 3500 PH  0720 ES1QD      59   37 LY1CO      59   42 KN    2
+ 3500 PH  0721 ES1QD      59   38 LY2SA      59   66 MM MM 2
+ 3500 PH  0723 ES1QD      59   39 LY4Q       59   62 VU VU 2
+ 3500 PH  0723 ES1QD      59   40 YL2VW      59   82 RR    2
+ 3500 PH  0726 ES1QD      59   41 ES6PA      59   50 VO    2
+ 3500 PH  0726 ES1QD      59   42 YL2PJ      59   78 RE RE 2
+ 3500 PH  0728 ES1QD      59   43 OH3LS      59   45 PM PM 2
+ 3500 PH  0729 ES1QD      59   44 ES1BH      59   62 TL    2
+ 3500 PH  0730 ES1QD      59   45 LY5O       59   91 KM    2
+ 3500 PH  0735 ES1QD      59   46 LB1AH      59   59 HO HO 2
+ 3500 PH  0737 ES1QD      59   47 LY1CT      59   62 KD KD 2
+ 3500 PH  0738 ES1QD      59   48 OF2KM      59   52 UU    2
+ 3500 PH  0740 ES1QD      59   49 OF0RJ      59   44 AL AL 2
+ 3500 PH  0742 ES1QD      59   50 LA8FTA     59   32 AK AK 2
+ 3500 PH  0743 ES1QD      59   51 ES5TF      59   50 TA TA 2
+ 3500 PH  0744 ES1QD      59   52 SM5ACQ     59   51 VM VM 2
+ 3500 PH  0746 ES1QD      59   53 LY2ZO      59   59 KM    0  NotinLog
+ 7000 PH  0750 ES1QD      59   54 ES1BH      59   77 TL TL 2
+ 7000 PH  0753 ES1QD      59   55 OZ7X       59  120 AH AH 2
+ 7000 PH  0755 ES1QD      59   56 OZ8PG      59   89 FB FB 2
+ 7000 PH  0756 ES1QD      59   57 LB1AH      59   87 HO HO 2
+ 7000 PH  0757 ES1QD      59   58 LY5T       59   71 AT AT 2
+ 7000 PH  0758 ES1QD      59   59 LY5W       59   94 KN KN 2
+ 7000 PH  0759 ES1QD      59   60 LY3BN      59  119 KN    2
+ 3500 PH  0812 ES1QD      59   61 OH8NW      59  119 VA    2
+ 3500 PH  0815 ES1QD      59   62 LY2J       59   86 MM    2
+ 7000 PH  0820 ES1QD      59   63 LA5UF      59   69 VF VF 1  Nr/59
+ 3500 PH  0825 ES1QD      59   64 ES2O       59   67 HR    2
+ 3500 PH  0825 ES1QD      59   65 ES2IPA     59   58 HR    2
+ 3500 PH  0826 ES1QD      59   66 ES6RMR     59   64 VC VC 2
+ 3500 PH  0826 ES1QD      59   67 ES7KEW     59   12 VP    2
+ 3500 PH  0828 ES1QD      59   68 OH3Z       59  153 VA    2

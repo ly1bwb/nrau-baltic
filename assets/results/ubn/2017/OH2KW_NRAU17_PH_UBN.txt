@@ -1,0 +1,112 @@
+     Call: OH2KW
+ Operator:
+ Category: Single Op                      Band   QSO  Points  Mults
+ Power: LOW                               40m     45      88     25
+     Name: Arto Liimatta                  80m     56     103     34
+  Address: Polvikallio 7                  Sum    101     191     59
+  Address: Lepsama,  01830                Total: 11269
+  Address: FINLAND
+
+
+
+ 3711 PH  0629 OH2KW      59    1 LY2SA      59    1 MM    0 Time
+ 3715 PH  0629 OH2KW      59    2 OH7A       59    3 PK    0 Time
+ 3707 PH  0630 OH2KW      59    3 ES2MC      59    6 HR HR 2
+ 3703 PH  0631 OH2KW      59    4 YL2VW      59    5 RR RR 2
+ 3720 PH  0633 OH2KW      59    5 OH8NW      59    4 VA VA 1  Nr/5
+ 3724 PH  0634 OH2KW      59    6 ES4NY      59    6 IV IV 2
+ 3729 PH  0634 OH2KW      59    7 YL9T       59    3 VK VK 2
+ 3735 PH  0635 OH2KW      59    8 ES6QC      59   11 VO VO 2
+ 3775 PH  0636 OH2KW      59    9 LY3FT      59    8 OE    0  Call/YL3FT
+ 3769 PH  0636 OH2KW      59   10 YL2KO      59   12 AU AU 2
+ 3760 PH  0637 OH2KW      59   11 OH2PM      59   18 VA    2
+ 3754 PH  0638 OH2KW      59   12 YL2SM      59   18 AU    2
+ 3748 PH  0638 OH2KW      59   13 YL2BJ      59   23 VR VR 2
+ 3743 PH  0638 OH2KW      59   14 OF8L       59    9 PP PP 2
+ 3741 PH  0640 OH2KW      59   15 LY5O       59   20 KM KM 2
+ 3711 PH  0643 OH2KW      59   16 ES2IPA     59    7 HR    2
+ 3711 PH  0645 OH2KW      59   17 YL1ZT      59   12 TU TU 2
+ 3711 PH  0645 OH2KW      59   18 LY1SR      59   15 KM    2
+ 3711 PH  0647 OH2KW      59   19 SA1CCQ     59    8 GO GO 2
+ 3711 PH  0647 OH2KW      59   20 ES1TU      59   22 TL TL 2
+ 3712 PH  0648 OH2KW      59   21 OF3R       59    8 PH PH 2
+ 3712 PH  0649 OH2KW      59   22 LY1CO      59   17 KN KN 2
+ 3712 PH  0649 OH2KW      59   23 YL1S       59   23 RR    2
+ 3712 PH  0649 OH2KW      59   24 OF2KM      59   20 UU UU 2
+ 3712 PH  0650 OH2KW      59   25 ES6PA      59   18 VO    1  Nr/19
+ 3712 PH  0651 OH2KW      59   26 OF2J       59   10 UU    2
+ 3712 PH  0651 OH2KW      59   27 YL2PJ      59   33 RE RE 2
+ 3712 PH  0652 OH2KW      59   28 ES5TF      59   29 TA TA 1  Nr/19
+ 3712 PH  0653 OH2KW      59   29 ES7RIX     59    8 VP VP 2
+ 3712 PH  0655 OH2KW      59   30 8S0C       59   12 SL SL 2
+ 3712 PH  0655 OH2KW      59   31 YL100ZK    59   19 RR    2
+ 3712 PH  0656 OH2KW      59   32 OF8UV      59   15 KU KU 2
+ 3712 PH  0657 OH2KW      59   33 ES2O       59   25 HR    2
+ 3712 PH  0657 OH2KW      59   34 LY4L       59   49 KM    2
+ 3712 PH  0700 OH2KW      59   35 OH6ECM     59   19 PO PO 2
+ 3712 PH  0701 OH2KW      59   36 LY2MM      59   49 KM    2
+ 3712 PH  0703 OH2KW      59   37 OF3P       59   26 PM PM 2
+ 3712 PH  0704 OH2KW      59   38 OF1TD      59   28 SA SA 2
+ 3712 PH  0708 OH2KW      59   39 ES6RW      59   87 VO    2
+ 3718 PH  0711 OH2KW      59   40 OZ7X       59   56 AH AH 2
+ 3704 PH  0713 OH2KW      59   41 OZ11A      59   25 NJ NJ 2
+ 3773 PH  0717 OH2KW      59   42 OF0RJ      59   30 AL AL 2
+ 3765 PH  0718 OH2KW      59   43 LY4A       59   93 SU SU 2
+ 3762 PH  0718 OH2KW      59   44 ES2EZ      59   73 HR    2
+ 3751 PH  0719 OH2KW      59   45 OH3Z       59   84 VA    2
+ 3753 PH  0720 OH2KW      59   46 OH7JL      59   40 PK PK 2
+ 3748 PH  0721 OH2KW      59   47 LB1AH      59   41 HO HO 2
+ 3742 PH  0722 OH2KW      59   48 OH6RE      59   72 KE KE 2
+ 3735 PH  0723 OH2KW      59   49 LY3BN      59   78 KN    2
+ 3730 PH  0724 OH2KW      59   50 SE5L       59   34 VM VM 2
+ 3727 PH  0725 OH2KW      59   51 OF1F       59   82 SA    2
+ 3721 PH  0726 OH2KW      59   52 OH3LS      59   43 PM    2
+ 3709 PH  0730 OH2KW      59   53 OF1LAR     59   17 VA    2
+ 3709 PH  0731 OH2KW      59   54 OH3JP      59   42 KT KT 2
+ 3709 PH  0731 OH2KW      59   55 SK2T       59   47 VB VB 2
+ 3709 PH  0733 OH2KW      59   56 OF8NV      59   30 PO    2
+ 7060 PH  0735 OH2KW      59   57 ES6QC      59   81 VO VO 2
+ 7063 PH  0736 OH2KW      59   58 LY6A       59   94 KN KN 2
+ 7086 PH  0736 OH2KW      59   59 LY2SA      59   84 MM MM 2
+ 7089 PH  0737 OH2KW      59   60 ES6RW      59  123 VO    2
+ 7151 PH  0740 OH2KW      59   61 LY2J       59   67 MM    2
+ 7150 PH  0741 OH2KW      59   62 LY3BN      59   90 KN    2
+ 7147 PH  0741 OH2KW      59   63 LY5O       59  106 KM KM 2
+ 7144 PH  0742 OH2KW      59   64 OZ7X       59   99 AH AH 2
+ 7139 PH  0742 OH2KW      59   65 YL2PJ      59   90 RE RE 2
+ 7133 PH  0744 OH2KW      59   66 OH7A       59  105 PK PK 2
+ 7100 PH  0748 OH2KW      59   67 ES7GM      59  152 VP VP 2
+ 7098 PH  0749 OH2KW      59   68 YL3FT      59  107 OE OE 2
+ 7098 PH  0750 OH2KW      59   69 OZ7SG      59   33 NJ NJ 2
+ 7098 PH  0753 OH2KW      59   70 SM6IQD     59   42 VD VD 2
+ 7098 PH  0753 OH2KW      59   71 YL1ZT      59   58 TU TU 2
+ 7098 PH  0755 OH2KW      59   72 OZ4NA      59   56 NJ    2
+ 7098 PH  0756 OH2KW      59   73 OH7JL      59   63 PK    2
+ 7098 PH  0757 OH2KW      59   74 LY4Q       59   80 VU VU 2
+ 7098 PH  0800 OH2KW      59   75 OF2KM      59   73 UU UU 2
+ 7088 PH  0801 OH2KW      59   76 LY1SR      59   89 KM    2
+ 7082 PH  0802 OH2KW      59   77 ES5QA      59  125 JG JG 2
+ 7056 PH  0804 OH2KW      59   78 YL2VW      59  123 RR RR 2
+ 7173 PH  0805 OH2KW      59   79 LY4A       59  169 SU SU 2
+ 7181 PH  0806 OH2KW      59   80 OZ8PG      59  108 FB FB 2
+ 7188 PH  0806 OH2KW      59   81 LA8FTA     59   45 AK AK 2
+ 7184 PH  0807 OH2KW      59   82 OZ11A      59   85 NJ    2
+ 7179 PH  0807 OH2KW      59   83 LB1AH      59  102 HO HO 2
+ 7175 PH  0808 OH2KW      59   84 LY5T       59   79 AT AT 2
+ 7168 PH  0810 OH2KW      59   85 OZ6ARC     59   49 SJ SJ 2
+ 7140 PH  0812 OH2KW      59   86 OZ9VA      59   68 FB    2
+ 7091 PH  0815 OH2KW      59   87 OH3Z       59  142 VA VA 2
+ 7085 PH  0815 OH2KW      59   88 LY2MM      59  119 KM    2
+ 7082 PH  0818 OH2KW      59   89 LY3B       59   92 PA PA 2
+ 7082 PH  0818 OH2KW      59   90 SM6IQD     59   58 VD    0  QSO B4
+ 7082 PH  0820 OH2KW      59   91 LY2ZO      59   80 KM    2
+ 7082 PH  0821 OH2KW      59   92 LY2NY      59   83 KN    2
+ 7082 PH  0821 OH2KW      59   93 OF2J       59   40 UU    2
+ 7082 PH  0821 OH2KW      59   94 LY4K       59   71 KM    2
+ 7082 PH  0822 OH2KW      59   95 LY2TS      59  100 TI TI 2
+ 7082 PH  0822 OH2KW      59   96 LY1CO      59   72 KN    2
+ 7082 PH  0824 OH2KW      59   97 LY9Y       59  102 SU    2
+ 7082 PH  0825 OH2KW      59   98 LA2XNA     59   62 AK    2
+ 7082 PH  0826 OH2KW      59   99 LY3CY      59   79 VU    2
+ 7086 PH  0828 OH2KW      59  100 SD6M       59   73 VD    2
+ 7064 PH  0829 OH2KW      59  101 LY4L       59  152 KM    2

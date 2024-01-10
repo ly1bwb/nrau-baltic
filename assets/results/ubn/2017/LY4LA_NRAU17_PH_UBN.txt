@@ -1,0 +1,71 @@
+     Call: LY4LA
+ Operator:
+ Category: Single Op                      Band   QSO  Points  Mults
+ Power: HIGH                              40m     17      31     16
+     Name: VASKEVICIUS                    80m     45      73     20
+  Address: LIEPU28-4                      Sum     62     104     36
+                                          Total: 3744
+
+
+ 3500 PH  0631 LY4LA      59    1 LY2MM      59    1 KM KM 2
+ 3500 PH  0632 LY4LA      59    2 LY4L       59    5 KM    2
+ 3500 PH  0633 LY4LA      59    3 LY1SR      59    9 KM    1  Nr/2
+ 3500 PH  0634 LY4LA      59    4 OF6MW      59    6 KT KT 2
+ 3500 PH  0635 LY4LA      59    5 LY4A       59   10 SU SU 2
+ 3500 PH  0635 LY4LA      59    6 LY3BN      59   10 KN KN 2
+ 3500 PH  0638 LY4LA      59    7 LY6A       59   18 KN    2
+ 3500 PH  0639 LY4LA      59    8 YL7A       59    8 VK VK 2
+ 3500 PH  0639 LY4LA      59    9 LY2CO      59   14 TI TI 2
+ 3500 PH  0639 LY4LA      59   10 LY2BAW     59    9 VV VV 2
+ 3500 PH  0639 LY4LA      59   11 LY2NY      59   11 KN    2
+ 3500 PH  0640 LY4LA      59   12 ES6KW      59   22 VO    0  Call/ES6RW
+ 3500 PH  0642 LY4LA      59   13 LY2SA      59   22 MM MM 2
+ 3500 PH  0643 LY4LA      59   14 LY5O       59   24 KM    2
+ 3500 PH  0644 LY4LA      59   15 YL2SM      59   25 AU AU 2
+ 3500 PH  0645 LY4LA      59   16 OH2PM      59   25 VA VA 2
+ 3500 PH  0646 LY4LA      59   17 YL3FT      59   22 OE OE 2
+ 3500 PH  0647 LY4LA      59   18 YL2BJ      59   36 VR VR 2
+ 3500 PH  0648 LY4LA      59   19 OZ8PJ      59   15 FB    0  Call/OZ8PG
+ 3500 PH  0650 LY4LA      59   20 YL2KF      59   30 LM LM 2
+ 3500 PH  0651 LY4LA      59   21 YL2GD      59   45 AU    2
+ 3500 PH  0653 LY4LA      59   22 ES2MC      59   51 HR HR 2
+ 3500 PH  0654 LY4LA      59   23 LY1CT      59   24 KD KD 2
+ 3500 PH  0655 LY4LA      59   24 OF6MW      59   38 KT    0  QSO B4
+ 3500 PH  0657 LY4LA      59   25 ES7JM      59   55 VP    0  Call/ES7GM
+ 3500 PH  0657 LY4LA      59   26 LY4Q       59   43 VV    1  Mult/VU
+ 3500 PH  0659 LY4LA      59   27 ES2EZ      59   53 HR    2
+ 3500 PH  0703 LY4LA      59   28 YL2GD      59   57 AU    0  QSO B4
+ 3500 PH  0706 LY4LA      59   29 LY5W       59   39 KN    2
+ 3500 PH  0708 LY4LA      59   30 LY5T       59   25 AT AT 2
+ 3500 PH  0709 LY4LA      59   31 YL9T       59   68 VK    2
+ 3500 PH  0710 LY4LA      59   32 YL2KO      59   59 AU    2
+ 3500 PH  0714 LY4LA      59   34 ES6RW      59   92 VO VO 2
+ 3500 PH  0715 LY4LA      59   35 ES6QC      59   67 VO    2
+ 3500 PH  0715 LY4LA      59   36 OF1F       59   67 SA SA 2
+ 3500 PH  0717 LY4LA      59   37 OZ7A       59   61 AH    0  Call/OZ7X
+ 3500 PH  0720 LY4LA      59   39 OF1Z       59   73 VA    2
+ 3500 PH  0722 LY4LA      59   40 LY4MA      59   18 KM    2
+ 3500 PH  0724 LY4LA      59   41 LY1CO      59   47 KN    2
+ 3500 PH  0728 LY4LA      59   42 ES6PA      59   59 VO    1  Nr/51
+ 3500 PH  0731 LY4LA      59   43 ES4NV      59   59 IV    0  Call/ES4NY
+ 3500 PH  0736 LY4LA      59   44 LY3B       59   56 PA PA 2
+ 3500 PH  0737 LY4LA      59   45 LY2ZO      59   37 KM    2
+ 3500 PH  0738 LY4LA      59   46 LY9Y       59   62 SU    2
+ 3500 PH  0742 LY4LA      59   47 YL2II      59   18 AI AI 2
+ 7000 PH  0747 LY4LA      59   48 OF1F       59  113 SA SA 2
+ 7000 PH  0747 LY4LA      59   49 OF9L       59   84 PP    0  Call/OF8L
+ 7000 PH  0748 LY4LA      59   50 OH6RE      59   96 KE KE 2
+ 7000 PH  0751 LY4LA      59   51 LB1AH      59   74 HO HO 2
+ 7000 PH  0751 LY4LA      59   52 LY1CT      59   69 KD KD 2
+ 7000 PH  0750 LY4LA      59   53 LY2ON      59   36 KI KI 2
+ 7000 PH  0754 LY4LA      59   54 OH7A       59  116 PK PK 2
+ 7000 PH  0756 LY4LA      59   55 OZ7X       59  124 AH AH 2
+ 7000 PH  0801 LY4LA      59   56 YL2BJ      59  120 VR VR 2
+ 7000 PH  0803 LY4LA      59   57 OH2PM      59  113 VA VA 2
+ 7000 PH  0804 LY4LA      59   58 OF3P       59   69 PM PM 2
+ 7000 PH  0804 LY4LA      59   59 OF6MW      59  102 KT KT 2
+ 7000 PH  0807 LY4LA      59   60 OF8L       59  113 PP PP 2
+ 7000 PH  0811 LY4LA      59   61 OZ11A      59   61 NJ NJ 1  Nr/89
+ 7000 PH  0815 LY4LA      59   62 LY4A       59  177 SU SU 2
+ 7000 PH  0827 LY4LA      59   64 ES2MC      59  173 HR HR 2
+ 7000 PH  0828 LY4LA      59   65 ES3BM      59   66 RP RP 2

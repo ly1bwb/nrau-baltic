@@ -1,0 +1,40 @@
+     Call: ES0DJ
+ Operator:
+ Category: Single Op                      Band   QSO  Points  Mults
+ Power: LOW                               40m     14      28     12
+     Name: TOIVO KASONEN                  80m     16      32     14
+  Address:                                Sum     30      60     26
+  Address: ESTONIA                        Total: 1560
+
+
+
+ 3537 CW  0935 ES0DJ      599   1 ES2MC      599  56 HR HR 2
+ 3545 CW  0937 ES0DJ      599   2 ES7A       599  34 VP VP 2
+ 3547 CW  0938 ES0DJ      599   3 ES5EP      599  43 TA TA 2
+ 3554 CW  0941 ES0DJ      599   4 YL2QW      599  26 TU TU 2
+ 3551 CW  0941 ES0DJ      599   5 ES3BM      599  32 RP RP 2
+ 3537 CW  0945 ES0DJ      599   6 ES6Q       599  65 VO VO 2
+ 3534 CW  0946 ES0DJ      599   7 ES5QA      599  57 JG JG 2
+ 3528 CW  0949 ES0DJ      599   8 OF8L       599  62 PP PP 2
+ 3527 CW  0949 ES0DJ      599   9 ES7GM      599  81 VP    2
+ 3524 CW  0950 ES0DJ      599  10 OH6BA      599  57 KE KE 2
+ 3517 CW  0951 ES0DJ      599  11 ES4NY      599  62 IV IV 2
+ 3524 CW  0954 ES0DJ      599  12 OZ8PG      599  43 FB FB 2
+ 3539 CW  0958 ES0DJ      599  13 ES1TU      599  71 TL TL 2
+ 3546 CW  1000 ES0DJ      599  14 OH3Z       599  51 VA VA 2
+ 3547 CW  1001 ES0DJ      599  15 LY2WR      599  11 KN KN 2
+ 3549 CW  1001 ES0DJ      599  16 ES1CN      599  56 TL    2
+ 7024 CW  1007 ES0DJ      599  17 OZ8SW      599  28 KH KH 2
+ 7022 CW  1008 ES0DJ      599  18 ES2MC      599  96 HR HR 2
+ 7021 CW  1009 ES0DJ      599  19 OZ4FF      599  39 BH BH 2
+ 7018 CW  1016 ES0DJ      599  20 ES2EZ      599  85 HR    2
+ 7022 CW  1021 ES0DJ      599  21 ES7GM      599 123 VP VP 2
+ 7032 CW  1027 ES0DJ      599  22 OF8L       599 122 PP PP 2
+ 7033 CW  1028 ES0DJ      599  23 OZ2TF      599  60 RK RK 2
+ 7034 CW  1028 ES0DJ      599  24 LA0CX      599  65 OF OF 2
+ 7036 CW  1029 ES0DJ      599  25 ES6Q       599 124 VO VO 2
+ 7035 CW  1031 ES0DJ      599  26 OZ7BQ      599  37 FB FB 2
+ 7020 CW  1040 ES0DJ      599  27 OZ4CG      599  67 BH    2
+ 7026 CW  1044 ES0DJ      599  28 ES5QA      599 119 JG JG 2
+ 7025 CW  1046 ES0DJ      599  29 SM6EWB     599  67 VD VD 2
+ 7020 CW  1048 ES0DJ      599  30 ES3CC      599  99 LN LN 2

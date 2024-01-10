@@ -1,0 +1,40 @@
+     Call: OH2ID
+ Operator:
+ Category: Single Op                      Band   QSO  Points  Mults
+ Power: LOW                               40m     16      31     13
+     Name: Tomi Helpio                    80m     13      25      9
+  Address: Maenrinne 16 B 1               Sum     29      56     22
+  Address: Espoo,  02160                  Total: 1232
+  Address: FINLAND
+
+
+
+ 7031 CW  0904 OH2ID      599   1 LA5UF      599   4 VF VF 2
+ 7019 CW  0911 OH2ID      599   2 OZ2TF      599   2 RK RK 2
+ 7028 CW  0912 OH2ID      599   3 LA0CX      599   6 OF OF 2
+ 7032 CW  0921 OH2ID      599   4 LB3RE      599   7 OP OP 2
+ 7026 CW  0927 OH2ID      599   5 LY4L       599  46 KM KM 2
+ 3511 CW  0930 OH2ID      599   6 OF2KM      599  33 UU UU 2
+ 3513 CW  0932 OH2ID      599   7 OH2PM      599  58 VA VA 2
+ 3514 CW  0935 OH2ID      599   8 OF1F       599  56 SA SA 2
+ 3520 CW  0939 OH2ID      599   9 ES1CN      599  37 TL TL 1  Nr/38
+ 3524 CW  0945 OH2ID      599  10 OH6BA      599  50 KE KE 2
+ 3526 CW  0946 OH2ID      599  11 OH6RE      599  59 KE    2
+ 3530 CW  0948 OH2ID      599  12 OH2KW      599  54 UU    2
+ 3534 CW  0950 OH2ID      599  13 ES5QA      599  61 JG JG 2
+ 3535 CW  0952 OH2ID      599  14 OH2YL      599  48 KT KT 2
+ 3537 CW  0958 OH2ID      599  15 ES6Q       599  80 VO VO 2
+ 3539 CW  0959 OH2ID      599  16 ES1TU      599  72 TL    2
+ 3551 CW  1010 OH2ID      599  17 ES3BM      599  53 RP RP 2
+ 3542 CW  1017 OH2ID      599  18 ES3BQ      599  24 RP    2
+ 7013 CW  1027 OH2ID      599  19 LY2BAW     599 114 VV VV 2
+ 7014 CW  1029 OH2ID      599  20 LY2J       599 109 MM MM 1  Nr/108
+ 7019 CW  1033 OH2ID      599  21 LY5O       599 138 KM    2
+ 7024 CW  1035 OH2ID      599  22 LY2IJ      599 129 UT UT 2
+ 7028 CW  1038 OH2ID      599  23 YL2PJ      599 124 RE RE 2
+ 7030 CW  1042 OH2ID      599  24 LY2H       599  62 VU VU 2
+ 7033 CW  1044 OH2ID      599  25 LY5T       599  68 AT AT 2
+ 7034 CW  1048 OH2ID      599  26 OZ7YY      599 121 AH AH 2
+ 7036 CW  1049 OH2ID      599  27 LY2GW      599  82 VU    2
+ 7012 CW  1053 OH2ID      599  28 SK2T       599 133 VB VB 2
+ 7017 CW  1058 OH2ID      599  29 LY5R       599 126 UT    2

@@ -1,0 +1,127 @@
+     Call: YL1S
+ Operator: YL2PP
+ Category: Single Op                      Band   QSO  Points  Mults
+ Power: HIGH                              40m     38      74     31
+     Name: Anatoly (Tom) Kalcuk           80m     78     154     48
+  Address: P.O.BOX 164                    Sum    116     228     79
+  Address: LV-1010 RIGA                   Total: 18012
+  Address: LATVIA
+
+
+
+ 3500 PH  0631 YL1S       59    1 ES2MC      59    2 HR HR 2
+ 3500 PH  0631 YL1S       59    2 LY2SA      59    5 MM MM 2
+ 3500 PH  0632 YL1S       59    3 OZ7X       59    3 AH AH 2
+ 3500 PH  0632 YL1S       59    4 ES4NY      59    2 IV IV 2
+ 3500 PH  0633 YL1S       59    5 OF1F       59    3 SA SA 2
+ 3500 PH  0633 YL1S       59    6 LY5O       59   44 KM KM 1  Nr/4
+ 3500 PH  0634 YL1S       59    7 YL2SM      59    6 AU AU 2
+ 3500 PH  0635 YL1S       59    8 OH2PM      59   10 VA VA 2
+ 3500 PH  0636 YL1S       59    9 YL2BJ      59   15 VR VR 2
+ 3500 PH  0636 YL1S       59   10 OF8L       59    3 PP PP 2
+ 3500 PH  0637 YL1S       59   11 YL9T       59    7 VK VK 2
+ 3500 PH  0638 YL1S       59   12 OH8NW      59    8 VA    2
+ 3500 PH  0638 YL1S       59   13 OH6RE      59   15 KE KE 2
+ 3500 PH  0639 YL1S       59   14 YL2GD      59   21 AU    2
+ 3500 PH  0641 YL1S       59   15 YL1ZT      59    8 TU TU 2
+ 3500 PH  0642 YL1S       59   16 SE5N       59    2 SO SO 2
+ 3500 PH  0643 YL1S       59   17 LY4L       59   24 KM    2
+ 3500 PH  0643 YL1S       59   18 OF3P       59    7 PM PM 2
+ 3500 PH  0645 YL1S       59   19 ES6QC      59   23 VO VO 2
+ 3500 PH  0646 YL1S       59   20 YL2VW      59   29 RR RR 2
+ 3500 PH  0647 YL1S       59   21 YL2KF      59   25 LM LM 2
+ 3500 PH  0648 YL1S       59   22 YL3FT      59   25 OE OE 2
+ 3500 PH  0650 YL1S       59   23 OH2KW      59   23 UU UU 2
+ 3500 PH  0652 YL1S       59   24 LY2TS      59   27 TI TI 2
+ 3500 PH  0653 YL1S       59   25 YL2ON      59   10 TS TS 2
+ 3500 PH  0654 YL1S       59   26 OF1TD      59   20 SA    2
+ 3500 PH  0654 YL1S       59   27 LY2ON      59   14 KI KI 2
+ 3500 PH  0655 YL1S       59   28 OH6ECM     59   14 PO PO 2
+ 3500 PH  0655 YL1S       59   29 YL2KO      59   40 AU    2
+ 3500 PH  0656 YL1S       59   30 ES1QD      59   20 TL TL 2
+ 3500 PH  0656 YL1S       59   31 YL2PJ      59   36 RE RE 2
+ 3500 PH  0656 YL1S       59   32 YL3GAO     59   15 DO DO 2
+ 3500 PH  0657 YL1S       59   33 LY2NY      59   34 KN KN 2
+ 3500 PH  0658 YL1S       59   34 OZ0AP      59    7 SS SS 2
+ 3500 PH  0659 YL1S       59   35 LY4A       59   65 SU SU 2
+ 3500 PH  0659 YL1S       59   36 LY3CY      59   31 VU VU 2
+ 3500 PH  0659 YL1S       59   37 ES1TU      59   35 TL    2
+ 3500 PH  0659 YL1S       59   38 LY7M       59   21 UT UT 2
+ 3500 PH  0700 YL1S       59   39 LY9Y       59   36 SU    2
+ 3500 PH  0700 YL1S       59   40 OH7JL      59   26 PK PK 2
+ 3500 PH  0701 YL1S       59   41 LY1CT      59   29 KD KD 2
+ 3500 PH  0701 YL1S       59   42 YL3IR      59   12 GU GU 2
+ 3500 PH  0702 YL1S       59   43 YL100ZK    59   23 RR    2
+ 3500 PH  0702 YL1S       59   44 LY4K       59   27 KM    2
+ 3500 PH  0703 YL1S       59   45 OF3R       59   15 PH PH 2
+ 3500 PH  0704 YL1S       59   46 8S0C       59   21 SL SL 2
+ 3500 PH  0704 YL1S       59   47 OH3RT      59    2 PH    2
+ 3500 PH  0705 YL1S       59   48 ES5JR      59   20 TA TA 2
+ 3500 PH  0705 YL1S       59   49 ES5TF      59   30 TA    2
+ 3500 PH  0706 YL1S       59   50 LY3B       59   40 PA PA 2
+ 3500 PH  0708 YL1S       59   51 OH3Z       59   56 VA    2
+ 3500 PH  0709 YL1S       59   52 LB1AH      59   24 HO HO 2
+ 3500 PH  0710 YL1S       59   53 ES6RW      59   88 VO    2
+ 3500 PH  0712 YL1S       59   54 OF6MW      59   56 KT KT 2
+ 3500 PH  0712 YL1S       59   55 ES5QA      59   62 JG JG 2
+ 3500 PH  0714 YL1S       59   56 ES1CN      59   37 TL    2
+ 3500 PH  0715 YL1S       59   57 OF1Z       59   64 VA    2
+ 3500 PH  0716 YL1S       59   58 ES1BH      59   42 TL    2
+ 3500 PH  0717 YL1S       59   59 LY2CO      59   78 TI    2
+ 3500 PH  0718 YL1S       59   60 LY2MM      59   64 KM    2
+ 3500 PH  0718 YL1S       59   61 YL7A       59   77 VK    2
+ 3500 PH  0718 YL1S       59   62 ES2EZ      59   72 HR    2
+ 3500 PH  0720 YL1S       59   63 OH3JP      59   35 KT    2
+ 3500 PH  0721 YL1S       59   64 SE4E       59   46 DA DA 2
+ 3500 PH  0722 YL1S       59   65 LY5W       59   56 KN    2
+ 3500 PH  0723 YL1S       59   66 LY6A       59   78 KN    2
+ 3500 PH  0724 YL1S       59   67 OH3LS      59   39 PM    2
+ 3500 PH  0725 YL1S       59   68 LY2J       59   59 MM    2
+ 3500 PH  0725 YL1S       59   69 ES7GM      59  101 VP VP 2
+ 3500 PH  0726 YL1S       59   70 LY2BAW     59   79 VV VV 2
+ 3500 PH  0727 YL1S       59   71 LY3BN      59   81 KN    2
+ 3500 PH  0729 YL1S       59   72 SA1CCQ     59   49 GO GO 2
+ 3500 PH  0734 YL1S       59   73 LY2BMX     59   34 UT    2
+ 3500 PH  0735 YL1S       59   74 LY5P       59   31 SI SI 2
+ 3500 PH  0736 YL1S       59   75 LY3PDX     59   25 MM    2
+ 3500 PH  0736 YL1S       59   76 ES7RIX     59   33 VP    2
+ 3500 PH  0737 YL1S       59   77 LY2BOK     59   32 AT AT 2
+ 3500 PH  0738 YL1S       59   78 LY2ZO      59   41 KM    1  Nr/42
+ 7000 PH  0742 YL1S       59   79 OZ7X       59   95 AH AH 2
+ 7000 PH  0742 YL1S       59   80 OH7A       59   98 PK PK 2
+ 7000 PH  0744 YL1S       59   81 OZ8PG      59   72 FB FB 2
+ 7000 PH  0745 YL1S       59   82 SA1CCQ     59   60 GO GO 2
+ 7000 PH  0746 YL1S       59   83 OF8L       59   82 PP PP 2
+ 7000 PH  0747 YL1S       59   84 LB1AH      59   70 HO HO 2
+ 7000 PH  0747 YL1S       59   85 OF8UV      59   37 KU KU 2
+ 7000 PH  0748 YL1S       59   86 OF1F       59  116 SA SA 2
+ 7000 PH  0749 YL1S       59   87 ES2MC      59  131 HR HR 2
+ 7000 PH  0750 YL1S       59   88 ES2O       59   52 HR    2
+ 7000 PH  0752 YL1S       59   89 LY3BN      59  105 KN KN 2
+ 7000 PH  0753 YL1S       59   90 8S0C       59   78 SL SL 2
+ 7000 PH  0753 YL1S       59   91 OH2PM      59   98 VA VA 2
+ 7000 PH  0754 YL1S       59   92 OZ11A      59   64 NJ NJ 2
+ 7000 PH  0756 YL1S       59   93 SE5L       59   54 VM VM 2
+ 7000 PH  0756 YL1S       59   94 LY4A       59  153 SU SU 2
+ 7000 PH  0801 YL1S       59   95 SF3A       59   47 VN VN 2
+ 7000 PH  0802 YL1S       59   96 OF8NV      59   45 PO PO 2
+ 7000 PH  0803 YL1S       59   97 OH3LS      59   62 PM PM 2
+ 7000 PH  0804 YL1S       59   98 OH7JL      59   67 PK    2
+ 7000 PH  0806 YL1S       59   99 YL3FT      59  123 OE OE 2
+ 7000 PH  0806 YL1S       59  100 OF3P       59   72 PM    2
+ 7000 PH  0807 YL1S       59  101 SE2T       59   77 VB    0  Call/SK2T
+ 7000 PH  0809 YL1S       59  102 OZ6ARC     59   46 SJ SJ 2
+ 7000 PH  0813 YL1S       59  103 YL2GD      59  140 AU AU 2
+ 7000 PH  0814 YL1S       59  104 OH6RE      59  130 KE KE 2
+ 7000 PH  0815 YL1S       59  105 YL2PJ      59  116 RE RE 2
+ 7000 PH  0817 YL1S       59  106 OF6MW      59  113 KT KT 2
+ 7000 PH  0817 YL1S       59  107 YL2BJ      59  133 VR VR 2
+ 7000 PH  0818 YL1S       59  108 SE5E       59   88 UP UP 2
+ 7000 PH  0821 YL1S       59  109 ES6RW      59  185 VO VO 2
+ 7000 PH  0821 YL1S       59  110 LA5UF      59   60 VF VF 2
+ 7000 PH  0822 YL1S       59  111 OH8NW      59  125 VA    2
+ 7000 PH  0823 YL1S       59  112 YL2VW      59  138 RR RR 2
+ 7000 PH  0825 YL1S       59  113 SD6M       59   68 VD VD 2
+ 7000 PH  0828 YL1S       59  114 LA8FTA     59   62 AK AK 2
+ 7000 PH  0828 YL1S       59  115 LY6A       59  152 KN    2
+ 7000 PH  0829 YL1S       59  116 OZ9VA      59   90 FB    2

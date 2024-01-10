@@ -1,0 +1,105 @@
+     Call: ES1TU
+ Operator:
+ Category: Single Op                      Band   QSO  Points  Mults
+ Power: HIGH                              40m     38      74     27
+     Name: Aadu Adok                      80m     57     114     37
+  Address: Jaaniku 11, 12013 Tallinn      Sum     95     188     64
+  Address: Estonia                        Total: 12032
+
+
+
+ 3603 PH  0630 ES1TU      59    1 LY4L       59    2 KM KM 2
+ 3601 PH  0631 ES1TU      59    2 LY4Q       59    4 VU VU 2
+ 3609 PH  0631 ES1TU      59    3 ES2EZ      59    4 HR HR 2
+ 3611 PH  0632 ES1TU      59    4 ES7GM      59    4 VP VP 2
+ 3614 PH  0632 ES1TU      59    5 LY2MM      59    5 KM    2
+ 3618 PH  0634 ES1TU      59    6 OF6MW      59    9 KT KT 2
+ 3621 PH  0635 ES1TU      59    7 ES6RMR     59    3 VC VC 2
+ 3625 PH  0636 ES1TU      59    8 LY4A       59   19 SU SU 2
+ 3626 PH  0638 ES1TU      59    9 LY3BN      59   17 KN KN 2
+ 3629 PH  0639 ES1TU      59   10 LY6A       59   26 KN    2
+ 3631 PH  0639 ES1TU      59   11 LY5W       59   10 KN    2
+ 3633 PH  0641 ES1TU      59   12 ES5QA      59   18 JG JG 2
+ 3635 PH  0641 ES1TU      59   13 ES3BM      59   11 RP RP 2
+ 3637 PH  0643 ES1TU      59   14 YL7A       59   19 VK VK 2
+ 3642 PH  0643 ES1TU      59   15 LY2CO      59   30 TI TI 2
+ 3644 PH  0645 ES1TU      59   16 LA5UF      59    3 VF VF 2
+ 3646 PH  0645 ES1TU      59   17 LY2BAW     59   28 VV VV 2
+ 3649 PH  0645 ES1TU      59   18 ES6RW      59   38 VO VO 2
+ 3703 PH  0647 ES1TU      59   19 YL2VW      59   32 RR RR 2
+ 3706 PH  0648 ES1TU      59   20 ES2MC      59   40 HR    2
+ 3709 PH  0648 ES1TU      59   21 YL2GD      59   39 AU AU 2
+ 3710 PH  0648 ES1TU      59   22 OH2KW      59   20 UU UU 2
+ 3715 PH  0649 ES1TU      59   23 OH7A       59   31 PK PK 2
+ 3717 PH  0649 ES1TU      59   24 OZ7X       59   28 AH AH 2
+ 3720 PH  0650 ES1TU      59   25 YL2KF      59   33 LM LM 2
+ 3723 PH  0651 ES1TU      59   26 LY2SA      59   38 MM MM 2
+ 3726 PH  0652 ES1TU      59   27 OF1F       59   24 SA SA 2
+ 3729 PH  0652 ES1TU      59   28 YL9T       59   35 VK    2
+ 3735 PH  0653 ES1TU      59   29 ES6QC      59   36 VO    2
+ 3738 PH  0656 ES1TU      59   30 OZ8PG      59   29 FB FB 2
+ 3741 PH  0657 ES1TU      59   31 LY5O       59   49 KM    2
+ 3744 PH  0658 ES1TU      59   32 ES4NY      59   30 IV IV 2
+ 3747 PH  0658 ES1TU      59   33 YL2BJ      59   62 VR VR 2
+ 3750 PH  0659 ES1TU      59   34 OH3Z       59   32 VA VA 2
+ 3754 PH  0659 ES1TU      59   35 YL1S       59   37 RR    2
+ 3756 PH  0659 ES1TU      59   36 YL2PJ      59   42 RE RE 2
+ 3759 PH  0700 ES1TU      59   37 OH2PM      59   51 VA    2
+ 3761 PH  0701 ES1TU      59   38 LY2J       59   38 MM    2
+ 3767 PH  0703 ES1TU      59   39 SA1CCQ     59   21 GO GO 2
+ 3775 PH  0704 ES1TU      59   40 YL3FT      59   54 OE OE 2
+ 3643 PH  0705 ES1TU      59   41 OF1Z       59   44 VA    2
+ 3621 PH  0706 ES1TU      59   42 SK2T       59   26 VB VB 2
+ 3615 PH  0707 ES1TU      59   43 OH8NW      59   62 VA    2
+ 3607 PH  0707 ES1TU      59   44 ES1O       59   19 TL TL 2
+ 3600 PH  0711 ES1TU      59   45 ES6PA      59   30 VO    2
+ 3603 PH  0713 ES1TU      59   46 8S0C       59   32 SL SL 2
+ 3609 PH  0714 ES1TU      59   47 OH7JL      59   36 PK    2
+ 3609 PH  0716 ES1TU      59   48 OF2J       59   21 UU    2
+ 3609 PH  0716 ES1TU      59   49 OF1TD      59   35 SA    2
+ 3609 PH  0717 ES1TU      59   50 ES0DJ      59   18 SR SR 2
+ 3609 PH  0718 ES1TU      59   51 ES7RIX     59   27 VP    2
+ 3609 PH  0718 ES1TU      59   52 ES5TF      59   39 TA TA 2
+ 3616 PH  0720 ES1TU      59   53 LY1CO      59   43 KN    2
+ 3710 PH  0726 ES1TU      59   54 SE4E       59   51 DA DA 2
+ 3720 PH  0727 ES1TU      59   55 OH3LS      59   44 PM PM 2
+ 3729 PH  0728 ES1TU      59   56 ES1BH      59   60 TL    2
+ 3770 PH  0731 ES1TU      59   57 OF3P       59   50 PM    2
+ 7089 PH  0733 ES1TU      59   58 ES6RW      59  114 VO VO 2
+ 7095 PH  0734 ES1TU      59   59 LA5UF      59   29 VF VF 2
+ 7100 PH  0735 ES1TU      59   60 ES7GM      59  121 VP VP 2
+ 7151 PH  0736 ES1TU      59   61 LY2J       59   66 MM MM 2
+ 7152 PH  0736 ES1TU      59   62 SA1CCQ     59   54 GO GO 2
+ 7154 PH  0737 ES1TU      59   63 YL1ZT      59   46 TU TU 2
+ 7170 PH  0739 ES1TU      59   64 LY5T       59   55 AT AT 2
+ 7165 PH  0740 ES1TU      59   65 LY4L       59   96 KM KM 2
+ 7162 PH  0741 ES1TU      59   66 OZ9VA      59   36 FB FB 2
+ 7162 PH  0742 ES1TU      59   67 LA9RY      59    9 RL RL 2
+ 7162 PH  0743 ES1TU      59   68 LY7M       59   65 UT UT 2
+ 7162 PH  0744 ES1TU      59   69 ES2EZ      59  102 HR HR 2
+ 7162 PH  0745 ES1TU      59   70 ES2IPA     59   43 HR    2
+ 7162 PH  0746 ES1TU      59   71 OZ8PG      59   77 FB    2
+ 7162 PH  0747 ES1TU      59   72 ES1CN      59   60 TL TL 2
+ 7144 PH  0749 ES1TU      59   73 OZ7X       59  110 AH AH 2
+ 7147 PH  0749 ES1TU      59   74 LY5O       59  115 KM    2
+ 7149 PH  0750 ES1TU      59   75 LY3BN      59  103 KN KN 2
+ 7155 PH  0750 ES1TU      59   76 LY5W       59   83 KN    2
+ 7141 PH  0753 ES1TU      59   77 LY1CT      59   74 KD KD 2
+ 7085 PH  0754 ES1TU      59   78 LY2MM      59   90 KM    2
+ 7173 PH  0756 ES1TU      59   79 LY4A       59  151 SU SU 2
+ 7132 PH  0757 ES1TU      59   80 OH7A       59  124 PK PK 1  Nr/122
+ 7136 PH  0758 ES1TU      59   81 SD6M       59   46 VD VD 2
+ 7151 PH  0759 ES1TU      59   82 LY2SA      59  114 MM    2
+ 7179 PH  0803 ES1TU      59   83 LB1AH      59   96 HO HO 2
+ 7183 PH  0805 ES1TU      59   84 OZ11A      59   81 NJ NJ 2
+ 7187 PH  0806 ES1TU      59   85 LA8FTA     59   42 AK AK 2
+ 7197 PH  0806 ES1TU      59   86 OZ4NA      59   64 NJ    2
+ 7158 PH  0809 ES1TU      59   87 YL2GD      59  137 AU AU 2
+ 7065 PH  0810 ES1TU      59   88 LY1SR      59   95 KM    2
+ 7072 PH  0812 ES1TU      59   89 OF1F       59  154 SA SA 1  Nr/152
+ 7095 PH  0813 ES1TU      59   90 LY2BAW     59  134 VV VV 2
+ 7137 PH  0816 ES1TU      59   91 ES1O       59   41 TL    2
+ 7073 PH  0821 ES1TU      59   92 LY6A       59  150 KN    2
+ 7156 PH  0825 ES1TU      59   93 ES2MC      59  171 HR    2
+ 7170 PH  0826 ES1TU      59   94 OF8L       59  132 PP PP 2
+ 7193 PH  0827 ES1TU      59   95 SK2T       59   92 VB VB 2

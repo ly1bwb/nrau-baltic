@@ -1,0 +1,56 @@
+     Call: OF3R
+ Operator: OF3TMI
+ Category: Single Op                      Band   QSO  Points  Mults
+ Power: HIGH                              40m     17      34     13
+     Name: Lahden Radioamatöörikerho Ry   80m     28      53     24
+  Address: PL 74                          Sum     45      87     37
+  Address: Lahti,  15141                  Total: 3219
+  Address: FINLAND
+
+
+
+ 3793 PH  0632 OF3R       59    1 ES6RW      59    6 VO VO 2
+ 3793 PH  0635 OF3R       59    2 ES5QA      59    7 JG JG 2
+ 3793 PH  0638 OF3R       59    3 LY4A       59   20 SY    1  Mult/SU
+ 3793 PH  0640 OF3R       59    4 ES7GM      59   26 VP VP 2
+ 3793 PH  0643 OF3R       59    5 LY2CO      59   28 TI TI 2
+ 3793 PH  0645 OF3R       59    6 YL2VW      59   27 RR RR 2
+ 3793 PH  0647 OF3R       59    7 ES2MC      59   37 HR HR 2
+ 3793 PH  0650 OF3R       59    8 OH2KW      59   20 UU UU 1  Nr/21
+ 3793 PH  0652 OF3R       59    9 OH7A       59   34 PK PK 2
+ 3793 PH  0654 OF3R       59   10 YL2KF      59   38 LM LM 2
+ 3793 PH  0655 OF3R       59   11 OF1F       59   29 SA SA 2
+ 3793 PH  0657 OF3R       59   12 OZ8PG      59   30 FB FB 2
+ 3793 PH  0659 OF3R       59   13 YL2BJ      59   66 VR VR 2
+ 3793 PH  0700 OF3R       59   14 OH3Z       59   37 VA VA 2
+ 3793 PH  0702 OF3R       59   15 YL1S       59   45 RR    2
+ 3793 PH  0704 OF3R       59   16 OH2PM      59   56 VA    2
+ 3793 PH  0708 OF3R       59   17 YL2PJ      59   56 RE RE 2
+ 3793 PH  0709 OF3R       59   18 YL3FT      59   66 OE OE 2
+ 3793 PH  0711 OF3R       59   19 8S0C       59   28 SL SL 2
+ 3793 PH  0713 OF3R       59   20 ES1O       59   21 TL TL 2
+ 3793 PH  0717 OF3R       59   21 OF6MW      59   62 KT KT 1  Nr/61
+ 3793 PH  0719 OF3R       59   22 SK2T       59   35 VB VB 2
+ 3793 PH  0722 OF3R       59   23 ES3BM      59   38 RP RP 2
+ 3793 PH  0726 OF3R       59   24 LY2BAW     59   80 VV VV 2
+ 3793 PH  0729 OF3R       59   25 OH3LS      59   47 PM PM 2
+ 3793 PH  0731 OF3R       59   26 LY4L       59   84 KM KM 2
+ 3793 PH  0733 OF3R       59   27 OF0RJ      59   37 AL AL 2
+ 3793 PH  0735 OF3R       59   28 LY2TS      59   65 TI    2
+ 7060 PH  0740 OF3R       59   29 ES6QC      59   84 VO VO 2
+ 7042 PH  0744 OF3R       59   30 LY2SA      59   93 MM MM 2
+ 7042 PH  0745 OF3R       59   31 LY2BAW     59   96 VV VV 2
+ 7042 PH  0749 OF3R       59   32 OZ7X       59  111 AH AH 2
+ 7042 PH  0751 OF3R       59   33 LY5O       59  117 KM KM 2
+ 7042 PH  0753 OF3R       59   34 LY3BN      59  109 KN KN 2
+ 7042 PH  0754 OF3R       59   35 LY5W       59   88 KN    2
+ 7042 PH  0756 OF3R       59   36 LY5T       59   68 AT AT 2
+ 7042 PH  0759 OF3R       59   37 OZ11A      59   72 NJ NJ 2
+ 7042 PH  0801 OF3R       59   38 OZ4NA      59   59 NJ    2
+ 7042 PH  0805 OF3R       59   39 LY2MM      59  105 KM    2
+ 7042 PH  0809 OF3R       59   40 YL2VW      59  128 RR RR 2
+ 7042 PH  0813 OF3R       59   41 ES6RW      59  175 VO    2
+ 7042 PH  0816 OF3R       59   42 LA5UF      59   57 VF VF 2
+ 7042 PH  0819 OF3R       59   43 OH7A       59  148 PK PK 2
+ 7042 PH  0822 OF3R       59   44 OZ9VA      59   81 FB FB 2
+ 7042 PH  0829 OF3R       59   45 OF6MW      59  120 KT KT 2

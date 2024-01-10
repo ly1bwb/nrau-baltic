@@ -1,0 +1,25 @@
+     Call: ES1QD
+ Operator:
+ Category: Single Op                      Band   QSO  Points  Mults
+ Power: LOW                               40m     11      22      9
+     Name: VELLO PRIIMANN                 80m      5      10      4
+  Address: P.O.BOX 3739                   Sum     16      32     13
+                                          Total: 416
+
+
+ 3500 CW  1004 ES1QD      599   1 YL2KF      599  74 LM LM 2
+ 3500 CW  1005 ES1QD      599   2 YL2SM      599  91 AU AU 2
+ 3500 CW  1007 ES1QD      599   3 YL2KO      599  85 AU    2
+ 3500 CW  1012 ES1QD      599   4 YL100ZK    599  50 RR RR 2
+ 7000 CW  1014 ES1QD      599   5 ES1BH      599  70 TL TL 2
+ 7000 CW  1016 ES1QD      599   6 ES2MC      599 111 HR HR 2
+ 7000 CW  1017 ES1QD      599   7 LY7M       599 112 UT UT 2
+ 7000 CW  1018 ES1QD      599   8 LY5O       599 116 KM KM 2
+ 7000 CW  1022 ES1QD      599   9 LY2BAW     599 104 VV VV 2
+ 7000 CW  1024 ES1QD      599  10 LY2J       599 103 MM MM 2
+ 7000 CW  1026 ES1QD      599  11 LY1CT      599  95 KD KD 2
+ 7000 CW  1030 ES1QD      599  12 ES2EZ      599  99 HR    2
+ 7000 CW  1032 ES1QD      599  13 LY5R       599 103 UT    2
+ 7000 CW  1040 ES1QD      599  14 OZ7YY      599 113 AH AH 2
+ 3500 CW  1048 ES1QD      599  15 ES7A       599  71 VP VP 2
+ 7000 CW  1051 ES1QD      599  16 OF8L       599 162 PP PP 2

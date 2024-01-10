@@ -1,0 +1,72 @@
+     Call: YL3GAO
+ Operator:
+ Category: Single Op                      Band   QSO  Points  Mults
+ Power: LOW                               40m     25      47     21
+     Name: Andris Millers                 80m     36      72     24
+  Address: Abrakasi, Penkules pagasts     Sum     61     119     45
+  Address: Dobeles novads                 Total: 5355
+  Address: Dobele,  LV3725
+
+
+
+ 3748 PH  0632 YL3GAO     59    1 YL2BJ      59    5 VR VR 2
+ 3754 PH  0633 YL3GAO     59    2 YL2SM      59    5 AU AU 2
+ 3760 PH  0634 YL3GAO     59    3 OH2PM      59    6 VA VA 2
+ 3704 PH  0635 YL3GAO     59    4 YL2VW      59   11 RR RR 2
+ 3707 PH  0636 YL3GAO     59    5 ES2MC      59   17 HR HR 2
+ 3710 PH  0637 YL3GAO     59    6 YL2GD      59   17 AU    2
+ 3623 PH  0641 YL3GAO     59    7 OH3Z       59   12 VA    2
+ 3718 PH  0644 YL3GAO     59    8 OZ7X       59   19 AH AH 2
+ 3724 PH  0645 YL3GAO     59    9 LY2SA      59   27 MM MM 2
+ 3727 PH  0646 YL3GAO     59   10 OF1F       59   15 SA SA 2
+ 3729 PH  0648 YL3GAO     59   11 YL9T       59   29 VK VK 2
+ 3735 PH  0652 YL3GAO     59   12 ES6QC      59   33 VO VO 2
+ 3741 PH  0653 YL3GAO     59   13 LY5O       59   41 KM KM 2
+ 3745 PH  0654 YL3GAO     59   14 ES4NY      59   26 IV IV 2
+ 3754 PH  0656 YL3GAO     59   15 YL1S       59   32 RR    2
+ 3766 PH  0658 YL3GAO     59   16 SM5ACQ     59   21 VM VM 2
+ 3643 PH  0700 YL3GAO     59   17 OF1Z       59   30 VA    2
+ 3646 PH  0702 YL3GAO     59   18 LY2BAW     59   62 VV VV 2
+ 3649 PH  0703 YL3GAO     59   19 ES6RW      59   78 VO    2
+ 3726 PH  0705 YL3GAO     59   20 YL1ZT      59   28 TU TU 2
+ 3748 PH  0707 YL3GAO     59   21 LB1AH      59   21 HO HO 2
+ 3707 PH  0712 YL3GAO     59   22 ES7GM      59   83 VP VP 2
+ 3720 PH  0713 YL3GAO     59   23 YL2KF      59   74 LM LM 2
+ 3775 PH  0717 YL3GAO     59   24 YL3FT      59   82 OE OE 2
+ 3779 PH  0718 YL3GAO     59   25 YL100ZK    59   36 RR    2
+ 3765 PH  0719 YL3GAO     59   26 LY4A       59   92 SU SU 2
+ 3760 PH  0720 YL3GAO     59   27 YL2KO      59   75 AU    2
+ 3744 PH  0721 YL3GAO     59   28 LY5W       59   54 KN KN 2
+ 3735 PH  0722 YL3GAO     59   29 LY3BN      59   74 KN    2
+ 3601 PH  0724 YL3GAO     59   30 LY4Q       59   64 VU VU 2
+ 3647 PH  0726 YL3GAO     59   31 YL2PJ      59   77 RE RE 2
+ 3633 PH  0729 YL3GAO     59   32 ES6PA      59   56 VO    2
+ 3724 PH  0731 YL3GAO     59   33 LY4L       59   83 KM    2
+ 3734 PH  0732 YL3GAO     59   34 LY9Y       59   58 SU    2
+ 7141 PH  0736 YL3GAO     59   35 YL2GD      59  102 AU AU 2
+ 7152 PH  0738 YL3GAO     59   36 SA1CCQ     59   55 GO GO 2
+ 7144 PH  0739 YL3GAO     59   37 OZ7X       59   89 AH AH 2
+ 7133 PH  0740 YL3GAO     59   38 OH7A       59   93 PK PK 2
+ 7060 PH  0741 YL3GAO     59   39 ES6QC      59   86 VO VO 2
+ 7070 PH  0742 YL3GAO     59   40 ES2MC      59  117 HR HR 2
+ 7073 PH  0743 YL3GAO     59   41 OH3Z       59  112 VA VA 2
+ 7082 PH  0744 YL3GAO     59   42 ES5QA      59   96 JG JG 2
+ 7089 PH  0745 YL3GAO     59   43 ES6RW      59  138 VO    2
+ 7094 PH  0747 YL3GAO     59   44 OF6MW      59   83 KT KT 2
+ 7100 PH  0747 YL3GAO     59   45 ES7GM      59  147 VP VP 2
+ 7187 PH  0750 YL3GAO     59   46 YL2KO      59  105 AU    2
+ 7184 PH  0751 YL3GAO     59   47 OZ11A      59   58 NJ NJ 1  Nr/59
+ 7168 PH  0753 YL3GAO     59   48 OH6RE      59  109 KE KE 2
+ 7158 PH  0755 YL3GAO     59   49 OF1F       59  130 SA SA 2
+ 7173 PH  0801 YL3GAO     59   50 LY4A       59  159 SU SU 2
+ 7179 PH  0803 YL3GAO     59   51 LB1AH      59   97 HO HO 2
+ 7198 PH  0805 YL3GAO     59   52 OZ4NA      59   63 NJ    2
+ 7162 PH  0807 YL3GAO     59   53 OF8L       59  114 PP PP 2
+ 7200 PH  0809 YL3GAO     59   54 SE5E       59   75 UP UP 2
+ 7082 PH  0811 YL3GAO     59   55 SM5ACQ     59   70 VM VM 2
+ 3641 PH  0814 YL3GAO     59   56 LY4MA      59   44 KM    2
+ 3720 PH  0816 YL3GAO     59   57 LY5P       59   41 SI SI 2
+ 7062 PH  0819 YL3GAO     59   58 YL3FT      59  138 OE OE 2
+ 7136 PH  0821 YL3GAO     59   59 SE5N       59   76 SO SO 2
+ 7189 PH  0829 YL3GAO     59   60 8S0C       59  103 SL SL 2
+ 7194 PH  0830 YL3GAO     59   61 SK2T       59   95 VB    0 Time

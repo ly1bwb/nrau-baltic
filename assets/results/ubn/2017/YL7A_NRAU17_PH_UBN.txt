@@ -1,0 +1,135 @@
+     Call: YL7A
+ Operator:
+ Category: Single Op                      Band   QSO  Points  Mults
+ Power: HIGH                              40m     29      57     24
+     Name: Yuris Petersons                80m     95     180     50
+  Address: Pedeles 8                      Sum    124     237     74
+  Address: Valka                          Total: 17538
+  Address: LATVIA
+
+
+
+ 3638 PH  0630 YL7A       59    1 OZ8PG      59    1 FB FB 2
+ 3638 PH  0631 YL7A       59    2 OH6RE      59    1 KE KE 2
+ 3638 PH  0631 YL7A       59    3 SK2T       59    1 VB VB 2
+ 3638 PH  0633 YL7A       59    4 SE5L       59    1 VM VM 2
+ 3638 PH  0634 YL7A       59    5 ES1O       59    1 TL TL 2
+ 3638 PH  0634 YL7A       59    6 LY3B       59    5 PA PA 2
+ 3638 PH  0635 YL7A       59    7 ES6PA      59    7 VO VO 2
+ 3638 PH  0636 YL7A       59    8 LY4LA      59    8 KD KD 2
+ 3638 PH  0637 YL7A       59    9 OF1TD      59    4 SA SA 2
+ 3638 PH  0638 YL7A       59   10 OF0RJ      59    6 AL AL 2
+ 3638 PH  0639 YL7A       59   11 LY1CO      59    9 KN KN 2
+ 3638 PH  0640 YL7A       59   12 OH7JL      59   10 PK PK 2
+ 3638 PH  0640 YL7A       59   13 LY2ON      59    6 KI KI 2
+ 3638 PH  0640 YL7A       59   14 YL2KO      59   17 AU AU 2
+ 3638 PH  0641 YL7A       59   15 LY3CY      59   13 VU VU 2
+ 3638 PH  0641 YL7A       59   16 LY2J       59   12 MM MM 2
+ 3638 PH  0641 YL7A       59   17 LY1SR      59   10 KM KM 2
+ 3638 PH  0641 YL7A       59   18 LY2TS      59   11 TI TI 2
+ 3637 PH  0643 YL7A       59   19 ES1TU      59   14 TL    2
+ 3637 PH  0643 YL7A       59   20 LY2ND      59   11 KM    2
+ 3637 PH  0644 YL7A       59   21 LY7M       59    3 UT UT 2
+ 3637 PH  0644 YL7A       59   22 LY3IZ      59    8 UT    2
+ 3637 PH  0644 YL7A       59   23 ES2O       59   16 HR HR 2
+ 3637 PH  0645 YL7A       59   24 ES1QD      59   12 TL    2
+ 3637 PH  0645 YL7A       59   25 ES5TF      59   13 TA TA 2
+ 3637 PH  0647 YL7A       59   26 LB3RE      59   14 AA    0  Nr/1 Mult/OP
+ 3637 PH  0647 YL7A       59   27 SE4E       59   16 DA DA 2
+ 3637 PH  0648 YL7A       59   28 LY2BOK     59    9 AT AT 2
+ 3637 PH  0648 YL7A       59   29 YL2PJ      59   28 RE RE 2
+ 3637 PH  0649 YL7A       59   30 SM5ACQ     59   12 VM    2
+ 3637 PH  0649 YL7A       59   31 OH3Z       59   20 VA VA 2
+ 3637 PH  0650 YL7A       59   32 LY5AA      59   14 KM    2
+ 3637 PH  0650 YL7A       59   33 8S0C       59    7 SL SL 2
+ 3637 PH  0652 YL7A       59   34 OH3JP      59   16 KT KT 2
+ 3637 PH  0653 YL7A       59   35 OH7JL      59   20 PK    0  QSO B4
+ 3637 PH  0653 YL7A       59   36 LY2ZO      59   17 KM    2
+ 3637 PH  0654 YL7A       59   37 OZ9VA      59   16 FB    2
+ 3637 PH  0654 YL7A       59   38 LY4A       59   57 SU SU 2
+ 3637 PH  0655 YL7A       59   39 LY5W       59   25 KN    2
+ 3637 PH  0655 YL7A       59   40 OF2KM      59   25 UU UU 2
+ 3637 PH  0655 YL7A       59   41 OF8NV      59   10 PO PO 2
+ 3637 PH  0656 YL7A       59   42 OH3LS      59   23 PM PM 2
+ 3637 PH  0657 YL7A       59   43 YL2ON      59   11 TS TS 2
+ 3637 PH  0657 YL7A       59   44 YL2VW      59   54 RR RR 2
+ 3637 PH  0658 YL7A       59   45 YL2SM      59   48 AU    2
+ 3637 PH  0658 YL7A       59   46 SF3A       59   14 VN VN 2
+ 3637 PH  0659 YL7A       59   47 ES6RMR     59   22 VC VC 2
+ 3637 PH  0659 YL7A       59   48 ES2IPA     59   20 HR    2
+ 3637 PH  0659 YL7A       59   49 LY2BMX     59   14 UT    2
+ 3637 PH  0700 YL7A       59   50 LY2MM      59   45 KM    2
+ 3637 PH  0700 YL7A       59   51 LY2CO      59   62 TI    2
+ 3637 PH  0701 YL7A       59   52 LY6A       59   56 KN    2
+ 3637 PH  0701 YL7A       59   53 LY4L       59   55 KN    1  Mult/KM
+ 3637 PH  0702 YL7A       59   54 LY2PBV     59   27 MM    1  Nr/26
+ 3637 PH  0702 YL7A       59   55 OF8L       59   37 PP PP 2
+ 3637 PH  0703 YL7A       59   56 ES1CN      59   30 TL    2
+ 3637 PH  0703 YL7A       59   57 LY2SA      59   50 MM    2
+ 3637 PH  0704 YL7A       59   58 LY9Y       59   40 SU    2
+ 3637 PH  0704 YL7A       59   59 ES7RIX     59   16 VP VP 2
+ 3637 PH  0704 YL7A       59   60 SE3X       59   18 JL JL 2
+ 3637 PH  0705 YL7A       59   61 LY1CT      59   33 KD    2
+ 3640 PH  0707 YL7A       59   62 ES2EZ      59   62 HR    2
+ 3646 PH  0707 YL7A       59   63 LY2BAW     59   67 VV VV 2
+ 3613 PH  0708 YL7A       59   64 ES2MC      59   74 HR    2
+ 3601 PH  0709 YL7A       59   65 LY4Q       59   56 VU    2
+ 3609 PH  0710 YL7A       59   66 LY5O       59   67 KM    2
+ 3628 PH  0711 YL7A       59   67 ES5QA      59   60 JG JG 2
+ 3632 PH  0712 YL7A       59   68 YL2GD      59   77 AU    2
+ 3638 PH  0713 YL7A       59   69 ES3BM      59   28 RP RP 2
+ 3641 PH  0713 YL7A       59   70 OH8NW      59   69 VA    2
+ 3648 PH  0714 YL7A       59   71 ES5JR      59   26 TA    2
+ 3707 PH  0715 YL7A       59   72 ES7GM      59   86 VP    2
+ 3720 PH  0715 YL7A       59   73 YL2KF      59   77 LM LM 2
+ 3727 PH  0716 YL7A       59   74 OF1F       59   71 SA    2
+ 3729 PH  0716 YL7A       59   75 ES1BH      59   43 TL    2
+ 3735 PH  0717 YL7A       59   76 LY3BN      59   68 KN    2
+ 3753 PH  0718 YL7A       59   77 YL1S       59   61 RR    2
+ 3768 PH  0719 YL7A       59   78 SA1CCQ     59   39 GO GO 2
+ 7159 PH  0721 YL7A       59   79 OZ11A      59   30 NJ NJ 2
+ 3770 PH  0722 YL7A       59   80 OF3P       59   40 PM    2
+ 3757 PH  0724 YL7A       59   81 ES4NY      59   46 IV IV 2
+ 3702 PH  0727 YL7A       59   82 LY5T       59   47 AT    2
+ 3702 PH  0728 YL7A       59   83 OH3MIT     59    1 PM    0  Unique <10
+ 3702 PH  0729 YL7A       59   84 OH2PM      59   82 VA    2
+ 3702 PH  0729 YL7A       59   85 YL9T       59   97 VK VK 2
+ 3702 PH  0730 YL7A       59   86 LA8FTA     59   20 AK AK 2
+ 3702 PH  0731 YL7A       59   87 OF1TD      59   43 SA    0  QSO B4
+ 3702 PH  0731 YL7A       59   88 YL100ZK    59   43 RR    2
+ 3702 PH  0732 YL7A       59   89 LY4K       59   43 KM    2
+ 3711 PH  0734 YL7A       59   90 OZ11A      59   35 NJ NJ 2
+ 3747 PH  0736 YL7A       59   91 LB1AH      59   61 HO HO 2
+ 3770 PH  0737 YL7A       59   92 YL2II      59   16 AI AI 2
+ 3702 PH  0738 YL7A       59   93 LA2XNA     59   35 AK    2
+ 3646 PH  0739 YL7A       59   94 YL2BJ      59  101 VR VR 2
+ 7144 PH  0740 YL7A       59   95 OZ7X       59   93 AH AH 2
+ 7154 PH  0741 YL7A       59   96 YL1ZT      59   50 TU TU 2
+ 7158 PH  0741 YL7A       59   97 OF1F       59  106 SA SA 2
+ 7117 PH  0744 YL7A       59   98 OZ8PG      59   73 FB FB 2
+ 7085 PH  0744 YL7A       59   99 LY2CO      59   97 TI TI 2
+ 7073 PH  0745 YL7A       59  100 OH3Z       59  116 VA VA 2
+ 7070 PH  0746 YL7A       59  101 ES2MC      59  126 HR HR 2
+ 7060 PH  0747 YL7A       59  102 ES6QC      59   92 VO VO 2
+ 7160 PH  0750 YL7A       59  103 SK2T       59   62 VB VB 2
+ 7172 PH  0751 YL7A       59  104 8S0C       59   74 SL SL 2
+ 7200 PH  0752 YL7A       59  105 SE5E       59   62 UP UP 2
+ 3649 PH  0755 YL7A       59  107 YL2AQ      59   12 RR    2
+ 7133 PH  0800 YL7A       59  106 OH7A       59  127 PK PK 2
+ 7162 PH  0801 YL7A       59  108 OF8L       59  100 PP PP 2
+ 7173 PH  0802 YL7A       59  109 LY4A       59  162 SU SU 2
+ 7091 PH  0805 YL7A       59  110 SA1CCQ     59   75 GO GO 2
+ 7073 PH  0805 YL7A       59  111 SF3A       59   53 VN VN 2
+ 7064 PH  0807 YL7A       59  112 YL2KO      59  130 AU AU 2
+ 3628 PH  0810 YL7A       59  113 OF6MW      59  105 KT    2
+ 7058 PH  0812 YL7A       59  114 LY3BN      59  138 KN KN 2
+ 7070 PH  0813 YL7A       59  115 YL2SM      59  147 AU    2
+ 7089 PH  0813 YL7A       59  116 ES6RW      59  176 VO    2
+ 7092 PH  0814 YL7A       59  117 SE5L       59   67 VM VM 2
+ 7136 PH  0816 YL7A       59  118 SE5N       59   69 SO SO 2
+ 7179 PH  0817 YL7A       59  119 LB1AH      59  110 HO HO 2
+ 7153 PH  0819 YL7A       59  120 YL2GD      59  146 AU    2
+ 7100 PH  0824 YL7A       59  121 ES7GM      59  194 VP VP 2
+ 7054 PH  0825 YL7A       59  122 LB3RE      59   29 AA    1  Mult/OP
+ 7085 PH  0827 YL7A       59  123 LA5UF      59   68 VF VF 2
+ 7140 PH  0828 YL7A       59  124 OZ9VA      59   88 FB    2

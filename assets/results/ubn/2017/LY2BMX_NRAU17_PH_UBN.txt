@@ -1,0 +1,62 @@
+     Call: LY2BMX
+ Operator:
+ Category: Single Op                      Band   QSO  Points  Mults
+ Power: LOW                               40m      0       0      0
+     Name: Algirdas Sadaunikas            80m     51      97     30
+  Address: Majokai, near Kavarskas        Sum     51      97     30
+  Address: mail adr. Šventosios str. 16  Total: 2910
+  Address: ,  LT-29258
+
+
+
+ 3635 PH  0637 LY2BMX     59    1 ES3BM      59    7 RP RP 2
+ 3643 PH  0638 LY2BMX     59    2 LY2CO      59   19 TI TI 2
+ 3646 PH  0640 LY2BMX     59    3 LY2BAW     59   14 VV VV 2
+ 3652 PH  0640 LY2BMX     59    3 LY2NY      59   17 KN KN 2
+ 3601 PH  0643 LY2BMX     59    4 LY4Q       59   20 VU VU 2
+ 3604 PH  0643 LY2BMX     59    5 ES1O       59    6 TL TL 2
+ 3607 PH  0644 LY2BMX     59    6 LY1SR      59   13 KM KM 2
+ 3610 PH  0646 LY2BMX     59    7 ES2EZ      59   31 HR HR 2
+ 3612 PH  0647 LY2BMX     59    8 ES7GM      59   37 VP VP 2
+ 3614 PH  0648 LY2BMX     59    9 LY2MM      59   31 KM    2
+ 3617 PH  0649 LY2BMX     59   10 LY2PBV     59   18 MM MM 2
+ 3618 PH  0651 LY2BMX     59   11 OF6MW      59   31 KT KT 2
+ 3629 PH  0656 LY2BMX     59   12 LY6A       59   49 KN    2
+ 3634 PH  0658 LY2BMX     59   13 LY5UF      59    8 VF    0  Call/LA5UF
+ 3637 PH  0659 LY2BMX     59   14 YL7A       59   49 VK VK 2
+ 3643 PH  0702 LY2BMX     59   15 OF1Z       59   35 VA VA 2
+ 3649 PH  0703 LY2BMX     59   16 ES6RW      59   79 VO VO 2
+ 3606 PH  0704 LY2BMX     59   17 LY3BN      59   59 KN    2
+ 3609 PH  0705 LY2BMX     59   18 LY5O       59   58 KM    2
+ 3612 PH  0706 LY2BMX     59   19 LY9Y       59   41 SU SU 2
+ 3628 PH  0710 LY2BMX     59   20 ES5QA      59   57 JG JG 2
+ 3641 PH  0714 LY2BMX     59   21 OH8NW      59   70 VA    2
+ 3647 PH  0716 LY2BMX     59   22 LY2TS      59   51 TI    2
+ 3603 PH  0718 LY2BMX     59   23 OH2PM      59   74 VA    2
+ 3603 PH  0718 LY2BMX     59   24 OZ8PG      59   49 FB FB 2
+ 3603 PH  0719 LY2BMX     59   25 ES0DJ      59   19 SR SR 2
+ 3603 PH  0720 LY2BMX     59   26 OF1TD      59   36 SA SA 2
+ 3603 PH  0720 LY2BMX     59   27 OF2KM      59   43 UU UU 2
+ 3603 PH  0721 LY2BMX     59   28 LY2ON      59   24 KI KI 2
+ 3610 PH  0724 LY2BMX     59   29 LY2SA      59   73 MM    2
+ 3613 PH  0725 LY2BMX     59   30 YL2VW      59   86 RR RR 2
+ 3633 PH  0728 LY2BMX     59   31 ES6PA      59   53 VO    2
+ 3636 PH  0729 LY2BMX     59   32 LY4MA      59   25 KM    2
+ 3644 PH  0730 LY2BMX     59   33 YL2KO      59   87 AU AU 2
+ 3622 PH  0734 LY2BMX     59   34 YL1S       59   73 RR    2
+ 3641 PH  0737 LY2BMX     59   35 LY2ZO      59   38 KM    2
+ 3646 PH  0739 LY2BMX     59   36 YL2BJ      59  100 VR VR 2
+ 3601 PH  0742 LY2BMX     59   37 LY3CY      59   53 VU    2
+ 3601 PH  0743 LY2BMX     59   38 LY5P       59   35 SI SI 2
+ 3601 PH  0744 LY2BMX     59   39 LY3DE      59    2 UT    0  Unique <10
+ 3601 PH  0745 LY2BMX     59   40 LY4L       59  102 KM    2
+ 3601 PH  0746 LY2BMX     59   41 LY2N       59   10 KM    2
+ 3601 PH  0747 LY2BMX     59   42 LY2BOK     59   39 AT AT 2
+ 3601 PH  0749 LY2BMX     59   43 YL2AQ      59    8 RR    1  Nr/9
+ 3601 PH  0751 LY2BMX     59   44 LY3IZ      59   38 UT UT 2
+ 3601 PH  0752 LY2BMX     59   45 YL2II      59   27 AI AI 2
+ 3601 PH  0756 LY2BMX     59   46 LY2ND      59   42 KM    2
+ 3601 PH  0805 LY2BMX     59   47 ES6RMR     59   59 VC VC 2
+ 3601 PH  0808 LY2BMX     59   48 SE4E       59   88 DA DA 2
+ 3636 PH  0813 LY2BMX     59   49 LY2J       59   84 MM    2
+ 3633 PH  0821 LY2BMX     59   50 LY4A       59  180 SU    2

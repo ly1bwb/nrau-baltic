@@ -1,0 +1,52 @@
+     Call: LY2ON
+ Operator:
+ Category: Single Op                      Band   QSO  Points  Mults
+ Power: LOW                               40m     11      20     10
+     Name: VYTAS                          80m     32      57     17
+  Address: KLAIPEDA KLAIPEDA KLAIPEDOS R  Sum     43      77     27
+                                          Total: 2079
+
+
+ 3500 PH  0630 LY2ON      59    1 LY2MM      59    2 KM KM 2
+ 3500 PH  0631 LY2ON      59    2 LY4L       59    8 KM    2
+ 3500 PH  0635 LY2ON      59    3 LY4A       59   14 SU SU 2
+ 3500 PH  0636 LY2ON      59    4 LY6A       59   21 KN KN 2
+ 3500 PH  0638 LY2ON      59    5 ES5QA      59   14 JG JG 2
+ 3500 PH  0640 LY2ON      59    6 YL7A       59   13 VK VK 2
+ 3500 PH  0641 LY2ON      59    7 LY2CO      59   25 TI TI 2
+ 3500 PH  0643 LY2ON      59    8 LY2BAW     59   23 VV VV 2
+ 3500 PH  0644 LY2ON      59    9 ES6RM      59   33 VO    0  Call/ES6RW
+ 3500 PH  0647 LY2ON      59   10 YL9T       59   27 VK    2
+ 3500 PH  0650 LY2ON      59   11 OZ8PG      59   20 FB FB 2
+ 3500 PH  0652 LY2ON      59   12 LY5O       59   38 KM    2
+ 3500 PH  0653 LY2ON      59   13 YL2BJ      59   51 VR VR 2
+ 3500 PH  0654 LY2ON      59   14 YL1S       59   27 RR RR 2
+ 3500 PH  0656 LY2ON      59   15 OH2PM      59   44 VA VA 2
+ 3500 PH  0657 LY2ON      59   16 SM5ACQ     59   20 VM VM 2
+ 3500 PH  0702 LY2ON      59   17 YL2KF      59   58 LM LM 2
+ 3500 PH  0704 LY2ON      59   18 ES5Q       59   51 JG    0  Call/ES5QA
+ 3500 PH  0706 LY2ON      59   19 LY4MA      59    6 KM    2
+ 3500 PH  0711 LY2ON      59   20 LY2TS      59   44 TI    2
+ 3500 PH  0715 LY2ON      59   21 OH3Z       59   72 VA    2
+ 3500 PH  0719 LY2ON      59   22 OF1Z       59   70 VA    2
+ 3500 PH  0720 LY2ON      59   23 LY2SA      59   65 MM MM 2
+ 3500 PH  0721 LY2ON      59   24 LY2BMX     59   28 UT UT 2
+ 3500 PH  0723 LY2ON      59   25 LY4Q       59   63 VU VU 2
+ 3500 PH  0725 LY2ON      59   26 LY2J       59   60 MM    2
+ 3500 PH  0726 LY2ON      59   27 LY3BW      59   80 KN    0  Call/LY3BN
+ 3500 PH  0727 LY2ON      59   28 LY5W       59   61 KN    2
+ 7000 PH  0729 LY2ON      59   29 ES7GM      59  111 VP VP 2
+ 3500 PH  0730 LY2ON      59   30 ES7GM      59  113 VP VP 2
+ 7000 PH  0732 LY2ON      59   31 OH9NW      59   85 VA    0  Call/OH8NW
+ 7000 PH  0735 LY2ON      59   32 YL2GD      59  101 AU AU 2
+ 7000 PH  0737 LY2ON      59   33 OH7A       59   89 PK PK 2
+ 3500 PH  0746 LY2ON      59   34 LY2PBV     59   36 MM    1  Nr/35
+ 3500 PH  0747 LY2ON      59   35 LY3CY      59   55 VU    2
+ 7000 PH  0752 LY2ON      59   36 LY4LA      59   53 KD KD 2
+ 3500 PH  0758 LY2ON      59   37 LY1CO      59   63 KN    2
+ 7000 PH  0806 LY2ON      59   38 ES5JR      59   54 TA TA 2
+ 7000 PH  0816 LY2ON      59   39 OZ7X       59  162 AH AH 2
+ 7000 PH  0821 LY2ON      59   40 ES3BM      59   62 RP RP 2
+ 7000 PH  0823 LY2ON      59   41 ES2MC      59  169 HR HR 2
+ 7000 PH  0825 LY2ON      59   42 OF8L       59  129 PP PP 2
+ 7000 PH  0827 LY2ON      59   43 LB1AH      59  125 HO HO 2

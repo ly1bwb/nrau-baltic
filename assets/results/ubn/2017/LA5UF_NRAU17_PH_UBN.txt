@@ -1,0 +1,85 @@
+     Call: LA5UF
+ Operator:
+ Category: Single Op                      Band   QSO  Points  Mults
+ Power: HIGH                              40m     45      78     29
+     Name: Jorgen Hoel                    80m     29      54     21
+  Address: Agnesveien 12                  Sum     74     132     50
+  Address: Stavern                        Total: 6600
+  Address: NORWAY
+
+
+
+ 3500 PH  0636 LA5UF      59    1 LY2NY      59    4 KN KN 2
+ 3500 PH  0643 LA5UF      59    2 LY7M       59    2 UT UT 2
+ 3500 PH  0645 LA5UF      59    3 ES1TU      59   16 TL TL 2
+ 3500 PH  0654 LA5UF      59    4 OH3LS      59   22 PM PM 2
+ 3500 PH  0655 LA5UF      59    5 OF1Z       59   20 VA VA 2
+ 3500 PH  0656 LA5UF      59    6 LY3B       59   30 PA PA 2
+ 3500 PH  0656 LA5UF      59    7 ES5QA      59   38 JG JG 2
+ 3500 PH  0658 LA5UF      59    8 LY2BMX     59   13 UT    2
+ 3500 PH  0659 LA5UF      59    9 LY2MM      59   44 KM KM 2
+ 3500 PH  0700 LA5UF      59   10 LY2CO      59   61 TI TI 2
+ 3500 PH  0702 LA5UF      59   11 ES1CN      59   29 TL    2
+ 3500 PH  0703 LA5UF      59   12 OF2KM      59   34 UU UU 2
+ 3500 PH  0705 LA5UF      59   13 OF8L       59   41 PP PP 2
+ 3500 PH  0706 LA5UF      59   14 LY1CT      59   34 KD KD 2
+ 3500 PH  0706 LA5UF      59   15 LY6A       59   62 KN    2
+ 3500 PH  0709 LA5UF      59   16 YL2BJ      59   78 VR VR 2
+ 3500 PH  0710 LA5UF      59   17 LY2TS      59   42 TI    2
+ 3500 PH  0710 LA5UF      59   18 LY2ND      59   22 KM    2
+ 3500 PH  0712 LA5UF      59   19 OH7JL      59   33 PK PK 2
+ 3500 PH  0712 LA5UF      59   20 LY5AA      59   21 KM    2
+ 3500 PH  0714 LA5UF      59   21 LY2GD      59   80 AU    0  Call/YL2GD
+ 3500 PH  0716 LA5UF      59   22 8S0C       59   37 SL SL 2
+ 3500 PH  0717 LA5UF      59   23 LY4Q       59   59 VU VU 2
+ 3500 PH  0717 LA5UF      59   24 OZ1VA      59   30 FB    0  Call/OZ9VA
+ 3500 PH  0722 LA5UF      59   25 SF3A       59   24 VN VN 2
+ 3500 PH  0724 LA5UF      59   26 SK2T       59   39 VB VB 2
+ 3500 PH  0724 LA5UF      59   27 SE5E       59   30 UP UP 2
+ 3500 PH  0727 LA5UF      59   28 ES0DJ      59   21 SR SR 2
+ 7000 PH  0734 LA5UF      59   29 ES1TU      59   59 TL TL 2
+ 7000 PH  0736 LA5UF      59   30 YL9T       59  102 VK VK 2
+ 7000 PH  0737 LA5UF      59   31 ES0DJ      59   26 SR SR 2
+ 7000 PH  0737 LA5UF      59   32 OH6RE      59   82 KE KE 2
+ 7000 PH  0738 LA5UF      59   33 OH3LS      59   52 PM PM 2
+ 7000 PH  0738 LA5UF      59   34 LY7M       59   57 UT UT 2
+ 7000 PH  0739 LA5UF      59   35 OH2ND      59   33 KM    0  Call/LY2ND
+ 7000 PH  0739 LA5UF      59   36 OH2KW      59   61 UU    0  NotinLog
+ 7000 PH  0740 LA5UF      59   37 OF1Z       59   87 VA VA 2
+ 7000 PH  0740 LA5UF      59   38 ES2EZ      59   97 HR HR 2
+ 7000 PH  0743 LA5UF      59   39 LY2BAW     59   92 VV VV 2
+ 7000 PH  0744 LA5UF      59   40 ES6RW      59  136 VO VO 2
+ 7000 PH  0745 LA5UF      59   41 LY2SA      59   95 MM MM 2
+ 7000 PH  0746 LA5UF      59   42 ES5QA      59  101 JG JG 2
+ 7000 PH  0746 LA5UF      59   43 YL2SM      59  114 AU AU 2
+ 7000 PH  0747 LA5UF      59   44 OH3Z       59  121 VA    2
+ 7000 PH  0750 LA5UF      59   45 ES6QC      59   96 VO    2
+ 7000 PH  0752 LA5UF      59   46 ES7GM      59  155 VP VP 2
+ 3500 PH  0753 LA5UF      59   47 ES7GM      59  158 VP VP 2
+ 7000 PH  0800 LA5UF      59   48 OF8NV      59   44 PO PO 2
+ 7000 PH  0800 LA5UF      59   49 LY6A       59  134 KN KN 2
+ 7000 PH  0801 LA5UF      59   50 YL1ZT      59   62 TU TU 2
+ 7000 PH  0802 LA5UF      59   51 ES2O       59   57 HR    2
+ 7000 PH  0804 LA5UF      59   52 SE3X       59   49 JL JL 2
+ 7000 PH  0810 LA5UF      59   53 SF3A       59   56 VN VN 2
+ 7000 PH  0810 LA5UF      59   54 OF1F       59  151 SA SA 2
+ 7000 PH  0811 LA5UF      59   55 YL2KO      59  141 AU    2
+ 7000 PH  0811 LA5UF      59   56 YL3FT      59  130 OE OE 2
+ 7000 PH  0816 LA5UF      59   57 OF3R       59   41 PH PH 1  Nr/42
+ 7000 PH  0816 LA5UF      59   58 LY5W       59  114 KN    2
+ 7000 PH  0819 LA5UF      59   59 ES1OD      59   12 TL    0  Nr/63 Call/ES1QD
+ 7000 PH  0821 LA5UF      59   60 YL1S       59  110 RR RR 2
+ 7000 PH  0822 LA5UF      59   61 ES4NY      59   74 VO    1  Mult/IV
+ 7000 PH  0823 LA5UF      59   62 LY4K       59   72 KM KM 2
+ 7000 PH  0824 LA5UF      59   63 ES6PA      59   97 VO    2
+ 7000 PH  0825 LA5UF      59   64 LY1CO      59   73 KN    2
+ 7000 PH  0826 LA5UF      59   65 YL2PJ      59  126 RE RE 2
+ 7000 PH  0826 LA5UF      59   66 OF2J       59   41 UU UU 2
+ 7000 PH  0826 LA5UF      59   67 OH3JP      59   73 KT KT 2
+ 7000 PH  0827 LA5UF      59   68 YL7A       59  123 VK    2
+ 7000 PH  0827 LA5UF      59   69 YL2VW      59  140 RR    2
+ 7000 PH  0828 LA5UF      59   70 OZ8PG      59  129 FB FB 2
+ 7000 PH  0829 LA5UF      59   71 OF1LAR     59   30 VA    2
+ 7000 PH  0829 LA5UF      59   72 LY3B       59   98 PA PA 2
+ 7000 PH  0830 LA5UF      59   73 LY5T       59   86 AT    0 Time
+ 7000 PH  0830 LA5UF      59   74 OF0RJ      59   68 AL    0 Time

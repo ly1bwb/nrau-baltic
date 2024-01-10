@@ -1,0 +1,58 @@
+     Call: LY4MA
+ Operator:
+ Category: Single Op                      Band   QSO  Points  Mults
+ Power: LOW                               40m      0       0      0
+     Name: Andrius                        80m     47      89     22
+  Address: Partizanu g.                   Sum     47      89     22
+  Address: Kaunas,  LT-11346              Total: 1958
+  Address: LITHUANIA
+
+
+
+ 3600 PH  0702 LY4MA      59    1 LY3BN      59   55 KN KN 2
+ 3600 PH  0704 LY4MA      59    2 LY5W       59   37 KN    2
+ 3600 PH  0706 LY4MA      59    3 LY4Q       59   52 VU VU 2
+ 3600 PH  0707 LY4MA      59    4 LY5O       59   61 KM KM 2
+ 3600 PH  0708 LY4MA      59    5 ES2MC      59   72 HR HR 2
+ 3600 PH  0709 LY4MA      59    6 LY2ON      59   19 KI KI 2
+ 3600 PH  0709 LY4MA      59    7 LY2BAG     59   14 KM    2
+ 3600 PH  0710 LY4MA      59    8 LY2BOK     59   21 AT AT 2
+ 3600 PH  0712 LY4MA      59    9 LY3CY      59   38 VU    2
+ 3600 PH  0713 LY4MA      59   10 LY1CO      59   33 KN    2
+ 3600 PH  0714 LY4MA      59   11 LY1SR      59   41 KM    2
+ 3600 PH  0714 LY4MA      59   12 LY3PDX     59   17 MM MM 2
+ 3600 PH  0716 LY4MA      59   13 LY2ND      59   24 KM    2
+ 3600 PH  0718 LY4MA      59   14 YL3BJ      59   87 VR    0  Call/YL2BJ
+ 3600 PH  0720 LY4MA      59   15 LY4L       59   75 KM    2
+ 3600 PH  0720 LY4MA      59   16 LY2NY      59   48 KN    2
+ 3600 PH  0721 LY4MA      59   17 LY4K       59   34 KM    2
+ 3600 PH  0721 LY4MA      59   18 LY4LA      59   40 KD KD 2
+ 3600 PH  0723 LY4MA      59   19 LY3B       59   49 PA PA 2
+ 3600 PH  0723 LY4MA      59   20 LY2MM      59   68 KM    2
+ 3600 PH  0724 LY4MA      59   21 LY5AA      59   30 KM    2
+ 3600 PH  0725 LY4MA      59   22 OF1TD      59   39 SA SA 2
+ 3600 PH  0726 LY4MA      59   23 LY1CT      59   49 KD    2
+ 3600 PH  0728 LY4MA      59   24 SE5E       59   36 UP UP 2
+ 3600 PH  0729 LY4MA      59   25 LY2BMX     59   32 UT UT 2
+ 3600 PH  0729 LY4MA      59   26 LY2ZO      59   34 KM    2
+ 3600 PH  0732 LY4MA      59   27 YL2GD      59   95 AU AU 2
+ 3600 PH  0732 LY4MA      59   28 YL9T       59  100 VK VK 2
+ 3600 PH  0733 LY4MA      59   29 YL2KO      59   89 AU    2
+ 3600 PH  0733 LY4MA      59   30 LY3IZ      59   33 UT    2
+ 3600 PH  0734 LY4MA      59   31 SM5ACQ     59   40 VM VM 2
+ 3600 PH  0735 LY4MA      59   32 LY2PBV     59   33 MM    1  Nr/32
+ 3600 PH  0737 LY4MA      59   33 YL2SM      59   98 AU    2
+ 3600 PH  0738 LY4MA      59   34 OH2PM      59   86 VA VA 2
+ 3600 PH  0739 LY4MA      59   35 LY5P       59   33 SI SI 2
+ 3600 PH  0742 LY4MA      59   36 LY2N       59    6 KM    2
+ 3600 PH  0742 LY4MA      59   37 LY3DE      59    1 UT    0  Unique <10
+ 3600 PH  0748 LY4MA      59   38 YL2II      59   25 AI AI 2
+ 3600 PH  0752 LY4MA      59   39 LY6A       59  127 KN    2
+ 3600 PH  0755 LY4MA      59   40 YL2AQ      59   11 RR RR 2
+ 3600 PH  0757 LY4MA      59   41 ES3BQ      59   14 RP RP 2
+ 3600 PH  0805 LY4MA      59   42 OF1LAR     59   23 VA    2
+ 3600 PH  0809 LY4MA      59   43 LY2J       59   83 MM    2
+ 3600 PH  0814 LY4MA      59   44 YL3GAO     59   56 DO DO 2
+ 3600 PH  0815 LY4MA      59   45 LY4A       59  173 SU SU 2
+ 3600 PH  0823 LY4MA      59   46 YL100ZK    59   68 RR    2
+ 3600 PH  0825 LY4MA      59   47 OH3Z       59  152 VA    2

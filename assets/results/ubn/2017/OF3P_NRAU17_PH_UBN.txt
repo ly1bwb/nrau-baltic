@@ -1,0 +1,89 @@
+     Call: OF3P
+ Operator: OH3P
+ Category: Single Op                      Band   QSO  Points  Mults
+ Power: LOW                               40m     18      36     13
+     Name: Vesa Myllykangas               80m     60     112     41
+  Address: Kurjenmiekantie 19             Sum     78     148     54
+  Address: 33480 Ylojarvi                 Total: 7992
+  Address: Finland
+
+
+
+ 3762 PH  0636 OF3P       59    1 OF2J       59    5 UU UU 2
+ 3762 PH  0637 OF3P       59    2 YL2KO      59   11 AU AU 2
+ 3762 PH  0640 OF3P       59    3 YL1ZT      59    7 TU TU 2
+ 3762 PH  0641 OF3P       59    4 OF1LAR     59    6 VA VA 2
+ 3762 PH  0642 OF3P       59    5 LY4K       59    2 KM KM 1  Nr/12
+ 3762 PH  0643 OF3P       59    6 OH3LS      59   12 PM PM 2
+ 3762 PH  0643 OF3P       59    7 YL1S       59   18 RR RR 2
+ 3762 PH  0644 OF3P       59    8 SE5N       59    4 SO SO 2
+ 3762 PH  0644 OF3P       59    9 OF8UV      59   10 KU KU 2
+ 3762 PH  0646 OF3P       59   10 OZ6ARC     59    7 SJ SJ 2
+ 3762 PH  0647 OF3P       59   11 ES1CN      59   11 TL TL 1  Nr/19
+ 3762 PH  0647 OF3P       59   12 OF2KM      59   17 UU    2
+ 3762 PH  0648 OF3P       59   13 YL100ZK    59   11 RR    2
+ 3762 PH  0648 OF3P       59   14 OH8NW      59   24 VA    2
+ 3762 PH  0651 OF3P       59   15 LY2J       59   24 MM MM 2
+ 3759 PH  0652 OF3P       59   16 OH2PM      59   36 VA    2
+ 3751 PH  0653 OF3P       59   17 OF8L       59   26 PP PP 2
+ 3748 PH  0654 OF3P       59   18 YL2BJ      59   54 VR VR 2
+ 3744 PH  0655 OF3P       59   19 ES4NY      59   27 IV IV 2
+ 3735 PH  0657 OF3P       59   20 ES6QC      59   43 VO VO 2
+ 3729 PH  0658 OF3P       59   21 YL9T       59   53 VK VK 2
+ 3726 PH  0659 OF3P       59   22 OF1F       59   37 SA SA 2
+ 3724 PH  0700 OF3P       59   23 LY5T       59   20 AT AT 2
+ 3720 PH  0702 OF3P       59   24 YL2KF      59   57 LM LM 2
+ 3715 PH  0703 OF3P       59   25 OH7A       59   53 PK PK 2
+ 3712 PH  0704 OF3P       59   26 OH2KW      59   37 UU    2
+ 3701 PH  0705 OF3P       59   27 YL2SM      59   57 AU    2
+ 3646 PH  0708 OF3P       59   28 LY2BAW     59   68 VV VV 2
+ 3643 PH  0709 OF3P       59   29 OF1Z       59   50 VA    2
+ 3628 PH  0711 OF3P       59   30 ES5QA      59   56 JG JG 1  Nr/59
+ 3774 PH  0713 OF3P       59   31 YL3FT      59   76 OE OE 2
+ 3770 PH  0714 OF3P       59   32 LY9Y       59   45 SU SU 2
+ 3770 PH  0715 OF3P       59   33 OH6ECM     59   28 PO PO 2
+ 3770 PH  0716 OF3P       59   34 LY5W       59   51 KN KN 2
+ 3770 PH  0717 OF3P       59   35 SE4E       59   42 DA DA 2
+ 3770 PH  0720 OF3P       59   36 LY1CT      59   45 KD KD 2
+ 3770 PH  0720 OF3P       59   37 LY2MM      59   66 KM    2
+ 3770 PH  0721 OF3P       59   38 OF0RJ      59   32 AL AL 1  Nr/31
+ 3770 PH  0721 OF3P       59   39 SA0BVA     59   18 SL SL 2
+ 3770 PH  0722 OF3P       59   40 YL7A       59   80 VK    2
+ 3770 PH  0723 OF3P       59   41 OH3JP      59   39 KT KT 2
+ 3770 PH  0724 OF3P       59   42 ES2MC      59   95 HR HR 2
+ 3770 PH  0725 OF3P       59   43 ES1BH      59   56 TL    2
+ 3770 PH  0725 OF3P       59   44 8S0C       59   44 SL    2
+ 3770 PH  0726 OF3P       59   45 OH6RE      59   75 KE KE 2
+ 3770 PH  0728 OF3P       59   46 YL2VW      59   87 RR    2
+ 3770 PH  0728 OF3P       59   47 YL2PJ      59   79 RE RE 2
+ 3770 PH  0729 OF3P       59   48 ES5JR      59   39 TA TA 2
+ 3770 PH  0731 OF3P       59   49 SK2T       59   45 VB VB 2
+ 3770 PH  0731 OF3P       59   50 ES1TU      59   57 TL    2
+ 3770 PH  0732 OF3P       59   51 ES7GM      59  114 VP VP 2
+ 3770 PH  0732 OF3P       59   52 SE5E       59   40 UP UP 2
+ 3770 PH  0734 OF3P       59   53 YL4A       59  114 SU    0  Call/LY4A
+ 3770 PH  0734 OF3P       59   54 OH3RT      59   10 PH PH 2
+ 3770 PH  0736 OF3P       59   55 LY2N       59    2 KM    2
+ 3771 PH  0738 OF3P       59   56 ES2IPA     59   39 HR    2
+ 3771 PH  0739 OF3P       59   57 LY3CY      59   52 VU VU 2
+ 3771 PH  0739 OF3P       59   58 OF1TD      59   49 SA    2
+ 3771 PH  0740 OF3P       59   59 LB3RG      59   12 OP    0  Call/LB3RE
+ 7059 PH  0746 OF3P       59   60 LY4Q       59   76 VU VU 2
+ 7062 PH  0746 OF3P       59   61 LY6A       59  116 KN KN 2
+ 7064 PH  0748 OF3P       59   62 LY1SR      59   68 KM KM 2
+ 7144 PH  0752 OF3P       59   63 OZ7X       59  118 AH AH 2
+ 7154 PH  0754 OF3P       59   64 LY2ZO      59   60 KM    2
+ 3765 PH  0759 OF3P       59   65 LY4A       59  155 SU    2
+ 7173 PH  0759 OF3P       59   66 LY4A       59  156 SU SU 2
+ 7188 PH  0801 OF3P       59   67 YL2PJ      59  105 RE RE 2
+ 7188 PH  0802 OF3P       59   68 YL3FT      59  121 OE OE 2
+ 7188 PH  0803 OF3P       59   69 LY4LA      59   58 KD KD 2
+ 7188 PH  0805 OF3P       59   70 LY1CO      59   65 KN    2
+ 7188 PH  0805 OF3P       59   71 YL2II      59   31 AI AI 2
+ 7188 PH  0806 OF3P       59   72 YL1S       59  100 RR RR 2
+ 7188 PH  0810 OF3P       59   73 LY2TS      59   91 TI TI 2
+ 7188 PH  0811 OF3P       59   74 LY2SA      59  123 MM MM 2
+ 7058 PH  0817 OF3P       59   75 SM6IQD     59   57 VD VD 2
+ 7058 PH  0818 OF3P       59   76 LY2CO      59  121 TI    2
+ 7064 PH  0821 OF3P       59   77 LY4L       59  144 KM    2
+ 7061 PH  0828 OF3P       59   78 LY3BN      59  160 KN    2

@@ -1,0 +1,135 @@
+     Call: LY2CO
+ Operator:
+ Category: Single Op                      Band   QSO  Points  Mults
+ Power: LOW                               40m     37      74     29
+     Name: Rimas Kelpsa                   80m     87     169     45
+  Address: Naftininku 32 - 6              Sum    124     243     74
+  Address: Mazeikiai,  LT89132            Total: 17982
+  Address: Lithuania
+
+
+
+ 3643 PH  0630 LY2CO      59    1 LY5AA      59    1 KM KM 2
+ 3643 PH  0630 LY2CO      59    2 LY1CO      59    1 KN KN 2
+ 3643 PH  0631 LY2CO      59    3 LY3IZ      59    1 UT UT 2
+ 3643 PH  0631 LY2CO      59    4 LY2ND      59    2 KM    2
+ 3643 PH  0631 LY2CO      59    5 LY4K       59    1 KM    2
+ 3643 PH  0632 LY2CO      59    6 LY1CT      59    1 KD KD 2
+ 3643 PH  0633 LY2CO      59    7 ES2O       59    5 HR HR 2
+ 3643 PH  0634 LY2CO      59    8 LY4MA      59    1 KM    0  NotinLog
+ 3643 PH  0634 LY2CO      59    9 OH6RE      59    8 KE KE 2
+ 3643 PH  0634 LY2CO      59   10 LY2NY      59    5 KN    2
+ 3643 PH  0635 LY2CO      59   11 LY3B       59    6 PA PA 2
+ 3643 PH  0635 LY2CO      59   12 SK2T       59    3 VN    1  Mult/VB
+ 3643 PH  0636 LY2CO      59   13 OF0RJ      59    5 AL AL 2
+ 3643 PH  0637 LY2CO      59   14 LY4LA      59    9 KD    2
+ 3643 PH  0637 LY2CO      59   15 LY3CY      59    9 VU VU 2
+ 3643 PH  0637 LY2CO      59   16 OF1TD      59    5 SA SA 2
+ 3643 PH  0638 LY2CO      59   17 LY3PDX     59    3 MM MM 2
+ 3643 PH  0638 LY2CO      59   18 ES6PA      59    8 VO VO 2
+ 3643 PH  0638 LY2CO      59   19 LY2BMX     59    2 UT    2
+ 3643 PH  0639 LY2CO      59   20 LY1SR      59    7 KM    2
+ 3643 PH  0639 LY2CO      59   21 LY2PBV     59    7 MM    2
+ 3643 PH  0640 LY2CO      59   22 YL2KO      59   16 AU AU 2
+ 3643 PH  0640 LY2CO      59   23 OZ8PG      59    8 FB FB 2
+ 3643 PH  0641 LY2CO      59   24 OZ4NA      59   10 NJ NJ 2
+ 3643 PH  0641 LY2CO      59   25 LY2ON      59    7 KI KI 2
+ 3643 PH  0642 LY2CO      59   26 LY2J       59   13 MM    2
+ 3643 PH  0642 LY2CO      59   27 LY2TS      59   12 TI TI 2
+ 3643 PH  0643 LY2CO      59   28 OF3R       59    5 PH PH 2
+ 3643 PH  0643 LY2CO      59   29 LB1AH      59    6 HO HO 2
+ 3643 PH  0643 LY2CO      59   30 ES1TU      59   15 TL TL 2
+ 3643 PH  0644 LY2CO      59   31 LY5P       59    9 SI SI 2
+ 3643 PH  0644 LY2CO      59   32 ES6TF      59   12 TA    0  Call/ES5TF
+ 3643 PH  0645 LY2CO      59   33 OZ1KKH     59    9 AH AH 2
+ 3643 PH  0647 LY2CO      59   34 SD6M       59    4 VD VD 2
+ 3643 PH  0647 LY2CO      59   35 LY9Y       59   23 SU SU 2
+ 3643 PH  0647 LY2CO      59   36 SE4E       59   17 DA DA 2
+ 3643 PH  0647 LY2CO      59   37 YL2PJ      59   26 RE RE 2
+ 3643 PH  0648 LY2CO      59   38 SF3A       59   11 VN VN 2
+ 3643 PH  0649 LY2CO      59   39 SA0BVA     59    6 SL SL 2
+ 3643 PH  0649 LY2CO      59   40 OF1Z       59   15 VA VA 2
+ 3643 PH  0650 LY2CO      59   41 OH3Z       59   21 VA    2
+ 3643 PH  0650 LY2CO      59   42 LY2BAG     59   10 KM    2
+ 3643 PH  0651 LY2CO      59   43 OZ9VA      59   14 FB    2
+ 3643 PH  0651 LY2CO      59   44 OH3JP      59   15 KT KT 2
+ 3643 PH  0651 LY2CO      59   45 8S0C       59    8 SL    2
+ 3643 PH  0652 LY2CO      59   46 LY7M       59   13 UT    2
+ 3643 PH  0652 LY2CO      59   47 LY5T       59   13 AT AT 2
+ 3643 PH  0653 LY2CO      59   48 LY2ZO      59   16 KM    2
+ 3643 PH  0653 LY2CO      59   49 ES7RIX     59    7 VP VP 2
+ 3643 PH  0653 LY2CO      59   50 LY4A       59   55 SU    2
+ 3646 PH  0654 LY2CO      59   51 LY2BAW     59   46 VV VV 2
+ 3649 PH  0654 LY2CO      59   52 ES6RW      59   60 VO    2
+ 3630 PH  0655 LY2CO      59   53 LY2SA      59   43 MM    2
+ 3625 PH  0655 LY2CO      59   54 ES1BH      59   11 TL    2
+ 3619 PH  0656 LY2CO      59   55 OF6MW      59   41 KT    2
+ 3616 PH  0656 LY2CO      59   56 OH8NW      59   42 VA    2
+ 3612 PH  0657 LY2CO      59   57 ES7GM      59   57 VP    2
+ 3609 PH  0657 LY2CO      59   58 ES2EZ      59   52 HR    2
+ 3606 PH  0658 LY2CO      59   59 LY3BN      59   48 KN    2
+ 3601 PH  0658 LY2CO      59   60 LY4Q       59   44 VU    2
+ 3634 PH  0700 LY2CO      59   61 LA5UF      59   10 VF VF 2
+ 3637 PH  0700 LY2CO      59   62 YL7A       59   51 VK VK 2
+ 3640 PH  0701 LY2CO      59   63 LY4L       59   54 KM    2
+ 3640 PH  0702 LY2CO      59   64 OF2KM      59   33 UU UU 2
+ 3632 PH  0703 LY2CO      59   65 YL2GD      59   63 AU    2
+ 3628 PH  0704 LY2CO      59   66 ES5QA      59   45 JG JG 2
+ 3609 PH  0705 LY2CO      59   67 LY5O       59   56 KM    2
+ 3604 PH  0706 LY2CO      59   68 ES3BM      59   26 RP RP 2
+ 3735 PH  0708 LY2CO      59   69 ES6QC      59   56 VO    2
+ 3775 PH  0708 LY2CO      59   70 YL3FT      59   64 OE OE 2
+ 3768 PH  0709 LY2CO      59   71 SA1CCQ     59   27 GO GO 2
+ 3759 PH  0710 LY2CO      59   72 OH2PM      59   66 VA    2
+ 3720 PH  0711 LY2CO      59   73 YL2KF      59   70 LM LM 2
+ 3727 PH  0712 LY2CO      59   74 OF1F       59   62 SA    2
+ 3729 PH  0713 LY2CO      59   75 YL9T       59   78 VK    2
+ 3758 PH  0716 LY2CO      59   76 ES1CN      59   39 TL    2
+ 3779 PH  0717 LY2CO      59   77 YL100ZK    59   35 RR RR 2
+ 3753 PH  0717 LY2CO      59   78 YL1S       59   59 RR    2
+ 3702 PH  0720 LY2CO      59   79 YL2SM      59   86 AU    2
+ 3715 PH  0721 LY2CO      59   80 OH7A       59   76 PK PK 2
+ 3718 PH  0722 LY2CO      59   81 OZ7X       59   70 AH    2
+ 3744 PH  0723 LY2CO      59   82 LY5W       59   57 KN    2
+ 3754 PH  0724 LY2CO      59   83 OF8L       59   54 PP PP 2
+ 3726 PH  0724 LY2CO      59   84 LY6A       59   80 KN    2
+ 3752 PH  0728 LY2CO      59   85 OZ7SG      59   20 NJ    2
+ 3753 PH  0729 LY2CO      59   86 YL2BJ      59   96 VR VR 2
+ 7066 PH  0737 LY2CO      59   87 OF8L       59   70 PP PP 2
+ 7060 PH  0737 LY2CO      59   88 ES6QC      59   83 VO VO 2
+ 7070 PH  0738 LY2CO      59   89 ES2MC      59  111 HR HR 2
+ 3611 PH  0739 LY2CO      59   90 ES2MC      59  112 HR    2
+ 7073 PH  0740 LY2CO      59   91 OH3Z       59  106 VA VA 2
+ 7089 PH  0740 LY2CO      59   92 ES6RW      59  129 VO    2
+ 7085 PH  0742 LY2CO      59   93 OZ6ARC     59   32 SJ SJ 2
+ 7085 PH  0742 LY2CO      59   94 SE5E       59   47 UP UP 2
+ 7085 PH  0743 LY2CO      59   95 SE3X       59   35 JL JL 2
+ 7085 PH  0744 LY2CO      59   96 YL2KF      59   90 LM LM 2
+ 7085 PH  0744 LY2CO      59   97 YL7A       59   99 VK VK 2
+ 7082 PH  0747 LY2CO      59   98 ES5QA      59  104 JG JG 2
+ 7076 PH  0747 LY2CO      59   99 YL2SM      59  116 AU AU 2
+ 7072 PH  0748 LY2CO      59  100 ES3BM      59   46 RP RP 2
+ 7100 PH  0750 LY2CO      59  101 ES7GM      59  154 VP VP 2
+ 7168 PH  0752 LY2CO      59  102 OH6RE      59  106 KE KE 2
+ 7172 PH  0754 LY2CO      59  103 8S0C       59   81 SL SL 2
+ 7179 PH  0755 LY2CO      59  104 LB1AH      59   84 HO HO 2
+ 7183 PH  0756 LY2CO      59  105 OZ11A      59   67 NJ NJ 2
+ 7181 PH  0758 LY2CO      59  106 OZ8PG      59   94 FB FB 2
+ 7158 PH  0759 LY2CO      59  107 OF1F       59  138 SA SA 2
+ 7133 PH  0800 LY2CO      59  108 OH7A       59  128 PK PK 2
+ 7176 PH  0802 LY2CO      59  109 OH8NW      59  113 VA    2
+ 7144 PH  0803 LY2CO      59  110 OZ7X       59  144 AH AH 2
+ 7156 PH  0807 LY2CO      59  111 ES1O       59   35 TL TL 2
+ 7156 PH  0807 LY2CO      59  112 OZ7SG      59   39 NJ    2
+ 7156 PH  0807 LY2CO      59  113 OF2KM      59   76 UU UU 2
+ 7156 PH  0808 LY2CO      59  114 ES2IPA     59   52 HR    2
+ 7189 PH  0812 LY2CO      59  115 OH2PM      59  123 VA    2
+ 7195 PH  0812 LY2CO      59  116 OF6MW      59  106 KT KT 2
+ 7198 PH  0813 LY2CO      59  117 OZ4NA      59   75 NJ    2
+ 7140 PH  0815 LY2CO      59  118 OZ9VA      59   70 FB    2
+ 7065 PH  0816 LY2CO      59  119 ES2EZ      59  126 HR    2
+ 7082 PH  0816 LY2CO      59  120 SM5ACQ     59   77 VM VM 2
+ 7058 PH  0818 LY2CO      59  121 OF3P       59   76 PM PM 2
+ 7086 PH  0820 LY2CO      59  122 SD6M       59   61 VD VD 2
+ 7180 PH  0828 LY2CO      59  123 LA8FTA     59   63 AK AK 2
+ 7193 PH  0828 LY2CO      59  124 SK2T       59   93 VB VB 2

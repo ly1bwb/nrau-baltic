@@ -1,0 +1,10 @@
+     Call: LY1XM
+ Operator: :
+ Category: CheckLog                       Band   QSO  Points  Mults
+ Power: HIGH                              40m      0       0      0
+     Name:F-LOG:                          80m      1       2      1
+  Address:OG:                             Sum      1       2      1
+                                          Total: 2
+
+
+ 3532 CW  0923 LY1XM      599   1 OH2YL      599  26 KT KT 2

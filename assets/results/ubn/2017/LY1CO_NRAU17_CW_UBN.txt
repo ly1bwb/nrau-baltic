@@ -1,0 +1,20 @@
+     Call: LY1CO
+ Operator:
+ Category: Single Op                      Band   QSO  Points  Mults
+ Power: LOW                               40m      0       0      0
+     Name: ANTANAS                        80m     11      21      8
+  Address: Basanaviciaus 40-31            Sum     11      21      8
+                                          Total: 168
+
+
+ 3500 CW  0949 LY1CO      599   1 LY2CO      599  58 TI TI 2
+ 3500 CW  0950 LY1CO      599   2 LY4T       599  59 KN KN 2
+ 3500 CW  0951 LY1CO      599   3 YL2KF      599  49 LM LM 2
+ 3500 CW  0952 LY1CO      599   4 LY2MM      599  61 KM KM 2
+ 3500 CW  0954 LY1CO      599   5 LY3B       599  75 PA PA 2
+ 3500 CW  0956 LY1CO      599   6 LY2F       599  75 KN    2
+ 3500 CW  0958 LY1CO      599   7 LY7M       599  92 UT UT 2
+ 3500 CW  0959 LY1CO      599   8 LY2SA      599  74 MM MM 2
+ 3500 CW  1005 LY1CO      599   9 LY2BAW     599  87 VV VV 2
+ 3500 CW  1010 LY1CO      599  10 LY2WR      599  17 KN    2
+ 3500 CW  1012 LY1CO      599  11 LY4L       599  97 KN    1  Mult/KM

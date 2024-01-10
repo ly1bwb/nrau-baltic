@@ -1,0 +1,48 @@
+     Call: ES7RIX
+ Operator:
+ Category: Single Op                      Band   QSO  Points  Mults
+ Power: LOW                               40m      8      15      7
+     Name:                                80m     31      62     24
+  Address:                                Sum     39      77     31
+                                          Total: 2387
+
+
+ 3500 PH  0634 ES7RIX     59    1 LY4A       59    8 SU SU 2
+ 3500 PH  0637 ES7RIX     59    2 ES2EZ      59   16 HR HR 2
+ 3500 PH  0639 ES7RIX     59    3 LY2MM      59   18 KM KM 2
+ 3500 PH  0640 ES7RIX     59    4 OH3Z       59   11 VA VA 2
+ 3500 PH  0642 ES7RIX     59    5 ES5QA      59   21 JG JG 2
+ 3500 PH  0651 ES7RIX     59    6 OH7A       59   33 PK PK 2
+ 3500 PH  0653 ES7RIX     59    7 LY2CO      59   49 TI TI 2
+ 3500 PH  0654 ES7RIX     59    8 OH2KW      59   29 UU UU 2
+ 3500 PH  0656 ES7RIX     59    9 YL9T       59   47 VK VK 2
+ 3500 PH  0657 ES7RIX     59   10 ES4NY      59   29 IV IV 2
+ 3500 PH  0658 ES7RIX     59   11 YL2PJ      59   40 RE RE 2
+ 3500 PH  0659 ES7RIX     59   12 OH2PM      59   50 VA    2
+ 3500 PH  0700 ES7RIX     59   13 YL3FT      59   46 OE OE 2
+ 3500 PH  0702 ES7RIX     59   14 ES3BM      59   22 RP RP 2
+ 3500 PH  0702 ES7RIX     59   15 ES7GM      59   68 VP VP 2
+ 3500 PH  0704 ES7RIX     59   16 YL7A       59   59 VK    2
+ 3500 PH  0706 ES7RIX     59   17 LY2BAW     59   65 VV VV 2
+ 3500 PH  0707 ES7RIX     59   18 YL2SM      59   61 AU AU 2
+ 3500 PH  0711 ES7RIX     59   19 YL2KO      59   60 AU    2
+ 3500 PH  0712 ES7RIX     59   20 ES6RW      59   91 VO VO 2
+ 3500 PH  0713 ES7RIX     59   21 OF1F       59   63 SA SA 2
+ 3500 PH  0713 ES7RIX     59   22 YL2KF      59   75 LM LM 2
+ 3500 PH  0715 ES7RIX     59   23 ES5JR      59   28 TA TA 2
+ 3500 PH  0715 ES7RIX     59   24 OF1Z       59   65 VA    2
+ 3500 PH  0716 ES7RIX     59   25 YL2BJ      59   86 VR VR 2
+ 3500 PH  0717 ES7RIX     59   26 YL2VW      59   74 RR RR 2
+ 3500 PH  0718 ES7RIX     59   27 ES1TU      59   51 TL TL 2
+ 3500 PH  0721 ES7RIX     59   28 ES6PA      59   38 VO    2
+ 3500 PH  0724 ES7RIX     59   29 LY2J       59   58 MM MM 2
+ 7000 PH  0726 ES7RIX     59   30 OH3LS      59   42 PM PM 2
+ 7000 PH  0729 ES7RIX     59   31 ES7GM      59  110 VP VP 2
+ 7000 PH  0730 ES7RIX     59   32 ES6RW      59  108 VO VO 2
+ 3500 PH  0736 ES7RIX     59   33 YL1S       59   76 RR    2
+ 3500 PH  0738 ES7RIX     59   34 LY9Y       59   63 SU    2
+ 7000 PH  0743 ES7RIX     59   35 LY6A       59  109 KN KN 2
+ 7000 PH  0747 ES7RIX     59   36 LY5O       59  112 KM KM 2
+ 7000 PH  0748 ES7RIX     59   37 OF8L       59   86 PP PP 2
+ 7000 PH  0750 ES7RIX     59   38 LY4L       59  113 KN    1  Mult/KM
+ 7000 PH  0751 ES7RIX     59   39 LB1AH      59   77 HO HO 2

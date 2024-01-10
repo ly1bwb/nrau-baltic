@@ -1,0 +1,77 @@
+     Call: OF0RJ
+ Operator:
+ Category: Single Op                      Band   QSO  Points  Mults
+ Power: LOW                               40m     22      39     16
+     Name: Lars Nikko                     80m     46      78     27
+  Address: Matrosgatan 5 L                Sum     68     117     43
+                                          Total: 5031
+
+
+ 3500 PH  0630 OF0RJ      59    1 OH7A       59    2 PK PK 2
+ 3500 PH  0632 OF0RJ      59    2 LY2SA      59    7 MM MM 2
+ 3500 PH  0633 OF0RJ      59    3 ES6RW      59    8 VO VO 2
+ 3500 PH  0635 OF0RJ      59    4 LY22AW     59    5 VV    0  Call/LY2BAW
+ 3500 PH  0636 OF0RJ      59    5 LY2CO      59   13 TI TI 2
+ 3500 PH  0637 OF0RJ      59    6 YL7A       59   10 VK VK 2
+ 3500 PH  0640 OF0RJ      59    7 ES5Q       59   16 JG    0  Call/ES5QA
+ 3500 PH  0641 OF0RJ      59    8 LY5W       59   11 KN KN 2
+ 3500 PH  0642 OF0RJ      59    9 OF6MO      59   20 KT    0  Call/OF6MW
+ 3500 PH  0644 OF0RJ      59   10 ES2EZ      59   27 HR HR 2
+ 3500 PH  0646 OF0RJ      59   11 ES7GM      59   36 VP VP 2
+ 3500 PH  0647 OF0RJ      59   12 LY2MM      59   30 KM KM 2
+ 3500 PH  0649 OF0RJ      59   13 LY6A       59   39 KN    2
+ 3500 PH  0651 OF0RJ      59   14 ES3BM      59   15 RP RP 2
+ 3500 PH  0657 OF0RJ      59   15 ES2MC      59   59 HR    2
+ 3500 PH  0700 OF0RJ      59   16 OZ7X       59   42 AH AH 2
+ 3500 PH  0702 OF0RJ      59   17 OF1F       59   43 SA SA 2
+ 3500 PH  0702 OF0RJ      59   18 YL9T       59   59 VK    2
+ 3500 PH  0704 OF0RJ      59   19 ES6QK      59   52 VO    0  Call/ES6QC
+ 3500 PH  0705 OF0RJ      59   20 OH6RE      59   42 KE KE 2
+ 3500 PH  0707 OF0RJ      59   21 OF2J       59   14 UU UU 2
+ 3500 PH  0708 OF0RJ      59   22 LB1AH      59   22 HO HO 2
+ 3500 PH  0709 OF0RJ      59   23 OH3Z       59   58 VA VA 2
+ 3500 PH  0710 OF0RJ      59   24 LY4L       59   68 KM    2
+ 3500 PH  0711 OF0RJ      59   25 OH2PM      59   67 VA    2
+ 3500 PH  0712 OF0RJ      59   26 LY4A       59   89 SU SU 2
+ 3500 PH  0713 OF0RJ      59   27 ES4NY      59   36 IV IV 2
+ 3500 PH  0714 OF0RJ      59   28 YL33FT     59   79 OE    0  Call/YL3FT
+ 3500 PH  0715 OF0RJ      59   29 YL100ZK    59   32 RR RR 2
+ 3500 PH  0718 OF0RJ      59   30 OH2KW      59   42 UU    2
+ 3500 PH  0720 OF0RJ      59   31 OF3P       59   38 PM PM 2
+ 3500 PH  0724 OF0RJ      59   32 OH7JF      59   41 PK    0  Call/OH7JL
+ 3500 PH  0725 OF0RJ      59   33 OF8L       59   56 PP PP 2
+ 3500 PH  0727 OF0RJ      59   34 OZ9PG      59   55 FB    0  Call/OZ8PG
+ 3500 PH  0728 OF0RJ      59   35 LY5O       59   88 KM    2
+ 3500 PH  0731 OF0RJ      59   36 SE5L       59   38 VM VM 2
+ 3500 PH  0732 OF0RJ      59   37 OF3R       59   27 PH PH 2
+ 3500 PH  0733 OF0RJ      59   38 OF2KM      59   49 UU    2
+ 3500 PH  0736 OF0RJ      59   39 OF1TD      59   46 SA    2
+ 3500 PH  0736 OF0RJ      59   40 OF1Z       59   82 VA    2
+ 3500 PH  0737 OF0RJ      59   41 YL2PJ      59   85 RE RE 2
+ 3500 PH  0738 OF0RJ      59   42 OF8NV      59   32 PO PO 2
+ 3500 PH  0738 OF0RJ      59   43 OF1LAR     59   18 VA    2
+ 3500 PH  0739 OF0RJ      59   44 ES1QD      59   49 TL TL 2
+ 3500 PH  0740 OF0RJ      59   45 ES1CN      59   54 TL    2
+ 3500 PH  0741 OF0RJ      59   46 YL2GD      59  107 AU AU 2
+ 7000 PH  0744 OF0RJ      59   47 YL2SM      59  107 AU AU 2
+ 7000 PH  0746 OF0RJ      59   48 LY1SR      59   66 KM KM 2
+ 7000 PH  0747 OF0RJ      59   49 LY6A       59  117 KN KN 2
+ 7000 PH  0748 OF0RJ      59   50 ES6QC      59   94 VO VO 2
+ 7000 PH  0749 OF0RJ      59   51 LY4Q       59   77 VU VU 2
+ 7000 PH  0753 OF0RJ      59   52 LY2MM      59   89 KM    2
+ 7000 PH  0754 OF0RJ      59   53 LY2GD      59  120 AU    0  Call/YL2GD
+ 7000 PH  0755 OF0RJ      59   54 YL3FT      59  113 OE OE 2
+ 7000 PH  0757 OF0RJ      59   55 OZ7X       59  129 AH AH 2
+ 7000 PH  0758 OF0RJ      59   56 LY2SA      59  112 MM MM 2
+ 7000 PH  0758 OF0RJ      59   57 LY5W       59   95 KN    2
+ 7000 PH  0807 OF0RJ      59   58 OZ11A      59   84 NJ NJ 2
+ 7000 PH  0810 OF0RJ      59   59 OZ8PG      59  110 FB FB 2
+ 7000 PH  0811 OF0RJ      59   60 LB1AH      59  104 HO HO 2
+ 7000 PH  0812 OF0RJ      59   61 LY5T       59   80 AT AT 2
+ 7000 PH  0813 OF0RJ      59   62 LY4A       59  176 SU SU 2
+ 7000 PH  0815 OF0RJ      59   63 OZ6ARC     59   50 SU    1  Mult/SJ
+ 7000 PH  0816 OF0RJ      59   64 YL2PJ      59  117 RE RE 2
+ 7000 PH  0820 OF0RJ      59   65 OZ9VA      59   78 FB    2
+ 7000 PH  0823 OF0RJ      59   66 OH7A       59  154 PK PK 2
+ 7000 PH  0826 OF0RJ      59   67 LY2IJ      59   14 UT UT 2
+ 7000 PH  0829 OF0RJ      59   68 LA5UF      59   74 VF    0  Time/LA5UF/0830

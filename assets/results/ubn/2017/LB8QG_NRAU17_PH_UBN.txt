@@ -1,0 +1,38 @@
+     Call: LB8QG
+ Operator:
+ Category: Single Op                      Band   QSO  Points  Mults
+ Power: LOW                               40m     10      16      7
+     Name: John Olav Westlie              80m     17      28     12
+  Address: Florasvingen 15                Sum     27      44     19
+  Address: Rakkestad,  1890               Total: 836
+  Address: NORWAY
+
+
+
+ 3704 PH  0631 LB8QG      59    1 YL2VW      59    1 RR RR 2
+ 3711 PH  0634 LB8QG      59    2 LY2SA      59   11 MM MM 2
+ 3710 PH  0638 LB8QG      59    3 YL2GD      59   18 AU AU 2
+ 3715 PH  0646 LB8QG      59    4 OH7A       59   25 PK PK 2
+ 3735 PH  0651 LB8QG      59    5 ES6QC      59   31 VO VO 2
+ 3741 PH  0654 LB8QG      59    6 LY5O       59   42 KM KM 2
+ 3759 PH  0658 LB8QG      59    7 OH2PPM     59   48 VA    0  Call/OH2PM
+ 3775 PH  0701 LB8QG      59    8 YL3FT      59   48 OE OE 2
+ 3751 PH  0707 LB8QG      59    9 OH3S       59   52 VA    0  Call/OH3Z
+ 3727 PH  0711 LB8QG      59   10 OF1F       59   59 SA SA 2
+ 3707 PH  0718 LB8QG      59   11 ES7GM      59   87 VP VP 2
+ 3702 PH  0719 LB8QG      59   12 YL2SM      59   85 AU    2
+ 3710 PH  0722 LB8QG      59   13 ES6RW      59  101 VO    2
+ 3718 PH  0726 LB8QG      59   14 OZ7X       59   79 AH AH 2
+ 3737 PH  0729 LB8QG      59   15 OZ4NA      59   37 NJ NJ 2
+ 3751 PH  0735 LB8QG      59   16 LY1KT      59   57 KD    0  Call/LY1CT
+ 3716 PH  0743 LB8QG      59   17 SM5ACQ     59   50 VM VM 2
+ 7064 PH  0812 LB8QG      59   18 YL2KA      59  144 AU    0  Call/YL2KO
+ 7070 PH  0815 LB8QG      59   19 YL2SM      59  149 AU AU 2
+ 7089 PH  0816 LB8QG      59   20 ES6RW      59  180 VO VO 2
+ 7095 PH  0818 LB8QG      59   21 LY2BAW     59  138 VV VV 2
+ 7100 PH  0819 LB8QG      59   22 ES7GM      59  187 VP VP 2
+ 7133 PH  0820 LB8QG      59   23 OH7A       59  149 PK PK 2
+ 7154 PH  0821 LB8QG      59   24 YL2GD      59  150 AU    2
+ 7170 PH  0823 LB8QG      59   25 OF8L       59  128 PP PP 2
+ 7192 PH  0824 LB8QG      59   26 OH2PPM     59  145 VA    0  Call/OH2PM
+ 7131 PH  0827 LB8QG      59   27 LY2IJ      59   15 UT UT 2

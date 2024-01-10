@@ -1,0 +1,154 @@
+     Call: YL9T
+ Operator:
+ Category: Single Op                      Band   QSO  Points  Mults
+ Power: HIGH                              40m     43      83     33
+     Name: Ingus Selevskis                80m    100     198     61
+  Address: Ausekla str.50-21              Sum    143     281     94
+  Address: Valka,  LV-4701                Total: 26414
+  Address: LATVIA
+
+
+
+ 3644 PH  0632 YL9T       59    1 LY5AA      59    2 KM KM 2
+ 3644 PH  0633 YL9T       59    2 ES1QD      59    3 TL TL 2
+ 3729 PH  0635 YL9T       59    3 OH2KW      59    7 UU UU 2
+ 3729 PH  0635 YL9T       59    4 OF1Z       59    1 VA VA 2
+ 3729 PH  0636 YL9T       59    5 OH6RE      59   10 KE KE 2
+ 3729 PH  0636 YL9T       59    6 YL2ON      59    3 TS TS 2
+ 3729 PH  0637 YL9T       59    7 YL1S       59   11 RR RR 2
+ 3729 PH  0637 YL9T       59    8 LY2ZO      59    9 KM    2
+ 3729 PH  0637 YL9T       59    9 OH3LS      59    7 PM PM 2
+ 3729 PH  0638 YL9T       59   10 OF8NV      59    5 PO PO 2
+ 3729 PH  0638 YL9T       59   11 ES2IPA     59    3 HR HR 2
+ 3729 PH  0639 YL9T       59   12 YL100ZK    59    3 RR    2
+ 3729 PH  0639 YL9T       59   13 OH6ECM     59    4 PO    2
+ 3729 PH  0639 YL9T       59   14 YL2KF      59   16 LM LM 2
+ 3729 PH  0640 YL9T       59   15 OF2KM      59   10 UU    2
+ 3729 PH  0641 YL9T       59   16 OH3JP      59    6 KT KT 2
+ 3729 PH  0641 YL9T       59   17 SF3A       59    7 VN VN 2
+ 3729 PH  0642 YL9T       59   18 ES1CN      59   13 TL    2
+ 3729 PH  0642 YL9T       59   19 SM6IQD     59    8 VD VD 2
+ 3729 PH  0643 YL9T       59   20 LY3B       59   16 PA PA 2
+ 3729 PH  0644 YL9T       59   21 ES6PA      59   15 VO VO 2
+ 3729 PH  0644 YL9T       59   22 OH8NW      59   18 VA    2
+ 3729 PH  0645 YL9T       59   23 OH7JL      59   13 PK PK 2
+ 3729 PH  0645 YL9T       59   24 OF1LAR     59    8 VA    2
+ 3729 PH  0646 YL9T       59   25 OZ8PG      59   13 FB FB 2
+ 3729 PH  0646 YL9T       59   26 SE5L       59   11 VM VM 2
+ 3729 PH  0647 YL9T       59   27 LY2ON      59   10 KI KI 2
+ 3729 PH  0647 YL9T       59   28 LY2TS      59   20 TI TI 2
+ 3729 PH  0647 YL9T       59   29 YL3GAO     59   11 DO DO 2
+ 3729 PH  0648 YL9T       59   30 OF1TD      59   13 SA SA 2
+ 3729 PH  0649 YL9T       59   31 LB4FH      59    4 RL RL 2
+ 3729 PH  0650 YL9T       59   32 LY1SR      59   19 KM    2
+ 3729 PH  0652 YL9T       59   33 LY3CY      59   26 VU VU 2
+ 3729 PH  0652 YL9T       59   34 LY2NY      59   30 KN KN 2
+ 3729 PH  0652 YL9T       59   35 ES1TU      59   28 TL    2
+ 3729 PH  0653 YL9T       59   36 OF8UV      59   14 KU KU 2
+ 3729 PH  0653 YL9T       59   37 YL2SM      59   39 AU AU 2
+ 3729 PH  0653 YL9T       59   38 YL2KO      59   37 AU    2
+ 3729 PH  0653 YL9T       59   39 YL3IR      59    9 GU GU 2
+ 3729 PH  0654 YL9T       59   40 YL2GD      59   50 AU    2
+ 3729 PH  0654 YL9T       59   41 YL2PJ      59   35 RE RE 2
+ 3729 PH  0654 YL9T       59   42 SE3X       59    9 JL JL 2
+ 3729 PH  0655 YL9T       59   43 LY7M       59   17 UT UT 2
+ 3729 PH  0655 YL9T       59   44 SE4E       59   25 DA DA 2
+ 3729 PH  0655 YL9T       59   45 LY4L       59   44 KM    2
+ 3729 PH  0655 YL9T       59   46 LY9Y       59   31 SU SU 2
+ 3729 PH  0656 YL9T       59   47 ES7RIX     59    9 VP VP 2
+ 3729 PH  0656 YL9T       59   48 ES5JR      59   13 TA TA 2
+ 3729 PH  0657 YL9T       59   49 LY1CO      59   24 KN    2
+ 3729 PH  0657 YL9T       59   50 SE5N       59   16 SO SO 2
+ 3729 PH  0658 YL9T       59   51 OZ6ARC     59   13 SJ SJ 2
+ 3729 PH  0658 YL9T       59   52 LY5P       59   14 SI SI 2
+ 3729 PH  0658 YL9T       59   53 OF3P       59   21 PM    2
+ 3729 PH  0659 YL9T       59   54 ES5TF      59   24 TA    2
+ 3729 PH  0659 YL9T       59   55 LY4A       59   69 SU    2
+ 3729 PH  0701 YL9T       59   56 YL1ZT      59   23 TU TU 2
+ 3729 PH  0701 YL9T       59   57 8S0C       59   19 SL SL 2
+ 3729 PH  0702 YL9T       59   58 OZ11A      59   20 NJ NJ 2
+ 3729 PH  0702 YL9T       59   59 OF0RJ      59   18 AL AL 2
+ 3729 PH  0703 YL9T       59   60 SE5E       59   10 UP UP 2
+ 3729 PH  0704 YL9T       59   61 OZ4NA      59   22 NJ    2
+ 3729 PH  0704 YL9T       59   62 OF1TD      59   27 SA    0  QSO B4
+ 3729 PH  0705 YL9T       59   63 SA0BVA     59   12 SL    2
+ 3729 PH  0705 YL9T       59   64 LY2MM      59   53 KM    2
+ 3729 PH  0706 YL9T       59   65 YL2BJ      59   73 VR VR 2
+ 3729 PH  0706 YL9T       59   66 ES6RW      59   82 VO    2
+ 3729 PH  0707 YL9T       59   67 LA2XNA     59   21 AK AK 2
+ 3729 PH  0708 YL9T       59   68 LY4LA      59   31 KD KD 2
+ 3729 PH  0708 YL9T       59   69 ES6RMR     59   32 VC VC 2
+ 3729 PH  0708 YL9T       59   70 YL2VW      59   68 RR    2
+ 3729 PH  0709 YL9T       59   71 LY6A       59   65 KN    2
+ 3729 PH  0709 YL9T       59   72 LY5T       59   27 AT AT 2
+ 3729 PH  0710 YL9T       59   73 SK2T       59   29 VB VB 2
+ 3729 PH  0710 YL9T       59   74 ES2EZ      59   66 HR    2
+ 3775 PH  0711 YL9T       59   75 YL3FT      59   72 OE OE 2
+ 3729 PH  0712 YL9T       59   76 OF1F       59   60 SA    2
+ 3729 PH  0712 YL9T       59   77 LA9PTA     59   10 OF OF 2
+ 3729 PH  0713 YL9T       59   78 LY2CO      59   75 TI    2
+ 3729 PH  0713 YL9T       59   79 LY2J       59   46 MM MM 2
+ 3729 PH  0714 YL9T       59   80 LY3IZ      59   23 UT    2
+ 3748 PH  0714 YL9T       59   81 LB1AH      59   33 HO HO 2
+ 3751 PH  0715 YL9T       59   82 OH3Z       59   71 VA    2
+ 3715 PH  0715 YL9T       59   83 OH7A       59   70 PK    2
+ 3706 PH  0716 YL9T       59   84 LY2SA      59   60 MM    2
+ 3638 PH  0717 YL9T       59   85 ES3BM      59   33 RP RP 2
+ 3601 PH  0718 YL9T       59   86 LY4Q       59   61 VU    2
+ 3628 PH  0719 YL9T       59   87 ES5QA      59   73 JG JG 2
+ 3707 PH  0721 YL9T       59   88 ES2MC      59   89 HR    2
+ 3757 PH  0722 YL9T       59   89 ES4NY      59   42 IV IV 2
+ 3735 PH  0722 YL9T       59   90 LY3BN      59   75 KN    2
+ 3718 PH  0723 YL9T       59   91 OZ7X       59   73 AH AH 2
+ 3705 PH  0724 YL9T       59   92 LY2BAW     59   78 VV VV 2
+ 3707 PH  0724 YL9T       59   93 ES7GM      59  100 VP    2
+ 3768 PH  0727 YL9T       59   94 SA1CCQ     59   47 GO GO 2
+ 3744 PH  0728 YL9T       59   95 LY5W       59   63 KN    2
+ 3740 PH  0729 YL9T       59   96 LY5O       59   89 KM    2
+ 3702 PH  0729 YL9T       59   97 YL7A       59   85 VK VK 2
+ 3619 PH  0730 YL9T       59   98 OF6MW      59   72 KT    2
+ 3621 PH  0731 YL9T       59   99 LY2BOK     59   30 AT    2
+ 3636 PH  0732 YL9T       59  100 LY4MA      59   28 KM    2
+ 7089 PH  0735 YL9T       59  101 ES6RW      59  119 VO VO 2
+ 7097 PH  0736 YL9T       59  102 LA5UF      59   30 VF VF 2
+ 7100 PH  0737 YL9T       59  103 ES7GM      59  124 VP VP 2
+ 7073 PH  0737 YL9T       59  104 OH3Z       59  102 VA VA 2
+ 7061 PH  0740 YL9T       59  105 SE5E       59   44 UP UP 2
+ 7061 PH  0741 YL9T       59  106 SK2T       59   53 VB VB 2
+ 7193 PH  0744 YL9T       59  107 OZ9VA      59   39 FB FB 2
+ 7193 PH  0745 YL9T       59  108 LY4A       59  132 SU SU 2
+ 7193 PH  0745 YL9T       59  109 OH6RE      59   92 KE KE 2
+ 7193 PH  0746 YL9T       59  110 OZ1KKH     59   32 AH AH 2
+ 7193 PH  0746 YL9T       59  111 8S0C       59   67 SL SL 2
+ 7193 PH  0747 YL9T       59  112 YL2ON      59   19 TS TS 2
+ 7193 PH  0748 YL9T       59  113 YL3IR      59   33 GU GU 2
+ 7193 PH  0749 YL9T       59  114 OZ8PG      59   79 FB    2
+ 7195 PH  0752 YL9T       59  115 OF6MW      59   91 KT KT 2
+ 7186 PH  0752 YL9T       59  116 OH2PM      59   97 VA    2
+ 7183 PH  0753 YL9T       59  117 OZ11A      59   62 NJ NJ 2
+ 7184 PH  0754 YL9T       59  118 SE5N       59   53 SO SO 2
+ 7178 PH  0755 YL9T       59  119 SE5L       59   53 VM VM 2
+ 7179 PH  0755 YL9T       59  120 LB1AH      59   84 HO HO 1  Nr/85
+ 7162 PH  0756 YL9T       59  121 OF8L       59   92 PP PP 2
+ 7158 PH  0757 YL9T       59  122 OF1F       59  134 SA SA 2
+ 7133 PH  0759 YL9T       59  123 OH7A       59  125 PK PK 2
+ 7144 PH  0800 YL9T       59  124 OZ7X       59  136 AH    2
+ 7135 PH  0800 YL9T       59  125 YL2SM      59  136 AU AU 2
+ 7095 PH  0803 YL9T       59  126 LY2BAW     59  122 VV VV 2
+ 7070 PH  0804 YL9T       59  127 ES2MC      59  152 HR HR 2
+ 7064 PH  0805 YL9T       59  128 YL2KO      59  125 AU    2
+ 7059 PH  0808 YL9T       59  129 OF8NV      59   47 PO PO 2
+ 7059 PH  0810 YL9T       59  130 OF1TD      59   69 SA    2
+ 7059 PH  0810 YL9T       59  131 OH6ECM     59   61 PO    2
+ 7059 PH  0811 YL9T       59  132 SM6IQD     59   53 VD VD 2
+ 7062 PH  0813 YL9T       59  133 YL3FT      59  132 OE OE 2
+ 7082 PH  0814 YL9T       59  134 SM5ACQ     59   75 VM    2
+ 7139 PH  0816 YL9T       59  135 OF8UV      59   55 KU KU 2
+ 7176 PH  0821 YL9T       59  136 LA8FTA     59   55 AK AK 2
+ 7176 PH  0821 YL9T       59  137 ES5QA      59  139 JG JG 2
+ 7176 PH  0821 YL9T       59  138 OZ7SG      59   48 NJ    2
+ 7176 PH  0822 YL9T       59  139 LA9PTA     59   31 OF OF 2
+ 7176 PH  0824 YL9T       59  140 LB4FH      59   40 RL RL 2
+ 7176 PH  0825 YL9T       59  141 SE5L       59   72 VM    0  QSO B4
+ 7176 PH  0826 YL9T       59  142 OH7JL      59   73 PK    2
+ 7061 PH  0829 YL9T       59  143 LY3BN      59  161 KN KN 2

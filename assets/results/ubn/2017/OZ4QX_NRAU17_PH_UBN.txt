@@ -1,0 +1,27 @@
+     Call: OZ4QX
+ Operator:
+ Category: Single Op                      Band   QSO  Points  Mults
+ Power: LOW                               40m      7      13      7
+     Name: Peter Kaster                   80m      9      18      8
+  Address: Augustvej 68                   Sum     16      31     15
+  Address: DK-2860 Søborg                 Total: 465
+  Address: Denmark
+
+
+
+ 3500 PH  0658 OZ4QX      59    1 LY3BN      59   49 KN KN 2
+ 3500 PH  0704 OZ4QX      59    2 OH8NW      59   56 VA VA 2
+ 3500 PH  0710 OZ4QX      59    3 LY2BAW     59   70 VV VV 2
+ 3500 PH  0712 OZ4QX      59    4 OF1Z       59   60 VA    2
+ 3500 PH  0722 OZ4QX      59    5 ES5QA      59   78 JG JG 2
+ 3500 PH  0730 OZ4QX      59    6 OF1F       59   88 SA SA 2
+ 3500 PH  0732 OZ4QX      59    7 LY9Y       59   59 SU SU 2
+ 3500 PH  0734 OZ4QX      59    8 LY2TS      59   64 TI TI 2
+ 3500 PH  0738 OZ4QX      59    9 OZ11A      59   43 NJ NJ 2
+ 7000 PH  0743 OZ4QX      59   10 LY2SA      59   91 MM MM 2
+ 7000 PH  0745 OZ4QX      59   11 ES7GM      59  154 VP VP 1  Nr/144
+ 7000 PH  0755 OZ4QX      59   12 ES6RW      59  153 VO VO 2
+ 7000 PH  0800 OZ4QX      59   13 ES3BM      59   56 RP RP 2
+ 7000 PH  0804 OZ4QX      59   14 LY4Q       59   83 VU VU 2
+ 7000 PH  0816 OZ4QX      59   15 SE5L       59   68 VM VM 2
+ 7000 PH  0824 OZ4QX      59   16 LY5O       59  161 KM KM 2

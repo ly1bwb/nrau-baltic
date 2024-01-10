@@ -1,0 +1,47 @@
+     Call: ES3BQ
+ Operator:
+ Category: Single Op                      Band   QSO  Points  Mults
+ Power: HIGH                              40m      0       0      0
+     Name: YLO                            80m     36      58     21
+  Address: Salu 17                        Sum     36      58     21
+  Address: Rapla, nil 79514               Total: 1218
+  Address: Estonia
+
+
+
+ 3540 CW  0903 ES3BQ      599   1 YL2KO      599   4 AU AU 2
+ 3540 CW  0905 ES3BQ      599   2 ES4NY      599   8 IV IV 2
+ 3540 CW  0909 ES3BQ      599   3 ES3CC      599   8 LN LN 2
+ 3540 CW  0913 ES3BQ      599   4 ES7GM      599  21 VP VP 2
+ 3540 CW  0914 ES3BQ      599   5 ES1BH      599  16 TL TL 2
+ 3540 CW  0916 ES3BQ      599   6 ES2MC      599  20 HR HR 2
+ 3540 CW  0917 ES3BQ      599   7 ES2EZ      599  27 HR    2
+ 3540 CW  0922 ES3BQ      599   8 YL9T       599  32 VK VK 2
+ 3540 CW  0923 ES3BQ      599   9 YL1S       599  37 RR RR 2
+ 3540 CW  0925 ES3BQ      599  10 YL2PJ      599  32 RE RE 2
+ 3540 CW  0928 ES3BQ      599  11 ES3BM      599  15 RL    1  Mult/RP
+ 3540 CW  0931 ES3BQ      599  12 LY7M       599  55 UT UT 2
+ 3540 CW  0935 ES3BQ      599  13 OH2YL      599  43 KE    0  NotinLog
+ 3540 CW  0942 ES3BQ      599  14 LY2KA      599  51 KA    1  Mult/MM
+ 3540 CW  0945 ES3BQ      599  15 YL7A       599  67 VK    2
+ 3540 CW  0947 ES3BQ      599  16 ES5EP      599  57 TA TA 2
+ 3540 CW  0952 ES3BQ      599  17 LY3B       599  73 PA PA 2
+ 3540 CW  0954 ES3BQ      599  18 LY4T       599  64 KN KN 2
+ 3540 CW  1000 ES3BQ      599  19 SM5ACQ     599  47 VM VM 2
+ 3540 CW  1004 ES3BQ      599  20 YL2BJ      599  86 VR VR 2
+ 3540 CW  1010 ES3BQ      599  21 LY2BAW     599  90 VV VV 2
+ 3540 CW  1013 ES3BQ      599  22 LY2WR      599  20 KN    2
+ 3540 CW  1016 ES3BQ      599  23 OF1LAR     599   1 VU    0  Nr/10 Mult/VA
+ 3540 CW  1018 ES3BQ      599  24 OH2ID      599  18 UU UU 2
+ 3540 CW  1019 ES3BQ      599  25 LY2BMX     599  65 UT    2
+ 3540 CW  1020 ES3BQ      599  26 ES3HZ      599  18 JR    0  Nr/19 Call/ES3RY
+ 3540 CW  1022 ES3BQ      599  27 ES3RY      599  19 JR JR 2
+ 3540 CW  1023 ES3BQ      599  28 LY3NX      599  20 UT    1  Nr/3
+ 3540 CW  1025 ES3BQ      599  29 YL100ZK    599  57 RR    1  Nr/58
+ 3540 CW  1027 ES3BQ      599  30 YL2LD      599  22 LM LM 2
+ 3540 CW  1031 ES3BQ      599  31 YL2CV      599  83 KN    1  Mult/KG
+ 3540 CW  1034 ES3BQ      599  32 YL2AGA     599   1 RR    0  Nr/12 Call/YL2AQ
+ 3540 CW  1036 ES3BQ      599  33 ES4OJ      599  42 LV LV 2
+ 3540 CW  1038 ES3BQ      599  34 ES1TU      599 114 TL    2
+ 3540 CW  1045 ES3BQ      599  35 ES3RF      599  83 HR    1  Mult/RP
+ 3540 CW  1046 ES3BQ      599  36 OH1TS      599  66 VA VA 2

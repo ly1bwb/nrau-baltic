@@ -1,0 +1,91 @@
+     Call: LY3CY
+ Operator:
+ Category: Single Op                      Band   QSO  Points  Mults
+ Power: HIGH                              40m     21      40     16
+     Name: Romualdas Ulevicius            80m     59     118     36
+  Address: P.O.Box 1000                   Sum     80     158     52
+  Address: VILNIUS,  LT-01014             Total: 8216
+  Address: LITHUANIA
+
+
+
+ 3601 PH  0630 LY3CY      59    1 LY4Q       59    1 VU VU 2
+ 3604 PH  0631 LY3CY      59    2 LY4L       59    4 KM KM 2
+ 3609 PH  0632 LY3CY      59    3 ES2EZ      59    6 HR HR 2
+ 3611 PH  0633 LY3CY      59    4 ES7GM      59    9 VP VP 2
+ 3614 PH  0633 LY3CY      59    5 LY2MM      59    8 KM    2
+ 3625 PH  0635 LY3CY      59    6 LY4A       59   12 SU SU 2
+ 3627 PH  0636 LY3CY      59    7 LY3BN      59   13 KN KN 2
+ 3629 PH  0636 LY3CY      59    8 LY6A       59   20 KN    2
+ 3643 PH  0637 LY3CY      59    9 LY2CO      59   15 TI TI 2
+ 3646 PH  0638 LY3CY      59   10 LY2BAW     59   11 VV VV 2
+ 3649 PH  0639 LY3CY      59   11 ES6RW      59   21 VO VO 2
+ 3652 PH  0640 LY3CY      59   12 LY2NY      59   15 KN    2
+ 3638 PH  0641 LY3CY      59   13 YL7A       59   15 VK VK 2
+ 3631 PH  0641 LY3CY      59   14 LY5W       59   12 KN    2
+ 3617 PH  0642 LY3CY      59   15 LY2PBV     59    8 MM MM 2
+ 3754 PH  0643 LY3CY      59   16 YL2SM      59   24 AU AU 2
+ 3760 PH  0644 LY3CY      59   17 OH2PM      59   24 VA VA 2
+ 3775 PH  0645 LY3CY      59   18 YL3FT      59   21 OE OE 2
+ 3703 PH  0646 LY3CY      59   19 YL2VW      59   30 RR RR 2
+ 3707 PH  0647 LY3CY      59   20 ES2MC      59   38 HR    2
+ 3709 PH  0648 LY3CY      59   21 YL2GD      59   38 AU    2
+ 3718 PH  0649 LY3CY      59   22 OZ7X       59   26 AH AH 2
+ 3720 PH  0649 LY3CY      59   23 YL2KF      59   31 LM LM 2
+ 3724 PH  0650 LY3CY      59   24 LY2SA      59   35 MM    2
+ 3727 PH  0651 LY3CY      59   25 OF1F       59   22 SA SA 2
+ 3729 PH  0652 LY3CY      59   26 YL9T       59   33 VK    2
+ 3738 PH  0655 LY3CY      59   27 OZ8PG      59   28 FB FB 2
+ 3741 PH  0656 LY3CY      59   28 LY5O       59   46 KM    2
+ 3748 PH  0656 LY3CY      59   29 YL2BJ      59   58 VR VR 2
+ 3751 PH  0657 LY3CY      59   30 OH3Z       59   29 VA    2
+ 3754 PH  0659 LY3CY      59   31 YL1S       59   36 RR    2
+ 3758 PH  0659 LY3CY      59   32 LY2TS      59   33 TI    2
+ 3715 PH  0702 LY3CY      59   33 OH7A       59   51 PK PK 2
+ 3725 PH  0703 LY3CY      59   34 YL1ZT      59   25 TU TU 2
+ 3771 PH  0704 LY3CY      59   35 YL2PJ      59   48 RE RE 2
+ 3626 PH  0706 LY3CY      59   36 LY2BOK     59   19 AT AT 2
+ 3616 PH  0711 LY3CY      59   37 LY1CT      59   38 KD KD 2
+ 3622 PH  0712 LY3CY      59   38 LY4MA      59    9 KM    2
+ 3643 PH  0713 LY3CY      59   39 OF1Z       59   61 VA    2
+ 3724 PH  0716 LY3CY      59   40 LY5T       59   39 AT    2
+ 3729 PH  0717 LY3CY      59   41 ES1BH      59   44 TL TL 2
+ 3760 PH  0719 LY3CY      59   42 YL2KO      59   74 AU    2
+ 3768 PH  0721 LY3CY      59   43 SA1CCQ     59   42 GO GO 2
+ 3757 PH  0725 LY3CY      59   44 ES4NY      59   48 IV IV 2
+ 3602 PH  0726 LY3CY      59   45 LY5AA      59   31 KM    2
+ 3616 PH  0727 LY3CY      59   46 LY1CO      59   53 KN    2
+ 3627 PH  0730 LY3CY      59   47 8S0C       59   50 SL SL 2
+ 3612 PH  0731 LY3CY      59   48 ES5QA      59   89 JG JG 2
+ 3609 PH  0732 LY3CY      59   49 LY7M       59   47 UT UT 2
+ 3633 PH  0733 LY3CY      59   50 ES6PA      59   62 VO    2
+ 3747 PH  0736 LY3CY      59   51 LB1AH      59   62 HO HO 2
+ 3772 PH  0739 LY3CY      59   52 OF3P       59   57 PM PM 2
+ 3601 PH  0742 LY3CY      59   53 LY2BMX     59   37 UT    2
+ 3644 PH  0745 LY3CY      59   54 YL2II      59   24 AI AI 2
+ 3621 PH  0748 LY3CY      59   55 LY2ON      59   35 KI KI 2
+ 3646 PH  0750 LY3CY      59   56 YL100ZK    59   53 RR    2
+ 3636 PH  0753 LY3CY      59   57 LY3IZ      59   39 UT    2
+ 3636 PH  0753 LY3CY      59   58 LY5P       59   38 SI SI 2
+ 3636 PH  0754 LY3CY      59   59 LY2ND      59   41 KM    2
+ 7144 PH  0802 LY3CY      59   60 OZ7X       59  140 AH AH 2
+ 7170 PH  0803 LY3CY      59   61 OH6RE      59  118 KE KE 2
+ 7133 PH  0805 LY3CY      59   62 OH7A       59  134 PK PK 2
+ 7102 PH  0806 LY3CY      59   63 8S0C       59   90 SL SL 2
+ 7092 PH  0807 LY3CY      59   64 SE5L       59   61 VM VM 2
+ 7070 PH  0807 LY3CY      59   65 ES2MC      59  157 HR HR 2
+ 7072 PH  0808 LY3CY      59   66 OF1F       59  148 SA SA 2
+ 7082 PH  0809 LY3CY      59   67 SM5ACQ     59   66 VM    2
+ 7095 PH  0810 LY3CY      59   68 LY2BAW     59  130 VV VV 2
+ 7100 PH  0810 LY3CY      59   69 ES7GM      59  179 VP VP 2
+ 7136 PH  0812 LY3CY      59   70 SE5N       59   64 SO SO 2
+ 7189 PH  0813 LY3CY      59   71 OH2PM      59  127 VA VA 2
+ 7195 PH  0815 LY3CY      59   72 OF6MW      59  109 KT KT 2
+ 7065 PH  0816 LY3CY      59   73 ES2EZ      59  127 HR    2
+ 7091 PH  0818 LY3CY      59   74 OH3Z       59  144 VA    2
+ 7149 PH  0820 LY3CY      59   75 ES3BM      59   61 RP RP 2
+ 7170 PH  0821 LY3CY      59   76 OF8L       59  125 PP PP 2
+ 7200 PH  0822 LY3CY      59   77 SE5E       59   95 UP UP 2
+ 7135 PH  0825 LY3CY      59   78 OF1Z       59  116 VA    2
+ 7082 PH  0827 LY3CY      59   79 OH2KW      59   99 UU UU 2
+ 7068 PH  0829 LY3CY      59   80 OH8NW      59  130 VA    0  Time/OH8NW/0830

@@ -1,0 +1,81 @@
+     Call: OH3LS
+ Operator:
+ Category: Single Op                      Band   QSO  Points  Mults
+ Power: LOW                               40m     23      36     14
+     Name: SEPPO KAISKO                   80m     48      86     31
+  Address: Varpuskuja 7                   Sum     71     122     45
+  Address: 36220 Kangasala                Total: 5490
+
+
+
+ 3500 PH  0630 OH3LS      59    1 YL2VW      59    2 RR RR 2
+ 3500 PH  0630 OH3LS      59    2 ES2MC      59    7 HR HR 2
+ 3500 PH  0632 OH3LS      59    3 LY2SA      59   10 MM MM 2
+ 3500 PH  0633 OH3LS      59    4 OH7A       59    9 PK PK 2
+ 3500 PH  0634 OH3LS      59    5 OH8NW      59    3 VA VA 1  Nr/6
+ 3500 PH  0636 OH3LS      59    6 ES4NY      59    9 IV IV 2
+ 3500 PH  0637 OH3LS      59    7 YL9T       59    9 VK VK 2
+ 3500 PH  0637 OH3LS      59    8 ES6QC      59   15 VO VO 2
+ 3500 PH  0639 OH3LS      59    9 OF8L       59   10 PY    1  Mult/PP
+ 3500 PH  0639 OH3LS      59   10 YL2BJ      59   27 VR VR 2
+ 3500 PH  0641 OH3LS      59   11 YL2SM      59   21 AU AU 2
+ 3500 PH  0642 OH3LS      59   12 OF3P       59    6 PM PM 2
+ 3500 PH  0643 OH3LS      59   13 YL4L       59   27 KM    0  Call/LY4L
+ 3500 PH  0644 OH3LS      59   14 YL3FT      59   20 OE OE 2
+ 3500 PH  0646 OH3LS      59   15 LY4Q       59   25 VU VU 2
+ 3500 PH  0646 OH3LS      59   16 ES1O       59    9 TL TL 2
+ 3500 PH  0648 OH3LS      59   17 ES2EZ      59   34 HL    1  Mult/HR
+ 3500 PH  0649 OH3LS      59   18 ES7GM      59   43 VP VP 2
+ 3500 PH  0650 OH3LS      59   19 SK2T       59    9 VB VB 2
+ 3500 PH  0651 OH3LS      59   20 LY4A       59   51 SU SU 2
+ 3500 PH  0652 OH3LS      59   21 LY6A       59   44 KN KN 2
+ 3500 PH  0654 OH3LS      59   22 LA5UF      59    4 VF VF 2
+ 3500 PH  0655 OH3LS      59   23 YL7A       59   42 VK    2
+ 3500 PH  0656 OH3LS      59   24 OF1Z       59   23 VA    2
+ 3500 PH  0659 OH3LS      59   25 LY2BAW     59   54 VV VV 2
+ 3500 PH  0700 OH3LS      59   26 ES6RW      59   72 VO    2
+ 3500 PH  0701 OH3LS      59   27 OZ7X       59   46 AH AH 2
+ 3500 PH  0702 OH3LS      59   28 YL2KF      59   60 LM LM 2
+ 3500 PH  0704 OH3LS      59   29 LY1ZT      59   26 TU    0  Call/YL1ZT
+ 3500 PH  0706 OH3LS      59   30 OF1F       59   50 SA SA 2
+ 3500 PH  0708 OH3LS      59   31 OH6RE      59   47 KE KE 2
+ 3500 PH  0709 OH3LS      59   32 OH3Z       59   61 VA    2
+ 3500 PH  0711 OH3LS      59   33 OH2PM      59   68 VA    2
+ 3500 PH  0712 OH3LS      59   34 YL2KO      59   64 AU    2
+ 3500 PH  0714 OH3LS      55   35 SA1CCQ     59   33 GO GO 1  RST
+ 3500 PH  0716 OH3LS      59   36 YL100ZK    59   34 RR    2
+ 3500 PH  0717 OH3LS      59   37 LY1CT      59   44 KD KD 2
+ 3500 PH  0718 OH3LS      59   38 LY2J       59   55 MM    2
+ 3500 PH  0719 OH3LS      59   39 YL1S       59   67 RR    2
+ 3500 PH  0724 OH3LS      59   40 OF8UV      59   25 KU KU 2
+ 3500 PH  0725 OH3LS      59   41 ES20       59   40 HR    0  Call/ES2O
+ 3500 PH  0726 OH3LS      59   42 ES7RIX     59   30 VP    2
+ 3500 PH  0727 OH3LS      59   43 OH2KW      59   52 UU UU 2
+ 3500 PH  0729 OH3LS      59   44 ES1TU      59   55 TL    2
+ 3500 PH  0729 OH3LS      59   45 ES1QD      59   43 TL    2
+ 3500 PH  0730 OH3LS      59   46 OH6ECM     59   35 PO PO 2
+ 3500 PH  0730 OH3LS      59   47 OF3R       59   25 PH PH 2
+ 3500 PH  0730 OH3LS      59   48 OH3JP      59   41 KT KT 2
+ 7000 PH  0734 OH3LS      59   49 LY2SA      59   80 MM MM 2
+ 7000 PH  0735 OH3LS      59   50 ES6RW      59  120 VO VO 2
+ 7000 PH  0737 OH3LS      59   51 ES7GM      59  125 VP VP 2
+ 7000 PH  0738 OH3LS      59   52 LA5UF      59   43 VF VF 1  Nr/33
+ 7000 PH  0739 OH3LS      59   53 YL2VW      59  104 RR RR 2
+ 7000 PH  0740 OH3LS      59   54 YL2SM      59   99 AU AU 2
+ 7000 PH  0742 OH3LS      59   55 YL1SR      59   60 KM    0  Call/LY1SR
+ 7000 PH  0743 OH3LS      59   56 LY6A       59  110 KN KN 2
+ 7000 PH  0748 OH3LS      59   57 LY2BAW     59  101 VV VV 2
+ 7000 PH  0750 OH3LS      59   58 LY2MM      59   85 KM KM 2
+ 7000 PH  0756 OH3LS      59   59 LY4Q       59   79 UU    1  Mult/VU
+ 7000 PH  0758 OH3LS      59   60 SE6E       59   77 DA    0  Call/SE4E
+ 7000 PH  0800 OH3LS      59   61 LY2ND      59   43 KM    2
+ 7000 PH  0802 OH3LS      59   62 YL1S       59   97 RR    2
+ 7000 PH  0803 OH3LS      59   63 LY5O       59  132 KM    2
+ 7000 PH  0806 OH3LS      59   64 ES2MC      59  155 HR HR 2
+ 7000 PH  0806 OH3LS      59   65 LY2KO      59  135 AU    0  Unique <10
+ 7000 PH  0816 OH3LS      59   66 YL3FT      59  135 OE OE 2
+ 7000 PH  0819 OH3LS      59   67 OH3Z       59  147 VA VA 2
+ 7000 PH  0821 OH3LS      59   68 LY3B       59   95 PA PA 2
+ 7000 PH  0824 OH3LS      59   69 LY4L       59  148 KM    2
+ 7000 PH  0828 OH3LS      59   70 SD6M       59   71 VD VD 2
+ 7000 PH  0830 OH3LS      59   71 LY7BN      59  162 KN    0  Call/LY3BN

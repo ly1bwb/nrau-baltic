@@ -1,0 +1,50 @@
+     Call: LY2N
+ Operator:
+ Category: Single Op                      Band   QSO  Points  Mults
+ Power: LOW                               40m     26      52     20
+     Name: Rimas Zakarevicius             80m     13      25     11
+  Address: P.O.BOX 289                    Sum     39      77     31
+  Address: Kaunas,  LT-44004              Total: 2387
+  Address: LITHUANIA
+
+
+
+ 3775 PH  0733 LY2N       59    1 YL3FT      59   95 OE OE 2
+ 3770 PH  0736 LY2N       59    2 OF3P       59   55 PM PM 2
+ 3751 PH  0737 LY2N       59    3 LY1CT      59   61 KD KD 2
+ 3736 PH  0737 LY2N       59    4 LY2TS      59   67 TI TI 2
+ 3619 PH  0741 LY2N       59    5 OF6MW      59   79 KT KT 2
+ 3636 PH  0742 LY2N       59    6 LY4MA      59   36 KM KM 2
+ 3644 PH  0743 LY2N       59    7 YL2II      59   20 AI AI 2
+ 3646 PH  0743 LY2N       59    8 LY2ZO      59   49 KM    2
+ 3623 PH  0745 LY2N       59    9 LY2BOK     59   38 AT AT 2
+ 3601 PH  0746 LY2N       59   10 LY2BMX     59   41 UT UT 2
+ 3613 PH  0747 LY2N       59   11 LY2PBV     59   37 MM MM 1  Nr/36
+ 3646 PH  0749 LY2N       59   12 YL100ZK    59   52 RR RR 2
+ 7065 PH  0754 LY2N       59   13 LY1SR      59   80 KM KM 2
+ 7070 PH  0755 LY2N       59   14 ES2MC      59  141 HR HR 2
+ 7073 PH  0755 LY2N       59   15 SF3A       59   43 VN VN 2
+ 7085 PH  0756 LY2N       59   16 LY2MM      59   97 KM    2
+ 7133 PH  0758 LY2N       59   17 OH7A       59  123 PK PK 2
+ 7137 PH  0759 LY2N       59   18 SD6M       59   48 VD VD 2
+ 7144 PH  0800 LY2N       59   19 OZ7X       59  135 AH AH 2
+ 7155 PH  0801 LY2N       59   20 LY5W       59   99 KN KN 2
+ 7158 PH  0801 LY2N       59   21 OF1F       59  141 SA SA 2
+ 7162 PH  0802 LY2N       59   22 OF8L       59  102 PP PP 2
+ 7166 PH  0802 LY2N       59   23 LY4L       59  127 KM    2
+ 3615 PH  0803 LY2N       59   24 LY4L       59  128 KM    2
+ 7200 PH  0810 LY2N       59   25 SE5E       59   78 UP UP 2
+ 7189 PH  0812 LY2N       59   26 OH2PM      59  122 VA VA 2
+ 7186 PH  0814 LY2N       59   27 SK2T       59   86 VB VB 2
+ 7182 PH  0815 LY2N       59   28 ES4NY      59   70 IV IV 2
+ 7181 PH  0816 LY2N       59   29 OZ8PG      59  117 FB FB 2
+ 7058 PH  0818 LY2N       59   30 OH8NW      59  121 VA    2
+ 7076 PH  0819 LY2N       59   31 LY5O       59  157 KM    2
+ 7082 PH  0820 LY2N       59   32 SM5ACQ     59   80 VM VM 2
+ 7091 PH  0821 LY2N       59   33 OH3Z       59  149 VA    2
+ 7196 PH  0823 LY2N       59   34 OZ11A      59   99 NJ NJ 2
+ 7195 PH  0823 LY2N       59   35 OF6MW      59  116 KT KT 2
+ 7189 PH  0825 LY2N       59   36 8S0C       59  100 SL SL 2
+ 7179 PH  0825 LY2N       59   37 LB1AH      59  122 HO HO 2
+ 7172 PH  0827 LY2N       59   38 ES1CN      59   79 TL TL 2
+ 7069 PH  0829 LY2N       59   39 ES2EZ      59  136 HR    2

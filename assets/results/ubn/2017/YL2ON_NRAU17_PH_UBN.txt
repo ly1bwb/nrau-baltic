@@ -1,0 +1,30 @@
+     Call: YL2ON
+ Operator:
+ Category: Single Op                      Band   QSO  Points  Mults
+ Power: LOW                               40m      6      11      3
+     Name: Andrejs (Andy) Luks            80m     13      25      8
+  Address: sKOLAS 1 - 8                   Sum     19      36     11
+  Address: Dundaga                        Total: 396
+  Address: LATVIA
+
+
+
+ 3630 PH  0631 YL2ON      59    1 YL2SM      59    2 AU AU 2
+ 3630 PH  0635 YL2ON      59    2 YL2BJ      59   12 VR VR 2
+ 3630 PH  0636 YL2ON      59    3 YL9T       59    6 VK VK 2
+ 3630 PH  0637 YL2ON      59    4 YL2VW      59   15 RR RR 2
+ 3630 PH  0640 YL2ON      59    5 YL2GD      59   24 AU    2
+ 3630 PH  0643 YL2ON      59    6 OZ7X       59   15 AH AH 2
+ 3630 PH  0645 YL2ON      59    7 YL2KF      59   21 LM LM 2
+ 3630 PH  0648 YL2ON      59    8 YL3FT      59   26 OE OE 2
+ 3630 PH  0650 YL2ON      59    9 YL2KO      59   33 AU    2
+ 3630 PH  0652 YL2ON      59   10 YL1S       59   25 RR    2
+ 3630 PH  0656 YL2ON      59   11 YL7A       59   43 VK    2
+ 3630 PH  0700 YL2ON      59   12 YL2PJ      59   49 RE RE 2
+ 7100 PH  0709 YL2ON      59   13 OF6MW      59   53 KT KT 2
+ 3630 PH  0714 YL2ON      59   14 YL100ZK    59   46 RR    1  Nr/30
+ 7100 PH  0740 YL2ON      59   15 ES6QC      59   85 OV    1  Mult/VO
+ 7100 PH  0742 YL2ON      59   16 YL2SM      59  104 AU AU 2
+ 7100 PH  0745 YL2ON      59   17 YL2GD      59  110 AU    2
+ 7100 PH  0746 YL2ON      59   18 YL2KO      59   99 AU    2
+ 7100 PH  0746 YL2ON      59   19 YL9T       59  112 VK VK 2

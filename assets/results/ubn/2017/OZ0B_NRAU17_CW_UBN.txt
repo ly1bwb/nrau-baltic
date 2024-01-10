@@ -1,0 +1,37 @@
+     Call: OZ0B
+ Operator: OZ1ISY
+ Category: Single Op                      Band   QSO  Points  Mults
+ Power: LOW                               40m     19      35     14
+     Name: Soren Kristensen               80m      7      14      7
+  Address: Ndr Bjalderupvej 4             Sum     26      49     21
+  Address: DK-6870 Olgod                  Total: 1029
+  Address: DENMARK
+
+
+
+ 3500 CW  0905 OZ0B       599   1 OH6RE      599   1 KE KE 2
+ 3500 CW  0915 OZ0B       599   2 LA5UF      599  13 VF VF 2
+ 3500 CW  0930 OZ0B       599   3 SD6M       599  16 VD VD 2
+ 3500 CW  0957 OZ0B       599   4 OZ8PG      599  46 FB FB 2
+ 3500 CW  0955 OZ0B       599   5 LA0CX      599  40 OF OF 2
+ 3500 CW  1005 OZ0B       599   6 OF6MW      599 102 KT KT 2
+ 3500 CW  1010 OZ0B       599   7 OU4N       599  30 RO RO 2
+ 7000 CW  1015 OZ0B       599   8 OF6MW      599 118 KT KT 2
+ 7000 CW  1017 OZ0B       599   9 YL3FT      599 115 OE OE 2
+ 7000 CW  1019 OZ0B       599  10 OF1F       599 115 SA SA 2
+ 7000 CW  1020 OZ0B       599  11 LY2KA      599  89 MM MM 2
+ 7000 CW  1023 OZ0B       599  12 YL2KF      599  87 LM LM 2
+ 7000 CW  1025 OZ0B       599  13 YL2KO      599 117 AU AU 2
+ 7000 CW  1027 OZ0B       599  14 LY5O       599 128 KM KM 2
+ 7000 CW  1029 OZ0B       599  15 OH8NW      599 111 VA VA 2
+ 7000 CW  1031 OZ0B       599  16 ES7GM      599 136 VP VP 2
+ 7000 CW  1038 OZ0B       599  17 ES5QA      599 111 JG JG 2
+ 7000 CW  1040 OZ0B       599  18 LY7M       599 147 UT UT 2
+ 7000 CW  1041 OZ0B       599  19 YL9T       599 115 VK VK 2
+ 7000 CW  1044 OZ0B       599  20 YL2PJ      599 128 RE RE 2
+ 7000 CW  1049 OZ0B       599  21 ES5EP      599 108 TA TA 2
+ 7000 CW  1051 OZ0B       599  22 ES2EZ      599 125 SR    1  Mult/HR
+ 7000 CW  1053 OZ0B       599  23 LY2IJ      599 150 UT    2
+ 7000 CW  1055 OZ0B       599  24 SM5ACQ     599 112 VO    1  Mult/VM
+ 7000 CW  1057 OZ0B       599  25 LY2MM      599 144 KM    1  Nr/134
+ 7000 CW  1059 OZ0B       599  26 LY4L       599 140 KM    2

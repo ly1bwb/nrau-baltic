@@ -1,0 +1,53 @@
+     Call: YL3IR
+ Operator:
+ Category: Single Op                      Band   QSO  Points  Mults
+ Power: LOW                               40m     17      34     15
+     Name: Imants                         80m     25      49     21
+  Address: post box 30                    Sum     42      83     36
+  Address:  Gulbene,  LV-4401             Total: 2988
+  Address: Latvia
+
+
+
+ 3754 PH  0630 YL3IR      59    1 YL2SM      59    1 AU AU 2
+ 3748 PH  0632 YL3IR      59    2 YL2BJ      59    3 VR VR 2
+ 3727 PH  0634 YL3IR      59    3 OF1F       59    5 SA SA 2
+ 3718 PH  0636 YL3IR      59    4 OZ7X       59    8 AH AH 2
+ 3710 PH  0637 YL3IR      59    5 YL2GD      59   16 AU    2
+ 3649 PH  0642 YL3IR      59    6 ES6RW      59   27 VO VO 2
+ 3619 PH  0646 YL3IR      59    7 OF6MW      59   24 KT KT 2
+ 3610 PH  0648 YL3IR      59    8 ES2EZ      59   33 HR HR 2
+ 3729 PH  0653 YL3IR      59    9 YL9T       59   39 VK VK 2
+ 3744 PH  0655 YL3IR      59   10 YL1ZT      59   17 TU TU 2
+ 3720 PH  0658 YL3IR      59   11 YL2KF      59   50 LM LM 2
+ 3754 PH  0701 YL3IR      59   12 YL1S       59   42 RR RR 2
+ 3771 PH  0703 YL3IR      59   13 YL2PJ      59   45 RE RE 2
+ 3775 PH  0704 YL3IR      59   14 YL3FT      59   53 OE OE 2
+ 3748 PH  0709 YL3IR      59   15 LB1AH      59   25 HO HO 2
+ 3762 PH  0713 YL3IR      59   16 YL2KO      59   65 AU    2
+ 3751 PH  0717 YL3IR      59   17 OH3Z       59   75 VA VA 2
+ 3613 PH  0720 YL3IR      59   18 YL2VW      59   79 RR    2
+ 3605 PH  0723 YL3IR      59   19 ES5JR      59   34 TA TA 2
+ 3605 PH  0725 YL3IR      59   20 ES0DJ      59   20 SR SR 2
+ 3605 PH  0726 YL3IR      59   21 ES1CN      59   43 TL TL 2
+ 3605 PH  0727 YL3IR      59   22 ES5QA      59   82 JG JG 2
+ 3605 PH  0727 YL3IR      59   23 LY2MM      59   70 KM KM 2
+ 3605 PH  0728 YL3IR      59   24 LY5P       59   27 SI SI 2
+ 3605 PH  0729 YL3IR      59   25 LY6A       59   85 KM    1  Mult/KN
+ 7051 PH  0731 YL3IR      59   26 OF6MW      59   73 KT KT 2
+ 7073 PH  0734 YL3IR      59   27 OH3Z       59   94 VA VA 2
+ 7141 PH  0736 YL3IR      59   28 YL2GD      59  103 AU AU 2
+ 7152 PH  0738 YL3IR      59   29 SA1CCQ     59   56 GO GO 2
+ 7158 PH  0739 YL3IR      59   30 OF1F       59  101 SA SA 2
+ 7162 PH  0741 YL3IR      59   31 OF8L       59   75 PP PP 2
+ 7187 PH  0746 YL3IR      59   32 YL2KO      59  100 AU    2
+ 7193 PH  0749 YL3IR      59   33 YL9T       59  113 VK VK 2
+ 7076 PH  0753 YL3IR      59   34 YL2SM      59  127 AU    2
+ 7073 PH  0756 YL3IR      59   35 SF3A       59   44 VN VN 2
+ 7069 PH  0757 YL3IR      59   36 SM5ACQ     59   56 VM VM 2
+ 7144 PH  0802 YL3IR      59   37 OZ7X       59  139 AH AH 2
+ 7170 PH  0806 YL3IR      59   38 OH6RE      59  122 KE KE 2
+ 7179 PH  0808 YL3IR      59   39 LB1AH      59  101 HO HO 2
+ 7200 PH  0810 YL3IR      59   40 SE5E       59   77 UP UP 2
+ 7181 PH  0813 YL3IR      59   41 OZ8PG      59  114 FB FB 2
+ 7136 PH  0817 YL3IR      59   42 SE5N       59   72 SO SO 2

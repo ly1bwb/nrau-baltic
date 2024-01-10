@@ -1,0 +1,73 @@
+     Call: ES5JR
+ Operator:
+ Category: CheckLog                       Band   QSO  Points  Mults
+ Power: LOW                               40m     17      34     17
+     Name: Jüri Ruut                      80m     45      82     31
+  Address: Ringrtee 2-26                  Sum     62     116     48
+  Address: Torvandi,  61715               Total: 5568
+  Address: Estonia
+
+
+
+ 3617 PH  0637 ES5JR      59    1 LY4L       59   17 KM KM 2
+ 3625 PH  0638 ES5JR      59    2 LY4A       59   23 SU SU 2
+ 3630 PH  0639 ES5JR      59    3 LY6A       59   25 KN KN 2
+ 3710 PH  0642 ES5JR      59    4 YL2GD      59   29 AU AU 2
+ 3715 PH  0644 ES5JR      59    5 OH7A       59   21 PK PK 2
+ 3724 PH  0646 ES5JR      59    6 LY2SA      59   28 MM MM 2
+ 3759 PH  0651 ES5JR      59    7 OH2PM      59   33 VA VA 2
+ 3752 PH  0651 ES5JR      59    8 OF8L       59   21 PP PP 2
+ 3748 PH  0652 ES5JR      59    9 YL2BJ      59   49 VR VR 2
+ 3744 PH  0652 ES5JR      59   10 ES4NY      59   23 IV IV 2
+ 3738 PH  0653 ES5JR      59   11 OZ8PG      59   25 FB FB 2
+ 3735 PH  0656 ES5JR      59   12 ES6QC      59   40 VO VO 2
+ 3729 PH  0656 ES5JR      59   13 YL9T       59   48 VK VK 2
+ 3718 PH  0657 ES5JR      59   14 OZ7X       59   37 AH AH 2
+ 3703 PH  0658 ES5JR      59   15 LY5W       59   31 KN    2
+ 3707 PH  0659 ES5JR      59   16 ES2MC      59   62 HR HR 2
+ 3720 PH  0700 ES5JR      59   17 YL2KF      59   56 LM LM 1  Nr/53
+ 3730 PH  0701 ES5JR      59   18 ES2O       59   27 HR    2
+ 3742 PH  0703 ES5JR      59   19 OH6RE      59   37 KE KE 2
+ 3754 PH  0704 ES5JR      59   20 YL1S       59   48 RR RR 2
+ 3775 PH  0705 ES5JR      59   21 YL3FT      59   57 OE OE 2
+ 3771 PH  0706 ES5JR      59   22 YL2PJ      59   50 RE RE 2
+ 3761 PH  0706 ES5JR      59   23 YL2KO      59   51 AU    2
+ 3751 PH  0708 ES5JR      59   24 OH3Z       59   54 VA    2
+ 3643 PH  0710 ES5JR      59   25 OF1Z       59   55 VA    2
+ 3648 PH  0714 ES5JR      59   26 YL7A       59   71 VK    2
+ 3648 PH  0714 ES5JR      59   27 ES6PA      59   32 VO    2
+ 3648 PH  0715 ES5JR      59   28 ES7RIX     59   23 VP VP 2
+ 3648 PH  0716 ES5JR      59   29 ES8TJM     59   12 PU PU 2
+ 3707 PH  0718 ES5JR      59   30 ES7GM      59   90 VP    2
+ 3729 PH  0718 ES5JR      59   31 ES1BH      59   46 TL TL 2
+ 3628 PH  0722 ES5JR      59   32 ES5QA      59   77 JG JG 2
+ 3621 PH  0723 ES5JR      59   33 ES5TF      59   41 TA TA 2
+ 3605 PH  0724 ES5JR      59   34 YL3IR      59   18 GU GU 1  Nr/19
+ 3723 PH  0726 ES5JR      59   35 OH8NW      59   81 VA    2
+ 3727 PH  0726 ES5JR      59   36 OF1F       59   81 SA SA 2
+ 3740 PH  0727 ES5JR      59   37 LY5O       59   86 KM    2
+ 3762 PH  0727 ES5JR      59   38 ES2EZ      59   84 HR    2
+ 3770 PH  0729 ES5JR      59   39 OF3P       59   48 PM PM 2
+ 7154 PH  0731 ES5JR      59   40 YL1ZT      59   42 TU TU 2
+ 7145 PH  0734 ES5JR      59   41 OH8NW      59   88 VA VA 2
+ 7158 PH  0736 ES5JR      59   42 OF1F       59   95 SA SA 2
+ 7173 PH  0736 ES5JR      59   43 LY4A       59  117 SU SU 2
+ 3740 PH  0739 ES5JR      59   44 OF8NW      59   33 PO    0  Call/OF8NV
+ 3736 PH  0741 ES5JR      59   45 LY2TS      59   69 TI TI 2
+ 3716 PH  0742 ES5JR      59   46 SM5ACQ     59   45 VM VM 1  Nr/49
+ 3627 PH  0745 ES5JR      59   47 ES3BQ      59   13 RP RP 2
+ 7160 PH  0749 ES5JR      59   48 SK2T       59   60 VB VB 2
+ 7144 PH  0751 ES5JR      59   49 OZ7X       59  117 AH AH 2
+ 7137 PH  0753 ES5JR      59   50 SE3X       59   47 JL JL 2
+ 7183 PH  0800 ES5JR      59   51 OZ11A      59   75 NJ NJ 2
+ 7179 PH  0801 ES5JR      59   52 LB1AH      59   94 HO HO 2
+ 7161 PH  0802 ES5JR      59   53 OF8L       59  101 PP PP 2
+ 7152 PH  0806 ES5JR      59   54 LY2ON      59   38 KI KI 2
+ 7181 PH  0809 ES5JR      59   55 OZ8PG      59  109 FB FB 2
+ 7164 PH  0814 ES5JR      59   56 LY1SR      59   97 KM KM 2
+ 7200 PH  0816 ES5JR      59   57 SE5E       59   85 UP UP 2
+ 7159 PH  0818 ES5JR      59   58 LY2SA      59  131 MM MM 2
+ 7136 PH  0820 ES5JR      59   59 SE5N       59   75 SO SO 2
+ 7158 PH  0824 ES5JR      59   60 SA1CCQ     59   86 GO GO 2
+ 3638 PH  0828 ES5JR      59   61 YL100ZK    59   73 RR    1  Nr/72
+ 3644 PH  0830 ES5JR      59   62 ES6RMR     59   66 VC    0 Time

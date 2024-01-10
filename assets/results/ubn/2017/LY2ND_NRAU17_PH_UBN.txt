@@ -1,0 +1,66 @@
+     Call: LY2ND
+ Operator:
+ Category: Single Op                      Band   QSO  Points  Mults
+ Power: LOW                               40m     21      35     12
+     Name:          Petras Skinkys        80m     34      63     20
+  Address:       Piliakalnio 9-34         Sum     55      98     32
+  Address:       Kaunas                   Total: 3136
+  Address:       LT-46225
+
+
+
+ 3500 PH  0630 LY2ND      59    1 ES6RW      59    1 VO VO 2
+ 3500 PH  0631 LY2ND      59    2 2CO        59    4 TI    0  Call/LY2CO
+ 3500 PH  0632 LY2ND      59    3 ES5QA      59    3 JG JG 2
+ 3500 PH  0633 LY2ND      59    4 LY6A       59   15 KN KN 2
+ 3500 PH  0634 LY2ND      59    5 LY3BN      59    9 KN    2
+ 3500 PH  0635 LY2ND      59    6 LY4A       59   16 SU SU 2
+ 3500 PH  0636 LY2ND      59    7 LY2BOK     59    2 AT AT 2
+ 3500 PH  0637 LY2ND      59    8 LY4L       59   19 KM KM 2
+ 3500 PH  0640 LY2ND      59    9 LY2NY      59   16 KN    2
+ 3500 PH  0641 LY2ND      59   10 LY2BAW     59   20 VV VV 2
+ 3500 PH  0644 LY2ND      59   11 YL7A       59   20 VK VK 2
+ 3500 PH  0647 LY2ND      59   12 LY2PBV     59   17 MM MM 2
+ 3500 PH  0649 LY2ND      59   13 ES7GM      59   42 VP VP 2
+ 3500 PH  0650 LY2ND      59   14 ES2EZ      59   37 HR HR 2
+ 3500 PH  0651 LY2ND      59   15 LY4Q       59   33 VU VU 2
+ 3500 PH  0654 LY2ND      59   16 ES6RMR     59   17 VC VC 2
+ 3500 PH  0701 LY2ND      59   17 OF1Z       59   34 VA VA 2
+ 3500 PH  0704 LY2ND      59   18 YL2GD      59   65 AU AU 2
+ 3500 PH  0706 LY2ND      59   19 OH8X       59   59 VA    0  Call/OH8NW
+ 3500 PH  0707 LY2ND      59   20 LY5O       59   62 KM    2
+ 3500 PH  0708 LY2ND      59   21 LY1SR      59   36 KM    2
+ 3500 PH  0710 LY2ND      59   22 LA5UF      59   18 VF VF 2
+ 3500 PH  0714 LY2ND      59   23 YL2BJ      59   84 VR VR 2
+ 3500 PH  0715 LY2ND      59   24 LY4MA      59   13 KM    2
+ 3500 PH  0717 LY2ND      59   25 LY1CO      59   39 KN    2
+ 3500 PH  0718 LY2ND      59   26 YL2VW      59   75 RR RR 2
+ 3500 PH  0719 LY2ND      59   27 LY2SA      59   64 MM    2
+ 3500 PH  0721 LY2ND      59   28 LY2TS      59   55 TI TI 2
+ 3500 PH  0723 LY2ND      59   29 ES6PA      59   44 VO    2
+ 3500 PH  0728 LY2ND      59   30 YL2KO      59   84 AU    2
+ 3500 PH  0730 LY2ND      59   31 LY7M       59   43 UT UT 2
+ 7000 PH  0737 LY2ND      59   32 OH3Z       59  101 VA VA 2
+ 7000 PH  0738 LY2ND      59   33 LA5UF      59   35 VF VF 2
+ 7000 PH  0739 LY2ND      59   34 ES7GM      59  131 VP VP 2
+ 7000 PH  0742 LY2ND      59   35 OZ11A      59   46 NJ NJ 2
+ 7000 PH  0743 LY2ND      59   36 LY4L       59  100 KM KM 2
+ 7000 PH  0744 LY2ND      59   37 LY5O       59  109 KM    2
+ 7000 PH  0748 LY2ND      59   38 OF1F       59  117 SA SA 2
+ 7000 PH  0750 LY2ND      59   39 OZ7X       59  115 AH AH 2
+ 7000 PH  0752 LY2ND      59   40 LY1SR      59   77 KM    2
+ 3500 PH  0754 LY2ND      59   41 LY3CY      59   59 VU    2
+ 3500 PH  0756 LY2ND      59   42 LY2BMX     59   46 UT    2
+ 3500 PH  0759 LY2ND      59   43 OH3LS      59   61 MM    1  Mult/PM
+ 7000 PH  0801 LY2ND      59   44 LY2MM      59  104 KM    2
+ 7000 PH  0804 LY2ND      59   45 OZ9VA      59   53 FB FB 2
+ 7000 PH  0805 LY2ND      59   46 LY3BN      59  127 KN KN 2
+ 7000 PH  0807 LY2ND      59   47 OH6RE      59  124 KE KE 2
+ 7000 PH  0811 LY2ND      59   48 OZ8PJ      59  113 FB    0  Call/OZ8PG
+ 7000 PH  0812 LY2ND      59   49 LY5AA      59   57 KM    2
+ 7000 PH  0814 LY2ND      59   50 OF8L       59  119 SA    1  Mult/PP
+ 7000 PH  0817 LY2ND      59   51 OH2PM      59  135 VA    2
+ 7000 PH  0821 LY2ND      59   52 OH7A       59  152 PK PK 2
+ 7000 PH  0825 LY2ND      59   53 ES5E       59   99 UP    0  Call/SE5E
+ 7000 PH  0828 LY2ND      59   54 ES1CN      59   80 TL TL 2
+ 7000 PH  0829 LY2ND      59   55 SM5S       59   87 VM    0  Call/SM5ACQ

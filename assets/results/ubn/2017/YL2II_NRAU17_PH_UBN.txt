@@ -1,0 +1,49 @@
+     Call: YL2II
+ Operator:
+ Category: Single Op                      Band   QSO  Points  Mults
+ Power: LOW                               40m     10      20     10
+     Name: Yan                            80m     28      56     20
+  Address: Augstkalni, Aizkraukles pag.   Sum     38      76     30
+  Address: Aizkraukles novads             Total: 2280
+  Address: Aizkraukle,  LV-5101
+
+
+
+ 3600 PH  0716 YL2II      59    1 YL2SM      59   77 AU AU 2
+ 3600 PH  0717 YL2II      59    2 LY6A       59   74 KN KN 2
+ 3600 PH  0718 YL2II      59    3 OH7A       59   72 PK PK 2
+ 3600 PH  0719 YL2II      59    4 YL2KF      59   80 LM LM 2
+ 3600 PH  0720 YL2II      59    5 OF1F       59   76 SA SA 2
+ 3600 PH  0721 YL2II      59    6 ES6QC      59   71 VO VO 2
+ 3600 PH  0722 YL2II      59    7 LY3BN      59   73 KN    2
+ 3600 PH  0722 YL2II      59    8 LY5O       59   79 KM KM 2
+ 3600 PH  0724 YL2II      59    9 LY5W       59   58 KN    2
+ 3600 PH  0725 YL2II      59   10 OH3Z       59   87 VA VA 2
+ 3600 PH  0725 YL2II      59   11 OF8L       59   55 PP PP 2
+ 3600 PH  0727 YL2II      59   12 ES4NY      59   51 IV IV 2
+ 3600 PH  0727 YL2II      59   13 ES2EZ      59   83 HR HR 2
+ 3600 PH  0728 YL2II      59   14 LY4A       59  105 SU SU 2
+ 7127 PH  0731 YL2II      59   15 LY4A       59  109 SU SU 2
+ 3600 PH  0737 YL2II      59   16 YL7A       59   92 VK VK 2
+ 3600 PH  0738 YL2II      59   17 YL3FT      59   96 OE OE 2
+ 3600 PH  0742 YL2II      59   18 LY4LA      59   47 KD KD 2
+ 3600 PH  0743 YL2II      59   19 LY4K       59   50 KM    2
+ 3600 PH  0743 YL2II      59   20 LY2N       59    7 KM    2
+ 3600 PH  0744 YL2II      59   21 LY2TS      59   71 TI TI 2
+ 3600 PH  0744 YL2II      59   22 LY2BOK     59   37 AT AT 2
+ 3600 PH  0745 YL2II      59   23 YL2AQ      59    8 RR RR 2
+ 3600 PH  0746 YL2II      59   24 LY3CY      59   54 VU VU 2
+ 3600 PH  0748 YL2II      59   25 LY4MA      59   38 KM    2
+ 3600 PH  0749 YL2II      59   26 YL2GD      59  115 AU    2
+ 3600 PH  0753 YL2II      59   27 LY2BMX     59   45 UT UT 2
+ 3600 PH  0757 YL2II      59   28 LY2ZO      59   63 KM    2
+ 3600 PH  0801 YL2II      59   29 LY1CO      59   64 KN    2
+ 7127 PH  0804 YL2II      59   30 OZ8PG      59  105 FB FB 2
+ 7127 PH  0806 YL2II      59   31 OF3P       59   71 PM PM 2
+ 7127 PH  0807 YL2II      59   32 OZ4NA      59   65 NJ NJ 2
+ 7127 PH  0815 YL2II      59   33 SE5E       59   82 UP UP 2
+ 7127 PH  0818 YL2II      59   34 OZ6ARC     59   52 SJ SJ 2
+ 7127 PH  0820 YL2II      59   35 OH6RE      59  136 KE KE 2
+ 7127 PH  0821 YL2II      59   36 OZ7X       59  168 AH AH 2
+ 7127 PH  0822 YL2II      59   37 OH7A       59  153 PK PK 2
+ 7127 PH  0824 YL2II      59   38 OF8UV      59   59 KU KU 2

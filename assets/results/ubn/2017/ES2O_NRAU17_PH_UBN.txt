@@ -1,0 +1,82 @@
+     Call: ES2O
+ Operator: ES2UK
+ Category: Single Op                      Band   QSO  Points  Mults
+ Power: HIGH                              40m     26      52     20
+     Name: Klaus Urmet                    80m     45      88     34
+  Address: P?rnu mnt 57 Tallinn Estonia   Sum     71     140     54
+  Address: Rae vald Vaskjala k?la         Total: 7560
+  Address: Tallinn, ES
+
+
+
+ 3600 PH  0630 ES2O       59    1 LY2SA      59    4 MM MM 2
+ 3600 PH  0631 ES2O       59    2 ES2MC      59    5 HR HR 2
+ 3600 PH  0632 ES2O       59    3 YL2VW      59    4 RR RR 2
+ 3600 PH  0632 ES2O       59    4 ES6RW      59    7 VO VO 2
+ 3600 PH  0633 ES2O       59    5 LY2CO      59    7 TI TI 2
+ 3600 PH  0635 ES2O       59    6 ES3BM      59    6 RP RP 2
+ 3600 PH  0636 ES2O       59    7 ES5QA      59   11 JG JG 2
+ 3600 PH  0638 ES2O       59    8 ES7GM      59   22 VP VP 2
+ 3600 PH  0639 ES2O       59    9 LY4Q       59   13 VU VU 2
+ 3600 PH  0639 ES2O       59   10 ES1O       59    2 TL TL 2
+ 3600 PH  0640 ES2O       59   11 ES8TJM     59    2 PU PU 2
+ 3600 PH  0641 ES2O       59   12 ES2EZ      59   20 HR    2
+ 3600 PH  0642 ES2O       59   13 LY2MM      59   22 KM KM 2
+ 3600 PH  0643 ES2O       59   14 OH3Z       59   15 VA VA 2
+ 3600 PH  0644 ES2O       59   15 LY6A       59   33 KN KN 2
+ 3600 PH  0645 ES2O       59   16 YL7A       59   23 VK VK 2
+ 3600 PH  0647 ES2O       59   17 LY2BAW     59   32 VV VV 2
+ 3600 PH  0648 ES2O       59   18 OF1Z       59   13 VA    2
+ 3600 PH  0648 ES2O       59   19 ES2IPA     59   10 HR    2
+ 3600 PH  0650 ES2O       59   20 ES6RMR     59   14 VC VC 2
+ 3600 PH  0652 ES2O       59   21 LY3BN      59   40 KN    2
+ 3600 PH  0653 ES2O       59   22 OH8NW      59   34 VA    2
+ 3600 PH  0654 ES2O       59   23 ES1BH      59    6 TL    2
+ 3600 PH  0657 ES2O       59   24 OZ11A      59   19 NJ NJ 2
+ 3600 PH  0658 ES2O       59   25 OH2KW      59   33 UU UU 2
+ 3600 PH  0659 ES2O       59   26 OZ7X       59   41 AH AH 2
+ 3600 PH  0702 ES2O       59   27 ES5JR      59   18 TA TA 2
+ 3600 PH  0702 ES2O       59   28 OF1F       59   44 SA SA 2
+ 3600 PH  0703 ES2O       59   29 OZ8PG      59   37 FB FB 2
+ 3600 PH  0706 ES2O       59   30 YL3FT      59   60 OE OE 2
+ 3600 PH  0708 ES2O       59   31 YL2KO      59   54 AU AU 2
+ 3600 PH  0710 ES2O       59   32 LA1AH      59   26 HO    0  Call/LB1AH
+ 3600 PH  0714 ES2O       59   33 OH6RE      59   59 KE KE 2
+ 3600 PH  0715 ES2O       59   34 SM5ACQ     59   32 VM VM 2
+ 3600 PH  0716 ES2O       59   35 OH7A       59   71 PK PK 2
+ 3600 PH  0718 ES2O       59   36 YL2SM      59   84 AU    2
+ 3600 PH  0720 ES2O       59   37 ES6PA      59   37 VO    2
+ 3600 PH  0722 ES2O       59   38 YL2PJ      59   72 RE RE 2
+ 3600 PH  0723 ES2O       59   39 YL2BJ      59   92 VR VR 2
+ 3600 PH  0725 ES2O       59   40 OH3LS      59   41 PM PM 2
+ 3600 PH  0726 ES2O       59   41 LY5O       59   85 KM    2
+ 3600 PH  0729 ES2O       59   42 ES4NY      59   54 IV IV 2
+ 3600 PH  0730 ES2O       59   43 SA1CCQ     59   51 GO GO 2
+ 7050 PH  0734 ES2O       59   44 SA1CCQ     59   53 GO GO 2
+ 7050 PH  0737 ES2O       59   45 ES6RW      59  121 VO VO 2
+ 7050 PH  0738 ES2O       59   46 ES1BH      59   69 TL TL 2
+ 7050 PH  0739 ES2O       59   47 SK2T       59   51 VB VB 2
+ 7050 PH  0742 ES2O       59   48 LY6A       59  105 KN KN 2
+ 7050 PH  0743 ES2O       59   49 LY1SR      59   61 KM KM 2
+ 7050 PH  0746 ES2O       59   50 ES2MC      59  124 HR HR 2
+ 7050 PH  0749 ES2O       59   51 YL3FT      59  105 OE OE 2
+ 7050 PH  0750 ES2O       59   52 YL1S       59   88 RR RR 2
+ 7050 PH  0756 ES2O       59   53 ES5QA      59  116 JG JG 2
+ 7050 PH  0759 ES2O       59   54 LY2MM      59  100 KM    2
+ 7050 PH  0800 ES2O       59   55 LY5O       59  126 KM    2
+ 7050 PH  0801 ES2O       59   56 LY4Q       59   82 VU VU 2
+ 7050 PH  0802 ES2O       59   57 LA5UF      59   51 VF VF 2
+ 7050 PH  0805 ES2O       59   58 ES2EZ      59  120 HR    2
+ 7050 PH  0806 ES2O       59   59 OZ9VA      59   57 FB FB 2
+ 7050 PH  0807 ES2O       59   60 OZ7X       59  152 AH AH 2
+ 7050 PH  0808 ES2O       59   61 LY3BN      59  133 KN    2
+ 7050 PH  0810 ES2O       59   62 OZ4NA      59   70 NJ NJ 2
+ 7050 PH  0813 ES2O       59   63 LY2SA      59  127 MM MM 2
+ 7050 PH  0816 ES2O       59   64 LA8FTA     59   52 AK AK 2
+ 7050 PH  0818 ES2O       59   65 LY2BAW     59  139 VV VV 2
+ 7050 PH  0820 ES2O       59   66 SD6M       59   62 VD VD 2
+ 3600 PH  0823 ES2O       59   67 ES1QD      59   64 TL    2
+ 3600 PH  0825 ES2O       59   68 OF6MW      59  117 KT KT 2
+ 7050 PH  0826 ES2O       59   69 LY4L       59  150 KM    2
+ 7050 PH  0827 ES2O       59   70 LB3RE      59   31 OP OP 2
+ 7050 PH  0829 ES2O       59   71 SM6IQD     59   61 VD    2

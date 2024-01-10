@@ -1,0 +1,46 @@
+     Call: LY2PBV
+ Operator:
+ Category: Single Op                      Band   QSO  Points  Mults
+ Power: LOW                               40m      0       0      0
+     Name: JUSTINAS TREIGYS               80m     37      63     15
+  Address:                                Sum     37      63     15
+                                          Total: 945
+
+
+ 3500 PH  0630 LY2PBV     59    1 LY6A       59    2 KN KN 2
+ 3500 PH  0632 LY2PBV     59    2 LY4L       59    6 KM KM 2
+ 3500 PH  0633 LY2PBV     59    3 LY1SR      59    4 KM    2
+ 3500 PH  0635 LY2PBV     59    4 LY3BN      59    8 KN    2
+ 3500 PH  0636 LY2PBV     59    5 LY2BAW     59    6 VU    1  Mult/VV
+ 3500 PH  0637 LY2PBV     59    6 LY2NY      59    8 KN    2
+ 3500 PH  0640 LY2PBV     59    7 LY2CO      59    7 TI TI 1  Nr/21
+ 3500 PH  0642 LY2PBV     59    8 LY3CY      59   15 VU VU 2
+ 3500 PH  0643 LY2PBV     59    9 LY3PDX     59    6 MM MM 2
+ 3500 PH  0643 LY2PBV     59   10 LY2BAG     59    7 KM    2
+ 3500 PH  0644 LY2PBV     59   11 LY1CT      59   11 KD KD 2
+ 3500 PH  0644 LY2PBV     56   12 LY5T       59   12 AT AT 1  Nr/7
+ 3500 PH  0645 LY2PBV     59   13 YL2KO      59   24 AU AU 2
+ 3500 PH  0645 LY2PBV     59   14 LY5AA      59   12 KM    2
+ 3500 PH  0646 LY2PBV     59   15 LY3IZ      59    9 UT UT 2
+ 3500 PH  0647 LY2PBV     59   16 YL2GD      59   37 AU    2
+ 3500 PH  0648 LY2PBV     59   17 LY2ND      59   12 KM    2
+ 3500 PH  0649 LY2PBV     59   18 LY2BMX     59   10 UT    2
+ 3500 PH  0649 LY2PBV     59   19 LY7M       59    9 UT    2
+ 3500 PH  0650 LY2PBV     59   20 LY9Y       59   26 SU SU 2
+ 3500 PH  0650 LY2PBV     59   21 YL2YJ      59   29 RE    0  Call/YL2PJ
+ 3500 PH  0651 LY2PBV     59   22 LY2BOK     59   10 AT    2
+ 3500 PH  0653 LY2PBV     59   23 LY5W       59   22 KN    2
+ 3500 PH  0655 LY2PBV     59   24 LY2SA      59   42 MM    2
+ 3500 PH  0657 LY2PBV     59   25 LY4Q       59   41 VU    2
+ 3500 PH  0702 LY2PBV     59   26 YL7A       59   56 VK VK 1  Nr/54
+ 3500 PH  0709 LY2PBV     59   27 LY1CO      59   31 KN    2
+ 3500 PH  0709 LY2PBV     59   28 LY2TS      59   41 TI    2
+ 3500 PH  0719 LY2PBV     59   29 YL2PJ      59   69 RE RE 2
+ 3500 PH  0730 LY2PBV     59   30 YL2KO      59   86 AU    0  QSO B4
+ 3500 PH  0733 LY2PBV     59   31 ES6PA      59   61 VO VO 2
+ 3500 PH  0736 LY2PBV     59   32 LY4MA      59   32 KM    2
+ 3500 PH  0738 LY2PBV     59   33 LY2ZO      59   40 KM    2
+ 3500 PH  0744 LY2PBV     59   34 OH2PM      59   97 VA VA 1  Nr/87
+ 3500 PH  0747 LY2PBV     59   35 LY2ON      59   34 KI KI 2
+ 3500 PH  0747 LY2PBV     59   36 LY2N       59   11 KM    2
+ 3500 PH  0749 LY2PBV     59   37 LY3DE      59    3 UT    0  Unique <10

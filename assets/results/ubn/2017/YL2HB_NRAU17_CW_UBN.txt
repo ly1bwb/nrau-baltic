@@ -1,0 +1,52 @@
+     Call: YL2HB
+ Operator:
+ Category: Single Op                      Band   QSO  Points  Mults
+ Power: LOW                               40m     12      24     12
+     Name: Karl                           80m     29      54     19
+  Address: Karl Kravalis                  Sum     41      78     31
+  Address: Velku Str. 11, Tukums LV3101   Total: 2418
+  Address: Latvia
+
+
+
+ 3500 CW  0901 YL2HB      599   1 LY5O       599   4 KM KM 2
+ 3500 CW  0902 YL2HB      599   2 YL3FT      599   4 OE OE 2
+ 3500 CW  0904 YL2HB      599   3 YL7A       599   8 VK VK 2
+ 3500 CW  0905 YL2HB      599   4 YL2KO      599  10 AU AU 2
+ 3500 CW  0906 YL2HB      599   5 LY2IJ      599  13 UT UT 2
+ 3500 CW  0907 YL2HB      599   6 LY6A       599  12 KN KN 2
+ 3500 CW  0912 YL2HB      599   7 LY2SA      599  24 MM MM 2
+ 3500 CW  0914 YL2HB      599   8 LY1CT      599  23 KD KD 2
+ 3500 CW  0916 YL2HB      599   9 LY2BAW     599  22 VV VV 2
+ 3500 CW  0919 YL2HB      599  10 ES2EZ      599  30 HR HR 2
+ 3500 CW  0920 YL2HB      599  11 YL2SM      599  30 AU    2
+ 3500 CW  0921 YL2HB      599  12 YL2GD      599  34 AU    2
+ 3500 CW  0925 YL2HB      599  13 OH2PM      599  48 VA VA 2
+ 3500 CW  0928 YL2HB      599  14 LY4T       599  35 KN    2
+ 3500 CW  0929 YL2HB      599  15 ES3CC      599  31 LN LN 2
+ 3500 CW  0933 YL2HB      599  16 LY5W       599  42 KN    2
+ 3500 CW  0937 YL2HB      599  17 ES2MC      599  59 HR    2
+ 3500 CW  0938 YL2HB      599  18 LY2KA      599  45 MM    2
+ 3500 CW  0941 YL2HB      599  19 LY9T       599  56 VK    0  Call/YL9T
+ 3500 CW  0944 YL2HB      599  20 LY3BN      599  58 KN    2
+ 3500 CW  0946 YL2HB      599  21 YL2PJ      599  66 RE RE 2
+ 3500 CW  0951 YL2HB      599  22 ES7A       599  43 VP VP 2
+ 3500 CW  0956 YL2HB      599  23 YL9T       599  77 VK    2
+ 3500 CW  0959 YL2HB      599  24 LY2CO      599  71 TI TI 2
+ 3500 CW  1001 YL2HB      599  25 YL2KF      599  70 LM LM 2
+ 3500 CW  1004 YL2HB      599  26 ES5QA      599  78 JG JG 1  Nr/77
+ 3500 CW  1007 YL2HB      599  27 YL2BJ      599  89 VR VR 2
+ 3500 CW  1008 YL2HB      599  28 LY4L       599  92 PK    1  Mult/KM
+ 3500 CW  1011 YL2HB      599  29 ES3BM      599  54 RP RP 2
+ 7000 CW  1016 YL2HB      599  30 SM5CSS     599  78 UP UP 2
+ 7000 CW  1019 YL2HB      599  31 OH2KW      599  81 UU UU 2
+ 7000 CW  1020 YL2HB      599  32 OH2YL      599  77 KT KT 2
+ 7000 CW  1021 YL2HB      599  33 YL1S       599  98 RR RR 2
+ 7000 CW  1022 YL2HB      599  34 OZ2TF      599  50 RK RK 2
+ 7000 CW  1027 YL2HB      599  35 OZ7YY      599  93 AH AH 2
+ 7000 CW  1034 YL2HB      599  36 OZ8PG      599  78 FB FB 2
+ 7000 CW  1036 YL2HB      599  37 OZ8SW      599  68 KH KH 2
+ 7000 CW  1039 YL2HB      599  38 OF1F       599 137 SA SA 2
+ 7000 CW  1043 YL2HB      599  39 LA0CX      599  82 OF OF 2
+ 7000 CW  1050 YL2HB      599  40 OF8L       599 161 PP PP 2
+ 7000 CW  1055 YL2HB      599  41 SM7IUN     599  65 SE SE 2

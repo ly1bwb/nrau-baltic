@@ -1,0 +1,96 @@
+     Call: LY2NY
+ Operator:
+ Category: Single Op                      Band   QSO  Points  Mults
+ Power: LOW                               40m     28      54     24
+     Name: Vytautas Kunigauskas           80m     57     112     34
+  Address: Kosmonautu 7 - 45              Sum     85     166     58
+  Address: Jonava,  LT-55136              Total: 9628
+  Address: Lithuania
+
+
+
+ 3619 PH  0631 LY2NY      59    1 OF6MW      59    2 KT KT 2
+ 3627 PH  0632 LY2NY      59    2 LY3BN      59    4 KN KN 2
+ 3630 PH  0633 LY2NY      59    3 LY6A       59   13 KN    2
+ 3637 PH  0634 LY2NY      59    4 LA5UF      59    1 VF VF 2
+ 3643 PH  0634 LY2NY      59    5 LY2CO      59   10 TI TI 2
+ 3646 PH  0635 LY2NY      59    6 LY2BAW     59    4 VV VV 2
+ 3649 PH  0635 LY2NY      59    7 ES6RW      59   13 VO VO 2
+ 3650 PH  0636 LY2NY      59    8 LY2PBV     59    6 MM MM 2
+ 3650 PH  0637 LY2NY      59    9 LY2SA      59   14 MM    2
+ 3650 PH  0637 LY2NY      59   10 LY3B       59    9 PA PA 2
+ 3650 PH  0638 LY2NY      59   11 LY4LA      59   11 KD KD 2
+ 3650 PH  0638 LY2NY      59   12 LY5T       59    3 AT AT 2
+ 3650 PH  0639 LY2NY      59   13 LY3PD      59    4 MM    0  Call/LY3PDX
+ 3650 PH  0639 LY2NY      59   14 LY1SR      59    8 KM KM 2
+ 3650 PH  0640 LY2NY      59   15 LY3CY      59   12 VU VU 2
+ 3650 PH  0640 LY2NY      59   16 LY2ND      59    9 KM    2
+ 3650 PH  0640 LY2NY      59   17 LY2BMX     59    3 UT UT 2
+ 3650 PH  0641 LY2NY      59   18 LY1CT      59    9 KD    2
+ 3650 PH  0641 LY2NY      59   19 LY5AA      59    8 KM    2
+ 3650 PH  0642 LY2NY      59   20 LY1CO      59   12 KN    2
+ 3609 PH  0643 LY2NY      59   21 ES2EZ      59   26 HR HR 2
+ 3614 PH  0644 LY2NY      59   22 LY2MM      59   26 KM    2
+ 3625 PH  0645 LY2NY      59   23 LY4A       59   37 SU SU 2
+ 3703 PH  0648 LY2NY      59   24 YL2VW      59   35 RR RR 2
+ 3707 PH  0648 LY2NY      59   25 ES2MC      59   42 HR    2
+ 3709 PH  0649 LY2NY      59   26 YL2GD      59   41 AU AU 2
+ 3718 PH  0650 LY2NY      59   27 OZ7X       59   29 AH AH 2
+ 3720 PH  0651 LY2NY      59   28 YL2KF      59   34 LM LM 2
+ 3727 PH  0651 LY2NY      59   29 OF1F       59   23 SA SA 2
+ 3729 PH  0652 LY2NY      59   30 YL9T       59   34 VK VK 2
+ 3738 PH  0654 LY2NY      59   31 OZ8PG      59   26 FB FB 2
+ 3741 PH  0655 LY2NY      59   32 LY5O       59   44 KM    2
+ 3748 PH  0655 LY2NY      59   33 YL2BJ      59   57 VR VR 2
+ 3754 PH  0656 LY2NY      59   34 YL1S       59   33 RR    2
+ 3759 PH  0657 LY2NY      59   35 OH2PM      59   47 VA VA 2
+ 3762 PH  0658 LY2NY      59   36 LY2J       59   33 MM    2
+ 3612 PH  0701 LY2NY      59   37 ES7GM      59   65 VP VP 2
+ 3616 PH  0702 LY2NY      59   38 OH8NW      59   52 VA    2
+ 3643 PH  0707 LY2NY      59   39 OF1Z       59   48 VA    2
+ 3701 PH  0708 LY2NY      59   40 YL2SM      59   65 AU    2
+ 3703 PH  0709 LY2NY      59   41 LY5W       59   43 KN    2
+ 3742 PH  0713 LY2NY      59   42 OH6RE      59   57 KE KE 2
+ 3747 PH  0714 LY2NY      59   43 LB1AH      59   31 HO HO 2
+ 3751 PH  0715 LY2NY      59   44 OH3Z       59   70 VA    2
+ 3760 PH  0715 LY2NY      59   45 YL2KO      59   67 AU    2
+ 3768 PH  0717 LY2NY      59   46 SA1CCQ     59   36 GO GO 2
+ 3633 PH  0720 LY2NY      59   47 ES6PA      59   36 VO    2
+ 3635 PH  0720 LY2NY      59   48 LY4MA      59   16 KM    2
+ 3642 PH  0722 LY2NY      59   49 YL2PJ      59   73 RE RE 2
+ 3730 PH  0728 LY2NY      59   50 SE5L       59   35 VM VM 2
+ 3775 PH  0731 LY2NY      59   51 YL3FT      59   91 OE OE 2
+ 3613 PH  0732 LY2NY      59   52 ES5QA      59   91 JG JG 2
+ 3627 PH  0735 LY2NY      59   53 LY4K       59   46 KM    2
+ 3627 PH  0736 LY2NY      59   54 LY5P       59   32 SI SI 2
+ 3627 PH  0736 LY2NY      59   55 YL100ZK    59   46 RR    2
+ 3627 PH  0737 LY2NY      59   56 ES5TF      59   48 TA TA 2
+ 3627 PH  0738 LY2NY      59   57 LY2BOK     59   34 AT    2
+ 7073 PH  0744 LY2NY      59   58 OH3Z       59  114 VA VA 2
+ 7094 PH  0747 LY2NY      59   59 OF6MW      59  104 KT KT 1  Nr/84
+ 7100 PH  0748 LY2NY      59   60 ES7GM      59  148 VP VP 2
+ 7144 PH  0750 LY2NY      59   61 OZ7X       59  112 AH AH 2
+ 7147 PH  0750 LY2NY      59   62 LY5O       59  116 KM KM 2
+ 7160 PH  0751 LY2NY      59   63 SE5L       59   50 VM VM 2
+ 7168 PH  0752 LY2NY      59   64 OH6RE      59  107 KE KE 2
+ 7172 PH  0753 LY2NY      59   65 8S0C       59   79 SL SL 2
+ 7181 PH  0755 LY2NY      59   66 OZ8PG      59   88 FB FB 2
+ 7187 PH  0755 LY2NY      59   67 OH2PM      59  101 VA    2
+ 7133 PH  0756 LY2NY      59   68 OH7A       59  120 PK PK 2
+ 7158 PH  0758 LY2NY      59   69 OF1F       59  135 SA SA 2
+ 7162 PH  0758 LY2NY      59   70 OF8L       59   94 PP PP 2
+ 7183 PH  0801 LY2NY      59   71 OZ11A      59   78 NJ NJ 2
+ 7198 PH  0802 LY2NY      59   72 OZ4NA      59   62 NJ    2
+ 7185 PH  0805 LY2NY      59   73 SK2T       59   75 VB VB 2
+ 7073 PH  0806 LY2NY      59   74 SF3A       59   54 VN VN 2
+ 7085 PH  0807 LY2NY      59   75 LY2MM      59  107 KM    2
+ 7136 PH  0809 LY2NY      59   76 SE5N       59   59 SO SO 2
+ 7179 PH  0811 LY2NY      59   77 LB1AH      59  103 HO HO 2
+ 7200 PH  0812 LY2NY      59   78 SE5E       59   80 UP UP 2
+ 7082 PH  0813 LY2NY      59   79 SM5ACQ     59   71 VM    2
+ 7086 PH  0814 LY2NY      59   80 SD6M       59   67 VD VD 1  Nr/57
+ 7089 PH  0816 LY2NY      59   81 ES6RW      59  178 VO VO 2
+ 7073 PH  0821 LY2NY      59   82 LY6A       59  149 KN KN 2
+ 7082 PH  0822 LY2NY      59   83 OH2KW      59   92 UU UU 2
+ 7095 PH  0822 LY2NY      59   84 LY2BAW     59  145 VV VV 2
+ 7157 PH  0824 LY2NY      59   85 ES2MC      59  170 HR HR 2

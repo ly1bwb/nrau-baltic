@@ -1,0 +1,113 @@
+     Call: LY2TS
+ Operator:
+ Category: Single Op                      Band   QSO  Points  Mults
+ Power: LOW                               40m     29      56     23
+     Name: Grazvydas Saltupis             80m     73     140     44
+  Address: A.Jucio                        Sum    102     196     67
+  Address: 39-21                          Total: 13132
+  Address: Plunge,  90147
+
+
+
+ 3601 PH  0630 LY2TS      59    1 LY4Q       59    3 VU VU 2
+ 3604 PH  0632 LY2TS      59    2 LY4L       59    7 KM KM 2
+ 3610 PH  0634 LY2TS      59    3 ES2EZ      59    9 HR HR 2
+ 3612 PH  0635 LY2TS      59    4 ES7GM      59   15 VP VP 2
+ 3614 PH  0636 LY2TS      59    5 LY2MM      59   12 KM    2
+ 3619 PH  0637 LY2TS      59    6 OF6MW      59   15 KT KT 2
+ 3627 PH  0639 LY2TS      59    7 LY3BN      59   18 KN KN 2
+ 3629 PH  0639 LY2TS      59    8 LY6A       59   28 KN    2
+ 3633 PH  0640 LY2TS      59    9 ES5QA      59   17 JG JG 2
+ 3635 PH  0641 LY2TS      59   10 ES3BM      59   10 RP RP 2
+ 3638 PH  0641 LY2TS      59   11 YL7A       59   18 VK VK 2
+ 3643 PH  0642 LY2TS      59   12 LY2CO      59   27 TI TI 2
+ 3646 PH  0642 LY2TS      59   13 LY2BAW     59   22 VV VV 2
+ 3649 PH  0643 LY2TS      59   14 ES6RW      59   30 VO VO 2
+ 3703 PH  0643 LY2TS      59   15 YL2VW      59   25 RR RR 2
+ 3707 PH  0644 LY2TS      59   16 ES2MC      59   29 HR    2
+ 3709 PH  0645 LY2TS      59   17 YL2GD      59   35 AU AU 2
+ 3720 PH  0646 LY2TS      59   18 YL2KF      59   23 LM LM 2
+ 3724 PH  0646 LY2TS      59   19 LY2SA      59   29 MM MM 2
+ 3729 PH  0647 LY2TS      59   20 YL9T       59   28 VK    2
+ 3735 PH  0648 LY2TS      59   21 ES6QC      59   27 VO    2
+ 3738 PH  0649 LY2TS      59   22 OZ8PG      59   18 FB FB 2
+ 3741 PH  0650 LY2TS      59   23 LY5O       59   34 KM    2
+ 3744 PH  0651 LY2TS      59   24 ES4NY      59   20 IV IV 2
+ 3748 PH  0651 LY2TS      59   25 YL2BJ      59   46 VR VR 2
+ 3752 PH  0652 LY2TS      59   26 OF8L       59   22 PP PP 2
+ 3754 PH  0652 LY2TS      59   27 YL1S       59   24 RR    2
+ 3759 PH  0653 LY2TS      59   28 OH2PM      59   38 VA VA 2
+ 3762 PH  0654 LY2TS      59   29 LY2J       59   27 MM    2
+ 3766 PH  0654 LY2TS      59   30 SM5ACQ     59   16 VM VM 2
+ 3751 PH  0656 LY2TS      59   31 OH3Z       59   27 VA    2
+ 3758 PH  0659 LY2TS      59   32 LY9Y       59   35 SU SU 2
+ 3758 PH  0659 LY2TS      59   33 LY3CY      59   32 VU    2
+ 3758 PH  0700 LY2TS      59   34 LY4A       59   70 SU    2
+ 3758 PH  0701 LY2TS      59   35 YL2PJ      59   43 RE RE 2
+ 3758 PH  0701 LY2TS      59   36 LY4K       59   26 KM    2
+ 3758 PH  0702 LY2TS      59   37 LY1CT      59   30 KD KD 2
+ 3758 PH  0703 LY2TS      59   38 LY3IZ      59   18 UT UT 2
+ 3758 PH  0704 LY2TS      59   39 ES1QD      59   25 TL TL 2
+ 3616 PH  0707 LY2TS      59   40 OH8NW      59   63 VA    2
+ 3637 PH  0709 LY2TS      59   41 LY2PBV     59   29 MM    1  Nr/28
+ 3639 PH  0710 LY2TS      59   42 LA5UF      59   17 VF VF 2
+ 3643 PH  0710 LY2TS      59   43 OF1Z       59   56 VA    2
+ 3647 PH  0711 LY2TS      59   44 LY2ON      59   20 KI KI 2
+ 3647 PH  0713 LY2TS      59   45 LY2BAG     59   15 KM    2
+ 3647 PH  0713 LY2TS      59   46 SE5N       59   27 SO SO 2
+ 3647 PH  0714 LY2TS      59   47 OZ7SG      59   14 NJ NJ 2
+ 3647 PH  0715 LY2TS      59   48 OZ9VA      59   26 FB    2
+ 3647 PH  0715 LY2TS      59   49 LY7M       59   33 UT    2
+ 3647 PH  0715 LY2TS      59   50 LY1SR      59   43 KM    2
+ 3647 PH  0716 LY2TS      59   51 LY2BMX     59   22 UT    2
+ 3647 PH  0717 LY2TS      59   52 LY5AA      59   27 KM    1  Nr/24
+ 3647 PH  0718 LY2TS      59   53 OF2KM      59   41 UU UU 2
+ 3647 PH  0719 LY2TS      59   54 LA9RY      59    4 RL RL 2
+ 3647 PH  0721 LY2TS      59   55 LY2ND      59   28 KM    2
+ 3715 PH  0723 LY2TS      59   56 OH7A       59   80 PK PK 2
+ 3718 PH  0724 LY2TS      59   57 OZ7X       59   75 AH AH 2
+ 3727 PH  0725 LY2TS      59   58 OF1F       59   80 SA SA 2
+ 3744 PH  0726 LY2TS      59   59 LY5W       59   60 KN    2
+ 3747 PH  0727 LY2TS      59   60 LB2AH      59   49 HO    0  Call/LB1AH
+ 3748 PH  0728 LY2TS      59   61 SD6M       59   23 VD VD 2
+ 3768 PH  0731 LY2TS      59   62 SA1CCQ     59   52 GO GO 2
+ 3775 PH  0731 LY2TS      59   63 YL3FT      59   92 OE OE 2
+ 3736 PH  0734 LY2TS      59   64 OZ4QX      59    8 KH KH 2
+ 3736 PH  0735 LY2TS      59   65 OF3R       59   28 PH PH 2
+ 3736 PH  0736 LY2TS      59   66 YL2KO      59   90 AU    2
+ 3736 PH  0737 LY2TS      59   67 LY2N       59    4 KM    2
+ 3736 PH  0740 LY2TS      59   68 YL2AQ      59    7 RR    2
+ 3736 PH  0741 LY2TS      59   69 ES5JR      59   45 TA TA 2
+ 3736 PH  0742 LY2TS      59   70 YL100ZK    59   49 RR    2
+ 3644 PH  0743 LY2TS      59   71 YL2II      59   21 AI AI 2
+ 3619 PH  0744 LY2TS      59   72 OF6MW      59   82 KT    0  QSO B4
+ 7140 PH  0746 LY2TS      59   73 YL2BJ      59  109 VR VR 2
+ 7133 PH  0747 LY2TS      59   74 OH7A       59  108 PK PK 2
+ 7089 PH  0749 LY2TS      59   75 ES6RW      59  145 VO VO 2
+ 7085 PH  0750 LY2TS      59   76 ES6PA      59   71 VO    2
+ 7082 PH  0750 LY2TS      59   77 ES5QA      59  109 JG JG 2
+ 7076 PH  0751 LY2TS      59   78 YL2SM      59  124 AU AU 2
+ 7072 PH  0752 LY2TS      59   79 ES3BM      59   50 RP RP 2
+ 7070 PH  0753 LY2TS      59   80 ES2MC      59  137 HR HR 2
+ 7060 PH  0754 LY2TS      59   81 ES6QC      59  101 VO    2
+ 7199 PH  0755 LY2TS      59   82 SE5E       59   64 UP UP 2
+ 7195 PH  0756 LY2TS      59   83 OF6MW      59   96 KT KT 2
+ 7179 PH  0758 LY2TS      59   84 LB1AH      59   90 HO HO 2
+ 7162 PH  0759 LY2TS      59   85 OF8L       59   97 PP PP 2
+ 7158 PH  0800 LY2TS      59   86 OF1F       59  139 SA SA 2
+ 7153 PH  0800 LY2TS      59   87 YL2KF      59   99 LM LM 2
+ 7140 PH  0803 LY2TS      59   88 OZ9VA      59   52 FB FB 2
+ 7144 PH  0804 LY2TS      59   89 OZ7X       59  146 AH AH 2
+ 7198 PH  0807 LY2TS      59   90 OZ4NA      59   66 NJ NJ 2
+ 7188 PH  0810 LY2TS      59   91 OF3P       59   73 PM PM 2
+ 7188 PH  0811 LY2TS      59   92 LA8TA      59   49 AK    0  Call/LA8FTA
+ 7186 PH  0812 LY2TS      59   93 SK2T       59   84 VB VB 2
+ 7183 PH  0813 LY2TS      59   94 OZ11A      59   94 NJ    2
+ 7181 PH  0815 LY2TS      59   95 OZ8PG      59  115 FB    2
+ 7156 PH  0818 LY2TS      59   96 OH6RE      59  135 KE KE 2
+ 7136 PH  0819 LY2TS      59   97 SE5N       59   74 SO SO 2
+ 7091 PH  0821 LY2TS      59   98 OH3Z       59  150 VA VA 2
+ 7086 PH  0822 LY2TS      59   99 SD6M       59   64 VD VD 2
+ 7082 PH  0823 LY2TS      59  100 OH2KW      59   95 UU UU 2
+ 3719 PH  0825 LY2TS      59  101 LY5P       59   46 SI SI 2
+ 7069 PH  0827 LY2TS      59  102 ES2EZ      59  133 HR    2

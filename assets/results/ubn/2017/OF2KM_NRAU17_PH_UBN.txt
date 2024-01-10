@@ -1,0 +1,91 @@
+     Call: OF2KM
+ Operator:
+ Category: Single Op                      Band   QSO  Points  Mults
+ Power: LOW                               40m     23      46     16
+     Name: Jyri Elonen                    80m     57     105     39
+  Address: Kassatasku 2                   Sum     80     151     55
+  Address: 05100                          Total: 8305
+  Address: Roykka
+
+
+
+ 3717 PH  0631 OF2KM      59    1 OZ7X       59    2 AH AH 2
+ 3711 PH  0632 OF2KM      59    2 LY2SA      59    9 MM MM 2
+ 3774 PH  0634 OF2KM      59    3 YL3FT      59    3 OE OE 2
+ 3759 PH  0635 OF2KM      59    4 OH2PM      59   11 VA VA 2
+ 3754 PH  0636 OF2KM      59    5 YL2SM      59   12 AU AU 2
+ 3748 PH  0636 OF2KM      59    6 YL2BJ      59   19 VR VR 2
+ 3743 PH  0637 OF2KM      59    7 OF8L       59    5 PP PP 2
+ 3741 PH  0637 OF2KM      59    8 YL5O       59   14 KM    0  Call/LY5O
+ 3734 PH  0638 OF2KM      59    9 ES6QC      59   14 VO VO 2
+ 3729 PH  0640 OF2KM      59   10 YL9T       59   15 VK VK 2
+ 3724 PH  0640 OF2KM      59   11 ES4NY      59   15 IV IV 2
+ 3719 PH  0641 OF2KM      59   12 OH8NW      59   14 VA    2
+ 3715 PH  0642 OF2KM      59   13 OH7A       59   18 PK PK 2
+ 3709 PH  0643 OF2KM      59   14 YL2GD      59   31 AU    2
+ 3706 PH  0645 OF2KM      59   15 ES2MC      59   32 HR HR 2
+ 3767 PH  0647 OF2KM      59   16 LY4L       59   33 KM KM 2
+ 3762 PH  0647 OF2KM      59   17 OF3P       59   12 PM PM 2
+ 3738 PH  0649 OF2KM      59   18 OZ8PG      59   17 FB FB 2
+ 3726 PH  0649 OF2KM      59   19 OF1F       59   19 SA SA 2
+ 3712 PH  0651 OF2KM      59   20 OH2KW      59   24 UU UU 2
+ 3703 PH  0651 OF2KM      59   21 YL2VW      59   42 RR RR 2
+ 3700 PH  0652 OF2KM      59   22 OZ11A      59   15 NJ NJ 2
+ 3649 PH  0653 OF2KM      59   23 ES6RW      59   55 VO    2
+ 3646 PH  0654 OF2KM      59   24 LY2BAW     59   45 VV VV 2
+ 3637 PH  0655 OF2KM      59   25 LY7A       59   40 VK    0  Call/YL7A
+ 3625 PH  0656 OF2KM      59   26 ES1BH      59   12 TL TL 2
+ 3621 PH  0656 OF2KM      59   27 SK2T       59   15 VB VB 2
+ 3618 PH  0657 OF2KM      59   28 OF6MW      59   43 KT KT 2
+ 3612 PH  0658 OF2KM      59   29 ES7GM      59   60 VP VP 2
+ 3609 PH  0659 OF2KM      59   30 ES2EZ      59   54 HR    2
+ 3605 PH  0700 OF2KM      59   31 LY3BN      59   53 KN KN 2
+ 3643 PH  0701 OF2KM      59   32 OF1Z       59   33 VA    2
+ 3639 PH  0702 OF2KM      59   33 LY2CO      59   64 TI TI 2
+ 3633 PH  0703 OF2KM      59   34 LA5UF      59   12 VF VF 2
+ 3632 PH  0704 OF2KM      59   35 LY2GD      59   66 AU    0  Call/YL2GD
+ 3627 PH  0706 OF2KM      59   36 ES5QA      59   49 JG JG 2
+ 3770 PH  0707 OF2KM      59   37 YL2PJ      59   54 RE RE 2
+ 3720 PH  0710 OF2KM      59   38 YL2KF      59   67 LM LM 2
+ 3711 PH  0712 OF2KM      59   39 SM5ACQ     59   30 VM VM 2
+ 3711 PH  0715 OF2KM      59   40 ES5TF      59   36 TA TA 2
+ 3647 PH  0717 OF2KM      59   41 LY2TS      59   53 TI    2
+ 3607 PH  0719 OF2KM      59   42 ES1O       59   23 TL    2
+ 3602 PH  0720 OF2KM      59   43 LY2BMX     59   27 UT UT 2
+ 3615 PH  0722 OF2KM      59   44 LY1CO      59   46 KN    2
+ 3633 PH  0725 OF2KM      59   45 ES6PA      59   49 VO    2
+ 3767 PH  0728 OF2KM      59   46 SA1CCQ     55   48 GO GO 1  RST
+ 3747 PH  0730 OF2KM      59   47 LB1AH      59   51 HO HO 2
+ 3734 PH  0733 OF2KM      59   48 LY9Y       59   60 SU SU 2
+ 3726 PH  0733 OF2KM      59   49 OF0RJ      59   38 AL AL 2
+ 3744 PH  0735 OF2KM      59   50 LY5W       59   71 KN    2
+ 3751 PH  0736 OF2KM      59   51 LY1CT      59   60 KD KD 2
+ 3757 PH  0738 OF2KM      59   52 ES1QD      59   48 TL    2
+ 3757 PH  0738 OF2KM      59   53 ES1CN      59   53 TL    2
+ 3757 PH  0739 OF2KM      59   54 OF1TD      59   48 SA    2
+ 3757 PH  0739 OF2KM      59   55 ES2IPA     59   40 HR    2
+ 3757 PH  0741 OF2KM      59   56 YL1HZK     59   48 RR    0  Call/YL100ZK
+ 7095 PH  0744 OF2KM      59   57 LY2BAW     59   94 VV VV 2
+ 7086 PH  0745 OF2KM      59   58 LY2SA      59   96 MM MM 2
+ 7065 PH  0748 OF2KM      59   59 LY1SR      59   69 KM KM 2
+ 7062 PH  0748 OF2KM      59   60 LY6A       59  119 KN KN 2
+ 7194 PH  0750 OF2KM      59   61 OF6MW      59   86 KT KT 2
+ 7183 PH  0750 OF2KM      59   62 OZ11A      59   58 NJ NJ 2
+ 7155 PH  0752 OF2KM      59   63 LY5W       59   85 KN    2
+ 7175 PH  0752 OF2KM      59   64 LY4L       59  117 KM    2
+ 7180 PH  0753 OF2KM      59   65 OZ8PG      59   83 FB FB 2
+ 7179 PH  0753 OF2KM      59   66 LB1AH      59   80 HO HO 2
+ 7172 PH  0754 OF2KM      59   67 LY4A       59  147 SU SU 2
+ 7170 PH  0754 OF2KM      59   68 LY5T       59   67 AT AT 2
+ 7167 PH  0755 OF2KM      59   69 YL2VW      59  116 RR RR 2
+ 7150 PH  0759 OF2KM      59   70 LY3BN      59  118 KN    2
+ 7144 PH  0759 OF2KM      59   71 OZ7X       59  134 AH AH 2
+ 7139 PH  0800 OF2KM      59   72 LY9Y       59   82 SU    2
+ 7097 PH  0801 OF2KM      59   73 OH2KW      59   75 UU UU 2
+ 7076 PH  0802 OF2KM      59   74 LY5O       59  130 KM    2
+ 7187 PH  0806 OF2KM      59   75 LA8FTA     59   43 AK AK 2
+ 7155 PH  0807 OF2KM      59   76 LY2CO      59  113 TI TI 2
+ 7139 PH  0810 OF2KM      59   77 OZ9VA      59   66 FB    2
+ 7085 PH  0818 OF2KM      59   78 LY2MM      59  121 KM    2
+ 3719 PH  0818 OF2KM      59   79 LY5P       59   43 SI SI 2
+ 7130 PH  0829 OF2KM      59   80 LY2IJ      59   19 UT UT 2

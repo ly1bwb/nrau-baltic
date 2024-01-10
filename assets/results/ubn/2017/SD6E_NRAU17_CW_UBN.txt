@@ -1,0 +1,40 @@
+     Call: SD6E
+ Operator: SM6BGG
+ Category: Single Op                      Band   QSO  Points  Mults
+ Power: LOW                               40m     29      54     18
+     Name: Kurt Wiksten                   80m      0       0      0
+  Address: Hillingsater                   Sum     29      54     18
+  Address: Hallnas 3                      Total: 972
+  Address: FARGELANDA
+
+
+
+ 7021 CW  0949 SD6E       599   1 LY6A       599  72 KN KN 2
+ 7010 CW  1000 SD6E       599   2 OF6MW      599  94 KA    1  Mult/KT
+ 7013 CW  1003 SD6E       599   3 YL5X       599  61 SD SD 2
+ 7015 CW  1006 SD6E       599   4 LY2J       599  79 MM MM 2
+ 7019 CW  1011 SD6E       599   5 YL2VW      599  87 RR RR 2
+ 7022 CW  1013 SD6E       599   6 ES2MC      599 107 SR    1  Mult/HR
+ 7024 CW  1014 SD6E       599   7 OH2PM      599  13 VA VA 1  Nr/113
+ 7026 CW  1018 SD6E       599   8 OH2YL      599  75 KT KT 2
+ 7036 CW  1024 SD6E       599   9 ES6Q       599 116 VO VO 2
+ 7038 CW  1026 SD6E       599  10 YL2GD      599 126 AU AU 2
+ 7033 CW  1028 SD6E       599  11 LY5T       599  48 AT AT 2
+ 7031 CW  1032 SD6E       599  12 ES2EZ      599 104 HR HR 2
+ 7028 CW  1035 SD6E       599  13 LY3BN      599 131 KN    2
+ 7031 CW  1038 SD6E       599  14 OH6RE      599 130 KE KE 2
+ 7029 CW  1041 SD6E       599  15 OH3Z       599  90 VA    2
+ 7011 CW  1043 SD6E       599  16 YL3FT      599 154 OE OE 2
+ 7014 CW  1044 SD6E       599  17 LY5O       599 152 KM KM 2
+ 7017 CW  1045 SD6E       599  18 LY1CT      599 114 KD KD 2
+ 7022 CW  1046 SD6E       599  19 YL2SM      599 150 AU    2
+ 7024 CW  1047 SD6E       599  20 LY2SA      599 134 MM    2
+ 7025 CW  1048 SD6E       599  21 ES5QA      599 125 JG JG 2
+ 7030 CW  1049 SD6E       599  22 YL2KF      599 111 LM LM 2
+ 7030 CW  1053 SD6E       599  23 LY4T       599 138 KN    2
+ 7010 CW  1054 SD6E       599  24 LY4L       599 136 KM    2
+ 7011 CW  1054 SD6E       599  25 YL2KO      599 158 AU    2
+ 7014 CW  1055 SD6E       599  26 LY4A       599 150 SA    1  Mult/SU
+ 7017 CW  1056 SD6E       599  27 LY5R       599 122 UT UT 2
+ 7024 CW  1058 SD6E       599  28 OH8NW      599 139 VA    2
+ 7027 CW  1059 SD6E       599  29 OF1F       599 168 SA SA 2

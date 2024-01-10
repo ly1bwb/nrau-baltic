@@ -1,0 +1,41 @@
+     Call: LY3PDX
+ Operator:
+ Category: Single Op                      Band   QSO  Points  Mults
+ Power: LOW                               40m      5       9      4
+     Name: VIDAS                          80m     27      54     15
+  Address: KUDIRKOS 15 LIUDVINAVAS, MARI  Sum     32      63     19
+                                          Total: 1197
+
+
+ 3500 PH  0632 LY3PDX     59    1 LY6A       59    9 KN KN 2
+ 3500 PH  0634 LY3PDX     59    2 LY2MM      59   10 KM KM 2
+ 3500 PH  0638 LY3PDX     59    3 LY2CO      59   17 TI TI 2
+ 3500 PH  0639 LY3PDX     59    4 LY2NY      59   13 KN    2
+ 3500 PH  0641 LY3PDX     59    5 LY2BAW     59   18 VV VV 2
+ 3500 PH  0642 LY3PDX     59    6 LY2PBV     59    9 MM MM 2
+ 3500 PH  0644 LY3PDX     59    7 LY4A       59   35 SU SU 2
+ 3500 PH  0648 LY3PDX     59    8 LY3BN      59   31 KN    2
+ 3500 PH  0652 LY3PDX     59    9 ES6RW      59   54 VO VO 2
+ 3500 PH  0655 LY3PDX     59   10 ES2EZ      59   47 HR HR 2
+ 3500 PH  0700 LY3PDX     59   11 LY1SR      59   29 KM    2
+ 3500 PH  0707 LY3PDX     59   12 LY4Q       59   54 VU VU 2
+ 3500 PH  0708 LY3PDX     59   13 LY5O       59   63 KM    2
+ 3500 PH  0710 LY3PDX     59   14 LY2SA      59   56 MM    2
+ 3500 PH  0711 LY3PDX     59   15 ES2MC      59   80 HR    2
+ 3500 PH  0712 LY3PDX     59   16 LY1CT      59   40 KD KD 2
+ 3500 PH  0714 LY3PDX     59   17 LY4MA      59   12 KM    2
+ 3500 PH  0715 LY3PDX     59   18 YL2BJ      59   85 VR VR 2
+ 3500 PH  0718 LY3PDX     59   19 ES5QA      59   70 JG JG 2
+ 3500 PH  0722 LY3PDX     59   20 ES6PA      59   41 VO    2
+ 3500 PH  0723 LY3PDX     59   21 LY1CO      59   48 KN    2
+ 3500 PH  0725 LY3PDX     59   22 YL2VW      59   84 RR RR 2
+ 3500 PH  0728 LY3PDX     59   23 YL2KO      59   83 AU AU 2
+ 3500 PH  0731 LY3PDX     59   24 LY7M       59   42 UT UT 2
+ 3500 PH  0735 LY3PDX     59   25 YL1S       59   75 RR    2
+ 3500 PH  0738 LY3PDX     59   26 LY2ZO      59   43 KM    2
+ 7000 PH  0746 LY3PDX     59   27 LY2J       59   69 MM MM 2
+ 7000 PH  0748 LY3PDX     59   28 OZ11A      59   54 NJ NJ 2
+ 7000 PH  0753 LY3PDX     59   29 OF1F       59  123 SA SA 1  Nr/126
+ 7000 PH  0757 LY3PDX     59   30 LY2SA      59  111 MM    2
+ 7000 PH  0811 LY3PDX     59   31 SE5E       59   79 UP UP 2
+ 3500 PH  0814 LY3PDX     59   32 LY2J       59   85 MM    2

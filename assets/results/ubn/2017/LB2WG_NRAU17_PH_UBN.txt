@@ -1,0 +1,44 @@
+     Call: LB2WG
+ Operator:
+ Category: Single Op                      Band   QSO  Points  Mults
+ Power: LOW                               40m     24      46     16
+     Name: Alvydas                        80m      9      18      6
+  Address:                                Sum     33      64     22
+  Address: Oslo                           Total: 1408
+  Address: NORWAY
+
+
+
+ 3748 PH  0645 LB2WG      59    1 YL2BJ      59   32 VR VR 2
+ 3760 PH  0647 LB2WG      59    2 OH2PM      59   29 VA VA 2
+ 3707 PH  0654 LB2WG      59    3 ES2MC      59   54 HR HR 2
+ 3643 PH  0657 LB2WG      59    4 OF1Z       59   22 VA    2
+ 3616 PH  0705 LB2WG      59    5 OH8NW      59   57 VA    2
+ 3727 PH  0710 LB2WG      59    6 OF1F       59   58 SA SA 2
+ 3751 PH  0720 LB2WG      59    7 OH3Z       59   83 VA    2
+ 3742 PH  0722 LB2WG      59    8 OH6RE      59   69 KE KE 2
+ 7089 PH  0728 LB2WG      59    9 ES6RW      59  104 VO VO 2
+ 7173 PH  0731 LB2WG      59   10 LY4A       59  112 SU SU 2
+ 7141 PH  0734 LB2WG      59   11 YL2GD      59  100 AU AU 2
+ 7133 PH  0735 LB2WG      59   12 OH7A       59   88 PK PK 2
+ 7129 PH  0736 LB2WG      59   13 LY1CO      59   56 KN KN 2
+ 7073 PH  0739 LB2WG      59   14 OH3Z       59  105 VA VA 2
+ 7070 PH  0740 LB2WG      59   15 ES2MC      59  113 HR HR 2
+ 7063 PH  0741 LB2WG      59   16 LY6A       59  103 KN    2
+ 7060 PH  0743 LB2WG      59   17 ES6QC      59   89 VO    2
+ 7076 PH  0745 LB2WG      59   18 YL2SM      59  110 AU    2
+ 7082 PH  0748 LB2WG      59   19 ES5QA      59  105 JG JG 2
+ 7138 PH  0751 LB2WG      59   20 LY2SA      59  102 MM MM 2
+ 7141 PH  0752 LB2WG      59   21 LY1CT      59   71 KD KD 2
+ 7140 PH  0753 LB2WG      59   22 YL3FT      59  110 OE OE 2
+ 7150 PH  0754 LB2WG      59   23 LY3BN      59  110 KN    2
+ 7147 PH  0756 LB2WG      59   24 LY5O       59  123 KM KM 2
+ 7100 PH  0759 LB2WG      59   25 ES7GM      59  165 VP VP 2
+ 3708 PH  0801 LB2WG      59   26 ES7GM      59  166 VP VP 2
+ 7064 PH  0804 LB2WG      59   27 YL2KO      59  122 AU    2
+ 7097 PH  0807 LB2WG      59   28 YL2PJ      59  111 RE RE 2
+ 7095 PH  0809 LB2WG      59   29 LY2BAW     59  128 VV VV 2
+ 7097 PH  0811 LB2WG      59   30 YL2BJ      59  129 VR VR 2
+ 7189 PH  0814 LB2WG      59   31 OH2PM      59  129 VA    2
+ 7170 PH  0815 LB2WG      59   32 LY9Y       59   96 SU    2
+ 7086 PH  0825 LB2WG      59   33 YL1S       59  113 RR    0  NotinLog

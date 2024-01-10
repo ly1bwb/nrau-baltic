@@ -1,0 +1,30 @@
+     Call: ES8TJM
+ Operator:
+ Category: CheckLog                       Band   QSO  Points  Mults
+ Power: LOW                               40m      4       8      4
+     Name: Alev Lobja                     80m     15      30      8
+  Address: Paatsalu kyla, Varbla v. Parn  Sum     19      38     12
+  Address: ,  88204                       Total: 456
+  Address: ESTONIA
+
+
+
+ 3612 PH  0639 ES8TJM     59    1 ES7GM      59   24 VP VP 2
+ 3607 PH  0640 ES8TJM     59    2 ES2O       59   11 HR HR 2
+ 3605 PH  0642 ES8TJM     59    3 ES7KEW     59    2 VP    2
+ 3633 PH  0645 ES8TJM     59    4 ES5QA      59   27 JG JG 2
+ 3707 PH  0647 ES8TJM     59    5 ES2MC      59   39 HR    2
+ 3735 PH  0652 ES8TJM     59    6 ES6QC      59   34 VO VO 2
+ 3744 PH  0654 ES8TJM     59    7 ES4NY      59   25 IV IV 2
+ 3649 PH  0656 ES8TJM     59    8 ES6RW      59   64 VO    2
+ 3625 PH  0658 ES8TJM     59    9 ES1BH      59   19 TL TL 2
+ 3610 PH  0659 ES8TJM     59   10 ES2EZ      59   55 HR    2
+ 3604 PH  0700 ES8TJM     59   11 ES3BM      59   21 RP RP 2
+ 3648 PH  0716 ES8TJM     59   12 ES5JR      59   29 TA TA 2
+ 3607 PH  0720 ES8TJM     59   13 ES1O       59   24 TL    2
+ 3633 PH  0730 ES8TJM     59   14 ES6PA      59   57 VO    2
+ 3640 PH  0730 ES8TJM     59   15 ES5TF      59   45 TA    2
+ 7070 PH  0753 ES8TJM     59   16 ES2MC      59  138 HR HR 2
+ 7072 PH  0755 ES8TJM     59   17 ES3BM      59   54 RP RP 2
+ 7089 PH  0804 ES8TJM     59   18 ES6RW      59  167 VO VO 2
+ 7099 PH  0807 ES8TJM     59   19 ES7GM      59  173 VP VP 2

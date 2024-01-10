@@ -1,0 +1,54 @@
+     Call: ES1O
+ Operator: ES2SDA
+ Category: Single Op                      Band   QSO  Points  Mults
+ Power: LOW                               40m     17      34     12
+     Name: Keijo Kapp (19)                80m     27      52     21
+  Address: Tallinn                        Sum     44      86     33
+  Address: Estonia                        Total: 2838
+
+
+
+ 3600 PH  0633 ES1O       59    1 YL7A       59    5 VK VK 2
+ 3600 PH  0638 ES1O       59    2 ES2O       59   10 HR HR 2
+ 3600 PH  0638 ES1O       59    3 ES6RMR     59    6 VC VC 2
+ 3600 PH  0640 ES1O       59    4 YL2PJ      59   17 RE RE 2
+ 3600 PH  0642 ES1O       59    5 ES1QD      59   11 TL TL 2
+ 3600 PH  0642 ES1O       59    6 LY2BMX     59    5 UT UT 2
+ 3600 PH  0643 ES1O       59    7 ES0DJ      59    8 SR SR 2
+ 3600 PH  0646 ES1O       59    8 ES5TF      59   15 TA TA 2
+ 3600 PH  0646 ES1O       59    9 OH3LS      59   16 PM PM 2
+ 3600 PH  0649 ES1O       59   10 ES2EZ      59   38 HR    2
+ 3600 PH  0650 ES1O       59   11 ES7GM      59   48 VP VP 2
+ 3600 PH  0652 ES1O       59   12 OH8NW      59   33 VA VA 2
+ 3600 PH  0653 ES1O       59   13 OF6MW      59   37 KT KT 2
+ 3600 PH  0656 ES1O       59   14 OH6RE      59   31 KE KE 2
+ 3600 PH  0657 ES1O       59   15 ES1BH      59   18 TL    2
+ 3600 PH  0659 ES1O       59   16 ES3BM      59   19 RP RP 2
+ 3600 PH  0704 ES1O       59   17 ES5QA      59   48 JG JG 2
+ 3600 PH  0705 ES1O       59   18 ES1CN      59   36 TL    1  Nr/35
+ 3600 PH  0706 ES1O       59   19 ES1TU      59   44 TL    2
+ 3600 PH  0709 ES1O       59   20 YL2GD      59   72 AU AU 2
+ 3600 PH  0712 ES1O       59   21 OF3R       59   40 PH PH 1  Nr/20
+ 3600 PH  0714 ES1O       59   22 ES6PA      59   33 VO VO 2
+ 3600 PH  0718 ES1O       59   23 OF2KM      59   42 UU UU 2
+ 3600 PH  0719 ES1O       59   24 ES8TJM     59   13 PU PU 2
+ 3600 PH  0723 ES1O       59   25 LY4L       59   78 KM KM 2
+ 3600 PH  0726 ES1O       59   26 OH2PM      59   80 VA    2
+ 3600 PH  0726 ES1O       59   27 YL2KO      59   81 AU    2
+ 7100 PH  0737 ES1O       59   28 LY3BN      59   84 KN KN 2
+ 7100 PH  0741 ES1O       59   29 LY3B       59   61 PA PA 2
+ 7100 PH  0749 ES1O       59   30 ES2EZ      59  109 HR HR 2
+ 7100 PH  0751 ES1O       59   31 OZ7X       59  119 AH AH 2
+ 7100 PH  0753 ES1O       59   32 SD6M       59   42 VD VD 2
+ 7100 PH  0754 ES1O       59   33 LY5O       59  122 KM KM 2
+ 7100 PH  0757 ES1O       59   34 OF8L       59   93 PP PP 2
+ 7100 PH  0806 ES1O       59   35 LY2CO      59  111 TI TI 2
+ 7100 PH  0806 ES1O       59   36 LY5W       59  104 KN    2
+ 7100 PH  0808 ES1O       59   37 LY4L       59  134 KM    2
+ 7100 PH  0810 ES1O       59   38 LY6A       59  144 KN    2
+ 7100 PH  0811 ES1O       59   39 ES2MC      59  161 HR    2
+ 7100 PH  0812 ES1O       59   40 LA9PTA     59   28 OF OF 2
+ 7100 PH  0815 ES1O       59   41 ES1TU      59   91 TL TL 2
+ 7100 PH  0821 ES1O       59   42 LY2BAW     59  144 VV VV 2
+ 7100 PH  0827 ES1O       59   43 LY2IJ      59   18 UT UT 2
+ 7100 PH  0828 ES1O       59   44 ES1BH      59   96 TL    2

@@ -1,0 +1,164 @@
+     Call: LY4L
+ Operator:
+ Category: Single Op                      Band   QSO  Points  Mults
+ Power: LOW                               40m     64     124     35
+     Name: Mindaugas JUKNA                80m     89     177     53
+  Address: Zalgirio g. 20-4, Ringaudai    Sum    153     301     88
+  Address: Kauno raj. LT-53331            Total: 26488
+  Address: Lithuania
+
+
+
+ 3603 PH  0630 LY4L       59    1 YL2GD      59    1 AU AU 2
+ 3603 PH  0630 LY4L       59    2 ES1TU      59    1 TL TL 2
+ 3603 PH  0630 LY4L       59    3 LY2J       59    2 MM MM 2
+ 3603 PH  0631 LY4L       59    4 LY3CY      59    2 VU VU 2
+ 3603 PH  0631 LY4L       59    5 LY4LA      59    2 KD KD 2
+ 3603 PH  0631 LY4L       59    6 LY2PBV     59    2 MM    2
+ 3603 PH  0632 LY4L       59    7 LY2TS      59    2 TI TI 2
+ 3603 PH  0632 LY4L       59    8 LY2ON      59    2 KI KI 2
+ 3616 PH  0633 LY4L       59    9 LY3B       59    4 PA PA 2
+ 3616 PH  0634 LY4L       59   10 LY5W       59    4 KN KN 2
+ 7173 PH  0635 LY4L       59   11 LY4A       59   13 SU SU 2
+ 3616 PH  0635 LY4L       59   12 LY3IZ      59    3 UT UT 2
+ 3616 PH  0635 LY4L       59   13 LY1CT      59    5 KD    2
+ 3616 PH  0636 LY4L       59   14 ES5TF      59    7 TA TA 2
+ 3616 PH  0636 LY4L       59   15 LY1CO      59    6 KN    2
+ 3616 PH  0636 LY4L       59   16 LY2SA      59   13 MM    2
+ 3616 PH  0637 LY4L       59   17 ES5JR      59    1 TA    2
+ 3616 PH  0637 LY4L       59   18 LB1AH      59    2 HO HO 2
+ 3616 PH  0638 LY4L       59   19 LY2ND      59    8 KM KM 2
+ 3616 PH  0638 LY4L       59   20 LY5P       59    6 SI SI 2
+ 3616 PH  0639 LY4L       59   21 LY2BAG     59    4 KM    2
+ 3616 PH  0639 LY4L       59   22 OH3Z       59   10 VA VA 2
+ 3775 PH  0641 LY4L       59   23 YL3FT      59   15 OE OE 2
+ 3766 PH  0642 LY4L       59   24 YL1S       59   17 RR RR 2
+ 3766 PH  0643 LY4L       59   25 LY4K       59   13 KM    2
+ 3766 PH  0643 LY4L       59   26 SE5N       59    3 SO SO 2
+ 3766 PH  0644 LY4L       59   27 OH3LS      59   13 PM PM 2
+ 3766 PH  0644 LY4L       59   28 SE3X       59    2 JL JL 2
+ 3766 PH  0645 LY4L       59   29 OH6RE      59   20 KE KE 2
+ 3766 PH  0645 LY4L       59   30 LA2XNA     59   10 AK AK 2
+ 3766 PH  0645 LY4L       59   31 OF8UV      59   11 KU KU 2
+ 3767 PH  0646 LY4L       59   32 YL100ZK    59   10 RR    2
+ 3767 PH  0647 LY4L       59   33 OF2KM      59   16 UU UU 2
+ 3767 PH  0647 LY4L       59   34 OZ6ARC     59    8 SJ SJ 2
+ 3767 PH  0647 LY4L       59   35 YL2KO      59   28 AU    2
+ 3767 PH  0647 LY4L       59   36 ES1CN      59   20 TL    2
+ 3767 PH  0648 LY4L       59   37 ES6PA      59   17 VO VO 2
+ 3767 PH  0648 LY4L       59   38 OH8NW      59   25 VA    2
+ 3767 PH  0651 LY4L       59   39 YL2SM      59   36 AU    2
+ 3751 PH  0653 LY4L       59   40 OF8L       59   24 PP PP 2
+ 3748 PH  0653 LY4L       59   41 YL2BJ      59   52 VR VR 2
+ 3741 PH  0654 LY4L       59   42 LY5O       59   43 KM    2
+ 3737 PH  0655 LY4L       59   43 OZ8PG      59   27 FB FB 2
+ 3728 PH  0655 LY4L       59   44 YL9T       59   45 VK VK 2
+ 3726 PH  0656 LY4L       59   45 OF1F       59   31 SA SA 2
+ 3720 PH  0657 LY4L       59   46 YL2KF      59   47 LM LM 2
+ 3717 PH  0657 LY4L       59   47 OZ7X       59   38 AH AH 2
+ 3714 PH  0658 LY4L       59   48 OH7A       59   44 PK PK 2
+ 3712 PH  0658 LY4L       59   49 OH2KW      59   34 UU    2
+ 3706 PH  0659 LY4L       59   50 ES2MC      59   63 HR HR 2
+ 3649 PH  0700 LY4L       59   51 ES6RW      59   73 VO    2
+ 3646 PH  0700 LY4L       59   52 LY2BAW     59   58 VV VV 2
+ 3643 PH  0701 LY4L       59   53 OF1Z       59   32 VA    2
+ 3639 PH  0701 LY4L       59   54 LY2CO      59   63 TI    2
+ 3637 PH  0701 LY4L       59   55 YL7A       59   53 VK    2
+ 3627 PH  0702 LY4L       59   56 ES5QA      59   42 TA    1  Mult/JG
+ 3625 PH  0702 LY4L       59   57 ES1BH      59   26 TL    2
+ 3622 PH  0703 LY4L       59   58 LY1SR      59   32 KM    2
+ 3622 PH  0704 LY4L       59   59 OH3JP      59   26 KT KT 2
+ 3621 PH  0705 LY4L       59   60 SK2T       59   24 VB VB 2
+ 3611 PH  0706 LY4L       59   61 LY9Y       59   42 SU SU 2
+ 3605 PH  0706 LY4L       59   62 LY3BN      59   62 KN    2
+ 3601 PH  0707 LY4L       59   63 LY4Q       59   53 VU    2
+ 3765 PH  0707 LY4L       59   64 LY4A       59   82 SU    2
+ 3770 PH  0708 LY4L       59   65 YL2PJ      59   55 RE RE 2
+ 3753 PH  0709 LY4L       59   66 SE5E       59   16 UP UP 2
+ 3753 PH  0709 LY4L       59   67 SD6M       59   14 VD VD 2
+ 3753 PH  0710 LY4L       59   68 OF0RJ      59   24 AL AL 2
+ 3753 PH  0710 LY4L       59   69 YL2VW      59   70 RR    2
+ 3753 PH  0711 LY4L       59   70 LY6A       59   68 KN    2
+ 7051 PH  0714 LY4L       59   71 OF6MW      59   57 KT KT 2
+ 3724 PH  0716 LY4L       59   72 LY5T       59   37 AT AT 2
+ 3707 PH  0718 LY4L       59   73 ES7GM      59   91 VP VP 2
+ 3637 PH  0719 LY4L       59   74 ES3BM      59   35 RP RP 2
+ 3635 PH  0720 LY4L       59   75 LY4MA      59   15 KM    2
+ 3618 PH  0721 LY4L       59   76 OF6MW      59   65 KT    2
+ 3607 PH  0723 LY4L       59   77 LY5AA      59   28 KM    2
+ 3606 PH  0724 LY4L       59   78 ES1O       59   25 TL    2
+ 3767 PH  0725 LY4L       59   79 SA1CCQ     59   45 GO GO 2
+ 3762 PH  0726 LY4L       59   80 ES2EZ      59   82 HR    2
+ 3759 PH  0726 LY4L       59   81 SM5ACQ     59   38 VM VM 2
+ 3724 PH  0730 LY4L       59   82 OH6ECM     59   36 PO PO 2
+ 3724 PH  0731 LY4L       59   83 YL3GAO     59   33 DO DO 2
+ 3724 PH  0731 LY4L       59   84 OF3R       59   26 PH PH 2
+ 3724 PH  0732 LY4L       59   85 SM6IQD     59   26 VD    2
+ 7088 PH  0733 LY4L       59   86 ES6RW      59  113 VO VO 2
+ 7069 PH  0734 LY4L       59   87 ES2MC      59  103 HR HR 2
+ 7062 PH  0735 LY4L       59   88 LY6A       59   89 KN KN 2
+ 7158 PH  0736 LY4L       59   89 OF1F       59   96 SA SA 2
+ 7145 PH  0737 LY4L       59   90 OH8NW      59   91 VA VA 2
+ 7147 PH  0737 LY4L       59   91 LY5O       59   97 KM KM 2
+ 7151 PH  0737 LY4L       59   92 LY2MM      59   78 KM    2
+ 3607 PH  0738 LY4L       59   93 LY2MM      59   79 KM    2
+ 7161 PH  0739 LY4L       59   94 ES6RMR     59   45 VC VC 2
+ 3607 PH  0740 LY4L       59   95 ES6RMR     59   46 VC VC 2
+ 7165 PH  0740 LY4L       59   96 ES1TU      59   65 TL TL 2
+ 7167 PH  0741 LY4L       59   97 OH6RE      59   86 KE KE 2
+ 7173 PH  0741 LY4L       59   98 YL2KO      59   92 AU    0  NotinLog
+ 7179 PH  0742 LY4L       59   99 LB1AH      59   65 HO HO 2
+ 7175 PH  0743 LY4L       59  100 LY2ND      59   36 KM    2
+ 7175 PH  0744 LY4L       59  101 LY5W       59   75 KN    2
+ 3601 PH  0745 LY4L       59  102 LY2BMX     59   40 UT    2
+ 7174 PH  0746 LY4L       59  103 LY4K       59   53 KM    2
+ 7174 PH  0747 LY4L       59  104 OZ9VA      59   41 FB FB 2
+ 7174 PH  0747 LY4L       59  105 LY2ZO      59   52 KM    2
+ 7174 PH  0748 LY4L       59  106 OF1Z       59   92 VA    2
+ 7174 PH  0748 LY4L       59  107 ES1CN      59   61 TL    2
+ 7174 PH  0748 LY4L       59  108 LY5AA      59   43 KM    2
+ 7175 PH  0749 LY4L       59  109 SE3X       59   43 JL JL 2
+ 7175 PH  0749 LY4L       59  110 SE5E       59   58 UP UP 2
+ 7175 PH  0749 LY4L       59  111 SE5N       59   49 SO SO 2
+ 7175 PH  0750 LY4L       59  112 OH7JL      59   58 PK PK 2
+ 7175 PH  0750 LY4L       59  113 ES7RIX     59   38 VP VP 2
+ 7175 PH  0751 LY4L       59  114 LY2BAG     59   24 KM    2
+ 7175 PH  0751 LY4L       59  115 OZ6ARC     59   38 SJ SJ 2
+ 7175 PH  0751 LY4L       59  116 SD6M       59   39 VD VD 2
+ 7175 PH  0752 LY4L       59  117 OF2KM      59   64 UU UU 2
+ 7175 PH  0753 LY4L       59  118 SE5L       59   51 VM VM 2
+ 7175 PH  0755 LY4L       59  119 OH3JP      59   59 KT    2
+ 7186 PH  0757 LY4L       59  120 OH2PM      59  104 VA    2
+ 7183 PH  0758 LY4L       59  121 OZ11A      59   70 NJ NJ 2
+ 7181 PH  0758 LY4L       59  122 OZ8PG      59   95 FB    2
+ 7166 PH  0800 LY4L       59  123 8S0C       59   86 SL SL 2
+ 3615 PH  0801 LY4L       59  124 8S0C       59   87 SL SL 2
+ 7166 PH  0801 LY4L       59  125 OH3Z       59  135 VA    2
+ 7166 PH  0803 LY4L       59  126 OH6ECM     59   57 PO PO 2
+ 7166 PH  0803 LY4L       59  127 LY2N       59   23 KM    2
+ 3615 PH  0803 LY4L       59  128 LY2N       59   24 KM    2
+ 7166 PH  0804 LY4L       59  129 OH3RT      59   21 PH PH 2
+ 7166 PH  0805 LY4L       59  130 OF1TD      59   66 SA    2
+ 7166 PH  0806 LY4L       59  131 LY1SR      59   93 KM    2
+ 7158 PH  0807 LY4L       59  132 YL2GD      59  135 AU AU 2
+ 7149 PH  0808 LY4L       59  133 LY3BN      59  134 KN    2
+ 7146 PH  0809 LY4L       59  134 ES1O       59   37 TL    2
+ 7144 PH  0809 LY4L       59  135 OZ7X       59  156 AH AH 2
+ 7134 PH  0810 LY4L       59  136 ES3BM      59   59 RP RP 2
+ 7132 PH  0811 LY4L       59  137 OH7A       59  140 PK    2
+ 7095 PH  0812 LY4L       59  138 LY2BAW     59  133 VV VV 2
+ 7081 PH  0814 LY4L       59  139 SM5ACQ     59   72 VM    2
+ 7053 PH  0816 LY4L       59  140 OF8L       59  120 PP PP 2
+ 7064 PH  0818 LY4L       59  141 SE4E       59   96 DA DA 2
+ 7064 PH  0820 LY4L       59  142 ES2EZ      59  129 HR    2
+ 7064 PH  0821 LY4L       59  143 OZ1KKH     59   48 AH    2
+ 7064 PH  0821 LY4L       59  144 OF3P       59   77 PM PM 2
+ 7064 PH  0822 LY4L       59  145 OZ0AP      59   39 SS SS 2
+ 7064 PH  0823 LY4L       59  146 ES6PA      59   96 VO    2
+ 3649 PH  0825 LY4L       59  147 LY2ZO      59   81 KM    2
+ 7064 PH  0825 LY4L       59  148 OH3LS      59   69 PM    2
+ 7064 PH  0825 LY4L       59  149 ES2IPA     59   59 HR    2
+ 7064 PH  0826 LY4L       59  150 ES2O       59   69 HR    2
+ 7064 PH  0828 LY4L       59  151 SF3A       59   64 VN VN 2
+ 7064 PH  0829 LY4L       59  152 OH2KW      59  101 UU    2
+ 7064 PH  0829 LY4L       59  153 ES1BH      59   97 TL    0  Time/ES1BH/0830

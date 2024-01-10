@@ -1,0 +1,107 @@
+     Call: SE4E
+ Operator: SM4DQE
+ Category: Single Op                      Band   QSO  Points  Mults
+ Power: LOW                               40m     40      78     28
+     Name: Lars Dahlgren                  80m     56     111     39
+  Address: Gragasvagen 6                  Sum     96     189     67
+  Address: Ludvika, DA 771 52             Total: 12663
+  Address: SWEDEN
+
+
+
+ 3707 PH  0630 SE4E       59    1 ES2MC      59    1 HR HR 2
+ 3711 PH  0630 SE4E       59    2 LY2SA      59    3 MM MM 2
+ 3735 PH  0631 SE4E       59    3 ES6QC      59    3 VO VO 2
+ 3741 PH  0632 SE4E       59    4 LY5O       59    2 KM KM 2
+ 3748 PH  0632 SE4E       59    5 YL2BJ      59    6 VR VR 2
+ 3754 PH  0633 SE4E       59    6 YL2SM      59    4 AU AU 2
+ 3775 PH  0634 SE4E       59    7 YL3FT      59    3 OE OE 1  Nr/4
+ 3611 PH  0635 SE4E       59    8 ES7GM      59   16 VP VP 2
+ 3633 PH  0637 SE4E       59    9 ES5QA      59   13 JG JG 2
+ 3649 PH  0638 SE4E       59   10 ES6RW      59   18 VO    2
+ 3703 PH  0638 SE4E       59   11 YL2VW      59   16 RR RR 2
+ 3715 PH  0640 SE4E       59   12 OH7A       59   16 PK PK 2
+ 3744 PH  0642 SE4E       59   13 OF8L       59   13 PP PP 2
+ 3614 PH  0644 SE4E       59   14 LY2MM      59   28 KM    2
+ 3630 PH  0646 SE4E       59   15 LY6A       59   35 KN KN 2
+ 3637 PH  0647 SE4E       59   16 YL7A       59   27 VK VK 2
+ 3643 PH  0647 SE4E       59   17 LY2CO      59   36 TI TI 2
+ 3646 PH  0648 SE4E       59   18 LY2BAW     59   35 VV VV 2
+ 3605 PH  0649 SE4E       59   19 LY3BN      59   33 KN    2
+ 3609 PH  0649 SE4E       59   20 ES2EZ      59   36 HR    2
+ 3622 PH  0651 SE4E       59   21 LY1CT      59   18 KD KD 2
+ 3618 PH  0652 SE4E       59   22 OF6MW      59   32 KT KT 2
+ 3625 PH  0652 SE4E       59   23 LY4A       59   52 SU SU 2
+ 3720 PH  0654 SE4E       59   24 YL2KF      59   41 LM LM 2
+ 3729 PH  0655 SE4E       59   25 YL9T       59   44 VK    2
+ 3757 PH  0656 SE4E       59   26 YL2PJ      59   37 RE RE 2
+ 3759 PH  0657 SE4E       59   27 OH2PM      59   46 VA VA 2
+ 3762 PH  0658 SE4E       59   28 LY2J       59   35 MM    2
+ 3727 PH  0700 SE4E       59   29 OF1F       59   38 SA SA 2
+ 3601 PH  0703 SE4E       59   30 LY4Q       59   50 VU VU 2
+ 3612 PH  0705 SE4E       59   31 ES1BH      59   28 TL TL 2
+ 3616 PH  0706 SE4E       59   32 OH8NW      59   60 VA    2
+ 3621 PH  0707 SE4E       59   33 SK2T       59   27 VB VB 2
+ 3632 PH  0708 SE4E       59   34 YL2GD      59   71 AU    2
+ 3643 PH  0709 SE4E       59   35 OF1Z       59   51 VA    2
+ 3704 PH  0710 SE4E       59   36 OZ11A      59   21 NJ NJ 2
+ 3708 PH  0712 SE4E       59   37 ES1QD      59   31 TL    2
+ 3708 PH  0712 SE4E       59   38 ES0DJ      59   17 SR SR 2
+ 3708 PH  0713 SE4E       59   39 LY5W       59   47 KN    2
+ 3718 PH  0715 SE4E       59   40 OZ7X       59   58 AH AH 2
+ 3724 PH  0716 SE4E       59   41 LY5T       59   38 AT AT 2
+ 3770 PH  0717 SE4E       59   42 OF3P       59   35 PM PM 2
+ 3768 PH  0718 SE4E       59   43 SA1CCQ     59   37 GO GO 2
+ 3760 PH  0719 SE4E       59   44 YL2KO      59   73 AU    2
+ 3757 PH  0720 SE4E       59   45 ES4NY      59   40 IV IV 2
+ 3753 PH  0720 SE4E       59   46 YL1S       59   64 RR    2
+ 3751 PH  0721 SE4E       59   47 OH3Z       59   85 VA    2
+ 3742 PH  0723 SE4E       59   48 OH6RE      59   70 KE KE 2
+ 3747 PH  0723 SE4E       59   49 LB1AH      59   44 HO HO 2
+ 3711 PH  0725 SE4E       59   50 LB4FH      59   15 RL RL 2
+ 3711 PH  0726 SE4E       59   51 ES1TU      59   54 TL    2
+ 7141 PH  0727 SE4E       59   52 YL2GD      59   89 AU AU 2
+ 7100 PH  0728 SE4E       59   53 ES7GM      59  107 VP VP 2
+ 7089 PH  0729 SE4E       59   54 ES6RW      59  107 VO VO 2
+ 7086 PH  0729 SE4E       59   55 LY2J       59   62 MM MM 2
+ 7070 PH  0730 SE4E       59   56 ES2MC      59   98 HR HR 2
+ 7135 PH  0731 SE4E       59   57 LY2SA      59   79 MM    2
+ 7154 PH  0732 SE4E       59   58 YL1ZT      59   43 TU TU 2
+ 7133 PH  0733 SE4E       59   59 OH7A       59   85 PK PK 2
+ 3627 PH  0736 SE4E       59   60 OH3JP      59   45 KT    2
+ 3702 PH  0740 SE4E       59   61 LA2XNA     59   36 AK AK 2
+ 3708 PH  0741 SE4E       59   62 SD6M       59   31 VD VD 2
+ 3708 PH  0742 SE4E       59   63 ES1CN      59   57 TL    2
+ 7147 PH  0743 SE4E       59   64 LY5O       59  107 KM KM 2
+ 7150 PH  0743 SE4E       59   65 LY3BN      59   94 KN KN 2
+ 7063 PH  0745 SE4E       59   66 LY6A       59  114 KN    2
+ 7068 PH  0747 SE4E       59   67 LY5T       59   60 AT AT 2
+ 7076 PH  0748 SE4E       59   68 YL2SM      59  117 AU    2
+ 7082 PH  0748 SE4E       59   69 ES5QA      59  106 JG JG 2
+ 7086 PH  0749 SE4E       59   70 ES6PA      59   70 VO    2
+ 7095 PH  0750 SE4E       59   71 LY2BAW     59  104 VV VV 2
+ 7144 PH  0753 SE4E       59   72 OZ7X       59  121 AH AH 2
+ 7140 PH  0753 SE4E       59   73 YL3FT      59  111 OE OE 2
+ 7141 PH  0754 SE4E       59   74 LY1CT      59   75 KD KD 2
+ 7161 PH  0755 SE4E       59   75 OF8L       59   89 PP PP 2
+ 7065 PH  0757 SE4E       59   76 LY1SR      59   84 KM    2
+ 7072 PH  0758 SE4E       59   77 OH3LS      59   60 PM PM 2
+ 7085 PH  0759 SE4E       59   78 LY2MM      59  101 KM    2
+ 7091 PH  0800 SE4E       59   79 LY7M       59   82 UT UT 2
+ 7139 PH  0801 SE4E       59   80 LY9Y       59   84 SU SU 2
+ 7155 PH  0801 SE4E       59   81 LY5W       59  100 KN    2
+ 7173 PH  0802 SE4E       59   82 LY4A       59  164 SU    2
+ 7175 PH  0803 SE4E       59   83 YL2BJ      59  122 VR VR 2
+ 7185 PH  0804 SE4E       59   84 SK2T       59   73 VB VB 2
+ 7181 PH  0804 SE4E       59   85 OZ8PG      59  106 FB FB 2
+ 7170 PH  0805 SE4E       59   86 OH6RE      59  121 KE KE 2
+ 7140 PH  0806 SE4E       59   87 OZ9VA      59   58 FB    2
+ 3601 PH  0808 SE4E       59   88 LY2BMX     59   48 UT UT 2
+ 7064 PH  0811 SE4E       59   89 YL2KO      59  143 AU    2
+ 7087 PH  0812 SE4E       59   90 SD6M       59   55 VD VD 2
+ 7138 PH  0814 SE4E       59   91 OF8UV      59   53 KU KU 2
+ 7148 PH  0815 SE4E       59   92 YL2VW      59  132 RR RR 2
+ 7148 PH  0815 SE4E       59   93 LY4LA      59   63 KD    0  NotinLog
+ 7148 PH  0816 SE4E       59   94 OZ11A      59   95 NJ NJ 2
+ 7189 PH  0817 SE4E       59   95 OH2PM      59  134 VA VA 2
+ 7064 PH  0818 SE4E       59   96 LY4L       59  141 KM    2

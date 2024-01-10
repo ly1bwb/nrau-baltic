@@ -1,0 +1,42 @@
+     Call: LB3RE
+ Operator:
+ Category: Single Op                      Band   QSO  Points  Mults
+ Power: LOW                               40m     19      37     14
+     Name: Stein-Roar Brobakken           80m     12      24     11
+  Address: pobox 5                        Sum     31      61     25
+  Address: N 2853 Reinsvoll               Total: 1525
+  Address: NORWAY
+
+
+
+ 3637 PH  0647 LB3RE      59    1 YL7A       59   26 VK VK 2
+ 3759 PH  0654 LB3RE      59    2 OH2PM      59   40 VA VA 2
+ 3775 PH  0655 LB3RE      59    3 YL3FT      59   39 OE OE 2
+ 3742 PH  0707 LB3RE      59    4 OH6RE      59   44 KE KE 2
+ 3735 PH  0708 LB3RE      59    5 ES6QC      59   57 VO VO 2
+ 3751 PH  0709 LB3RE      59    6 OH3Z       59   59 VA    2
+ 3727 PH  0712 LB3RE      59    7 OF1F       59   61 SA SA 2
+ 3718 PH  0719 LB3RE      59    8 OZ7X       59   64 AH AH 2
+ 3619 PH  0721 LB3RE      59    9 OF6MW      59   64 KT KT 2
+ 3743 PH  0732 LB3RE      59   10 OZ8PG      59   59 FB FB 2
+ 3716 PH  0739 LB3RE      59   11 SM5ACQ     59   45 VM VM 2
+ 3772 PH  0740 LB3RE      59   12 OF3P       59   59 PM PM 2
+ 7140 PH  0755 LB3RE      59   13 YL3FT      59  112 OE OE 2
+ 7141 PH  0755 LB3RE      59   14 LY1CT      59   77 KD KD 2
+ 7150 PH  0756 LB3RE      59   15 LY3BN      59  113 KN KN 2
+ 7151 PH  0757 LB3RE      59   16 LY2SA      59  110 MM MM 2
+ 7155 PH  0757 LB3RE      59   17 LY5W       59   93 KN    2
+ 7162 PH  0759 LB3RE      59   18 OF8L       59   96 PP PP 2
+ 7168 PH  0800 LB3RE      59   19 ES6PA      59   77 VO VO 2
+ 7175 PH  0801 LB3RE      59   20 YL2BJ      59  121 VR VR 2
+ 7173 PH  0802 LB3RE      59   21 LY4A       59  161 SU SU 2
+ 7176 PH  0803 LB3RE      59   22 OH8NW      59  115 VA VA 2
+ 7187 PH  0805 LB3RE      59   23 OH2PM      59  115 VA    2
+ 7064 PH  0807 LB3RE      59   24 YL2KO      59  129 AU AU 2
+ 7056 PH  0807 LB3RE      59   25 YL2VW      59  135 RR RR 1  Nr/125
+ 7070 PH  0808 LB3RE      59   26 ES2MC      59  159 HR HR 2
+ 7089 PH  0810 LB3RE      59   27 ES6RW      59  172 VO    2
+ 7100 PH  0811 LB3RE      59   28 ES7GM      59  180 VP VP 2
+ 7054 PH  0825 LB3RE      59   29 YL7A       59  122 VK VK 2
+ 7054 PH  0826 LB3RE      59   30 LY9Y       59  103 SU    2
+ 7054 PH  0827 LB3RE      59   31 ES2O       59   70 HR    2

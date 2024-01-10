@@ -1,0 +1,100 @@
+     Call: OZ9VA
+ Operator:
+ Category: Single Op                      Band   QSO  Points  Mults
+ Power: LOW                               40m     59     116     37
+     Name: Arne Jensen                    80m     31      58     24
+  Address: Gyvelbakken 25                 Sum     90     174     61
+  Address: DANMARK                        Total: 10614
+
+
+
+ 3500 PH  0630 OZ9VA      59    1 YL2BJ      59    2 VR VR 2
+ 3500 PH  0632 OZ9VA      59    2 LY5O       59    3 KM KM 2
+ 3500 PH  0633 OZ9VA      59    3 YL3FT      59    2 OE OE 2
+ 3500 PH  0634 OZ9VA      59    4 OH2PM      59    8 VA VA 2
+ 3500 PH  0635 OZ9VA      59    5 YL2SM      59   11 AU AU 2
+ 3500 PH  0636 OZ9VA      59    6 OF8L       59    4 PP PP 2
+ 3500 PH  0639 OZ9VA      59    7 ES6QC      59   16 VO VO 2
+ 3500 PH  0642 OZ9VA      59    8 LY2SA      59   23 MM MM 2
+ 3500 PH  0645 OZ9VA      59    9 OH7A       59   22 PK PK 2
+ 3500 PH  0646 OZ9VA      59   10 ES2MC      59   36 HR HR 2
+ 3500 PH  0647 OZ9VA      59   11 YL2VW      59   33 RR RR 2
+ 3500 PH  0648 OZ9VA      59   12 ES6RW      59   46 VO    2
+ 3500 PH  0649 OZ9VA      59   13 LY2BAW     59   36 VV VV 2
+ 3500 PH  0650 OZ9VA      59   14 LY2CO      59   43 TI TI 2
+ 3500 PH  0652 OZ9VA      59   15 ES6RMR     59   16 VC    0  NotinLog
+ 3500 PH  0654 OZ9VA      59   16 YL7A       59   37 VK VK 2
+ 3500 PH  0657 OZ9VA      59   17 LY6A       59   51 KN KN 2
+ 3500 PH  0700 OZ9VA      59   18 OF6MW      59   48 KT KT 2
+ 3500 PH  0700 OZ9VA      59   19 OH8NW      59   49 VA    2
+ 3500 PH  0702 OZ9VA      59   20 ES7GM      59   67 VP VP 2
+ 3500 PH  0703 OZ9VA      59   21 LY3BN      59   58 KN    2
+ 3500 PH  0706 OZ9VA      59   22 SK2T       59   25 VB VB 2
+ 3500 PH  0709 OZ9VA      59   23 ES5QA      59   56 JG JG 2
+ 3500 PH  0711 OZ9VA      59   24 SE5L       59   24 VM VM 2
+ 3500 PH  0713 OZ9VA      59   25 OF1Z       59   62 VA    2
+ 3500 PH  0715 OZ9VA      59   26 LY2TS      59   48 TI    2
+ 3500 PH  0716 OZ9VA      59   27 OZ4NA      59   29 NJ NJ 2
+ 3500 PH  0716 OZ9VA      59   28 OZ1KKH     59   17 AH AH 2
+ 3500 PH  0717 OZ9VA      59   29 OZ0AP      59   14 SS SS 2
+ 3500 PH  0717 OZ9VA      59   30 LA5UF      59   24 VF VF 2
+ 3500 PH  0718 OZ9VA      59   31 LY4LA      59   38 KI    0  NotinLog
+ 7000 PH  0726 OZ9VA      59   32 OF6MW      59   68 KT KT 2
+ 7000 PH  0733 OZ9VA      59   33 ES6RMR     59   41 VC VC 2
+ 7000 PH  0735 OZ9VA      59   34 OF8L       59   67 PP PP 2
+ 7000 PH  0740 OZ9VA      59   35 OF1F       59  105 SA SA 2
+ 7000 PH  0741 OZ9VA      59   36 ES1TU      59   66 TL TL 2
+ 7000 PH  0742 OZ9VA      59   37 LY5T       59   59 AT AT 2
+ 7000 PH  0743 OZ9VA      59   38 LY4A       59  129 SU SU 2
+ 7000 PH  0744 OZ9VA      59   39 YL9T       59  107 VK VK 2
+ 7000 PH  0745 OZ9VA      59   40 YL2KO      59   96 AU AU 2
+ 7000 PH  0747 OZ9VA      59   41 LY4L       59  104 KM KM 2
+ 7000 PH  0748 OZ9VA      59   42 8S0C       59   68 SL SL 2
+ 7000 PH  0750 OZ9VA      59   43 OH6RE      59  102 KE KE 2
+ 7000 PH  0754 OZ9VA      59   44 SK2T       59   67 VB VB 2
+ 7000 PH  0755 OZ9VA      59   45 LY2ZO      59   61 KM    2
+ 7000 PH  0755 OZ9VA      59   46 LY2SA      59  108 MM MM 2
+ 7000 PH  0756 OZ9VA      59   47 LY3BN      59  114 KN KN 2
+ 7000 PH  0757 OZ9VA      59   48 LY5O       59  124 KM    2
+ 7000 PH  0759 OZ9VA      59   49 OH7A       59   73 PK PK 1  Nr/129
+ 7000 PH  0801 OZ9VA      59   50 YL2SM      59  138 AU    2
+ 7000 PH  0803 OZ9VA      59   51 LY4K       59   54 KM    1  Nr/64
+ 7000 PH  0803 OZ9VA      59   52 LY2TS      59   88 TI TI 2
+ 7000 PH  0804 OZ9VA      59   53 LY2ND      59   45 KM    2
+ 7000 PH  0804 OZ9VA      59   54 LY7M       59   83 UT UT 2
+ 7000 PH  0805 OZ9VA      59   55 YL2KF      59  102 LM LM 2
+ 7000 PH  0805 OZ9VA      59   56 OH6ECM     59   58 PO PO 2
+ 7000 PH  0806 OZ9VA      59   57 ES2O       59   59 HR HR 2
+ 7000 PH  0806 OZ9VA      59   58 SE4E       59   87 DA DA 2
+ 7000 PH  0807 OZ9VA      59   59 LY6A       59  141 KN    2
+ 7000 PH  0807 OZ9VA      59   60 ES5TF      59   58 TA TA 2
+ 7000 PH  0808 OZ9VA      59   61 YL1ZT      59   65 TU TU 2
+ 7000 PH  0808 OZ9VA      59   62 YL3FT      59  126 OE OE 2
+ 7000 PH  0808 OZ9VA      59   63 ES1BH      59   85 TL    2
+ 7000 PH  0809 OZ9VA      59   64 ES6PA      59   85 VO VO 2
+ 7000 PH  0809 OZ9VA      59   65 LY2BOK     59   46 AT    2
+ 7000 PH  0809 OZ9VA      59   66 OF2KM      59   77 UU UU 2
+ 7000 PH  0812 OZ9VA      59   67 OF1LAR     59   24 VA VA 2
+ 7000 PH  0812 OZ9VA      59   68 OH2KW      59   86 UU    2
+ 7000 PH  0814 OZ9VA      59   69 LY1CO      59   69 KN    2
+ 7000 PH  0814 OZ9VA      59   70 LY2CO      59  118 TI    2
+ 7000 PH  0815 OZ9VA      59   71 OH3JP      59   69 KT    2
+ 7000 PH  0815 OZ9VA      59   72 YL2VW      59  133 RR RR 2
+ 7000 PH  0815 OZ9VA      59   73 ES2IPA     59   56 HR    2
+ 7000 PH  0817 OZ9VA      59   74 ES5QA      59  135 JG JG 2
+ 7000 PH  0817 OZ9VA      59   75 YL2GD      59  145 AU    2
+ 7000 PH  0817 OZ9VA      59   76 ES7GM      59  185 VP VP 2
+ 7000 PH  0818 OZ9VA      59   77 ES1CN      59   74 TL    2
+ 7000 PH  0818 OZ9VA      59   78 OF0RJ      59   65 AL AL 2
+ 7000 PH  0820 OZ9VA      59   79 OH3RT      59   25 PH PH 2
+ 7000 PH  0820 OZ9VA      59   80 ES2EZ      59  130 HR    2
+ 7000 PH  0822 OZ9VA      59   81 OF3R       59   44 PH    2
+ 7000 PH  0822 OZ9VA      59   82 ES6QC      59  117 VO    2
+ 7000 PH  0823 OZ9VA      59   83 OF1Z       59  114 VA    2
+ 7000 PH  0824 OZ9VA      59   84 YL2BJ      59  135 VR VR 2
+ 7000 PH  0824 OZ9VA      59   85 ES4NY      59   76 IV IV 2
+ 7000 PH  0825 OZ9VA      59   86 SE5N       59   80 SO SO 2
+ 7000 PH  0828 OZ9VA      59   87 LY2MM      59  132 KM    2
+ 7000 PH  0828 OZ9VA      59   88 YL7A       59  124 VK    2
+ 7000 PH  0829 OZ9VA      59   89 OZ7SG      59   52 NJ NJ 2
+ 7000 PH  0829 OZ9VA      59   90 YL1S       59  116 RR    2

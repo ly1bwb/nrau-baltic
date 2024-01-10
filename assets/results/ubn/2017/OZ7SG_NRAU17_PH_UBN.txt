@@ -1,0 +1,63 @@
+     Call: OZ7SG
+ Operator:
+ Category: Single Op                      Band   QSO  Points  Mults
+ Power: LOW                               40m     28      56     24
+     Name: Erik Sandberg                  80m     24      47     20
+  Address: Thoruphedevej 19               Sum     52     103     44
+  Address: Arden,  9510                   Total: 4532
+  Address: DENMARK
+
+
+
+ 3600 PH  0643 OZ7SG      59    1 LY4A       59   30 SU SU 1  Nr/29
+ 3600 PH  0650 OZ7SG      59    2 YL2BJ      59   44 VR VR 2
+ 3600 PH  0651 OZ7SG      59    3 OH2PM      59   32 VA VA 2
+ 3600 PH  0651 OZ7SG      59    4 YL3FT      59   31 OE OE 2
+ 3600 PH  0658 OZ7SG      59    5 ES2MC      59   60 HR HR 2
+ 3600 PH  0659 OZ7SG      59    6 OH7A       59   46 PK PK 2
+ 3600 PH  0701 OZ7SG      59    7 OF1F       59   41 SA SA 2
+ 3600 PH  0702 OZ7SG      59    8 ES6QC      59   49 VO VO 2
+ 3600 PH  0704 OZ7SG      59    9 OH3Z       59   46 VA    2
+ 3600 PH  0710 OZ7SG      59   10 LY5O       59   66 KM KM 2
+ 3600 PH  0710 OZ7SG      59   11 8S0C       59   26 SL SL 2
+ 3600 PH  0712 OZ7SG      59   12 ES5QA      59   61 JG JG 2
+ 3600 PH  0713 OZ7SG      59   13 OH8NW      59   68 VA    2
+ 3600 PH  0714 OZ7SG      59   14 LY2TS      59   47 TI TI 2
+ 3600 PH  0718 OZ7SG      59   15 YL2KO      59   70 AU AU 2
+ 3600 PH  0719 OZ7SG      59   16 OH6RE      59   66 KE KE 2
+ 3600 PH  0723 OZ7SG      59   17 LY2SA      59   70 MM MM 2
+ 3600 PH  0725 OZ7SG      59   18 OZ7X       59   77 AH AH 2
+ 3600 PH  0727 OZ7SG      59   19 OZ4NA      59   35 NJ NJ 2
+ 3600 PH  0728 OZ7SG      59   20 LY2CO      59   85 TI    2
+ 3600 PH  0734 OZ7SG      59   21 LY1CT      59   56 KD KD 2
+ 3600 PH  0735 OZ7SG      59   22 SD6M       59   28 VD VD 2
+ 3600 PH  0736 OZ7SG      59   23 LA8FTA     59   25 AK AK 2
+ 3600 PH  0737 OZ7SG      59   24 OZ11A      59   41 NJ    2
+ 7000 PH  0739 OZ7SG      59   25 OF6MW      59   77 KT KT 2
+ 7000 PH  0740 OZ7SG      59   26 ES6RW      59  128 VO VO 2
+ 7000 PH  0741 OZ7SG      59   27 YL2VW      59  105 RR RR 2
+ 7000 PH  0741 OZ7SG      59   28 YL2SM      59  101 AU AU 2
+ 7000 PH  0743 OZ7SG      59   29 ES2MC      59  119 HR HR 2
+ 7000 PH  0745 OZ7SG      59   30 ES5QA      59   98 JG JG 2
+ 7000 PH  0747 OZ7SG      59   31 ES7GM      59  145 VP VP 2
+ 7000 PH  0750 OZ7SG      59   32 OH7A       59  111 PK PK 2
+ 7000 PH  0751 OZ7SG      59   33 OH2KW      59   69 UU UU 2
+ 7000 PH  0753 OZ7SG      59   34 ES3BM      59   51 RP RP 2
+ 7000 PH  0757 OZ7SG      59   35 OH8NW      59  109 VA VA 2
+ 7000 PH  0800 OZ7SG      59   36 LY2SA      59  115 MM MM 2
+ 7000 PH  0801 OZ7SG      59   37 LY9Y       59   83 SU SU 2
+ 7000 PH  0803 OZ7SG      59   38 YL2KO      59  120 AU    2
+ 7000 PH  0807 OZ7SG      59   39 LY2CO      59  112 TI TI 2
+ 7000 PH  0808 OZ7SG      59   40 YL2GD      59  136 AU    2
+ 7000 PH  0809 OZ7SG      59   41 OH6RE      59  127 KE KE 2
+ 7000 PH  0811 OZ7SG      59   42 OH2PM      59  121 VA    2
+ 7000 PH  0812 OZ7SG      59   43 OZ4NA      59   73 NJ NJ 2
+ 7000 PH  0817 OZ7SG      59   44 SM5ACQ     59   78 VM VM 2
+ 7000 PH  0818 OZ7SG      59   45 LY5O       59  156 KM KM 2
+ 7000 PH  0820 OZ7SG      59   46 YL3FT      59  141 OE OE 2
+ 7000 PH  0821 OZ7SG      59   47 OF1F       59  160 SA SA 2
+ 7000 PH  0822 OZ7SG      59   48 YL9T       59  138 VK VK 2
+ 7000 PH  0824 OZ7SG      59   49 ES1BH      59   95 TL TL 2
+ 7000 PH  0825 OZ7SG      59   50 LY2BAW     59  147 VV VV 2
+ 7000 PH  0828 OZ7SG      59   51 OF1Z       59  121 VA    2
+ 7000 PH  0829 OZ7SG      59   52 OZ9VA      59   89 FB FB 2

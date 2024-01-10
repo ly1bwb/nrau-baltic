@@ -1,0 +1,48 @@
+     Call: OH7JL
+ Operator:
+ Category: Single Op                      Band   QSO  Points  Mults
+ Power: LOW                               40m     23      35     14
+     Name: JARI LIIMATTA                  80m     16      30     12
+  Address: PITKÄMÄENTIE 44                Sum     39      65     26
+                                          Total: 1690
+
+
+ 3500 CW  0900 OH7JL      599   1 OF6MW      599   2 KT KT 2
+ 3500 CW  0902 OH7JL      599   2 OF1F       599   2 SA SA 2
+ 3500 CW  0904 OH7JL      599   3 YL2KO      599   3 AU AU 1  Nr/5
+ 3500 CW  0907 OH7JL      599   4 OH8NW      599  11 VA VA 2
+ 3500 CW  0914 OH7JL      599   5 OF8UV      599   5 KU KU 2
+ 3500 CW  0915 OH7JL      599   6 ES1TU      599  24 TL TL 2
+ 3500 CW  0918 OH7JL      599   7 YL7A       599  28 VK VK 2
+ 3500 CW  0919 OH7JL      599   8 YL2SM      599  29 AU    2
+ 3500 CW  0920 OH7JL      599   9 YL2GD      599  33 AU    2
+ 3500 CW  0922 OH7JL      599  10 ES1CN      599  22 TL    2
+ 3500 CW  0923 OH7JL      599  11 OH2PM      599  45 VA    2
+ 3500 CW  0927 OH7JL      599  12 OH2KW      599  34 UU UU 2
+ 3500 CW  0931 OH7JL      599  13 ES5QA      599  34 JG JG 2
+ 3500 CW  0934 OH7JL      599  14 ES6Q       599  50 VO VO 2
+ 3500 CW  0939 OH7JL      599  15 SK2T       599  40 VB VB 2
+ 3500 CW  0941 OH7JL      599  16 YL2PJ      599  69 RE RE 1  Nr/60
+ 7000 CW  0950 OH7JL      599  17 LY2H       599  37 VU VU 2
+ 7000 CW  0952 OH7JL      599  18 SE5L       599  27 VM VM 2
+ 7000 CW  0954 OH7JL      599  19 OF6MW      599  84 KT KT 2
+ 7000 CW  1006 OH7JL      599  20 LA5UF      599  61 VF VF 2
+ 7000 CW  1008 OH7JL      599  21 LY2MM      599  79 KM KM 2
+ 7000 CW  1013 OH7JL      599  22 OH2KW      599  77 UU    0  NotinLog
+ 7000 CW  1014 OH7JL      599  23 LY2PJ      599  89 RE    0  Call/YL2PJ
+ 7000 CW  1017 OH7JL      599  24 OZ2TF      599  45 RK RK 2
+ 7000 CW  1019 OH7JL      599  25 ES6Q       599 107 VO VO 2
+ 7000 CW  1026 OH7JL      599  26 YL2CV      599  89 KG KG 1  Nr/79
+ 7000 CW  1028 OH7JL      599  27 LY5O       599 131 KM    2
+ 7000 CW  1030 OH7JL      599  28 YL2KO      599 127 KG    1  Mult/AU
+ 7000 CW  1033 OH7JL      599  29 YL2KF      599  99 LI    1  Mult/LM
+ 7000 CW  1040 OH7JL      599  30 LY4L       599 129 KM    2
+ 7000 CW  1041 OH7JL      599  31 LY6A       599 135 KN KN 2
+ 7000 CW  1043 OH7JL      599  32 SM5ACQ     599  96 VM    2
+ 7000 CW  1045 OH7JL      599  33 LY5T       599  70 AT AT 2
+ 7000 CW  1047 OH7JL      599  34 LY0Y       599 110 SU    0  Call/LY9Y
+ 7000 CW  1052 OH7JL      599  35 OZ8PG      599  96 FB FB 2
+ 7000 CW  1055 OH7JL      599  36 ES2EZ      599 132 SR    0  Nr/131 Mult/HR
+ 7000 CW  1057 OH7JL      599  37 LY2IJ      599 155 UT UT 2
+ 7000 CW  1058 OH7JL      599  38 OH2PM      599 171 VA VA 2
+ 7000 CW  1059 OH7JL      599  39 ES4NY      599 110 IV IV 2

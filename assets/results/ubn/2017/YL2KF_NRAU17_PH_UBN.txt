@@ -1,0 +1,125 @@
+     Call: YL2KF
+ Operator:
+ Category: Single Op                      Band   QSO  Points  Mults
+ Power: HIGH                              40m     27      51     21
+     Name: Vilnis                         80m     87     173     53
+  Address: Vosekalns                      Sum    114     224     74
+  Address: Pernavas 54-15                 Total: 16576
+  Address: Salacgriva,  LV-4033
+
+
+
+ 3633 PH  0630 YL2KF      59    1 ES5QA      59    1 JG JG 2
+ 3630 PH  0631 YL2KF      59    2 LY6A       59    5 KN KN 2
+ 3627 PH  0631 YL2KF      59    3 LY3BN      59    2 KN    2
+ 3625 PH  0632 YL2KF      59    4 LY4A       59    4 SU SU 2
+ 3619 PH  0632 YL2KF      59    5 OF6MW      59    4 KT KT 2
+ 3614 PH  0633 YL2KF      59    6 LY2MM      59    7 KM KM 2
+ 3612 PH  0633 YL2KF      59    7 ES7GM      59   11 VP VP 2
+ 3610 PH  0634 YL2KF      59    8 ES2EZ      59   10 HR HR 2
+ 3601 PH  0635 YL2KF      59    9 LY4Q       59    7 VU VU 2
+ 3703 PH  0635 YL2KF      59   10 YL2VW      59   12 RR RR 2
+ 3707 PH  0635 YL2KF      59   11 ES2MC      59   15 HR    2
+ 3710 PH  0636 YL2KF      59   12 YL2GD      59   14 AU AU 2
+ 3715 PH  0637 YL2KF      59   13 OH7A       59   12 PK PK 2
+ 3720 PH  0638 YL2KF      59   14 OH8NW      59    8 VA VA 1  Nr/9
+ 3724 PH  0639 YL2KF      59   15 ES4NY      59   13 IV IV 2
+ 3729 PH  0639 YL2KF      59   16 YL9T       59   14 VK VK 2
+ 3735 PH  0641 YL2KF      59   17 ES6QC      59   19 VO VO 2
+ 3741 PH  0642 YL2KF      59   18 LY5O       59   23 KM    2
+ 3744 PH  0643 YL2KF      59   19 OF8L       59   14 PP PP 2
+ 3748 PH  0644 YL2KF      59   20 YL2BJ      59   31 VR VR 2
+ 3720 PH  0645 YL2KF      59   21 YL2ON      59    7 TS TS 2
+ 3720 PH  0645 YL2KF      59   22 LY2ZO      59   11 KM    2
+ 3720 PH  0646 YL2KF      59   23 LY2TS      59   18 TI TI 2
+ 3720 PH  0646 YL2KF      59   24 OF1TD      59   11 SA SA 2
+ 3720 PH  0646 YL2KF      59   25 YL1S       59   21 RR    2
+ 3720 PH  0647 YL2KF      59   26 OH6ECM     59    6 PO PO 2
+ 3720 PH  0647 YL2KF      59   27 OF1LAR     59    9 VA    2
+ 3720 PH  0648 YL2KF      59   28 OH6RE      59   24 KE KE 2
+ 3720 PH  0649 YL2KF      59   29 YL1ZT      59   15 TU TU 2
+ 3720 PH  0649 YL2KF      59   30 LY4LA      59   20 KD KD 2
+ 3720 PH  0649 YL2KF      59   31 LY3CY      59   23 VU    2
+ 3720 PH  0650 YL2KF      59   32 SD6M       59    5 VD VD 2
+ 3720 PH  0650 YL2KF      59   33 ES1TU      59   25 TL TL 2
+ 3720 PH  0651 YL2KF      59   34 LY2NY      59   28 KN    2
+ 3720 PH  0652 YL2KF      59   35 SM6IQD     59   10 VD    2
+ 3720 PH  0653 YL2KF      59   36 LB1AH      59   12 HO HO 2
+ 3720 PH  0653 YL2KF      59   37 YL2PJ      59   34 RE RE 2
+ 3720 PH  0653 YL2KF      59   38 OF3R       59   10 PH PH 2
+ 3720 PH  0654 YL2KF      59   39 YL2SM      59   41 AU    2
+ 3720 PH  0654 YL2KF      59   40 YL100ZK    59   17 RR    2
+ 3720 PH  0654 YL2KF      59   41 SE4E       59   24 DA DA 2
+ 3720 PH  0655 YL2KF      59   42 LY1CO      59   22 KN    2
+ 3720 PH  0655 YL2KF      59   43 LY9Y       59   30 SU    2
+ 3720 PH  0655 YL2KF      59   44 LY5P       59   13 SI SI 2
+ 3720 PH  0656 YL2KF      59   45 OH7JL      59   23 PK    2
+ 3720 PH  0656 YL2KF      59   46 SE5N       59   15 SO SO 2
+ 3720 PH  0657 YL2KF      59   47 LY4L       59   46 KM    2
+ 3720 PH  0657 YL2KF      59   48 ES5TF      59   22 TA TA 2
+ 3720 PH  0657 YL2KF      59   49 SE3X       59   11 JL JL 2
+ 3720 PH  0658 YL2KF      59   50 YL3IR      59   11 GU GU 2
+ 3720 PH  0659 YL2KF      59   51 8S0C       59   16 SL SL 2
+ 3720 PH  0659 YL2KF      59   52 YL2KO      59   45 AU    2
+ 3720 PH  0700 YL2KF      59   53 ES5JR      59   17 TA    2
+ 3720 PH  0700 YL2KF      59   54 OZ6ARC     59   14 SJ SJ 2
+ 3720 PH  0701 YL2KF      59   55 LY3B       59   34 PA PA 2
+ 3720 PH  0701 YL2KF      59   56 ES6PA      59   25 VO    2
+ 3720 PH  0702 YL2KF      59   57 OF3P       59   24 PM PM 2
+ 3720 PH  0702 YL2KF      59   58 LY2ON      59   17 KI KI 2
+ 3720 PH  0702 YL2KF      59   59 SE5E       59    9 UP UP 2
+ 3720 PH  0703 YL2KF      59   60 OH3LS      59   28 PM    2
+ 3720 PH  0704 YL2KF      59   61 ES6RMR     59   27 VC VC 2
+ 3720 PH  0705 YL2KF      59   62 LY5T       59   23 AT AT 2
+ 3720 PH  0705 YL2KF      59   63 LY4K       59   28 KM    2
+ 3720 PH  0708 YL2KF      59   64 ES1BH      59   31 TL    2
+ 3720 PH  0708 YL2KF      59   65 ES1QD      59   28 TL    2
+ 3720 PH  0709 YL2KF      59   66 ES2IPA     59   26 HR    2
+ 3720 PH  0710 YL2KF      59   67 OF2KM      59   38 UU UU 2
+ 3720 PH  0710 YL2KF      59   68 SK2T       59   30 VB VB 2
+ 3720 PH  0711 YL2KF      59   69 ES7KEW     59    4 VP    2
+ 3720 PH  0711 YL2KF      59   70 LY2CO      59   73 TI    2
+ 3720 PH  0711 YL2KF      59   71 OH3JP      59   30 KT    2
+ 3720 PH  0712 YL2KF      59   72 LY7M       59   29 UT UT 2
+ 3720 PH  0712 YL2KF      59   73 LY5W       59   46 KN    2
+ 3720 PH  0712 YL2KF      59   74 YL3GAO     59   23 DO DO 2
+ 3720 PH  0713 YL2KF      59   75 ES7RIX     59   22 VP    2
+ 3720 PH  0715 YL2KF      59   76 LY2J       59   49 MM MM 2
+ 3720 PH  0715 YL2KF      59   77 YL7A       59   73 VK    2
+ 3720 PH  0716 YL2KF      59   78 LA8FTA     59   14 AK AK 2
+ 3720 PH  0718 YL2KF      59   79 ES6RW      59   96 VO    2
+ 3720 PH  0719 YL2KF      59   80 YL2II      59    4 AI AI 2
+ 3718 PH  0722 YL2KF      59   81 OZ7X       59   71 AH AH 2
+ 3704 PH  0723 YL2KF      59   82 LY2BAW     59   76 VV VV 2
+ 3775 PH  0725 YL2KF      59   83 YL3FT      59   87 OE OE 2
+ 3751 PH  0725 YL2KF      59   84 OH3Z       59   88 VA    2
+ 3727 PH  0728 YL2KF      59   85 OF1F       59   85 SA    2
+ 3751 PH  0732 YL2KF      59   86 LY1CT      59   54 KD    2
+ 3615 PH  0735 YL2KF      59   87 LY1SR      59   55 KM    2
+ 7063 PH  0739 YL2KF      59   88 LY6A       59   98 KN KN 2
+ 7073 PH  0741 YL2KF      59   89 OH3Z       59  110 VA VA 2
+ 7085 PH  0744 YL2KF      59   90 LY2CO      59   96 TI TI 2
+ 7091 PH  0746 YL2KF      59   91 LY1CT      59   57 KD KD 1  Nr/67
+ 7091 PH  0747 YL2KF      59   92 SM6IQD     59   35 VD VD 2
+ 7087 PH  0751 YL2KF      59   93 YL2VW      59  112 RR RR 2
+ 7089 PH  0751 YL2KF      59   94 ES6RW      59  148 VO VO 2
+ 7100 PH  0755 YL2KF      59   95 ES7GM      59  159 VP VP 2
+ 7133 PH  0756 YL2KF      59   96 OH7A       59  119 PK PK 2
+ 7144 PH  0756 YL2KF      59   97 OZ7X       59  125 AH AH 2
+ 7153 PH  0759 YL2KF      59   98 OF8UV      59   43 KU KU 2
+ 7153 PH  0800 YL2KF      59   99 LY2TS      59   87 TI    2
+ 7153 PH  0802 YL2KF      59  100 LA2XNA     59   51 AK AK 2
+ 7173 PH  0804 YL2KF      59  101 LY4A       59  165 SU SU 2
+ 7140 PH  0804 YL2KF      59  102 OZ9VA      59   55 FB FB 2
+ 7159 PH  0806 YL2KF      59  103 YL2GD      59  133 AU AU 2
+ 7162 PH  0806 YL2KF      59  104 OF8L       59  111 PP PP 2
+ 7170 PH  0807 YL2KF      59  105 OH6RE      59  125 KE KE 2
+ 7183 PH  0808 YL2KF      59  106 OZ11A      59   86 NJ NJ 2
+ 7187 PH  0809 YL2KF      59  107 LA8FTA     59   46 AK    2
+ 7198 PH  0811 YL2KF      59  108 OZ4NA      59   72 NJ    2
+ 7175 PH  0812 YL2KF      59  109 SA1CCQ     59   80 GO GO 2
+ 7070 PH  0816 YL2KF      59  110 YL2SM      59  151 AU    2
+ 7194 PH  0821 YL2KF      59  111 SK2T       59   89 VB VB 2
+ 7062 PH  0822 YL2KF      59  112 YL3FT      59  146 OE    0  NotinLog
+ 7190 PH  0827 YL2KF      59  113 OH7JL      59   74 PK    2
+ 7179 PH  0829 YL2KF      59  114 LB1AH      59  126 HO HO 2

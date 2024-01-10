@@ -1,0 +1,92 @@
+     Call: LY2ZO
+ Operator:
+ Category: MultiOp                        Band   QSO  Points  Mults
+ Power: LOW                               40m     34      66     23
+     Name: Kaunas University of Technolo  80m     49      92     29
+  Address:                                Sum     83     158     52
+                                          Total: 8216
+
+
+ 3500 PH  0632 LY2ZO      59    1 YL2VW      59    7 RR RR 2
+ 3500 PH  0633 LY2ZO      59    2 ES2MC      59    9 HR HR 2
+ 3500 PH  0633 LY2ZO      59    3 YL2GD      59    8 AU AU 2
+ 3500 PH  0634 LY2ZO      59    4 OH2PM      59    7 VA VA 2
+ 3500 PH  0634 LY2ZO      59    5 YL2SM      59    9 AU    2
+ 3500 PH  0634 LY2ZO      59    6 YL2BJ      59   13 VR VR 2
+ 3500 PH  0635 LY2ZO      59    7 LY5O       59   10 KM KM 2
+ 3500 PH  0636 LY2ZO      59    8 ES6QC      59   10 VO VO 2
+ 3500 PH  0636 LY2ZO      59    9 YL9T       59    8 VK VK 2
+ 3500 PH  0644 LY2ZO      59   10 LY2SA      59   25 MM MM 2
+ 3500 PH  0645 LY2ZO      59   11 YL2KF      59   22 LM LM 2
+ 3500 PH  0646 LY2ZO      59   12 OZ7X       59   22 AH AH 2
+ 3500 PH  0648 LY2ZO      59   13 OH7A       59   19 PK PK 1  Nr/29
+ 3500 PH  0651 LY2ZO      59   14 ES6RW      59   51 VO    2
+ 3500 PH  0652 LY2ZO      59   15 LY2BAW     59   42 VV VV 2
+ 3500 PH  0652 LY2ZO      59   16 LY2CO      59   48 TI TI 2
+ 3500 PH  0653 LY2ZO      59   17 YL7A       59   36 VK    2
+ 3500 PH  0654 LY2ZO      59   18 LY6A       59   46 KN KN 2
+ 3500 PH  0655 LY2ZO      59   19 ES1BH      59   10 TL TL 2
+ 3500 PH  0657 LY2ZO      59   20 LY1SR      59   25 KM    2
+ 3500 PH  0658 LY2ZO      59   21 OH8NW      59   46 VA    2
+ 3500 PH  0659 LY2ZO      59   22 LY3BN      59   52 KN    2
+ 3500 PH  0700 LY2ZO      59   23 LY4Q       59   47 VU VU 2
+ 3500 PH  0702 LY2ZO      59   24 SA1CCQ     59   19 GO GO 2
+ 3500 PH  0702 LY2ZO      59   25 LY4A       59   74 SU SU 2
+ 7000 PH  0704 LY2ZO      59   26 LY4A       59   76 SU SU 2
+ 3500 PH  0707 LY2ZO      59   27 YL2PJ      59   51 RE RE 2
+ 3500 PH  0709 LY2ZO      59   28 YL3FT      59   65 OE OE 2
+ 3500 PH  0712 LY2ZO      59   29 YL2KO      59   63 AU    2
+ 3500 PH  0716 LY2ZO      59   30 OH3Z       59   74 VA    2
+ 3500 PH  0716 LY2ZO      59   31 LB1AH      59   35 HO HO 2
+ 3500 PH  0718 LY2ZO      59   32 OH6RE      59   65 KE KE 2
+ 3500 PH  0721 LY2ZO      59   33 LY2J       59   56 MM    2
+ 3500 PH  0729 LY2ZO      59   34 LY4MA      59   26 KM    2
+ 3500 PH  0730 LY2ZO      59   35 8S0C       59   52 SL SL 2
+ 3500 PH  0733 LY2ZO      59   36 ES5QA      59   92 JG    0  NotinLog
+ 3500 PH  0736 LY2ZO      59   37 LY4LA      59   45 KD KD 2
+ 3500 PH  0736 LY2ZO      59   38 LY2BMX     59   35 UT UT 2
+ 3500 PH  0737 LY2ZO      59   39 LY2BOK     59   33 AT AT 2
+ 3500 PH  0737 LY2ZO      59   40 LY2PBV     59   34 MM    1  Nr/33
+ 7000 PH  0738 LY2ZO      59   41 OF1F       59   98 SA SA 2
+ 3500 PH  0738 LY2ZO      59   42 YL1S       59   78 RR    2
+ 3500 PH  0738 LY2ZO      59   43 LY3PDX     59   26 MM    2
+ 3500 PH  0738 LY2ZO      59   44 LY5AA      59   41 KM    2
+ 3500 PH  0738 LY2ZO      59   45 LY4K       59   48 KM    2
+ 3500 PH  0740 LY2ZO      59   46 LY5P       59   34 SI SI 2
+ 7000 PH  0742 LY2ZO      59   47 OH6RE      59   87 KE KE 2
+ 7000 PH  0743 LY2ZO      59   48 OF8L       59   77 PP PP 2
+ 3500 PH  0743 LY2ZO      59   49 LY2N       59    8 KM    2
+ 7000 PH  0745 LY2ZO      59   50 OZ11A      59   52 NJ NJ 2
+ 7000 PH  0747 LY2ZO      59   51 LB1AH      59   71 HO HO 2
+ 7000 PH  0747 LY2ZO      59   52 LY4L       59  105 KM KM 2
+ 7000 PH  0748 LY2ZO      59   53 8S0C       59   69 SL SL 2
+ 7000 PH  0749 LY2ZO      59   54 LY3BN      59  101 KN KN 2
+ 7000 PH  0750 LY2ZO      59   55 OZ7X       59  113 AH AH 2
+ 7000 PH  0751 LY2ZO      59   56 OH7A       59  113 PK PK 2
+ 7000 PH  0752 LY2ZO      59   57 LY5O       59  119 KM    2
+ 3500 PH  0752 LY2ZO      59   58 YL2AQ      59   10 RR    2
+ 7000 PH  0753 LY2ZO      59   59 OH3JP      59   58 KT KT 2
+ 7000 PH  0754 LY2ZO      59   60 OF3P       59   64 PM PM 2
+ 7000 PH  0755 LY2ZO      59   61 OZ9VA      59   45 FB FB 2
+ 7000 PH  0755 LY2ZO      59   62 LY5AA      59   51 KM    2
+ 3500 PH  0757 LY2ZO      59   63 YL2II      59   28 AI AI 2
+ 7000 PH  0759 LY2ZO      59   64 OH2PM      59  107 VA VA 2
+ 7000 PH  0759 LY2ZO      59   65 OF6MW      59   99 KT    2
+ 7000 PH  0801 LY2ZO      59   66 OZ4NA      59   60 NJ    2
+ 7000 PH  0802 LY2ZO      59   67 OZ8PJ      59  102 FB    0  Call/OZ8PG
+ 7000 PH  0802 LY2ZO      59   68 OH8NW      59  114 VA    2
+ 7000 PH  0804 LY2ZO      59   69 YL2GD      59  130 AU AU 2
+ 7000 PH  0805 LY2ZO      59   70 LY5W       59  103 KN    2
+ 7000 PH  0807 LY2ZO      59   71 SE5L       59   62 VM VM 2
+ 7000 PH  0809 LY2ZO      59   72 LY2MM      59  111 KM    2
+ 7000 PH  0810 LY2ZO      59   73 LY1SR      59   94 KM    2
+ 7000 PH  0811 LY2ZO      59   74 SE5N       59   63 SO SO 2
+ 7000 PH  0813 LY2ZO      59   75 ES1BH      59   88 TL TL 2
+ 7000 PH  0814 LY2ZO      59   76 LY2BAW     59  136 VV VV 2
+ 3500 PH  0813 LY2ZO      59   75 LY3IZ      59   47 UT    2
+ 7000 PH  0816 LY2ZO      59   78 SM5ACQ     59   76 VM    2
+ 7000 PH  0818 LY2ZO      59   79 YL2SM      59  155 AU    2
+ 7000 PH  0821 LY2ZO      59   80 OH2KW      59   91 UU UU 2
+ 7000 PH  0825 LY2ZO      59   81 ES6RW      59  189 VO VO 2
+ 3500 PH  0826 LY2ZO      59   81 LY4M       59  147 --    0  Mult/KM Call/LY4L
+ 7000 PH  0826 LY2ZO      59   83 SD6M       59   69 VD VD 2

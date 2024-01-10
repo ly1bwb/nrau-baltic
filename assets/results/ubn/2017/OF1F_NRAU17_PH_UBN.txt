@@ -1,0 +1,174 @@
+     Call: OF1F
+ Operator: OH1TM
+ Category: Single Op                      Band   QSO  Points  Mults
+ Power: HIGH                              40m     72     143     40
+     Name: Teljan Radioamatoorit ry       80m     91     181     56
+  Address: c/o Timo Pohjola OH1TM         Sum    163     324     96
+  Address: Kissalinja 29                  Total: 31104
+  Address: PORI,  28560
+
+
+
+ 3727 PH  0631 OF1F       59    1 YL1ZT      59    1 TU TU 2
+ 3727 PH  0632 OF1F       59    2 OH7JL      59    4 PK PK 2
+ 3727 PH  0632 OF1F       59    3 YL1S       59    5 RR RR 2
+ 3727 PH  0633 OF1F       59    4 LY9Y       59    5 SU SU 2
+ 3727 PH  0634 OF1F       59    5 YL3IR      59    3 GU GU 2
+ 3727 PH  0635 OF1F       59    6 OF8UV      59    4 KU KU 2
+ 3727 PH  0636 OF1F       59    7 YL2PJ      59    8 RE RE 2
+ 3727 PH  0639 OF1F       59    8 OZ6ARC     59    3 SJ SJ 2
+ 3727 PH  0640 OF1F       59    9 YL100ZK    59    4 RR    2
+ 3727 PH  0640 OF1F       59   10 SA1CCQ     59    4 JO    1  Mult/GO
+ 3727 PH  0641 OF1F       59   11 ES1CN      59   12 TL TL 2
+ 3727 PH  0641 OF1F       59   12 OH3JP      59    7 KT KT 2
+ 3707 PH  0643 OF1F       59   13 ES2MC      59   27 HR HR 2
+ 3710 PH  0644 OF1F       59   14 YL2GD      59   32 AU AU 2
+ 3727 PH  0646 OF1F       59   15 YL3GAO     59   10 DO DO 2
+ 3727 PH  0647 OF1F       59   16 OF1TD      59   12 SA SA 2
+ 3727 PH  0647 OF1F       59   17 LY4K       59   17 KM KM 2
+ 3727 PH  0648 OF1F       59   18 ES1QD      59   14 TL    2
+ 3727 PH  0649 OF1F       59   19 OF2KM      59   19 UU UU 2
+ 3727 PH  0650 OF1F       59   20 SM6IQD     59    9 VD VD 2
+ 3727 PH  0651 OF1F       59   21 SD6M       59    6 VD    2
+ 3727 PH  0651 OF1F       59   22 LY3CY      59   25 VU VU 2
+ 3727 PH  0651 OF1F       59   23 LY2NY      59   29 KN KN 2
+ 3727 PH  0652 OF1F       59   24 ES1TU      59   27 TL    2
+ 3727 PH  0652 OF1F       59   25 ES2IPA     59   14 HR    2
+ 3727 PH  0653 OF1F       59   26 ES7KEW     59    3 VP VP 2
+ 3727 PH  0653 OF1F       59   27 YL2SM      59   40 AU    2
+ 3727 PH  0653 OF1F       59   28 YL2KO      59   38 AU    2
+ 3727 PH  0655 OF1F       59   29 OF3R       59   11 PH PH 2
+ 3727 PH  0655 OF1F       59   30 SE3X       59   10 JL JL 2
+ 3727 PH  0656 OF1F       59   31 LY4L       59   45 KM    2
+ 3727 PH  0656 OF1F       59   32 LY1CO      59   23 KN    2
+ 3703 PH  0658 OF1F       59   33 LY5W       59   30 KN    2
+ 3727 PH  0658 OF1F       59   34 SE5N       59   17 SO SO 2
+ 3727 PH  0658 OF1F       59   35 OF8L       59   32 PP PP 2
+ 3727 PH  0658 OF1F       59   36 ES5TF      59   23 TA TA 2
+ 3727 PH  0659 OF1F       59   37 OF3P       59   22 PM PM 2
+ 3727 PH  0659 OF1F       59   38 SE4E       59   29 DA DA 2
+ 3727 PH  0700 OF1F       59   39 OH6ECM     59   17 PO PO 2
+ 3727 PH  0700 OF1F       59   40 8S0C       59   18 SL SL 2
+ 3727 PH  0700 OF1F       59   41 OZ7SG      59    7 NJ NJ 2
+ 3727 PH  0701 OF1F       59   42 LA9PTA     59    6 OF OF 2
+ 3727 PH  0702 OF1F       59   43 OF0RJ      59   17 AL AL 2
+ 3727 PH  0702 OF1F       59   44 ES2O       59   28 HR    2
+ 3727 PH  0702 OF1F       59   45 LY3B       59   36 PA PA 2
+ 3727 PH  0703 OF1F       59   46 OZ1KKH     59   14 AH AH 2
+ 3715 PH  0703 OF1F       59   47 OH7A       59   54 PK    2
+ 3727 PH  0704 OF1F       59   48 OZ4NA      59   23 NJ    2
+ 3727 PH  0705 OF1F       59   49 OZ0AP      59   10 SS SS 2
+ 3727 PH  0705 OF1F       59   50 OH3LS      59   30 PM    2
+ 3727 PH  0705 OF1F       59   51 LA8FTA     59    9 AK AK 2
+ 3727 PH  0706 OF1F       59   52 LA2XNA     59   20 AK    2
+ 3727 PH  0706 OF1F       59   53 ES6RW      59   83 VO VO 2
+ 3727 PH  0707 OF1F       59   54 ES4NY      59   35 IV IV 2
+ 3727 PH  0708 OF1F       59   55 YL2VW      59   67 RR    2
+ 3727 PH  0708 OF1F       59   56 OF2J       59   16 UU    2
+ 3727 PH  0709 OF1F       59   57 LA9RY      59    3 RL RL 2
+ 3727 PH  0710 OF1F       59   58 LB2WG      59    6 OS OS 2
+ 3727 PH  0711 OF1F       59   59 LB8QG      59   10 OF    2
+ 3729 PH  0712 OF1F       59   60 YL9T       59   76 VK VK 2
+ 3727 PH  0712 OF1F       59   61 LB3RE      59    7 OP OP 2
+ 3727 PH  0712 OF1F       59   62 LY2CO      59   74 TI TI 2
+ 3727 PH  0713 OF1F       59   63 ES7RIX     59   21 VP    2
+ 3727 PH  0713 OF1F       59   64 OZ8PG      59   46 FB FB 2
+ 3727 PH  0714 OF1F       59   65 LY2J       59   47 MM MM 2
+ 3727 PH  0714 OF1F       59   66 SM5ACQ     59   31 VM VM 2
+ 3727 PH  0715 OF1F       59   67 LY4LA      59   36 KD KD 2
+ 3727 PH  0715 OF1F       59   68 LY3BN      59   66 KN    2
+ 3727 PH  0715 OF1F       59   69 ES1BH      59   41 TL    2
+ 3727 PH  0715 OF1F       59   70 LY2MM      59   62 KM    2
+ 3727 PH  0716 OF1F       59   71 YL7A       59   74 VK    2
+ 3727 PH  0716 OF1F       59   72 LY3IZ      59   24 UT UT 2
+ 3727 PH  0716 OF1F       59   73 ES2EZ      59   70 HR    2
+ 3727 PH  0717 OF1F       59   74 SF3A       59   22 VN VN 2
+ 3727 PH  0718 OF1F       59   75 OF8NV      59   23 PO    2
+ 3727 PH  0719 OF1F       59   76 YL2II      59    5 AI AI 2
+ 3742 PH  0720 OF1F       59   77 OH6RE      59   68 KE KE 2
+ 3751 PH  0721 OF1F       59   78 OH3Z       59   86 VA VA 2
+ 3727 PH  0722 OF1F       59   79 SE5L       59   31 VM    2
+ 3727 PH  0725 OF1F       59   80 LY2TS      59   58 TI    2
+ 3727 PH  0726 OF1F       59   81 ES5JR      59   36 TA    2
+ 3727 PH  0726 OF1F       59   82 OH2KW      59   51 UU    2
+ 3765 PH  0727 OF1F       59   83 LY4A       59  104 SU    2
+ 3775 PH  0727 OF1F       59   84 YL3FT      59   88 OE OE 2
+ 3727 PH  0728 OF1F       59   85 YL2KF      59   85 LM LM 2
+ 3727 PH  0728 OF1F       59   86 SA0BVA     59   20 SL    2
+ 3727 PH  0729 OF1F       59   87 LY1SR      59   50 KM    2
+ 3727 PH  0730 OF1F       59   88 OZ4QX      59    6 KH KH 2
+ 3727 PH  0731 OF1F       59   89 LY1CT      59   52 KD    2
+ 3748 PH  0731 OF1F       59   90 LB1AH      59   55 HO HO 2
+ 3718 PH  0732 OF1F       59   91 OZ7X       59   85 AH    2
+ 7158 PH  0735 OF1F       59   92 ES6RMR     59   43 VC VC 2
+ 7158 PH  0735 OF1F       59   93 OZ8PG      59   62 FB FB 2
+ 7158 PH  0736 OF1F       59   94 LY5T       59   52 AT AT 2
+ 7158 PH  0736 OF1F       59   95 ES5JR      59   42 TA TA 2
+ 7158 PH  0736 OF1F       59   96 LY4L       59   89 KM KM 2
+ 7158 PH  0736 OF1F       59   97 LY2MM      59   77 KM    2
+ 7158 PH  0737 OF1F       59   98 LY2ZO      59   38 KM    1  Nr/41
+ 7158 PH  0738 OF1F       59   99 LY4Q       59   71 VU VU 2
+ 7158 PH  0739 OF1F       59  100 OF8L       59   72 PP PP 2
+ 7158 PH  0739 OF1F       59  101 YL3IR      59   30 GU GU 2
+ 7158 PH  0739 OF1F       59  102 OH3JP      59   48 KT KT 2
+ 7158 PH  0740 OF1F       59  103 OH8NW      59   95 VA VA 2
+ 7158 PH  0740 OF1F       59  104 LY4A       59  123 SU SU 2
+ 7158 PH  0740 OF1F       59  105 OZ9VA      59   35 FB    2
+ 7158 PH  0741 OF1F       59  106 YL7A       59   97 VK VK 2
+ 7158 PH  0742 OF1F       59  107 LY2BAG     59   22 KM    2
+ 7158 PH  0743 OF1F       59  108 OZ0AP      59   23 SS SS 2
+ 7158 PH  0743 OF1F       59  109 LY7M       59   64 UT UT 2
+ 7158 PH  0744 OF1F       59  110 OZ4NA      59   43 NJ NJ 2
+ 7158 PH  0745 OF1F       59  111 SK2T       59   57 VB VB 2
+ 7158 PH  0746 OF1F       59  112 LY3B       59   65 PA PA 2
+ 7158 PH  0746 OF1F       59  113 LY4LA      59   48 KD KD 2
+ 7158 PH  0746 OF1F       59  114 YL2PJ      59   94 RE RE 2
+ 7158 PH  0747 OF1F       59  115 LY9Y       59   70 SU    2
+ 7158 PH  0748 OF1F       59  116 YL1S       59   86 RR RR 2
+ 7158 PH  0748 OF1F       59  117 LY2ND      59   38 KM    2
+ 7158 PH  0749 OF1F       59  118 LY5AA      59   44 KM    2
+ 7158 PH  0749 OF1F       59  119 OZ1KKH     59   34 AH AH 2
+ 7158 PH  0749 OF1F       59  120 LY2J       59   72 MM MM 2
+ 7158 PH  0749 OF1F       59  121 LY3IZ      59   37 UT    2
+ 7063 PH  0750 OF1F       59  123 LY6A       59  124 KN KN 2
+ 7065 PH  0750 OF1F       59  124 LY1SR      59   74 KM    2
+ 7158 PH  0752 OF1F       59  122 LY2SA      59  103 MM    2
+ 7158 PH  0752 OF1F       59  125 OF1Z       59   98 VA    2
+ 7158 PH  0753 OF1F       59  126 LY3PDX     59   29 MM    2
+ 7070 PH  0753 OF1F       59  127 ES2MC      59  139 HR HR 2
+ 7076 PH  0754 OF1F       59  128 YL2SM      59  129 AU AU 2
+ 7158 PH  0754 OF1F       59  129 YL2VW      59  115 RR    2
+ 7158 PH  0755 OF1F       59  130 YL3GAO     59   49 DO DO 2
+ 7158 PH  0755 OF1F       59  131 YL2KO      59  111 AU    2
+ 7158 PH  0756 OF1F       59  132 LY4K       59   60 KM    2
+ 7158 PH  0757 OF1F       59  133 LB4FH      59   30 RL RL 2
+ 7158 PH  0757 OF1F       59  134 YL9T       59  122 VK    2
+ 7158 PH  0758 OF1F       59  135 LY2NY      59   69 KN    2
+ 7158 PH  0758 OF1F       59  136 YL3FT      59  116 OE OE 2
+ 7158 PH  0758 OF1F       59  137 LY1CT      59   80 KD    2
+ 7158 PH  0759 OF1F       59  138 LY2CO      59  107 TI TI 2
+ 7158 PH  0800 OF1F       59  139 LY2TS      59   86 TI    2
+ 7158 PH  0800 OF1F       59  140 OH3Z       59  134 VA    2
+ 7158 PH  0801 OF1F       59  141 LY2N       59   21 KM    2
+ 7076 PH  0803 OF1F       59  142 LY5O       59  131 KM    2
+ 7168 PH  0803 OF1F       59  143 ES6PA      59   81 VO VO 2
+ 7133 PH  0805 OF1F       59  144 OH7A       59  135 PK PK 2
+ 7100 PH  0805 OF1F       59  145 ES7GM      59  171 VP VP 2
+ 7089 PH  0806 OF1F       59  146 ES6RW      59  168 VO    2
+ 7095 PH  0807 OF1F       59  147 LY2BAW     59  125 VV VV 2
+ 7072 PH  0808 OF1F       59  148 LY3CY      59   66 VU    2
+ 7072 PH  0809 OF1F       59  149 ES5QA      59  129 JG JG 2
+ 7072 PH  0809 OF1F       59  150 SM6IQD     59   52 VD VD 2
+ 7072 PH  0810 OF1F       59  151 LA5UF      59   54 VF VF 2
+ 7072 PH  0812 OF1F       59  152 ES1TU      59   89 TL TL 2
+ 7072 PH  0813 OF1F       59  153 LA9RY      59   15 RL    2
+ 7072 PH  0813 OF1F       59  154 LY5W       59  110 KN    2
+ 7168 PH  0815 OF1F       59  155 OZ6ARC     59   51 SJ SJ 2
+ 7072 PH  0816 OF1F       59  156 LY3BN      59  142 KN    2
+ 7189 PH  0816 OF1F       59  157 OH2PM      59  132 VA    2
+ 7184 PH  0817 OF1F       59  158 OZ11A      59   96 NJ    2
+ 7161 PH  0820 OF1F       59  159 OF1TD      59   72 SA SA 2
+ 7161 PH  0821 OF1F       59  160 OZ7SG      59   47 NJ    2
+ 7161 PH  0821 OF1F       59  161 LY2BOK     59   54 AT    2
+ 7179 PH  0822 OF1F       59  162 LB1AH      59  117 HO HO 2
+ 7144 PH  0825 OF1F       59  163 OZ7X       59  174 AH    2

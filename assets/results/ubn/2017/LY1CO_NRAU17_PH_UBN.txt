@@ -1,0 +1,84 @@
+     Call: LY1CO
+ Operator:
+ Category: Single Op                      Band   QSO  Points  Mults
+ Power: LOW                               40m     21      41     19
+     Name: ANTANAS                        80m     54     104     33
+  Address: Basanaviciaus 40-31            Sum     75     145     52
+                                          Total: 7540
+
+
+ 3500 PH  0630 LY1CO      59    1 LY2CO      59    2 TI TI 2
+ 3500 PH  0631 LY1CO      59    2 LY6A       59    7 KN KN 2
+ 3500 PH  0632 LY1CO      59    3 LY3BN      59    3 KN    2
+ 3500 PH  0632 LY1CO      59    4 LY4A       59    6 SU SU 2
+ 7000 PH  0634 LY1CO      59    5 LY4A       59   11 SU SU 2
+ 3500 PH  0636 LY1CO      59    6 LY4L       59   15 KN    1  Mult/KM
+ 3500 PH  0637 LY1CO      59    7 LY2MM      59   15 KM KM 2
+ 3500 PH  0638 LY1CO      59    8 LY5W       59    9 KN    2
+ 3500 PH  0639 LY1CO      59    9 YL7A       59   11 VK VK 2
+ 3500 PH  0640 LY1CO      59   10 LY2BAW     59   16 VV VV 2
+ 3500 PH  0641 LY1CO      59   11 ES6RW      59   25 VO VO 2
+ 3500 PH  0642 LY1CO      59   12 LY2NY      59   20 KN    2
+ 3500 PH  0643 LY1CO      59   13 ES3BM      59   14 RP    0  NotinLog
+ 3500 PH  0643 LY1CO      59   14 ES5QA      59   24 JG JG 2
+ 3500 PH  0645 LY1CO      59   15 ES7GM      59   35 VP VP 2
+ 3500 PH  0647 LY1CO      59   16 LY4Q       59   27 VU VU 2
+ 3500 PH  0650 LY1CO      59   17 OH2KW      59   22 UU UU 2
+ 3500 PH  0651 LY1CO      59   18 YL2GD      59   46 AU AU 2
+ 3500 PH  0652 LY1CO      59   19 YL2VW      59   44 RR RR 2
+ 3500 PH  0653 LY1CO      59   20 OH7A       59   37 PK PK 2
+ 3500 PH  0654 LY1CO      59   21 OZ7X       59   33 AH AH 2
+ 3500 PH  0655 LY1CO      59   22 YL2KF      59   42 LM LM 2
+ 3500 PH  0656 LY1CO      59   23 OF1F       59   32 SA SA 2
+ 3500 PH  0657 LY1CO      59   24 YL9T       59   49 VK    2
+ 3500 PH  0658 LY1CO      59   25 ES6QC      59   44 VO    2
+ 3500 PH  0659 LY1CO      59   26 LY5O       59   52 KM    2
+ 3500 PH  0701 LY1CO      59   27 YL2BJ      59   67 VR VR 2
+ 3500 PH  0702 LY1CO      59   28 OH3Z       59   41 VA VA 2
+ 3500 PH  0703 LY1CO      59   29 OH6RE      59   36 KE KE 2
+ 3500 PH  0706 LY1CO      59   30 YL2SM      59   59 AU    2
+ 3500 PH  0709 LY1CO      59   31 LY2PBV     59   28 MM MM 1  Nr/27
+ 3500 PH  0712 LY1CO      59   32 SE5L       59   23 VM VM 2
+ 3500 PH  0713 LY1CO      59   33 LY4MA      59   10 KM    2
+ 3500 PH  0714 LY1CO      59   34 LY1CT      59   42 KD KD 2
+ 3500 PH  0715 LY1CO      59   35 OF1TD      59   34 SA    2
+ 3500 PH  0716 LY1CO      59   36 LY2BAG     59   16 KM    2
+ 3500 PH  0716 LY1CO      59   37 LY7M       59   34 UT UT 2
+ 3500 PH  0717 LY1CO      59   38 YL2PJ      59   67 RE RE 2
+ 3500 PH  0717 LY1CO      59   39 LY2ND      59   25 KM    2
+ 3500 PH  0718 LY1CO      59   40 ES2MC      59   85 HR HR 2
+ 3500 PH  0719 LY1CO      59   41 LY3B       59   45 PA PA 2
+ 3500 PH  0719 LY1CO      59   42 ES1QD      59   37 TL TL 2
+ 3500 PH  0720 LY1CO      59   43 ES1TU      59   53 TL    2
+ 3500 PH  0721 LY1CO      59   44 ES5TF      59   40 TA TA 2
+ 3500 PH  0722 LY1CO      59   45 LY4K       59   35 KM    2
+ 3500 PH  0723 LY1CO      59   46 OF2KM      59   44 UU    2
+ 3500 PH  0723 LY1CO      59   47 LY4LA      59   41 KD    2
+ 3500 PH  0723 LY1CO      59   48 LY3PDX     59   21 MM    2
+ 3500 PH  0724 LY1CO      59   49 LY1SR      59   46 KM    2
+ 3500 PH  0724 LY1CO      59   50 LY5T       59   45 AT AT 2
+ 3500 PH  0725 LY1CO      59   51 ES6RMR     59   37 VC VC 2
+ 3500 PH  0726 LY1CO      59   52 ES1BH      59   57 TL    2
+ 3500 PH  0727 LY1CO      59   53 LY3CY      59   46 VU    2
+ 7000 PH  0733 LY1CO      59   54 OH8NW      59   87 VA VA 2
+ 7000 PH  0735 LY1CO      59   55 OH7A       59   78 PK PK 1  Nr/86
+ 7000 PH  0736 LY1CO      59   56 LB2WG      59   13 OS OS 2
+ 7000 PH  0738 LY1CO      59   57 OZ8PG      59   66 FB FB 2
+ 7000 PH  0741 LY1CO      59   58 ES7GM      59  134 VP VP 2
+ 7000 PH  0742 LY1CO      59   59 OF6MW      59   80 KT KT 2
+ 7000 PH  0747 LY1CO      59   60 ES2MC      59  128 HR HR 2
+ 7000 PH  0748 LY1CO      59   61 LY6A       59  118 KN KN 2
+ 7000 PH  0752 LY1CO      59   62 OH6RE      59  108 KE KE 2
+ 3500 PH  0758 LY1CO      59   63 LY2ON      59   37 KI KI 2
+ 3500 PH  0800 LY1CO      59   64 YL2II      59   29 AI AI 2
+ 7000 PH  0805 LY1CO      59   65 OF3P       59   70 PM PM 2
+ 7000 PH  0805 LY1CO      59   66 OZ11A      59   82 NJ NJ 2
+ 7000 PH  0809 LY1CO      59   67 OZ6ARC     59   48 SJ SJ 2
+ 7000 PH  0812 LY1CO      59   68 OZ7X       59  158 AH AH 2
+ 7000 PH  0814 LY1CO      59   69 OZ9VA      59   69 FB    2
+ 7000 PH  0816 LY1CO      59   70 SE5N       59   68 SO SO 2
+ 7000 PH  0819 LY1CO      59   71 OH3Z       59  146 VA    2
+ 7000 PH  0823 LY1CO      59   72 OH2KW      59   96 UU UU 2
+ 7000 PH  0825 LY1CO      59   73 LA5UF      59   64 VF VF 2
+ 7000 PH  0827 LY1CO      59   74 LY2BAW     59  149 VV VV 2
+ 7000 PH  0829 LY1CO      59   75 OF8L       59  136 PP PP 2

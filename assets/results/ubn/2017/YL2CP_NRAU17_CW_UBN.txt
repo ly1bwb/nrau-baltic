@@ -1,0 +1,26 @@
+     Call: YL2CP
+ Operator:
+ Category: Single Op                      Band   QSO  Points  Mults
+ Power: LOW                               40m      4       8      2
+     Name: Juris Brencis                  80m     13      26      9
+  Address: Valmieras 25                   Sum     17      34     11
+                                          Total: 374
+
+
+ 3545 CW  0918 YL2CP      599   1 YL2SM      599  27 AU AU 2
+ 3515 CW  0919 YL2CP      599   2 YL7A       599  29 VK VK 2
+ 3549 CW  0920 YL2CP      599   3 YL2GD      599  32 AU    2
+ 3515 CW  0922 YL2CP      599   4 YL5X       599  17 SD SD 2
+ 3513 CW  0922 YL2CP      599   5 YL3FT      599  42 OE OE 2
+ 3544 CW  0923 YL2CP      599   6 YL1S       599  38 RR RR 2
+ 3548 CW  0925 YL2CP      599   7 YL2PJ      599  33 RE RE 2
+ 3543 CW  0927 YL2CP      599   8 YL2BJ      599  45 VR VR 2
+ 3531 CW  0938 YL2CP      599   9 YL2VW      599  51 RR    2
+ 3514 CW  0949 YL2CP      599  10 YL9T       599  64 VK    2
+ 3511 CW  0949 YL2CP      599  11 YL2KO      599  67 AU    2
+ 3538 CW  0955 YL2CP      599  12 YL2KF      599  57 LM LM 2
+ 3525 CW  1004 YL2CP      599  13 YL2QV      599  54 JP JP 2
+ 7011 CW  1041 YL2CP      599  14 YL2KO      599 140 AU AU 2
+ 7037 CW  1043 YL2CP      599  15 YL2GD      599 146 AU    2
+ 7022 CW  1053 YL2CP      599  16 YL2SM      599 159 AU    2
+ 7028 CW  1059 YL2CP      599  17 YL2BJ      599 146 VR VR 2

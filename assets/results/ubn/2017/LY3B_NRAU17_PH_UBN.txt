@@ -1,0 +1,107 @@
+     Call: LY3B
+ Operator:
+ Category: Single Op                      Band   QSO  Points  Mults
+ Power: HIGH                              40m     42      78     32
+     Name: Algirdas Spirius               80m     56     110     36
+  Address: Rinkuskiu km.,Birzu raj.       Sum     98     188     68
+                                          Total: 12784
+
+
+ 3500 PH  0631 LY3B       59    1 LY6A       59    4 KN KN 2
+ 3500 PH  0632 LY3B       59    2 LY4A       59    5 SU SU 2
+ 3500 PH  0633 LY3B       59    3 ES7GM      59    8 VP VP 2
+ 3500 PH  0634 LY3B       59    4 LY4L       59    9 KM KM 2
+ 3500 PH  0634 LY3B       59    5 YL7A       59    6 VK VK 2
+ 3500 PH  0635 LY3B       59    6 LY2CO      59   11 TI TI 2
+ 3500 PH  0636 LY3B       59    7 LY2BAW     59    7 VV VV 2
+ 3500 PH  0637 LY3B       59    8 ES6RW      59   16 VO VO 2
+ 3500 PH  0637 LY3B       59    9 LY2NY      59   10 KN    2
+ 3500 PH  0639 LY3B       59   10 YL2VW      59   18 RR RR 2
+ 3500 PH  0640 LY3B       59   11 ES2MC      59   22 HR HR 2
+ 3500 PH  0641 LY3B       59   12 YL2GD      59   25 AU AU 2
+ 3500 PH  0642 LY3B       59   13 OH7A       59   17 PK PK 2
+ 3500 PH  0642 LY3B       59   14 OH8NW      59   16 VA VA 2
+ 3500 PH  0643 LY3B       59   15 LY2SA      59   24 MM MM 2
+ 3500 PH  0643 LY3B       59   16 YL9T       59   20 VK    2
+ 3500 PH  0646 LY3B       59   17 ES6QC      59   24 VO    2
+ 3500 PH  0647 LY3B       59   18 LY5O       59   29 KM    2
+ 3500 PH  0647 LY3B       59   19 OF8L       59   19 PP PP 2
+ 3500 PH  0648 LY3B       59   20 YL2BJ      59   41 VR VR 2
+ 3500 PH  0648 LY3B       59   21 YL2KO      59   31 AU    2
+ 3500 PH  0649 LY3B       59   22 YL2SM      59   33 AU    2
+ 3500 PH  0649 LY3B       59   23 LY2J       59   21 MM    2
+ 3500 PH  0650 LY3B       59   24 LY4Q       59   31 VU VU 2
+ 3500 PH  0651 LY3B       59   25 LY3BN      59   37 KN    2
+ 3500 PH  0652 LY3B       59   26 ES2EZ      59   41 HR    2
+ 3500 PH  0653 LY3B       59   27 LY2MM      59   38 KM    2
+ 3500 PH  0654 LY3B       59   28 OF6MW      59   36 KT KT 2
+ 3500 PH  0654 LY3B       59   29 ES1BH      59    8 TL TL 2
+ 3500 PH  0656 LY3B       59   30 LA5UF      59    6 VF VF 2
+ 3500 PH  0657 LY3B       59   31 ES6RMR     59   20 VC VC 2
+ 3500 PH  0658 LY3B       59   32 OF1Z       59   24 VA    2
+ 3500 PH  0700 LY3B       59   33 OZ7X       59   44 AH AH 2
+ 3500 PH  0701 LY3B       59   34 YL2KF      59   55 LM LM 2
+ 3500 PH  0702 LY3B       59   35 YL1ZT      59   24 TU TU 2
+ 3500 PH  0702 LY3B       59   36 OF1F       59   45 SA SA 2
+ 3500 PH  0703 LY3B       59   37 OZ8PG      59   38 FB FB 2
+ 3500 PH  0705 LY3B       59   38 OH6RE      59   40 KE KE 2
+ 3500 PH  0706 LY3B       59   39 OH3Z       59   50 VA    2
+ 3500 PH  0706 LY3B       59   40 YL1S       59   50 RR    2
+ 3500 PH  0707 LY3B       59   41 OH2PM      59   62 VA    2
+ 3500 PH  0709 LY3B       59   42 SA1CCQ     59   26 GO GO 2
+ 3500 PH  0710 LY3B       59   43 YL2PJ      59   61 RE RE 2
+ 3500 PH  0712 LY3B       59   44 YL3FT      59   73 OE OE 2
+ 3616 PH  0719 LY3B       59   45 LY1CO      59   41 KN    2
+ 3621 PH  0720 LY3B       59   46 SK2T       59   37 VP    1  Mult/VB
+ 3628 PH  0721 LY3B       59   47 ES5QA      59   76 JG JG 2
+ 3633 PH  0722 LY3B       59   48 ES6PA      59   42 VO    2
+ 3635 PH  0723 LY3B       59   49 LY4MA      59   19 KM    2
+ 3638 PH  0723 LY3B       59   50 LY2BOK     59   27 AT AT 2
+ 3744 PH  0729 LY3B       59   51 LY5W       59   65 KM    1  Mult/KN
+ 3757 PH  0730 LY3B       59   52 ES4NY      59   58 IV IV 2
+ 3608 PH  0732 LY3B       59   53 LY7M       59   48 UT UT 2
+ 3615 PH  0733 LY3B       59   54 LY1SR      59   52 KM    2
+ 3624 PH  0734 LY3B       59   55 ES3BM      59   43 RP RP 2
+ 3644 PH  0736 LY3B       59   56 LY4LA      59   44 KD KD 2
+ 7173 PH  0739 LY3B       59   57 LY4A       59  121 SU SU 2
+ 7167 PH  0739 LY3B       59   58 OH6ER      59   85 KE    0  Call/OH6RE
+ 7072 PH  0740 LY3B       59   59 OH3Z       59  107 VA VA 2
+ 7100 PH  0741 LY3B       59   60 ES7GM      59  135 VP VP 2
+ 7107 PH  0742 LY3B       59   61 ES1O       59   29 TL TL 2
+ 7116 PH  0743 LY3B       59   62 OZ8PG      59   70 FB FB 2
+ 7132 PH  0743 LY3B       59   63 OH7A       59  172 PK PK 1  Nr/102
+ 7144 PH  0745 LY3B       59   64 OZ7X       59  101 AH AH 2
+ 7158 PH  0746 LY3B       59   65 OF1F       59  112 SA SA 2
+ 7161 PH  0746 LY3B       59   66 OF8L       59   83 PP PP 2
+ 7166 PH  0746 LY3B       59   67 OF8UV      59   36 KU KU 2
+ 7171 PH  0749 LY3B       59   68 8S0C       59   70 SL SL 2
+ 7183 PH  0749 LY3B       59   69 OZ11A      59   57 NJ NJ 2
+ 7187 PH  0750 LY3B       59   70 YL2KO      59  106 AU AU 2
+ 7194 PH  0751 LY3B       59   71 OF6MW      59   89 KT KT 2
+ 7199 PH  0751 LY3B       59   72 SE5E       59   61 UP UP 2
+ 7069 PH  0752 LY3B       59   73 ES2MC      59  136 HR HR 2
+ 7071 PH  0753 LY3B       59   74 ES3BM      59   62 RP RP 1  Nr/52
+ 7087 PH  0754 LY3B       59   75 YL2GD      59  121 AU    2
+ 7089 PH  0755 LY3B       59   76 ES6RW      59  154 VO VO 2
+ 7179 PH  0758 LY3B       59   77 LB1AH      59   91 HO HO 2
+ 7186 PH  0759 LY3B       59   78 OH2PM      59  108 VA    2
+ 7149 PH  0802 LY3B       59   79 LY3BN      59  123 KN KN 2
+ 7072 PH  0804 LY3B       59   80 SF3A       59   51 VN VN 2
+ 7061 PH  0807 LY3B       59   81 LY2SA      59  119 MM MM 2
+ 7076 PH  0808 LY3B       59   82 LY5O       59  138 KM KM 2
+ 7082 PH  0808 LY3B       59   83 SM5ACQ     59   65 VM VM 2
+ 7086 PH  0809 LY3B       59   84 SD6M       59   52 VD VD 2
+ 7095 PH  0809 LY3B       59   85 LY2BAW     59  129 VV VV 2
+ 7135 PH  0811 LY3B       59   86 SE5N       59   61 SO SO 2
+ 7186 PH  0813 LY3B       59   87 LA8FTA     59   51 AK AK 2
+ 7062 PH  0815 LY3B       59   88 YL3FT      59  133 OE OE 2
+ 7064 PH  0816 LY3B       59   89 ES2EZ      59  128 HR    2
+ 7070 PH  0817 LY3B       59   90 YL2SM      59  153 AU    2
+ 7073 PH  0818 LY3B       59   91 LY6A       59  148 KN    2
+ 7081 PH  0819 LY3B       59   92 OH2KW      59   89 UU UU 2
+ 7098 PH  0821 LY3B       59   93 OH7JL      59   70 PK    2
+ 7098 PH  0821 LY3B       59   94 OH6ECM     59   67 PO PO 2
+ 7098 PH  0822 LY3B       59   95 OH3LS      59   68 PM PM 2
+ 7098 PH  0822 LY3B       59   96 SM6IQD     59   59 VD    2
+ 7067 PH  0824 LY3B       59   97 OH8NW      59  128 VA    2
+ 7084 PH  0829 LY3B       59   98 LA5YF      59   72 VF    0  Call/LA5UF

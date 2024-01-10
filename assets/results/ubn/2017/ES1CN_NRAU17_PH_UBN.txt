@@ -1,0 +1,93 @@
+     Call: ES1CN
+ Operator:
+ Category: Single Op                      Band   QSO  Points  Mults
+ Power: LOW                               40m     23      45     13
+     Name: Alar Saldre                    80m     59     111     39
+  Address: Oismae tee 7-6                 Sum     82     156     52
+  Address: Talllinn,  13415               Total: 8112
+  Address: ESTONIA
+
+
+
+ 3500 PH  0630 ES1CN      59    1 LY6A       59    1 KN KN 2
+ 3500 PH  0631 ES1CN      59    2 LY4A       59    1 SO    1  Mult/SU
+ 3500 PH  0631 ES1CN      59    3 ES2EZ      59    3 HR HR 2
+ 3500 PH  0633 ES1CN      59    4 YL2VW      59    8 RR RR 2
+ 3500 PH  0634 ES1CN      59    5 ES2MC      59   11 HR    2
+ 3500 PH  0634 ES1CN      59    6 OZ7X       59    7 AH AH 2
+ 3500 PH  0635 ES1CN      59    7 OH8NW      59    7 VA VA 2
+ 3500 PH  0638 ES1CN      59    8 YL2GD      59   20 AU AU 2
+ 3500 PH  0639 ES1CN      59    9 OH6RE      59   17 KE KE 2
+ 3500 PH  0640 ES1CN      59   10 OH7A       59   15 PK PK 2
+ 3500 PH  0641 ES1CN      59   11 LY2SA      59   20 MM MM 2
+ 3500 PH  0641 ES1CN      59   12 OF1F       59   11 SA SA 2
+ 3500 PH  0642 ES1CN      59   13 YL9T       59   18 VK VK 2
+ 3500 PH  0643 ES1CN      59   14 ES6QC      59   21 VO VO 2
+ 3500 PH  0643 ES1CN      59   15 LY5O       59   25 KM KM 2
+ 3500 PH  0644 ES1CN      59   16 OF8L       59   15 PP PP 2
+ 3500 PH  0645 ES1CN      59   17 YL2SM      59   28 AU    2
+ 3500 PH  0646 ES1CN      59   18 OH2PM      59   28 VA    2
+ 3500 PH  0647 ES1CN      59   19 OF4P       59   11 PM    0  Call/OF3P
+ 3500 PH  0647 ES1CN      59   20 LY4L       59   36 KM    2
+ 3500 PH  0648 ES1CN      59   21 YL3FT      59   28 OE OE 2
+ 3500 PH  0649 ES1CN      59   22 LY2VW      59   38 RR    0  Call/YL2VW
+ 3500 PH  0655 ES1CN      59   23 ES6RMR     59   18 VC VC 2
+ 3500 PH  0657 ES1CN      59   24 ES7GM      59   56 VP VP 2
+ 3500 PH  0657 ES1CN      59   25 OF6MW      59   44 KT KT 2
+ 3500 PH  0658 ES1CN      59   26 SK2T       59   17 VB VB 2
+ 3500 PH  0659 ES1CN      59   27 ES1BH      59   22 TL TL 2
+ 3500 PH  0700 ES1CN      59   28 ES2IPA     59   21 HR    2
+ 3500 PH  0702 ES1CN      59   29 LA5UF      59   11 VF VF 2
+ 3500 PH  0703 ES1CN      59   30 YL7A       59   56 VK    2
+ 3500 PH  0704 ES1CN      59   31 OF1Z       59   41 VA    2
+ 3500 PH  0704 ES1CN      59   32 ES6RW      59   81 VO    2
+ 3500 PH  0705 ES1CN      59   33 ES3BM      59   25 RP RP 2
+ 3500 PH  0706 ES1CN      59   34 LY3BN      59   61 KN    2
+ 3500 PH  0706 ES1CN      59   35 ES1O       59   18 TL    2
+ 3500 PH  0710 ES1CN      59   36 YL2PJ      59   62 RE RE 2
+ 3500 PH  0714 ES1CN      59   37 YL1S       59   56 RR    2
+ 3500 PH  0715 ES1CN      59   38 OF8UV      59   20 KU KU 2
+ 3500 PH  0716 ES1CN      59   39 LY2CO      59   76 TI TI 2
+ 3500 PH  0717 ES1CN      59   40 YL1ZT      59   34 TU TU 2
+ 3500 PH  0718 ES1CN      59   41 OH3Z       59   80 VA    2
+ 3500 PH  0720 ES1CN      59   42 LB1AH      59   39 HO HO 2
+ 3500 PH  0726 ES1CN      59   43 YL3IR      59   21 GU GU 2
+ 3500 PH  0727 ES1CN      59   44 OF1TD      59   40 SA    2
+ 3500 PH  0728 ES1CN      59   45 ES6PA      59   54 VO    2
+ 3500 PH  0729 ES1CN      59   46 8S0J       59   49 SL    0  Call/8S0C
+ 3500 PH  0730 ES1CN      59   47 ES5QA      59   87 JG JG 2
+ 3500 PH  0732 ES1CN      59   48 LY2MM      59   72 KM    2
+ 3500 PH  0733 ES1CN      59   49 ES5TF      59   47 TA TA 2
+ 3500 PH  0734 ES1CN      59   50 LY2BAW     59   86 VV VV 2
+ 3500 PH  0735 ES1CN      59   51 OZ11A      59   37 NJ NJ 2
+ 3500 PH  0737 ES1CN      59   52 SE5E       59   43 UP UP 2
+ 3500 PH  0738 ES1CN      59   53 OF2KM      59   53 UU UU 2
+ 3500 PH  0740 ES1CN      59   54 OF0RJ      59   45 AL AL 2
+ 3500 PH  0741 ES1CN      59   55 LA8FTA     59   30 AK AK 2
+ 3500 PH  0741 ES1CN      59   56 SM5ACQ     59   48 VM VM 2
+ 3500 PH  0742 ES1CN      59   57 SE4E       59   63 DA DA 2
+ 3500 PH  0743 ES1CN      59   58 LA2XNA     59   37 AK    2
+ 3500 PH  0743 ES1CN      59   59 ES4NY      59   63 IV IV 2
+ 7127 PH  0747 ES1CN      59   60 ES1TU      59   72 TL TL 2
+ 7127 PH  0748 ES1CN      59   61 LY4L       59  107 KM KM 2
+ 7127 PH  0748 ES1CN      59   62 LB1AH      59   72 HO HO 2
+ 7127 PH  0749 ES1CN      59   63 OZ11A      59   56 NJ NJ 2
+ 7127 PH  0751 ES1CN      59   64 OZ7X       59  116 AH AH 2
+ 7127 PH  0751 ES1CN      59   65 LY5O       59  118 KM    2
+ 7127 PH  0753 ES1CN      59   66 LY3BN      59  108 KN KN 2
+ 7127 PH  0753 ES1CN      59   67 LY5W       59   87 KN    2
+ 7127 PH  0754 ES1CN      59   68 LY4A       59  148 SO    1  Mult/SU
+ 7127 PH  0756 ES1CN      59   69 OZ8PG      59   90 FB FB 2
+ 7127 PH  0758 ES1CN      59   70 LY6A       59  133 KN    2
+ 7127 PH  0758 ES1CN      59   71 LY1SR      59   86 KM    2
+ 7127 PH  0813 ES1CN      59   72 LA8FTA     59   50 AK AK 2
+ 7127 PH  0815 ES1CN      59   73 LY5T       59   81 AT AT 2
+ 7127 PH  0818 ES1CN      59   74 OZ9VA      59   77 FB    2
+ 7127 PH  0820 ES1CN      59   75 LY9Y       59   98 SU SU 2
+ 7127 PH  0823 ES1CN      59   76 ES2MC      59  168 HR HR 2
+ 7127 PH  0825 ES1CN      59   77 LY2IJ      59   11 UT UT 2
+ 7127 PH  0827 ES1CN      59   78 LY4Q       59   95 VU VU 2
+ 7127 PH  0827 ES1CN      59   79 LY2N       59   38 KM    2
+ 7127 PH  0828 ES1CN      59   80 LY2ND      59   54 KM    2
+ 7127 PH  0829 ES1CN      59   81 LY2BOK     59   57 AT    2
+ 7127 PH  0829 ES1CN      59   82 ES2IPA     59   61 HR    2

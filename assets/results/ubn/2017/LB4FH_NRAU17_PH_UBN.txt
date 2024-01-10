@@ -1,0 +1,53 @@
+     Call: LB4FH
+ Operator:
+ Category: Single Op                      Band   QSO  Points  Mults
+ Power: HIGH                              40m     23      41     17
+     Name: Kjetil Vinorum                 80m     19      32     15
+  Address: Guletjodnvegen 95              Sum     42      73     32
+  Address: Kopervik,  N-4250              Total: 2336
+  Address: NORWAY
+
+
+
+ 3775 PH  0639 LB4FH      59    1 LY3FT      59   10 OE    0  Call/YL3FT
+ 3760 PH  0645 LB4FH      59    2 OH2PM      59   26 VA VA 2
+ 3748 PH  0647 LB4FH      59    3 YL2BJ      59   38 VR VR 2
+ 3729 PH  0649 LB4FH      59    4 YL9T       59   31 VK VK 2
+ 3707 PH  0651 LB4FH      59    5 ES2MC      59   49 HR HR 2
+ 3703 PH  0653 LB4FH      59    6 LY2VW      59   46 RR    0  Call/YL2VW
+ 3649 PH  0654 LB4FH      59    7 ES6RW      59   59 VO VO 2
+ 3646 PH  0658 LB4FH      59    8 LY2BAW     59   51 VV VV 2
+ 3632 PH  0701 LB4FH      59    9 YL2GD      59   58 AU AU 2
+ 3628 PH  0702 LB4FH      59   10 ES5QA      59   41 JG JG 2
+ 3614 PH  0703 LB4FH      59   11 LY6A       59   59 KN KN 2
+ 3612 PH  0705 LB4FH      59   12 ES6GM      59   70 VP    0  Call/ES7GM
+ 7173 PH  0716 LB4FH      59   13 LY4A       59   86 SU SU 2
+ 3765 PH  0722 LB4FH      59   14 LY4A       59   96 SU SU 2
+ 3711 PH  0725 LB4FH      59   15 SE4E       59   50 DA DA 2
+ 3715 PH  0727 LB4FH      59   16 OH7A       59   81 PK PK 2
+ 3743 PH  0731 LB4FH      59   17 OZ8PG      59   58 FB FB 2
+ 3751 PH  0733 LB4FH      59   18 LY1CT      59   55 KD KD 2
+ 3767 PH  0735 LB4FH      59   19 SE5E       59   41 UP UP 2
+ 3611 PH  0741 LB4FH      55   20 LY9Y       59   65 SU    2
+ 7168 PH  0743 LB4FH      59   21 OH6RE      59   89 KE KE 2
+ 7171 PH  0745 LB4FH      59   22 LY7M       59   67 UT UT 2
+ 7133 PH  0748 LB4FH      59   23 OH7A       59  179 PK PK 1  Nr/109
+ 7100 PH  0750 LB4FH      59   24 ES7GM      59  153 VP VP 2
+ 7076 PH  0751 LB4FH      59   25 YL2SM      59  123 AU AU 2
+ 7070 PH  0752 LB4FH      59   26 ES2MC      59  135 HR HR 2
+ 7066 PH  0753 LB4FH      59   27 YL2BJ      59  113 VR VR 2
+ 7187 PH  0754 LB4FH      59   28 OH2PM      59   99 VA VA 2
+ 7195 PH  0756 LB4FH      59   29 OF6MW      59   95 KT KT 2
+ 7158 PH  0757 LB4FH      59   30 OF1F       59  133 SA SA 2
+ 7168 PH  0803 LB4FH      59   31 ES6PA      59   80 VO VO 2
+ 7150 PH  0804 LB4FH      59   32 LY3BN      59  125 KN KN 2
+ 7095 PH  0806 LB4FH      59   33 LY2BAW     59  124 VV VV 2
+ 7089 PH  0807 LB4FH      59   34 ES6RW      59  170 VO    2
+ 7076 PH  0808 LB4FH      59   35 LY5O       59  139 KM KM 2
+ 7064 PH  0810 LB4FH      59   36 YL2KO      59  139 AU    2
+ 7062 PH  0811 LB4FH      59   37 YL3FT      59  129 OE OE 2
+ 7176 PH  0815 LB4FH      59   38 LY2SA      59  129 MM MM 2
+ 7091 PH  0820 LB4FH      59   39 OH3Z       59  148 VA    2
+ 7176 PH  0824 LB4FH      59   40 LY9T       59  140 VK    0  Call/YL9T
+ 7168 PH  0827 LB4FH      59   41 OF1TD      59   77 SA    2
+ 7194 PH  0829 LB4FH      59   42 SK2T       59   94 VB    0  Time/SK2T/0830

@@ -1,0 +1,119 @@
+     Call: OZ11A
+ Operator:
+ Category: Single Op                      Band   QSO  Points  Mults
+ Power: HIGH                              40m     70     137     40
+     Name: Leif Nielsen                   80m     38      74     25
+  Address: Stenhoejvej 280                Sum    108     211     65
+  Address: Frederikshavn,  9900           Total: 13715
+  Address: DENMARK
+
+
+
+ 3700 PH  0632 OZ11A      59    1 YL2KO      59    4 AU AU 2
+ 3700 PH  0633 OZ11A      59    2 OH2KW      59    5 UU    0  NotinLog
+ 3700 PH  0634 OZ11A      59    3 LY9Y       59    7 SU SU 2
+ 3700 PH  0637 OZ11A      59    4 OH6RE      59   12 KE KE 2
+ 3700 PH  0637 OZ11A      59    5 OF1Z       59    4 VA VA 2
+ 3707 PH  0639 OZ11A      59    6 ES2MC      59   21 HR HR 2
+ 3709 PH  0640 OZ11A      59    7 YL2GD      59   22 AU    2
+ 3754 PH  0641 OZ11A      59    8 YL2SM      59   20 AU    2
+ 3775 PH  0642 OZ11A      59    9 YL3FT      59   16 OE OE 2
+ 3649 PH  0643 OZ11A      59   10 ES6RW      59   31 VO VO 2
+ 3718 PH  0646 OZ11A      59   11 OZ7X       59   21 AH AH 2
+ 3741 PH  0648 OZ11A      59   12 LY5O       59   31 KM KM 2
+ 3724 PH  0649 OZ11A      59   13 LY2SA      59   33 MM MM 2
+ 3700 PH  0651 OZ11A      59   14 OF2J       59    9 UU UU 2
+ 3700 PH  0652 OZ11A      59   15 OF2KM      59   22 UU    2
+ 3700 PH  0655 OZ11A      59   16 SE5N       59   14 SO SO 2
+ 3700 PH  0656 OZ11A      59   17 OF1LAR     59   12 VA    2
+ 3700 PH  0656 OZ11A      59   18 LY5W       59   28 KN KN 2
+ 3700 PH  0657 OZ11A      59   19 ES2O       59   24 HR    2
+ 3729 PH  0702 OZ11A      59   20 YL9T       59   58 VK VK 2
+ 3704 PH  0711 OZ11A      59   21 SE4E       59   36 DA DA 2
+ 3704 PH  0711 OZ11A      59   22 SM5ACQ     59   29 VM VM 2
+ 3704 PH  0712 OZ11A      59   23 ES1QD      59   32 TL TL 2
+ 3704 PH  0713 OZ11A      59   24 LY2MM      59   61 KM    2
+ 3704 PH  0715 OZ11A      59   25 OH2KW      59   41 UU    2
+ 7159 PH  0717 OZ11A      59   26 ES7GM      59   88 VP VP 2
+ 7159 PH  0719 OZ11A      59   27 LY7M       59   35 UT UT 2
+ 7159 PH  0719 OZ11A      59   28 LY6A       59   75 KN KN 2
+ 7159 PH  0719 OZ11A      59   29 ES2IPA     59   31 HR HR 2
+ 7159 PH  0720 OZ11A      59   30 YL7A       59   79 VK VK 2
+ 7159 PH  0724 OZ11A      59   31 LY4A       59  100 SU SU 2
+ 3765 PH  0725 OZ11A      59   32 LY4A       59  101 SU    2
+ 3711 PH  0733 OZ11A      59   33 OF8NV      59   29 PO PO 2
+ 3711 PH  0734 OZ11A      59   34 SM6IQD     59   28 VD VD 2
+ 3711 PH  0734 OZ11A      59   35 YL7A       59   90 VK    2
+ 3711 PH  0734 OZ11A      59   36 ES2EZ      59   91 HR    2
+ 3711 PH  0735 OZ11A      59   37 ES1CN      59   51 TL    2
+ 3711 PH  0735 OZ11A      59   38 OZ4NA      59   40 NJ NJ 2
+ 3711 PH  0736 OZ11A      59   39 SF3A       59   29 VN VN 2
+ 3711 PH  0736 OZ11A      59   40 LA9RY      59    7 RL RL 2
+ 3711 PH  0737 OZ11A      59   41 OZ7SG      59   24 NJ    2
+ 3711 PH  0737 OZ11A      59   42 OZ0AP      59   22 SS SS 2
+ 3711 PH  0738 OZ11A      59   43 OZ4QX      59    9 KH KH 2
+ 3711 PH  0740 OZ11A      59   44 YL2PJ      59   88 RE RE 2
+ 7184 PH  0741 OZ11A      59   45 YL2KO      59   93 AU AU 2
+ 7184 PH  0742 OZ11A      59   46 LY2ND      59   35 KM KM 2
+ 7184 PH  0742 OZ11A      59   47 ES6RMR     59   47 VC VC 2
+ 7184 PH  0743 OZ11A      59   48 LY9Y       59   67 SU    2
+ 7184 PH  0744 OZ11A      59   49 LY4K       59   51 KM    2
+ 7184 PH  0744 OZ11A      59   50 ES0DJ      59   29 SR SR 2
+ 7184 PH  0745 OZ11A      59   51 ES2EZ      59  104 HR    2
+ 7184 PH  0745 OZ11A      59   52 LY2ZO      59   50 KM    2
+ 7184 PH  0747 OZ11A      59   53 OH3RT      59   13 PH PH 2
+ 7184 PH  0748 OZ11A      59   54 LY3PDX     59   28 MM MM 2
+ 7184 PH  0748 OZ11A      59   55 OF2J       59   33 UU UU 2
+ 7184 PH  0749 OZ11A      59   56 ES1CN      59   63 TL TL 2
+ 7184 PH  0749 OZ11A      59   57 LY3B       59   69 PA PA 2
+ 7184 PH  0750 OZ11A      59   58 OF2KM      59   62 UU    2
+ 7184 PH  0751 OZ11A      59   59 YL3GAO     59   47 DO DO 2
+ 7184 PH  0752 OZ11A      59   60 OH2PM      59   94 VA VA 2
+ 7184 PH  0752 OZ11A      59   61 LY5AA      59   48 KM    2
+ 7183 PH  0753 OZ11A      59   62 YL9T       59  117 VK    2
+ 7183 PH  0753 OZ11A      59   63 LY2SA      59  106 MM    2
+ 7183 PH  0754 OZ11A      59   64 YL1S       59   92 RR RR 2
+ 7183 PH  0755 OZ11A      59   65 OF8UV      59   40 KU KU 2
+ 7183 PH  0756 OZ11A      59   66 LY2J       59   77 MM    2
+ 7183 PH  0756 OZ11A      59   67 LY2CO      59  105 TI TI 2
+ 7183 PH  0757 OZ11A      59   68 ES5TF      59   55 TA TA 2
+ 7183 PH  0757 OZ11A      59   69 YL2VW      59  118 RR    2
+ 7183 PH  0758 OZ11A      59   70 LY4L       59  121 KM    2
+ 7183 PH  0758 OZ11A      59   71 YL100ZK    59   59 RR    2
+ 7183 PH  0759 OZ11A      59   72 OF3R       59   37 PH    2
+ 7183 PH  0759 OZ11A      59   73 OH3JP      59   62 KT KT 2
+ 7183 PH  0759 OZ11A      59   74 YL2PJ      59  103 RE RE 2
+ 7183 PH  0800 OZ11A      59   75 ES5JR      59   51 TA    2
+ 7183 PH  0800 OZ11A      59   76 YL3FT      59  119 OE OE 2
+ 7183 PH  0801 OZ11A      59   77 SK2T       59   72 VB VB 2
+ 7183 PH  0801 OZ11A      59   78 LY2NY      59   71 KN    2
+ 7183 PH  0802 OZ11A      59   79 SE5N       59   57 SO SO 2
+ 7183 PH  0804 OZ11A      59   80 OH3Z       59  136 VA    2
+ 7183 PH  0804 OZ11A      59   81 ES1TU      59   84 TL    2
+ 7183 PH  0805 OZ11A      59   82 LY1CO      59   66 KN    2
+ 7183 PH  0806 OZ11A      59   83 OH8NW      59  118 VA    2
+ 7183 PH  0807 OZ11A      59   84 OF0RJ      59   58 AL AL 2
+ 7183 PH  0808 OZ11A      59   85 OH2KW      59   82 UU    2
+ 7183 PH  0808 OZ11A      59   86 YL2KF      59  106 LM LM 2
+ 7183 PH  0809 OZ11A      59   87 LY3IZ      59   44 UT    2
+ 7183 PH  0810 OZ11A      59   88 SA1CCQ     59   78 GO GO 2
+ 7183 PH  0810 OZ11A      59   89 LY4LA      59   61 KD KD 2
+ 7183 PH  0810 OZ11A      59   90 ES1BH      59   87 TL    2
+ 7183 PH  0811 OZ11A      59   91 OF1Z       59  108 VA    2
+ 7183 PH  0811 OZ11A      59   92 LY5W       59  106 KN    2
+ 7183 PH  0812 OZ11A      59   93 OF8L       59  118 PP PP 2
+ 7183 PH  0813 OZ11A      59   94 LY2TS      59   94 TI    2
+ 7148 PH  0815 OZ11A      59   95 SE4E       59   94 DA DA 2
+ 7184 PH  0817 OZ11A      59   96 OF1F       59  158 SA SA 2
+ 7196 PH  0820 OZ11A      59   97 OZ8PG      59  121 FB FB 2
+ 7196 PH  0821 OZ11A      59   98 SE5E       59   93 UP UP 2
+ 7196 PH  0823 OZ11A      59   99 LY2N       59   38 KM    1  Nr/34
+ 7196 PH  0823 OZ11A      59  100 OF1TD      59   75 SA    2
+ 7196 PH  0824 OZ11A      59  101 LY2MM      59  127 KM    2
+ 7196 PH  0825 OZ11A      59  102 LY4Q       59   94 VU VU 2
+ 7196 PH  0825 OZ11A      59  103 LY3BN      59  153 KN    2
+ 7196 PH  0827 OZ11A      59  104 OH6RE      59  141 KE KE 2
+ 7196 PH  0827 OZ11A      59  105 YL2BJ      59  138 VR VR 2
+ 7196 PH  0828 OZ11A      59  106 ES6QC      59  120 VO VO 2
+ 7196 PH  0829 OZ11A      59  107 OH7JL      59   75 PK PK 2
+ 7196 PH  0830 OZ11A      59  108 YL2SM      59  166 AU    0 Time

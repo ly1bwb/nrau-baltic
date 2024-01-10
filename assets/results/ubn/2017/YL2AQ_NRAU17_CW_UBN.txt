@@ -1,0 +1,30 @@
+     Call: YL2AQ
+ Operator:
+ Category: Single Op                      Band   QSO  Points  Mults
+ Power: LOW                               40m      6      10      4
+     Name: Janis Varpins                  80m     13      21      9
+  Address: Pipenu str. 10-39              Sum     19      31     13
+  Address: Riga,  LV-1058                 Total: 403
+  Address: LATVIA
+
+
+
+ 7026 CW  0904 YL2AQ      599   1 LA0CX      599   2 OF OF 2
+ 7026 CW  0910 YL2AQ      599   2 OZ9UA      599   2 FB    0  Nr/3 Call/OZ9VA
+ 3525 CW  0950 YL2AQ      599   3 YL2BJ      599  77 VR VR 2
+ 3526 CW  0958 YL2AQ      599   4 OH8NW      599  65 VA VA 2
+ 3526 CW  1001 YL2AQ      599   5 ES2EZ      599  71 SR    1  Mult/HR
+ 3526 CW  1003 YL2AQ      599   6 YL2QV      599  52 JP JP 2
+ 3524 CW  1006 YL2AQ      599   7 YL2DZ      599  45 RR RR 2
+ 3534 CW  1009 YL2AQ      599   8 YL2KO      599  89 AU AU 2
+ 3551 CW  1014 YL2AQ      599   9 ES3DM      599  56 RP    0  Call/ES3BM
+ 3534 CW  1017 YL2AQ      599  10 YL100ZK    599  52 RR    2
+ 3510 CW  1029 YL2AQ      599  11 LY2DMX     599  68 UT    0  Call/LY2BMX
+ 3542 CW  1035 YL2AQ      599  12 ES3BQ      599  32 RP RP 2
+ 3510 CW  1040 YL2AQ      599  13 LY2BMX     599  69 UT UT 2
+ 3530 CW  1045 YL2AQ      599  14 LY2WR      599  32 KN KN 2
+ 3545 CW  1049 YL2AQ      599  15 ES7A       599  69 VP VP 2
+ 7016 CW  1055 YL2AQ      599  16 OZ7YY      599 123 AH AH 2
+ 7011 CW  1055 YL2AQ      599  17 YL3FT      599 169 OE OE 2
+ 7017 CW  1059 YL2AQ      599  18 YL2DZ      599  75 RR RR 2
+ 7016 CW  1059 YL2AQ      599  19 YL2VW      599 147 RR    2

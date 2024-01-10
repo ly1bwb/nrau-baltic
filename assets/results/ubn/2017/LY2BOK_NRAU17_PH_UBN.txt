@@ -1,0 +1,69 @@
+     Call: LY2BOK
+ Operator:
+ Category: Single Op                      Band   QSO  Points  Mults
+ Power: LOW                               40m     17      34     14
+     Name: JUSTAS                         80m     41      78     20
+  Address: VILTIES 18-7                   Sum     58     112     34
+  Address: ALYTUS,  63207                 Total: 3808
+  Address: LITHUANIA
+
+
+
+ 3500 PH  0635 LY2BOK     59    1 LY2J       59    7 MM MM 2
+ 3500 PH  0637 LY2BOK     59    2 LY2ND      59    7 KM KM 2
+ 3500 PH  0638 LY2BOK     59    3 LY2BAG     59    3 MM    1  Mult/KM
+ 3500 PH  0640 LY2BOK     59    4 LY4A       59   27 SU SU 2
+ 3500 PH  0641 LY2BOK     59    5 LY6A       59   31 KN KN 2
+ 3500 PH  0642 LY2BOK     59    6 LY5W       59   14 KN    2
+ 3500 PH  0645 LY2BOK     59    7 ES6RW      59   34 VO VO 2
+ 3500 PH  0646 LY2BOK     59    8 LY2BAW     59   31 VV VV 2
+ 3500 PH  0648 LY2BOK     59    9 LY7A       59   28 VK    0  Call/YL7A
+ 3500 PH  0651 LY2BOK     59   10 LY2PBV     59   22 MM    2
+ 3500 PH  0652 LY2BOK     59   11 ES2EZ      59   42 HR HR 2
+ 3500 PH  0653 LY2BOK     59   12 LY3BN      59   41 KN    2
+ 3500 PH  0654 LY2BOK     59   13 LY4Q       59   34 VU VU 2
+ 3500 PH  0655 LY2BOK     59   14 OH8NW      59   37 VA VA 1  Nr/38
+ 3500 PH  0658 LY2BOK     59   15 ES1BH      59   20 TL TL 2
+ 3500 PH  0659 LY2BOK     59   16 LY1SR      59   28 KM    2
+ 3500 PH  0700 LY2BOK     59   17 LY2SA      59   48 MM    2
+ 3500 PH  0703 LY2BOK     59   18 ES5QA      59   44 JG JG 2
+ 3500 PH  0706 LY2BOK     59   19 LY3CY      59   36 VU    2
+ 3500 PH  0709 LY2BOK     59   20 ES2MC      59   77 HR    2
+ 3500 PH  0710 LY2BOK     59   21 LY4MA      59    8 KM    2
+ 3500 PH  0711 LY2BOK     59   22 LY5O       59   69 KM    2
+ 3500 PH  0714 LY2BOK     59   23 OF1Z       59   63 VA    2
+ 3500 PH  0716 LY2BOK     59   24 YL2GD      59   84 AU AU 2
+ 3500 PH  0719 LY2BOK     59   25 YL2VW      59   77 RR RR 2
+ 3500 PH  0722 LY2BOK     59   26 YL2PJ      59   74 RE RE 2
+ 3500 PH  0723 LY2BOK     59   27 LY3B       59   50 PA PA 2
+ 3500 PH  0727 LY2BOK     59   28 LY5AA      59   33 KM    2
+ 3500 PH  0730 LY2BOK     59   29 LY7M       59   40 UT UT 2
+ 3500 PH  0731 LY2BOK     59   30 YL9T       59   99 VK VK 2
+ 3500 PH  0735 LY2BOK     59   31 LY2MM      59   76 KM    2
+ 3500 PH  0737 LY2BOK     59   32 YL1S       59   77 RR    2
+ 3500 PH  0737 LY2BOK     59   33 LY2ZO      59   39 KM    2
+ 3500 PH  0738 LY2BOK     59   34 LY2NY      59   57 KN    2
+ 3500 PH  0739 LY2BOK     59   35 LY9Y       59   64 SU    2
+ 3500 PH  0741 LY2BOK     59   36 YL2BJ      59  103 VR VR 2
+ 3500 PH  0744 LY2BOK     59   37 YL2II      59   22 AI AI 2
+ 3500 PH  0745 LY2BOK     59   38 LY2N       59    9 KM    2
+ 3500 PH  0747 LY2BOK     59   39 LY2BMX     59   42 UT    2
+ 3500 PH  0751 LY2BOK     59   40 YL100ZK    59   54 RR    2
+ 3500 PH  0752 LY2BOK     59   41 ES7GM      59  157 VP VP 2
+ 7000 PH  0757 LY2BOK     59   42 ES5QA      59  117 JG JG 2
+ 7000 PH  0800 LY2BOK     59   43 ES1BH      59   82 TL TL 2
+ 7000 PH  0805 LY2BOK     59   44 ES2EZ      59  121 HR HR 2
+ 7000 PH  0807 LY2BOK     59   45 OZ7X       59  153 AH AH 2
+ 7000 PH  0810 LY2BOK     59   46 OZ9VA      59   65 FB FB 2
+ 7000 PH  0811 LY2BOK     59   47 ES3BM      59   60 RP RP 2
+ 7000 PH  0813 LY2BOK     59   48 OH7A       59  142 PK PK 2
+ 7000 PH  0814 LY2BOK     59   49 SE5N       59   66 SO SO 2
+ 7000 PH  0815 LY2BOK     59   50 OH6RE      59  131 KE KE 2
+ 7000 PH  0817 LY2BOK     59   51 LY5T       59   83 AT AT 2
+ 7000 PH  0818 LY2BOK     59   52 OH2PM      59  137 VA VA 2
+ 7000 PH  0819 LY2BOK     59   53 SE5E       59   90 UP UP 2
+ 7000 PH  0821 LY2BOK     59   54 OF1F       59  161 SA SA 2
+ 7000 PH  0822 LY2BOK     59   55 ES2MC      59  167 HR    2
+ 7000 PH  0826 LY2BOK     59   56 OF1Z       59  117 VA    2
+ 7000 PH  0829 LY2BOK     59   57 ES1CN      59   81 TL    2
+ 7000 PH  0829 LY2BOK     59   58 8S0C       59  105 SL SL 2

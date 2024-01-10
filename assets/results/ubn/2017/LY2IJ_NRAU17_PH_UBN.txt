@@ -1,0 +1,30 @@
+     Call: LY2IJ
+ Operator:
+ Category: Single Op                      Band   QSO  Points  Mults
+ Power: HIGH                              40m     12      23     10
+     Name: Arunas Vaglys                  80m      8      16      8
+  Address: Box 1573                       Sum     20      39     18
+  Address: Vilnius                        Total: 702
+
+
+
+ 3646 PH  0708 LY2IJ      59    1 LY2BAW     59   69 VV VV 2
+ 3701 PH  0709 LY2IJ      59    2 YL2SM      59   67 AU AU 2
+ 3707 PH  0710 LY2IJ      59    3 ES7GM      59   80 VP VP 2
+ 3714 PH  0710 LY2IJ      59    4 LY9Y       59   43 SU SU 2
+ 3718 PH  0711 LY2IJ      59    5 OZ7X       59   54 AH AH 2
+ 3724 PH  0712 LY2IJ      59    6 LY5T       59   30 AT AT 2
+ 3751 PH  0718 LY2IJ      59    7 OH3Z       59   79 VA VA 2
+ 3751 PH  0736 LY2IJ      59    8 LY1CT      59   59 KD KD 2
+ 7130 PH  0824 LY2IJ      59    9 OF1LAR     59   28 VA VA 2
+ 7130 PH  0824 LY2IJ      59   10 ES2EZ      59  132 HR HR 2
+ 7130 PH  0824 LY2IJ      59   11 ES1CN      59   77 TL TL 2
+ 7130 PH  0825 LY2IJ      59   12 OZ4NA      59   84 NJ NJ 2
+ 7130 PH  0825 LY2IJ      59   13 OZ8PG      59  127 FB FB 2
+ 7130 PH  0826 LY2IJ      59   14 OF0RJ      59   67 AL AL 2
+ 7130 PH  0827 LY2IJ      59   15 LB8QG      59   27 DX    1  Mult/OF
+ 7130 PH  0827 LY2IJ      59   16 OH3RT      59   26 PH PH 2
+ 7130 PH  0828 LY2IJ      59   17 OH6ECM     59   71 PO PO 2
+ 7130 PH  0828 LY2IJ      59   18 ES1O       59   43 TL    2
+ 7130 PH  0829 LY2IJ      59   19 OF2KM      59   80 UU UU 2
+ 7130 PH  0829 LY2IJ      59   20 SE5E       59  101 UP UP 2

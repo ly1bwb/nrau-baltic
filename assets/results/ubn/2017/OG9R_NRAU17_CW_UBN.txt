@@ -1,0 +1,66 @@
+     Call: OG9R
+ Operator: OH7QR
+ Category: Single Op                      Band   QSO  Points  Mults
+ Power: LOW                               40m     21      39     18
+     Name: Erkki Similä                   80m     35      65     21
+  Address: Hoikantie 46 B                 Sum     56     104     39
+  Address: FI-71210 TUUSJARVI             Total: 4056
+
+
+
+ 3500 CW  0900 OG9R       599   1 OF1F       599   1 SA SA 2
+ 3500 CW  0901 OG9R       599   2 YL7A       599   3 VA    1  Mult/VK
+ 3500 CW  0902 OG9R       599   3 YL2KO      599   3 AU AU 2
+ 3500 CW  0903 OG9R       599   4 LY2IJ      599   4 UT UT 2
+ 3500 CW  0905 OG9R       599   5 ES4NY      599  10 IV IV 2
+ 3500 CW  0907 OG9R       599   6 LY4A       599  13 SU SU 2
+ 3500 CW  0911 OG9R       599   7 SK2T       599  11 VB VB 1  Nr/10
+ 3500 CW  0914 OG9R       599   8 OH2YL      599  16 KT KT 2
+ 3500 CW  0915 OG9R       599   9 ES2MC      599  21 SR    1  Mult/HR
+ 3500 CW  0918 OG9R       599  10 LY7M       599  35 UT    2
+ 3500 CW  0921 OG9R       599  11 YL1S       599  34 RR RR 2
+ 3500 CW  0925 OG9R       599  12 OF2KM      599  29 UU UU 2
+ 3500 CW  0925 OG9R       599  13 YL2BJ      599  43 VR VR 2
+ 3500 CW  0926 OG9R       599  14 OF8L       599  29 PP PP 2
+ 3500 CW  0926 OG9R       599  15 SE7A       599  26 UP    0  Mult/VP Call/ES7A
+ 3500 CW  0929 OG9R       599  16 YL2SM      599  48 AU    2
+ 3500 CW  0930 OG9R       599  17 YL9T       599  48 VK VK 2
+ 3500 CW  0933 OG9R       599  18 OH6BA      599  42 KE KE 2
+ 3500 CW  0936 OG9R       599  19 OH2PM      599  67 VA VA 2
+ 3500 CW  0938 OG9R       599  20 OH8NW      599  49 VA    2
+ 3500 CW  0939 OG9R       599  21 OH7JR      599  34 KT    2
+ 3500 CW  0942 OG9R       599  22 ES3BM      599  33 RP RP 2
+ 3500 CW  0945 OG9R       599  23 ES5QA      599  56 JG JG 2
+ 3500 CW  0947 OG9R       599  24 OH2KW      599  53 UU    2
+ 3500 CW  0948 OG9R       599  25 OH6RE      599  62 KE    2
+ 3500 CW  0952 OG9R       599  26 YL3FT      599  87 OE OE 2
+ 3500 CW  0953 OG9R       599  27 OG55W      599  29 UU    2
+ 3500 CW  0953 OG9R       599  28 OH0Z       599  71 AL AL 2
+ 3500 CW  0954 OG9R       599  29 LY5W       599  63 KN KN 2
+ 3500 CW  0955 OG9R       599  30 OH1TS      599  33 VA    2
+ 3500 CW  0959 OG9R       599  31 OF10A      599  35 SA    2
+ 3500 CW  0959 OG9R       599  32 ES1CN      599  53 TL TL 2
+ 7000 CW  1007 OG9R       599  33 LY3BN      599  91 KN KN 2
+ 7000 CW  1008 OG9R       599  34 LY2J       599  82 MM MM 2
+ 7000 CW  1008 OG9R       599  35 YL5X       599  68 SD SD 2
+ 7000 CW  1010 OG9R       599  36 LY9Y       599  84 SU SU 2
+ 7000 CW  1011 OG9R       599  37 LY1CT      599  79 KD KD 2
+ 7000 CW  1011 OG9R       599  38 LY5O       599  11 KM KM 1  Nr/110
+ 7000 CW  1013 OG9R       599  39 ES3CC      599  81 LN LN 2
+ 7000 CW  1015 OG9R       599  40 OH2PM      599 114 VA VA 2
+ 7000 CW  1017 OG9R       599  41 YL1S       599  95 RR RR 2
+ 7000 CW  1020 OG9R       599  42 YL2BJ      599 107 VR VR 2
+ 7000 CW  1022 OG9R       599  43 OZ2TF      599  51 RK RK 2
+ 7000 CW  1025 OG9R       599  44 YL2GD      599 125 AU AU 2
+ 7000 CW  1027 OG9R       599  45 SM5AGQ     599  77 VM    0  Call/SM5ACQ
+ 7000 CW  1029 OG9R       599  46 YL9T       599 101 VK VK 2
+ 7000 CW  1032 OG9R       599  47 LY4L       599 123 KM    2
+ 7000 CW  1034 OG9R       599  48 LY2BAW     599 126 VV VV 2
+ 7000 CW  1036 OG9R       599  49 OZ8SW      599  69 KH KH 2
+ 7000 CW  1037 OG9R       599  50 LY2IJ      599 133 UT UT 2
+ 7000 CW  1039 OG9R       599  51 OZ7YY      599 111 AH AH 2
+ 7000 CW  1041 OG9R       599  52 LY6A       599 134 KN    2
+ 7000 CW  1043 OG9R       599  53 LA5UF      599 104 VF VF 2
+ 3500 CW  1051 OG9R       599  54 LY2BMX     599  72 UT    2
+ 3500 CW  1052 OG9R       599  55 ES3RY      599  28 JR JR 2
+ 3500 CW  1054 OG9R       599  56 OF6MW      599 163 KT    2

@@ -1,0 +1,46 @@
+     Call: ES0DJ
+ Operator:
+ Category: Single Op                      Band   QSO  Points  Mults
+ Power: LOW                               40m     12      24     12
+     Name: TOIVO KASONEN                  80m     24      48     20
+  Address:                                Sum     36      72     32
+  Address: ESTONIA                        Total: 2304
+
+
+
+ 3649 PH  0631 ES0DJ      59    1 ES6RW      59    4 VO VO 2
+ 3635 PH  0634 ES0DJ      59    2 ES3BM      59    4 RP RP 2
+ 3633 PH  0636 ES0DJ      59    3 ES5QA      59   10 JG JG 2
+ 3619 PH  0639 ES0DJ      59    4 OF6MW      59   17 KT KT 2
+ 3612 PH  0641 ES0DJ      59    5 ES7GM      59   27 VP VP 2
+ 3609 PH  0642 ES0DJ      59    6 ES2EZ      59   21 HR HR 2
+ 3601 PH  0643 ES0DJ      59    7 LY4Q       59   21 VU VU 2
+ 3604 PH  0644 ES0DJ      59    8 ES1O       59    7 TL TL 2
+ 3707 PH  0650 ES0DJ      59    9 ES2MC      59   46 HR    2
+ 3718 PH  0652 ES0DJ      59   10 OZ7X       59   31 AH AH 2
+ 3735 PH  0655 ES0DJ      59   11 ES6QC      59   39 VO    2
+ 3738 PH  0659 ES0DJ      59   12 OZ8PG      59   33 FB FB 2
+ 3744 PH  0700 ES0DJ      59   13 ES4NY      59   33 IV IV 2
+ 3768 PH  0704 ES0DJ      59   14 SA1CCQ     59   22 GO GO 2
+ 3748 PH  0706 ES0DJ      59   15 LB1AH      59   20 HO HO 2
+ 3725 PH  0710 ES0DJ      59   16 ES6RMR     59   33 VC VC 2
+ 3708 PH  0712 ES0DJ      59   17 SE4E       59   38 DA DA 2
+ 3609 PH  0717 ES0DJ      59   18 ES1TU      59   50 TL    2
+ 3603 PH  0719 ES0DJ      59   19 LY2BMX     59   25 UT UT 2
+ 3605 PH  0725 ES0DJ      59   20 YL3IR      59   20 GU GU 2
+ 3615 PH  0727 ES0DJ      59   21 LA5UF      59   28 VF VF 2
+ 3627 PH  0728 ES0DJ      59   22 8S0C       59   48 SL SL 2
+ 3633 PH  0730 ES0DJ      59   23 ES6PA      59   58 VO    2
+ 3640 PH  0732 ES0DJ      59   24 ES5TF      59   46 TA TA 2
+ 7089 PH  0735 ES0DJ      59   25 ES6RW      59  118 VO VO 2
+ 7097 PH  0737 ES0DJ      59   26 LA5UF      59   31 VF VF 2
+ 7100 PH  0738 ES0DJ      59   27 ES7GM      59  127 VP VP 2
+ 7161 PH  0742 ES0DJ      59   28 OF8L       59   76 PP PP 2
+ 7184 PH  0744 ES0DJ      59   29 OZ11A      59   50 NJ NJ 2
+ 7082 PH  0751 ES0DJ      59   30 ES5QA      59  110 JG JG 2
+ 7072 PH  0754 ES0DJ      59   31 ES3BM      59   53 RP RP 2
+ 7070 PH  0756 ES0DJ      59   32 ES2MC      59  143 HR HR 2
+ 7179 PH  0804 ES0DJ      59   33 LB1AH      59   99 HO HO 2
+ 7181 PH  0805 ES0DJ      59   34 OZ8PG      59  107 FB FB 2
+ 7187 PH  0807 ES0DJ      59   35 LA8FTA     59   44 AK AK 2
+ 7086 PH  0810 ES0DJ      59   36 SD6M       59   53 VD VD 2

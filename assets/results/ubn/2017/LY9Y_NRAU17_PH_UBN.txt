@@ -1,0 +1,115 @@
+     Call: LY9Y
+ Operator:
+ Category: Single Op                      Band   QSO  Points  Mults
+ Power: LOW                               40m     43      85     33
+     Name: JURGIS IGNOTAS                 80m     61     118     38
+  Address: GEDIMINO STR. 17               Sum    104     203     71
+  Address: KURSENAI 81182                 Total: 14413
+  Address: LITHUANIA
+
+
+
+ 3766 PH  0630 LY9Y       59    1 YL2PJ      59    1 RE RE 2
+ 3762 PH  0631 LY9Y       59    2 OF8L       59    1 PP PP 2
+ 3757 PH  0631 LY9Y       59    3 OZ4NA      59    1 NJ NJ 2
+ 3747 PH  0633 LY9Y       59    4 YL2BJ      59    7 VR VR 2
+ 3727 PH  0633 LY9Y       59    5 OF1F       59    4 SA SA 2
+ 3703 PH  0634 LY9Y       59    6 YL2VW      59    9 RR RR 2
+ 3700 PH  0634 LY9Y       59    7 OZ11A      59    3 NJ    2
+ 3706 PH  0635 LY9Y       59    8 ES2MC      59   14 HR HR 2
+ 3709 PH  0636 LY9Y       59    9 YL2GD      59   13 AU AU 2
+ 3724 PH  0637 LY9Y       59   10 ES4NY      59   11 IV IV 2
+ 3740 PH  0638 LY9Y       59   11 LY5O       59   15 KM KM 2
+ 3759 PH  0638 LY9Y       59   12 OH2PM      59   19 VA VA 2
+ 3723 PH  0640 LY9Y       59   13 LY2SA      59   18 MM MM 2
+ 3719 PH  0641 LY9Y       59   14 OH8NW      59   12 VA    1  Nr/13
+ 3717 PH  0641 LY9Y       59   15 OZ7X       59   14 AH AH 2
+ 3600 PH  0642 LY9Y       59   16 LY4Q       59   19 VU VU 2
+ 3609 PH  0643 LY9Y       59   17 ES2EZ      59   25 HR    2
+ 3613 PH  0643 LY9Y       59   18 LY2MM      59   25 KM    2
+ 3625 PH  0644 LY9Y       59   19 LY4A       59   36 SU SU 2
+ 3630 PH  0645 LY9Y       59   20 LY5W       59   17 KN KN 2
+ 3646 PH  0646 LY9Y       59   21 LY2BAW     59   30 VV VV 2
+ 3649 PH  0646 LY9Y       59   22 ES6RW      59   41 VO VO 2
+ 3642 PH  0647 LY9Y       59   23 LY2CO      59   35 TI TI 2
+ 3612 PH  0648 LY9Y       59   24 ES7GM      59   38 VP VP 2
+ 3605 PH  0648 LY9Y       59   25 LY3BN      59   30 KN    2
+ 3616 PH  0649 LY9Y       59   26 LY2PBV     59   21 MM    1  Nr/20
+ 3629 PH  0650 LY9Y       59   27 LY6A       59   40 KN    2
+ 3639 PH  0651 LY9Y       59   28 ES6RMR     59   15 VC VC 2
+ 3715 PH  0654 LY9Y       59   29 OH7A       59   39 PK PK 2
+ 3720 PH  0655 LY9Y       59   30 YL2KF      59   43 LM LM 2
+ 3728 PH  0655 LY9Y       59   31 YL9T       59   46 VK VK 2
+ 3761 PH  0657 LY9Y       59   32 LY2J       59   32 MM    2
+ 3775 PH  0658 LY9Y       59   33 YL3FT      59   42 OE OE 2
+ 3765 PH  0659 LY9Y       59   34 SM5ACQ     59   23 VM VM 2
+ 3757 PH  0659 LY9Y       59   35 LY2TS      59   32 TI    2
+ 3754 PH  0659 LY9Y       59   36 YL1S       59   39 RR    2
+ 3735 PH  0700 LY9Y       59   37 ES6QC      59   47 VO    2
+ 3724 PH  0701 LY9Y       59   38 LY5T       59   21 AT AT 2
+ 3642 PH  0703 LY9Y       59   39 OF1Z       59   39 VA    2
+ 3637 PH  0704 LY9Y       59   40 YL7A       59   58 VK    2
+ 3611 PH  0706 LY9Y       59   41 LY2BMX     59   19 UT UT 2
+ 3611 PH  0706 LY9Y       59   42 LY4L       59   61 KM    2
+ 3713 PH  0710 LY9Y       59   43 LY2IJ      59    4 UT    2
+ 3747 PH  0713 LY9Y       59   44 LB1AH      59   30 HO HO 2
+ 3770 PH  0714 LY9Y       59   45 OF3P       59   32 PM PM 2
+ 3779 PH  0715 LY9Y       59   46 YL100ZK    59   33 RR    2
+ 3767 PH  0716 LY9Y       59   47 SA1CCQ     59   35 GO GO 2
+ 3750 PH  0718 LY9Y       59   48 OH3Z       59   78 VA    2
+ 3729 PH  0718 LY9Y       59   49 ES1BH      59   47 TL TL 2
+ 7150 PH  0720 LY9Y       59   50 LY7M       59   37 UT UT 2
+ 7147 PH  0722 LY9Y       59   51 ES2IPA     59   34 HR HR 2
+ 7147 PH  0722 LY9Y       59   52 SE3X       59   24 JL JL 2
+ 3729 PH  0723 LY9Y       59   53 SE5L       59   32 VM    2
+ 7140 PH  0728 LY9Y       59   54 YL2GD      59   90 AU AU 2
+ 7173 PH  0729 LY9Y       59   55 LY4A       59  107 SU SU 2
+ 3734 PH  0730 LY9Y       59   56 SM6IQD     59   25 VD VD 2
+ 3734 PH  0731 LY9Y       59   57 LY1CT      59   53 KD KD 2
+ 3734 PH  0732 LY9Y       59   58 YL3GAO     59   34 DO DO 2
+ 3734 PH  0732 LY9Y       59   59 OZ4QX      59    7 KH KH 2
+ 3734 PH  0733 LY9Y       59   60 OF2KM      59   48 UU UU 2
+ 3737 PH  0734 LY9Y       59   61 SD6M       59   27 VD    2
+ 3610 PH  0738 LY9Y       59   62 LY4LA      59   46 KD    2
+ 3610 PH  0738 LY9Y       59   63 ES7RIX     59   34 VP    2
+ 3610 PH  0739 LY9Y       59   64 LY2BOK     59   35 AT    2
+ 3610 PH  0741 LY9Y       59   65 LB4FH      55   20 RL RL 2
+ 7161 PH  0743 LY9Y       59   66 OF8L       59   78 PP PP 2
+ 7183 PH  0743 LY9Y       59   67 OZ11A      59   48 NJ NJ 2
+ 7179 PH  0744 LY9Y       59   68 LB1AH      59   67 HO HO 2
+ 7132 PH  0745 LY9Y       59   69 OH7A       59  104 PK PK 2
+ 7158 PH  0747 LY9Y       59   70 OF1F       59  115 SA SA 2
+ 7168 PH  0748 LY9Y       59   71 OH6RE      59   98 KE KE 2
+ 7187 PH  0749 LY9Y       59   72 YL2KO      59  103 AU    2
+ 7194 PH  0749 LY9Y       59   73 OF6MW      59   85 KT KT 2
+ 7189 PH  0750 LY9Y       59   74 SE5E       59   59 UP UP 2
+ 7189 PH  0750 LY9Y       59   75 OF1Z       59   95 VA VA 2
+ 7184 PH  0751 LY9Y       59   76 SE5N       59   50 SO SO 2
+ 7171 PH  0752 LY9Y       59   77 8S0C       59   76 SL SL 2
+ 7186 PH  0756 LY9Y       59   78 OH2PM      59  102 VA    2
+ 7180 PH  0757 LY9Y       59   79 OZ8PG      59   92 FB FB 2
+ 7144 PH  0758 LY9Y       59   80 OZ7X       59  132 AH AH 2
+ 7139 PH  0800 LY9Y       59   81 LA2XNA     59   49 AK AK 2
+ 7139 PH  0800 LY9Y       59   82 OF2KM      59   72 UU UU 2
+ 7139 PH  0800 LY9Y       59   83 OZ7SG      59   37 NJ    2
+ 7139 PH  0801 LY9Y       59   84 SE4E       59   80 DA DA 2
+ 7139 PH  0801 LY9Y       59   85 OF1TD      59   61 SA    2
+ 7139 PH  0802 LY9Y       59   86 OF8UV      59   46 KU KU 2
+ 7175 PH  0804 LY9Y       59   87 OH8NW      59  116 VA    2
+ 7184 PH  0804 LY9Y       59   88 SK2T       59   74 VB VB 2
+ 7069 PH  0808 LY9Y       59   89 ES2MC      59  158 HR    2
+ 7073 PH  0809 LY9Y       59   90 SF3A       59   65 VN VN 1  Nr/55
+ 7081 PH  0809 LY9Y       59   91 SM5ACQ     59   67 VM VM 2
+ 7100 PH  0810 LY9Y       59   92 ES7GM      59  177 VP VP 2
+ 7092 PH  0811 LY9Y       59   93 SE5L       59   64 VM    2
+ 7197 PH  0813 LY9Y       59   94 OZ4NA      59   76 NJ    2
+ 7169 PH  0814 LY9Y       59   95 OH6ECM     59   63 PO PO 2
+ 7169 PH  0815 LY9Y       59   96 LB2WG      59   32 OS OS 2
+ 7169 PH  0817 LY9Y       59   97 SA1CCQ     59   82 GO GO 2
+ 7170 PH  0820 LY9Y       59   98 ES1CN      59   75 TL TL 2
+ 7091 PH  0822 LY9Y       59   99 OH3Z       59  151 VA    2
+ 7095 PH  0823 LY9Y       59  100 LY2BAW     59  146 VV VV 2
+ 7088 PH  0824 LY9Y       59  101 ES6RW      59  188 VO VO 2
+ 7081 PH  0825 LY9Y       59  102 OH2KW      59   97 UU    2
+ 7053 PH  0826 LY9Y       59  103 LB3RE      59   30 OP OP 2
+ 3730 PH  0828 LY9Y       59  104 OH2KW      59  100 UU    0  NotinLog

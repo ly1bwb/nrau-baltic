@@ -1,0 +1,85 @@
+     Call: OH7JL
+ Operator:
+ Category: Single Op                      Band   QSO  Points  Mults
+ Power: HIGH                              40m     35      68     24
+     Name: JARI LIIMATTA                  80m     41      79     31
+  Address: PITKÄMÄENTIE 44                Sum     76     147     55
+                                          Total: 8085
+
+
+ 3500 PH  0630 OH7JL      59    1 ES2MC      59    3 HR HR 2
+ 3500 PH  0631 OH7JL      59    2 LY2SA      59    6 MM MM 2
+ 3500 PH  0632 OH7JL      59    3 OH8NW      59    1 VA VA 2
+ 3500 PH  0632 OH7JL      59    4 OF1F       59    2 SA SA 2
+ 3500 PH  0635 OH7JL      59    5 ES6QC      59    8 VO VO 2
+ 3500 PH  0636 OH7JL      59    6 OH2PM      59   13 VA    2
+ 3500 PH  0637 OH7JL      59    7 ES7GM      59   19 VP VP 2
+ 3500 PH  0637 OH7JL      59    8 OF6MW      59   16 KT KT 2
+ 3500 PH  0638 OH7JL      59    9 ES3BM      59    8 RP RP 2
+ 3500 PH  0640 OH7JL      59   10 YL7A       59   12 VK VK 2
+ 3500 PH  0642 OH7JL      59   11 OH7A       59   19 PK PK 2
+ 3500 PH  0643 OH7JL      59   12 OZ7X       59   17 AH AH 2
+ 3500 PH  0645 OH7JL      59   13 YL9T       59   23 VK    2
+ 3500 PH  0646 OH7JL      59   14 LY5O       59   27 KM KM 2
+ 3500 PH  0646 OH7JL      59   15 OF8L       59   18 PP PP 2
+ 3500 PH  0647 OH7JL      59   16 YL2BJ      59   39 VR VR 2
+ 3500 PH  0649 OH7JL      59   17 ES2EZ      59   35 HR    2
+ 3500 PH  0650 OH7JL      59   18 LY4A       59   47 SU SU 2
+ 3500 PH  0651 OH7JL      59   19 LY6A       59   41 KN KN 2
+ 3500 PH  0653 OH7JL      59   20 LY7A       59   35 VK    0  Call/YL7A
+ 3500 PH  0654 OH7JL      59   21 LY2BAW     59   47 VV VV 2
+ 3500 PH  0655 OH7JL      59   22 ES6RW      59   61 VO    2
+ 3500 PH  0656 OH7JL      59   23 YL2KF      59   45 LM LM 2
+ 3500 PH  0658 OH7JL      59   24 ES4NY      59   31 IV IV 2
+ 3500 PH  0659 OH7JL      59   25 OH3Z       59   34 VA    2
+ 3500 PH  0700 OH7JL      59   26 YL1S       59   40 RR RR 2
+ 3500 PH  0702 OH7JL      59   27 LY2J       59   40 MM    2
+ 3500 PH  0703 OH7JL      59   28 YL3FT      59   49 OE OE 2
+ 3500 PH  0703 OH7JL      59   29 YL2PJ      59   46 RE RE 2
+ 3500 PH  0706 OH7JL      59   30 OZ8PG      59   41 FB FB 2
+ 3500 PH  0709 OH7JL      59   31 YL2SM      59   66 AU AU 2
+ 3500 PH  0711 OH7JL      59   32 OF1Z       59   57 VA    2
+ 3500 PH  0711 OH7JL      59   33 LA5UF      59   19 VF VF 2
+ 3500 PH  0712 OH7JL      59   34 YL2GD      59   78 AU    2
+ 3500 PH  0713 OH7JL      59   35 ES5QA      59   64 JG JG 2
+ 3500 PH  0714 OH7JL      59   36 ES1TU      59   47 TL TL 2
+ 3500 PH  0716 OH7JL      59   37 8S0C       59   36 SL SL 2
+ 3500 PH  0718 OH7JL      59   38 OF2J       59   22 UU UU 2
+ 3500 PH  0720 OH7JL      59   39 OH6RE      59   67 KE KE 2
+ 3500 PH  0721 OH7JL      59   40 OH2KW      59   46 UU    2
+ 3500 PH  0723 OH7JL      59   41 OF0RJ      59   44 AL AL 1  Nr/32
+ 7000 PH  0728 OH7JL      59   42 ES7GM      59  109 VP VP 2
+ 7000 PH  0729 OH7JL      59   43 LY2SA      59   76 MM MM 2
+ 7000 PH  0730 OH7JL      59   44 YL2GD      59   92 AU AU 2
+ 7000 PH  0731 OH7JL      59   45 ES6RW      59  111 VO VO 2
+ 7000 PH  0732 OH7JL      59   46 ES6QC      59   77 VO    2
+ 7000 PH  0735 OH7JL      59   47 OH7A       59   87 PK PK 2
+ 7000 PH  0736 OH7JL      59   48 LY5O       59   95 KM KM 2
+ 7000 PH  0736 OH7JL      59   49 YL1ZT      59   45 TU TU 2
+ 7000 PH  0738 OH7JL      59   50 OH3Z       59  104 VA VA 2
+ 7000 PH  0739 OH7JL      59   51 YL2VW      59  103 RR RR 2
+ 7000 PH  0741 OH7JL      59   52 LY2BAW     59   88 VV VV 2
+ 7000 PH  0742 OH7JL      59   53 LY6A       59  106 KN KN 2
+ 7000 PH  0743 OH7JL      59   54 ES2MC      59  118 HR HR 2
+ 7000 PH  0743 OH7JL      59   55 YL2SM      59  106 AU    2
+ 7000 PH  0747 OH7JL      59   56 OZ7X       59  106 AH AH 2
+ 7000 PH  0749 OH7JL      59   57 8S0C       59   72 SL SL 2
+ 7000 PH  0750 OH7JL      59   58 LY4L       59  112 KM    2
+ 7000 PH  0751 OH7JL      59   59 LB1AH      59   75 HO HO 2
+ 7000 PH  0752 OH7JL      59   60 SE5N       59   51 SO SO 2
+ 7000 PH  0754 OH7JL      59   61 ES5QA      59  114 JG JG 2
+ 7000 PH  0755 OH7JL      59   62 LY2MM      59   93 KM    2
+ 7000 PH  0757 OH7JL      59   63 OH2KW      59   73 UU UU 2
+ 7000 PH  0759 OH7JL      59   64 ES6PA      59   76 VO    2
+ 7000 PH  0800 OH7JL      59   65 LY4A       59  157 SU SU 2
+ 7000 PH  0802 OH7JL      59   66 YL2KO      59  119 AU    2
+ 7000 PH  0804 OH7JL      59   67 YL1S       59   98 RR    2
+ 7000 PH  0807 OH7JL      59   68 LY3BN      59  132 KN    2
+ 7000 PH  0809 OH7JL      59   69 OH2PM      59  118 VA    2
+ 7000 PH  0821 OH7JL      59   70 LY3B       59   93 PA PA 2
+ 7000 PH  0825 OH7JL      59   71 SA1CCQ     59   87 GO GO 2
+ 7000 PH  0826 OH7JL      59   72 LY5W       59  123 KN    2
+ 7000 PH  0826 OH7JL      59   73 YL9T       59  142 VK VK 2
+ 7000 PH  0827 OH7JL      59   74 YL2KF      59  113 LM LM 2
+ 7000 PH  0829 OH7JL      59   75 OZ11A      59  107 NJ NJ 2
+ 7000 PH  0829 OH7JL      59   76 SK2T       59   96 VB    0  Time/SK2T/0830

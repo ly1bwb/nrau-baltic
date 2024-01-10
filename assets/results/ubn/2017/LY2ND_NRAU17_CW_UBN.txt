@@ -1,0 +1,43 @@
+     Call: LY2ND
+ Operator:
+ Category: Single Op                      Band   QSO  Points  Mults
+ Power: LOW                               40m     18      23     10
+     Name:          Petras Skinkys        80m     14      19      8
+  Address:       Piliakalnio 9-34         Sum     32      42     18
+  Address:       Kaunas                   Total: 756
+  Address:       LT-46225
+
+
+
+ 3500 CW  0901 LY2ND      599   1 LY5O       599   7 KM KM 2
+ 3500 CW  0903 LY2ND      599   2 YL2FT      599   7 GA    0  Mult/OE Call/YL3FT
+ 3500 CW  0952 LY2ND      599   3 LY7M       599  77 UT UT 1  Nr/87
+ 3500 CW  0953 LY2ND      599   4 LY2SA      599  59 MM MM 1  Nr/69
+ 3500 CW  0955 LY2ND      599   5 YL2VW      599  72 RR RR 2
+ 3500 CW  0957 LY2ND      599   6 LY2BAW     599  73 VV VV 1  Nr/83
+ 3500 CW  0958 LY2ND      599   7 LY2MM      599  68 KM    2
+ 3500 CW  0959 LY2ND      599   8 ES5AA      599  70 JG    0  Call/ES5QA
+ 3500 CW  1002 LY2ND      599   9 LY4A       599  88 SU SU 2
+ 3500 CW  1005 LY2ND      599  10 LY2BJ      599  88 VR    0  Call/YL2BJ
+ 3500 CW  1007 LY2ND      599  11 LY4L       599  90 KM    2
+ 3500 CW  1009 LY2ND      599  12 YL2KO      599  90 AU AU 2
+ 3500 CW  1011 LY2ND      599  13 LY2WR      599  18 KN KN 2
+ 3500 CW  1012 LY2ND      599  14 LY6A       599 104 KN    2
+ 7000 CW  1018 LY2ND      599  15 OF1R       599 114 SA    0  Call/OF1F
+ 7000 CW  1020 LY2ND      599  16 SM5CSI     599  86 UP    0  Nr/87 Call/SM5CSS
+ 7000 CW  1022 LY2ND      599  17 ES3CC      599  87 LN LN 2
+ 7000 CW  1024 LY2ND      599  18 OZ4CG      599  48 BH BH 2
+ 7000 CW  1028 LY2ND      599  19 ES7GM      599 120 VP VP 1  Nr/130
+ 7000 CW  1030 LY2ND      599  20 OZ8PG      599  70 FB FB 2
+ 7000 CW  1031 LY2ND      599  21 OZ8SW      599  62 FI    1  Mult/KH
+ 7000 CW  1033 LY2ND      599  22 OH2KW      599 105 UU UU 2
+ 7000 CW  1037 LY2ND      599  23 ES5QA      599 110 JG    0  NotinLog
+ 7000 CW  1039 LY2ND      599  24 OF1F       599 138 SA SA 2
+ 7000 CW  1041 LY2ND      599  25 LY3BN      599 143 KN KN 2
+ 7000 CW  1043 LY2ND      599  26 OH3Z       599  92 VA VA 2
+ 7000 CW  1045 LY2ND      599  27 OZ2TF      599  83 RK RK 2
+ 7000 CW  1047 LY2ND      599  28 OZ7YY      599 120 AI    1  Mult/AH
+ 7000 CW  1050 LY2ND      599  29 OZ7BQ      599  49 FB    2
+ 7000 CW  1052 LY2ND      599  30 SM5AGL     599 109 VM    0  Call/SM5ACQ
+ 7000 CW  1053 LY2ND      599  31 LY2MM      599 129 KM KM 2
+ 7000 CW  1059 LY2ND      599  32 ES3CC      599 107 LN    0  QSO B4

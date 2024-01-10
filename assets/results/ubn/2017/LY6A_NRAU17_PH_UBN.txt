@@ -1,0 +1,163 @@
+     Call: LY6A
+ Operator:
+ Category: Single Op                      Band   QSO  Points  Mults
+ Power: HIGH                              40m     66     129     41
+     Name: Rimas Baltusis                 80m     86     169     48
+  Address: Taikos 64                      Sum    152     298     89
+  Address: Jonavos reg.                   Total: 26522
+  Address: Uzusaliai,  55333
+
+
+
+ 3630 PH  0630 LY6A       59    1 ES1CN      59    1 TL TL 2
+ 3630 PH  0630 LY6A       59    2 LY2PBV     59    1 MM MM 2
+ 3630 PH  0630 LY6A       59    3 LY5P       59    1 SI SI 2
+ 3630 PH  0631 LY6A       59    4 LY3B       59    1 PA PA 2
+ 3630 PH  0631 LY6A       59    5 YL2KF      59    2 LM LM 2
+ 3630 PH  0631 LY6A       59    6 YL2GD      59    4 AU AU 2
+ 3630 PH  0631 LY6A       59    7 LY1CO      59    2 KN KN 2
+ 3630 PH  0632 LY6A       59    8 ES5TF      59    1 TA TA 2
+ 3630 PH  0632 LY6A       59    9 LY3PDX     59    1 MM    2
+ 3630 PH  0632 LY6A       59   10 ES6PA      59    4 VO VO 2
+ 3630 PH  0632 LY6A       59   11 LY4K       59    2 KM KM 2
+ 3630 PH  0633 LY6A       59   12 LY1CT      59    2 KD KD 2
+ 3630 PH  0633 LY6A       59   13 LY2NY      59    3 KN    2
+ 3630 PH  0633 LY6A       59   14 OH6RE      59    6 KE KE 2
+ 3630 PH  0634 LY6A       59   15 LY2ND      59    4 KM    2
+ 3630 PH  0634 LY6A       59   16 LY2BAG     59    1 KM    2
+ 3630 PH  0634 LY6A       59   17 LY5AA      59    4 KM    2
+ 3630 PH  0635 LY6A       59   18 LY4LA      59    7 KD    2
+ 3630 PH  0636 LY6A       59   19 ES1QD      59    5 TL    2
+ 3630 PH  0636 LY6A       59   20 LY3CY      59    8 VU VU 2
+ 3630 PH  0636 LY6A       59   21 LY2ON      59    4 KI KI 2
+ 3630 PH  0637 LY6A       59   22 LY5W       59    8 KN    2
+ 3630 PH  0637 LY6A       59   23 LY1SR      59    6 KM    2
+ 3630 PH  0638 LY6A       59   24 LY2J       59   10 MM    2
+ 3630 PH  0639 LY6A       59   25 ES5JR      59    3 TA    2
+ 3630 PH  0639 LY6A       59   26 ES1TU      59   10 TL    2
+ 3630 PH  0639 LY6A       59   27 OZ8PG      59    7 FB FB 2
+ 3630 PH  0639 LY6A       59   28 LY2TS      59    8 TI TI 2
+ 3630 PH  0640 LY6A       59   29 OF1Z       59    6 VA VA 2
+ 3630 PH  0640 LY6A       59   30 LB1AH      59    4 HO HO 2
+ 3630 PH  0641 LY6A       59   31 LY2BOK     59    5 AT AT 2
+ 3630 PH  0643 LY6A       59   32 YL2KO      59   21 AU    2
+ 3630 PH  0644 LY6A       59   33 ES2O       59   15 HR HR 2
+ 3630 PH  0645 LY6A       59   34 OH3Z       59   17 VA    2
+ 3630 PH  0646 LY6A       59   35 SE4E       59   15 DA DA 2
+ 3630 PH  0647 LY6A       59   36 LY5T       59    8 AT    2
+ 3630 PH  0648 LY6A       59   37 LY3IZ      59   10 UT UT 2
+ 3630 PH  0648 LY6A       59   38 OZ0AP      59    3 SS SS 2
+ 3630 PH  0649 LY6A       59   39 OF0RJ      59   13 AL AL 2
+ 3630 PH  0650 LY6A       59   40 LY9Y       59   27 SU SU 2
+ 3630 PH  0651 LY6A       59   41 OH7JL      59   19 PK PK 2
+ 3630 PH  0651 LY6A       59   42 LY7M       59   12 UT    2
+ 3630 PH  0652 LY6A       59   43 LA2XNA     59   15 AK AK 2
+ 3630 PH  0653 LY6A       59   44 OH3LS      59   21 PM PM 2
+ 3630 PH  0653 LY6A       59   45 OH3JP      59   17 KT KT 2
+ 3630 PH  0654 LY6A       59   46 LY2ZO      59   18 KM    2
+ 3630 PH  0655 LY6A       59   47 8S0C       59   11 SL SL 2
+ 3630 PH  0655 LY6A       59   48 LY4A       59   58 SU    2
+ 3630 PH  0656 LY6A       59   49 LY2BMX     59   12 UT    2
+ 3630 PH  0657 LY6A       59   50 LY2MM      59   43 KM    2
+ 3630 PH  0658 LY6A       59   51 OZ9VA      59   17 FB    2
+ 3630 PH  0658 LY6A       59   52 YL2VW      59   55 RR RR 2
+ 3601 PH  0659 LY6A       59   53 LY4Q       59   45 VU    2
+ 3605 PH  0659 LY6A       59   54 LY3BN      59   51 KN    2
+ 3612 PH  0700 LY6A       59   55 ES7GM      59   62 VP VP 2
+ 3637 PH  0701 LY6A       59   56 YL7A       59   52 VK VK 2
+ 3646 PH  0701 LY6A       59   57 LY2BAW     59   60 VV VV 2
+ 3614 PH  0702 LY6A       59   58 SE5L       59    9 VM VM 1  Nr/19
+ 3614 PH  0703 LY6A       59   59 LB4FH      59   11 RL RL 2
+ 3614 PH  0705 LY6A       59   60 LY2SA      59   52 MM    2
+ 3616 PH  0705 LY6A       59   61 OH8NW      59   58 VA    2
+ 3634 PH  0706 LY6A       59   62 LA5UF      59   15 VF VF 2
+ 3701 PH  0708 LY6A       59   63 YL2SM      59   63 AU    2
+ 3718 PH  0709 LY6A       59   64 OZ7X       59   53 AH AH 2
+ 3729 PH  0709 LY6A       59   65 YL9T       59   71 VK    2
+ 3735 PH  0710 LY6A       59   66 ES6QC      59   60 VO    2
+ 3738 PH  0711 LY6A       59   67 ES6RW      59   90 VO    2
+ 3754 PH  0711 LY6A       59   68 LY4L       59   70 KM    2
+ 3759 PH  0712 LY6A       59   69 OH2PM      59   69 VA    2
+ 3771 PH  0713 LY6A       59   70 YL2PJ      59   65 RE RE 2
+ 3775 PH  0713 LY6A       59   71 YL3FT      59   77 OE OE 2
+ 3709 PH  0715 LY6A       59   72 SE5N       59   28 SO SO 2
+ 3709 PH  0716 LY6A       59   73 SD6M       59   16 VD VD 2
+ 3709 PH  0716 LY6A       59   74 YL2II      59    2 AI AI 2
+ 7158 PH  0719 LY6A       59   75 OZ11A      59   28 NJ NJ 2
+ 3715 PH  0720 LY6A       59   76 OH7A       59    5 PK    1  Nr/75
+ 3726 PH  0722 LY6A       59   77 OZ6ARC     59   21 SJ SJ 2
+ 3726 PH  0723 LY6A       59   78 YL1S       59   66 RR    2
+ 7100 PH  0723 LY6A       59   79 ES7GM      59   98 VP VP 2
+ 3726 PH  0724 LY6A       59   80 LY2CO      59   84 TI    2
+ 3757 PH  0725 LY6A       59   81 ES4NY      59   49 IV IV 2
+ 3762 PH  0725 LY6A       59   82 ES2EZ      59   81 HR    2
+ 3619 PH  0728 LY6A       59   83 OF6MW      59   69 KT    2
+ 3612 PH  0728 LY6A       59   84 ES5QA      59   83 JG JG 2
+ 3605 PH  0729 LY6A       59   85 YL3IR      59   25 GU GU 2
+ 3624 PH  0731 LY6A       59   86 ES3BM      59   11 RP RP 1  Nr/41
+ 7063 PH  0733 LY6A       59   87 OF8UV      59   29 KU KU 2
+ 7063 PH  0734 LY6A       59   88 LY7M       59   51 UT UT 2
+ 7063 PH  0735 LY6A       59   89 LY4L       59   88 KM KM 2
+ 7063 PH  0736 LY6A       59   90 OH6RE      59   81 KE KE 2
+ 7063 PH  0736 LY6A       59   91 SE5N       59   39 SO SO 2
+ 7063 PH  0736 LY6A       59   92 ES1BH      59   67 TL TL 2
+ 7063 PH  0737 LY6A       59   93 8S0C       59   56 SL SL 2
+ 7063 PH  0737 LY6A       59   94 OH2KW      59   58 UU UU 2
+ 7063 PH  0737 LY6A       59   95 ES2EZ      59   93 HR HR 2
+ 7063 PH  0738 LY6A       59   96 SA0BVA     59   25 SL    2
+ 7063 PH  0738 LY6A       59   97 OF1Z       59   85 VA VA 2
+ 7063 PH  0739 LY6A       59   98 YL2KF      59   88 LM LM 2
+ 7063 PH  0739 LY6A       59   99 OZ6ARC     59   30 SJ SJ 2
+ 7063 PH  0740 LY6A       59  100 SK2T       59   52 VB VB 2
+ 7063 PH  0740 LY6A       59  101 OF8NV      59   34 PO PO 2
+ 7063 PH  0741 LY6A       59  102 SE5E       59   45 UP UP 2
+ 7063 PH  0741 LY6A       59  103 LB2WG      59   16 OS OS 2
+ 7063 PH  0742 LY6A       59  104 OF1TD      59   50 SA SA 2
+ 7063 PH  0742 LY6A       59  105 ES2O       59   48 HR    2
+ 7063 PH  0742 LY6A       59  106 OH7JL      59   53 PK PK 2
+ 7063 PH  0743 LY6A       59  107 SM6IQD     59   31 VD VD 2
+ 7063 PH  0743 LY6A       59  108 ES2IPA     59   41 HR    2
+ 7063 PH  0743 LY6A       59  109 ES7RIX     59   35 VP    2
+ 7063 PH  0743 LY6A       59  110 OH3LS      59   56 PM PM 2
+ 7063 PH  0744 LY6A       59  111 SE5L       59   46 VM VM 2
+ 7063 PH  0745 LY6A       59  112 YL3FT      59   98 OE OE 2
+ 7063 PH  0745 LY6A       59  113 OH8NW      59  101 VA    2
+ 7063 PH  0745 LY6A       59  114 SE4E       59   66 DA DA 2
+ 7063 PH  0746 LY6A       59  115 SE3X       59   40 JL JL 2
+ 7063 PH  0747 LY6A       59  116 OF3P       59   61 PM    2
+ 7063 PH  0747 LY6A       59  117 OF0RJ      59   49 AL AL 2
+ 7063 PH  0748 LY6A       59  118 LY1CO      59   61 KN KN 2
+ 7063 PH  0748 LY6A       59  119 OF2KM      59   60 UU    2
+ 7063 PH  0749 LY6A       59  120 SF3A       59   38 VN VN 1  Nr/39
+ 7063 PH  0749 LY6A       59  121 LY4A       59  140 SU SU 2
+ 7063 PH  0749 LY6A       59  122 OH3JP      59   56 KT KT 2
+ 7063 PH  0750 LY6A       59  123 LA2XNA     59   39 AK AK 2
+ 7063 PH  0750 LY6A       59  124 OF1F       59  123 SA    2
+ 7063 PH  0750 LY6A       59  125 OH6ECM     59   49 PO    2
+ 7063 PH  0751 LY6A       59  126 LY5AA      59   46 KM    2
+ 3649 PH  0752 LY6A       59  127 LY4MA      59   39 KM    2
+ 7063 PH  0753 LY6A       59  128 OH3Z       59  128 VA    2
+ 7063 PH  0753 LY6A       59  129 LA8FTA     59   36 AK    2
+ 7063 PH  0754 LY6A       59  130 OZ4NA      59   54 NJ    2
+ 7063 PH  0754 LY6A       59  131 YL2BJ      59  115 VR VR 2
+ 7063 PH  0757 LY6A       59  132 ES4NY      59   64 IV IV 2
+ 7063 PH  0758 LY6A       59  133 ES1CN      59   70 TL    2
+ 7066 PH  0800 LY6A       59  134 LA5UF      59   49 VF VF 2
+ 7070 PH  0800 LY6A       59  135 ES2MC      59  148 HR    2
+ 3621 PH  0802 LY6A       59  136 ES2MC      59  149 HR    2
+ 7067 PH  0802 LY6A       59  137 SM5ACQ     59   59 VM    2
+ 7082 PH  0804 LY6A       59  138 ES5QA      59  126 JG    0  NotinLog
+ 7087 PH  0804 LY6A       59  139 OZ1KKH     59   41 AH AH 2
+ 7133 PH  0806 LY6A       59  140 OH7A       59  137 PK    2
+ 7140 PH  0807 LY6A       59  141 OZ9VA      59   59 FB FB 2
+ 7144 PH  0807 LY6A       59  142 OZ7X       59  154 AH    2
+ 7162 PH  0808 LY6A       59  143 OF8L       59  116 PP PP 2
+ 7147 PH  0811 LY6A       59  144 ES1O       59   38 TL    2
+ 7086 PH  0813 LY6A       59  145 SD6M       59   56 VD    2
+ 7076 PH  0814 LY6A       59  146 LY5O       59  149 KM    2
+ 7064 PH  0815 LY6A       59  147 YL2KO      59  146 AU AU 2
+ 7074 PH  0818 LY6A       59  148 LY3B       59   91 PA PA 2
+ 7073 PH  0821 LY6A       59  149 LY2NY      59   82 KN    2
+ 7073 PH  0821 LY6A       59  150 ES1TU      59   92 TL    2
+ 7175 PH  0827 LY6A       59  151 OH2PM      59  147 VA    2
+ 7175 PH  0828 LY6A       59  152 YL1S       59  115 RR RR 2

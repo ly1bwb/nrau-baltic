@@ -1,0 +1,48 @@
+     Call: SA0BVA
+ Operator:
+ Category: Single Op                      Band   QSO  Points  Mults
+ Power: LOW                               40m     16      31     10
+     Name: Hans-Olof Jansson              80m     21      41     19
+  Address: Magistervägen 21               Sum     37      72     29
+  Address: 763 35 HALLSTAVIK              Total: 2088
+  Address: SVERIGE
+
+
+
+ 3649 PH  0631 SA0BVA     59    1 ES6RW      59    3 VO VO 2
+ 3646 PH  0634 SA0BVA     59    2 LY2BAW     59    3 VV VV 2
+ 3614 PH  0639 SA0BVA     59    3 LY2MM      59   19 KM KM 2
+ 3611 PH  0641 SA0BVA     59    4 ES7GM      59   28 VP VP 2
+ 3633 PH  0644 SA0BVA     59    5 ES5QA      59   25 JG JG 2
+ 3642 PH  0649 SA0BVA     59    6 LY2CO      59   39 TI TI 2
+ 3703 PH  0651 SA0BVA     59    7 YL2VW      59   40 RR RR 2
+ 3775 PH  0654 SA0BVA     59    8 YL3FT      59   35 OE OE 2
+ 3761 PH  0656 SA0BVA     59    9 LY2J       59   30 MM MM 2
+ 3759 PH  0658 SA0BVA     59   10 OH2PM      59   48 VA VA 1  Nr/49
+ 3738 PH  0701 SA0BVA     59   11 OZ8PG      59   34 FB FB 2
+ 3729 PH  0705 SA0BVA     59   12 YL9T       59   63 VK VK 2
+ 3715 PH  0707 SA0BVA     59   13 OH7A       59   58 PK PK 2
+ 3701 PH  0710 SA0BVA     59   14 YL2SM      59   68 AU AU 2
+ 3735 PH  0713 SA0BVA     59   15 ES6QC      59   66 VO    2
+ 3742 PH  0716 SA0BVA     59   16 OH6RE      59   61 KE KE 2
+ 3760 PH  0718 SA0BVA     59   17 YL2KO      59   71 AU    2
+ 3770 PH  0722 SA0BVA     59   18 OF3P       59   39 PM PM 2
+ 3767 PH  0723 SA0BVA     59   19 SA1CCQ     59   44 GO GO 2
+ 3726 PH  0728 SA0BVA     59   20 OF1F       59   86 SA SA 2
+ 3754 PH  0729 SA0BVA     59   21 OF8L       59   62 PP PP 2
+ 7060 PH  0733 SA0BVA     59   22 ES6QC      59   78 VO VO 2
+ 7089 PH  0734 SA0BVA     59   23 ES6RW      59  117 VO    2
+ 7100 PH  0736 SA0BVA     59   24 ES7GM      59  112 VP VP 1  Nr/122
+ 7062 PH  0738 SA0BVA     59   25 LY6A       59   96 KN KN 2
+ 7086 PH  0740 SA0BVA     59   26 LY2SA      59   89 MM MM 2
+ 7095 PH  0742 SA0BVA     59   27 LY2BAW     59   90 VV VV 2
+ 7076 PH  0744 SA0BVA     59   28 YL2SM      59  108 AU AU 2
+ 7132 PH  0749 SA0BVA     59   29 OH7A       59  110 PK PK 2
+ 7149 PH  0752 SA0BVA     59   30 LY3BN      59  106 KN    2
+ 7155 PH  0755 SA0BVA     59   31 LY5W       59   90 KN    2
+ 7173 PH  0800 SA0BVA     59   32 LY4A       59  158 SU SU 2
+ 7064 PH  0808 SA0BVA     59   33 YL2KO      59  133 AU    2
+ 7076 PH  0809 SA0BVA     59   34 LY5O       59  140 KM KM 2
+ 7085 PH  0810 SA0BVA     59   35 LY2MM      59  112 KM    2
+ 7179 PH  0820 SA0BVA     59   36 LB1AH      59  113 HO HO 2
+ 7153 PH  0823 SA0BVA     59   37 YL2GD      59  153 AU    2

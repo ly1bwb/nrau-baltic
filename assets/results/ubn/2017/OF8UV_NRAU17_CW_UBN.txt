@@ -1,0 +1,26 @@
+     Call: OF8UV
+ Operator:
+ Category: Single Op                      Band   QSO  Points  Mults
+ Power: LOW                               40m     11      20     10
+     Name: Markku Korhonen                80m      6      12      5
+  Address: Rinnetie 12                    Sum     17      32     15
+                                          Total: 480
+
+
+ 3500 CW  0902 OF8UV      599   1 OH6BA      599   2 KE KE 2
+ 3500 CW  0905 OF8UV      599   2 OF1F       599   9 SA SA 2
+ 3500 CW  0908 OF8UV      599   3 OH8NW      599  12 VA VA 2
+ 3500 CW  0909 OF8UV      599   4 OH2YL      599  11 KT KT 2
+ 3500 CW  0914 OF8UV      599   5 OH7JL      599   5 PK PK 2
+ 3500 CW  0917 OF8UV      599   6 OH6RE      599  22 KE    2
+ 7000 CW  1046 OF8UV      599   7 LY3B       599 136 PA PA 2
+ 7000 CW  1047 OF8UV      599   8 OH2YL      599  96 KT KT 2
+ 7000 CW  1047 OF8UV      599   9 YL2BJ      599 139 VR VR 2
+ 7000 CW  1050 OF8UV      599  10 ES5QA      599 127 JG JG 2
+ 7000 CW  1051 OF8UV      599  11 YL2SM      599 157 AU AU 2
+ 7000 CW  1052 OF8UV      599  12 OH2PM      599 160 VA VA 2
+ 7000 CW  1053 OF8UV      599  13 ES6Q       599 150 VO VO 2
+ 7000 CW  1054 OF8UV      599  14 LY5R       599 120 UT UT 2
+ 7000 CW  1056 OF8UV      599  15 ES3CC      599 102 LN LN 2
+ 7000 CW  1057 OF8UV      599  16 LY4L       599 138 KM    0  NotinLog
+ 7000 CW  1059 OF8UV      599  17 LY2BAW     599 152 VV VV 2

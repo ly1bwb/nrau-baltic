@@ -1,0 +1,97 @@
+     Call: OZ4NA
+ Operator:
+ Category: Single Op                      Band   QSO  Points  Mults
+ Power: LOW                               40m     45      89     30
+     Name: Bent Agerskov Nielsen          80m     41      80     30
+  Address: Kastaniealle 19 ?.Doense       Sum     86     169     60
+  Address: Hobro,  9500                   Total: 10140
+  Address: DENMARK
+
+
+
+ 3758 PH  0631 OZ4NA      59    1 LY9Y       59    3 SU SU 2
+ 3748 PH  0634 OZ4NA      59    2 YL2BJ      59    9 VR VR 2
+ 3741 PH  0634 OZ4NA      59    3 LY5O       59    7 KM KM 2
+ 3725 PH  0636 OZ4NA      59    4 ES4NY      59    7 IV IV 2
+ 3718 PH  0637 OZ4NA      59    5 OZ7X       59   11 AH AH 2
+ 3710 PH  0638 OZ4NA      59    6 YL2GD      59   19 AU AU 2
+ 3707 PH  0639 OZ4NA      59    7 ES2MC      59   20 HR HR 2
+ 3625 PH  0639 OZ4NA      59    8 LY4A       59   26 SU    2
+ 3649 PH  0640 OZ4NA      59    9 ES6RW      59   24 VO VO 2
+ 3642 PH  0641 OZ4NA      59   10 YL2CO      59   24 TI    0  Call/LY2CO
+ 3612 PH  0643 OZ4NA      59   11 ES7GM      59   31 VP VP 2
+ 3610 PH  0645 OZ4NA      59   12 ES2EZ      59   29 HR    2
+ 3631 PH  0647 OZ4NA      59   13 LY5W       59   18 KN KN 2
+ 3703 PH  0648 OZ4NA      59   14 YL2VW      59   36 RR RR 2
+ 3724 PH  0651 OZ4NA      59   15 LY2SA      59   37 MM MM 2
+ 3775 PH  0652 OZ4NA      59   16 YL3FT      59   32 OE OE 2
+ 3621 PH  0657 OZ4NA      59   17 SK2T       59   16 VB VB 2
+ 3606 PH  0659 OZ4NA      59   18 LY3BN      59   50 KN    2
+ 3768 PH  0700 OZ4NA      59   19 SA1CCQ     59   16 GO GO 2
+ 3759 PH  0702 OZ4NA      59   20 OH2PM      59   53 VA VA 2
+ 3742 PH  0703 OZ4NA      59   21 OH6RE      59   35 KE KE 2
+ 3729 PH  0704 OZ4NA      59   22 YL9T       59   61 VK VK 2
+ 3727 PH  0704 OZ4NA      59   23 OF1F       59   48 SA SA 2
+ 3715 PH  0706 OZ4NA      59   24 OH7A       59   57 PK PK 2
+ 3701 PH  0707 OZ4NA      59   25 YL2SM      59   62 AU    2
+ 3603 PH  0712 OZ4NA      59   26 8S0C       59   29 SL SL 2
+ 3616 PH  0713 OZ4NA      59   27 LY1CT      59   41 KD KD 2
+ 3628 PH  0715 OZ4NA      59   28 ES5QA      59   67 JG JG 2
+ 3650 PH  0716 OZ4NA      59   29 OZ9VA      59   27 FB FB 2
+ 3643 PH  0717 OZ4NA      59   30 OF1Z       59   68 VA    2
+ 3712 PH  0719 OZ4NA      59   31 LY2J       59   51 MM    2
+ 3737 PH  0723 OZ4NA      59   32 OZ8PG      59   51 FB    2
+ 3737 PH  0724 OZ4NA      59   33 OZ0AP      59   17 SS SS 2
+ 3737 PH  0725 OZ4NA      59   34 OZ1KKH     59   21 AH    2
+ 3737 PH  0727 OZ4NA      59   35 OZ7SG      59   19 NJ NJ 2
+ 3737 PH  0727 OZ4NA      59   36 SM6IQD     59   23 VD VD 2
+ 3737 PH  0729 OZ4NA      59   37 LB8QG      59   15 OF OF 2
+ 3738 PH  0731 OZ4NA      59   38 SD6M       59   25 VD    2
+ 3730 PH  0734 OZ4NA      59   39 SE5L       59   40 VM VM 2
+ 3711 PH  0735 OZ4NA      59   40 OZ11A      59   38 NJ    2
+ 3619 PH  0737 OZ4NA      59   41 OF6MW      59   76 KT KT 2
+ 7173 PH  0742 OZ4NA      59   42 LY4A       59  127 SU SU 2
+ 7158 PH  0744 OZ4NA      59   43 OF1F       59  110 SA SA 2
+ 7151 PH  0744 OZ4NA      59   44 LY2J       59   68 MM MM 2
+ 7140 PH  0746 OZ4NA      59   45 YL2BJ      59  108 VR VR 2
+ 7141 PH  0746 OZ4NA      59   46 YL2GD      59  113 AU AU 2
+ 7100 PH  0748 OZ4NA      59   47 ES7GM      59  150 VP VP 2
+ 7095 PH  0749 OZ4NA      59   48 LY2BAW     59  102 VV VV 2
+ 7089 PH  0750 OZ4NA      59   49 ES6RW      59  147 VO VO 2
+ 7076 PH  0750 OZ4NA      59   50 YL2SM      59  122 AU    2
+ 7073 PH  0751 OZ4NA      59   51 OH3Z       59  127 VA VA 2
+ 7070 PH  0751 OZ4NA      59   52 ES2MC      59  133 HR HR 2
+ 7060 PH  0753 OZ4NA      59   53 ES6QC      59  100 VO    2
+ 7063 PH  0754 OZ4NA      59   54 LY6A       59  130 KN KN 2
+ 7082 PH  0755 OZ4NA      59   55 ES5QA      59  115 JG JG 2
+ 7098 PH  0756 OZ4NA      59   56 OH2KW      59   72 UU UU 2
+ 7149 PH  0757 OZ4NA      59   57 LY3BN      59  116 KN    2
+ 7200 PH  0759 OZ4NA      59   58 SE5E       59   67 UP UP 2
+ 7198 PH  0800 OZ4NA      59   59 OF3R       59   38 PH PH 2
+ 7198 PH  0801 OZ4NA      59   60 LY2ZO      59   66 KM KM 2
+ 7198 PH  0801 OZ4NA      59   61 OH3JP      59   63 KE    1  Mult/KT
+ 7198 PH  0803 OZ4NA      59   62 LY2NY      59   72 KN    2
+ 7198 PH  0805 OZ4NA      59   63 YL3GAO     59   52 DO DO 2
+ 7198 PH  0806 OZ4NA      59   64 ES1TU      59   86 TL TL 2
+ 7198 PH  0807 OZ4NA      59   65 YL2II      59   32 AI AI 2
+ 7198 PH  0807 OZ4NA      59   66 LY2TS      59   90 TI TI 2
+ 7198 PH  0808 OZ4NA      59   67 OF1Z       59  106 VA    2
+ 7198 PH  0809 OZ4NA      59   68 LY7M       59   88 UT UT 2
+ 7198 PH  0809 OZ4NA      59   69 LY4K       59   67 KM    2
+ 7198 PH  0810 OZ4NA      59   70 ES2O       59   62 HR    2
+ 7198 PH  0811 OZ4NA      59   71 8S0C       59   94 SL SL 2
+ 7198 PH  0811 OZ4NA      59   72 YL2KF      59  108 LM LM 2
+ 7198 PH  0812 OZ4NA      59   73 OZ7SG      59   43 NJ NJ 2
+ 7198 PH  0812 OZ4NA      59   74 OH6RE      59  129 KE KE 2
+ 7198 PH  0813 OZ4NA      59   75 LY2CO      59  117 TI    2
+ 7198 PH  0813 OZ4NA      59   76 LY9Y       59   94 SU    2
+ 7198 PH  0814 OZ4NA      59   77 YL2VW      59  131 RR RR 2
+ 7195 PH  0816 OZ4NA      59   78 OF6MW      59  112 KT KT 2
+ 7189 PH  0817 OZ4NA      59   79 OH2PM      59  133 VA    2
+ 7166 PH  0818 OZ4NA      59   80 YL2PJ      59  121 RE RE 2
+ 7076 PH  0821 OZ4NA      59   81 LY5O       59  159 KM    2
+ 7062 PH  0822 OZ4NA      59   82 YL3FT      59  146 OE OE 2
+ 7068 PH  0823 OZ4NA      59   83 OH8NW      59  126 VA    2
+ 7130 PH  0825 OZ4NA      59   84 LY2IJ      59   12 UT    2
+ 7133 PH  0825 OZ4NA      59   85 OH7A       59  156 PK PK 2
+ 7168 PH  0828 OZ4NA      59   86 OF1TD      59   78 SA    2

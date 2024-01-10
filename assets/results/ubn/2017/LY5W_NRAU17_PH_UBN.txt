@@ -1,0 +1,134 @@
+     Call: LY5W
+ Operator:
+ Category: Single Op                      Band   QSO  Points  Mults
+ Power: LOW                               40m     50      95     34
+     Name: Saulius Zalnerauskas           80m     73     144     49
+  Address: Box 1081                       Sum    123     239     83
+  Address: Kaunas,  LT-49006              Total: 19837
+  Address: LITHUANIA
+
+
+
+ 3607 PH  0632 LY5W       59    1 LY1SR      59    3 KM KM 2
+ 3612 PH  0633 LY5W       59    2 ES7GM      59   10 VP VP 2
+ 3614 PH  0634 LY5W       59    3 LY2MM      59    9 KM    2
+ 3617 PH  0634 LY5W       59    4 LY4L       59   10 KM    2
+ 3619 PH  0634 LY5W       59    5 OF6MW      59   10 KT KT 2
+ 3625 PH  0636 LY5W       59    6 LY4A       59   18 SU SU 2
+ 3627 PH  0637 LY5W       59    7 LY3BN      59   15 KN KN 2
+ 3629 PH  0637 LY5W       59    8 LY6A       59   22 KN    2
+ 3631 PH  0638 LY5W       59    9 LY1CO      59    8 KN    2
+ 3631 PH  0639 LY5W       59   10 ES1TU      59   11 TL TL 2
+ 3631 PH  0641 LY5W       59   11 OF0RJ      59    8 AL AL 2
+ 3631 PH  0641 LY5W       59   12 LY3CY      59   14 VU VU 2
+ 3631 PH  0641 LY5W       59   13 LY5P       59    8 SI SI 2
+ 3631 PH  0642 LY5W       59   14 LY2BOK     59    6 AT AT 2
+ 3631 PH  0643 LY5W       59   15 YL2KO      59   20 AU AU 2
+ 3631 PH  0644 LY5W       59   16 YL2PJ      59   21 RE RE 2
+ 3631 PH  0645 LY5W       59   17 LY9Y       59   20 SU    2
+ 3631 PH  0647 LY5W       59   18 OZ4NA      59   12 NJ NJ 1  Nr/13
+ 3631 PH  0648 LY5W       59   19 LY2BAG     59    9 KM    2
+ 3631 PH  0650 LY5W       59   20 8S0C       59    6 SL SL 2
+ 3622 PH  0651 LY5W       59   21 LY1CT      59   19 KD KD 2
+ 3617 PH  0652 LY5W       59   22 LY2PBV     59   24 MM MM 1  Nr/23
+ 3610 PH  0653 LY5W       59   23 ES2EZ      59   45 HR HR 2
+ 3601 PH  0654 LY5W       59   24 LY4Q       59   36 VU    2
+ 3637 PH  0654 LY5W       59   25 YL7A       59   39 VK VK 2
+ 3643 PH  0655 LY5W       59   26 OF1Z       59   21 VA VA 2
+ 3649 PH  0656 LY5W       59   27 ES6RW      59   63 VO VO 2
+ 3700 PH  0656 LY5W       59   28 OZ11A      59   18 NJ    2
+ 3703 PH  0657 LY5W       59   29 YL100ZK    59   20 RR RR 2
+ 3703 PH  0657 LY5W       59   30 OF1F       59   33 SA SA 2
+ 3703 PH  0658 LY5W       59   31 ES5JR      59   15 TA TA 2
+ 3703 PH  0658 LY5W       59   32 OF8UV      59   16 KU KU 2
+ 3703 PH  0659 LY5W       59   33 YL2SM      59   51 AU    2
+ 3703 PH  0659 LY5W       59   34 SE3X       59   14 JL JL 2
+ 3703 PH  0700 LY5W       59   35 SK2T       59   19 VB VB 2
+ 3703 PH  0703 LY5W       59   36 LA2XNA     59   19 AK AK 2
+ 3703 PH  0704 LY5W       59   37 LY4MA      59    2 KM    2
+ 3703 PH  0705 LY5W       59   38 OZ6ARC     59   15 SJ SJ 2
+ 3703 PH  0705 LY5W       59   39 LY4LA      59   29 KD    2
+ 3703 PH  0706 LY5W       59   40 SE5N       59   24 SO SO 2
+ 3703 PH  0707 LY5W       59   41 OH6ECM     59   23 PO PO 2
+ 3703 PH  0707 LY5W       59   42 OF1TD      59   29 SA    2
+ 3703 PH  0709 LY5W       59   43 LY2NY      59   41 KN    2
+ 3715 PH  0711 LY5W       59   44 OH7A       59   64 PK PK 2
+ 3718 PH  0711 LY5W       59   45 OZ7X       59   55 AH AH 2
+ 3720 PH  0712 LY5W       59   46 YL2KF      59   73 LM LM 2
+ 3708 PH  0713 LY5W       59   47 SE4E       59   39 DA DA 2
+ 3775 PH  0713 LY5W       59   48 YL3FT      59   78 OE OE 2
+ 3772 PH  0714 LY5W       59   49 ES4NY      59   37 IV IV 2
+ 3767 PH  0715 LY5W       59   50 SA1CCQ     59   34 GO GO 2
+ 3770 PH  0716 LY5W       59   51 OF3P       59   34 PM PM 2
+ 3751 PH  0718 LY5W       59   52 OH3Z       59   81 VA    2
+ 3747 PH  0719 LY5W       59   53 LB1AH      59   38 HO HO 2
+ 3744 PH  0721 LY5W       59   54 YL3GAO     59   28 DO DO 2
+ 3744 PH  0721 LY5W       59   55 YL1ZT      59   38 TU TU 2
+ 3744 PH  0722 LY5W       59   56 YL1S       59   65 RR    2
+ 3744 PH  0723 LY5W       59   57 LY2CO      59   82 TI TI 2
+ 3744 PH  0723 LY5W       59   58 YL2II      59    9 AI AI 2
+ 3744 PH  0725 LY5W       59   59 SD6M       59   22 VD VD 2
+ 3744 PH  0726 LY5W       59   60 LY2TS      59   59 TI    2
+ 3744 PH  0727 LY5W       59   61 LY2ON      59   28 KI KI 2
+ 3744 PH  0728 LY5W       59   62 YL2BJ      59   94 VR VR 2
+ 3744 PH  0728 LY5W       59   63 YL9T       59   95 VK    2
+ 3744 PH  0729 LY5W       59   64 ES6QC      59   75 VO    2
+ 3744 PH  0729 LY5W       59   65 LY3B       59   51 PA PA 2
+ 3744 PH  0729 LY5W       59   66 YL2VW      59   91 RR    2
+ 3744 PH  0730 LY5W       59   67 LY5T       59   49 AT    2
+ 3744 PH  0731 LY5W       59   68 LY4K       59   42 KM    2
+ 3744 PH  0732 LY5W       59   69 LY5O       59   92 KM    2
+ 3744 PH  0732 LY5W       59   70 ES1BH      59   65 TL    2
+ 3744 PH  0735 LY5W       59   71 OF2KM      59   50 UU UU 2
+ 3716 PH  0738 LY5W       59   72 SM5ACQ     59   44 VM VM 2
+ 3722 PH  0740 LY5W       59   73 LA8FTA     59   29 AK    2
+ 7173 PH  0743 LY5W       59   74 LY4A       59  128 SU SU 2
+ 7175 PH  0744 LY5W       59   75 LY4L       59  101 KM KM 2
+ 7167 PH  0745 LY5W       59   76 OF8UV      59   35 KU KU 2
+ 7155 PH  0746 LY5W       59   77 OZ8PG      59   76 FB FB 2
+ 7155 PH  0746 LY5W       59   78 ES2IPA     59   44 HR HR 2
+ 7155 PH  0747 LY5W       59   79 SE5N       59   46 SO SO 2
+ 7155 PH  0747 LY5W       59   80 SE5E       59   55 UP UP 2
+ 7155 PH  0749 LY5W       59   81 SA1CCQ     59   63 GO GO 2
+ 7155 PH  0749 LY5W       59   82 LA9PTA     59   19 OF OF 2
+ 7155 PH  0750 LY5W       59   83 ES1TU      59   76 TL TL 2
+ 7155 PH  0751 LY5W       59   84 SE3X       59   46 JL JL 2
+ 7155 PH  0751 LY5W       59   85 OF2KM      59   63 UU UU 2
+ 7155 PH  0752 LY5W       59   86 OF1Z       59   97 VA VA 2
+ 7155 PH  0753 LY5W       59   87 ES1CN      59   67 TL    2
+ 7155 PH  0754 LY5W       59   88 OF3R       59   35 PH PH 2
+ 7155 PH  0754 LY5W       59   89 ES2EZ      59  112 HR    2
+ 7155 PH  0755 LY5W       59   90 SA0BVA     59   21 SL SL 1  Nr/31
+ 7155 PH  0756 LY5W       59   91 OF5AA      59   55 SL    0  Unique <10
+ 7155 PH  0757 LY5W       59   92 OH3Z       59  132 VA    2
+ 7155 PH  0757 LY5W       59   93 LB3RE      59   17 OP OP 2
+ 7155 PH  0758 LY5W       59   94 ES1QD      59   59 TL    2
+ 7155 PH  0758 LY5W       59   95 OF0RJ      59   57 AL AL 2
+ 7155 PH  0759 LY5W       59   96 OH6RE      59  115 KE KE 2
+ 7155 PH  0800 LY5W       59   97 OH6ECM     59   55 PO PO 2
+ 7155 PH  0800 LY5W       59   98 OH8NW      59  111 VA    2
+ 7155 PH  0801 LY5W       59   99 LY2N       59   20 KM    2
+ 7155 PH  0801 LY5W       59  100 SE4E       59   81 DA DA 2
+ 7155 PH  0803 LY5W       59  101 OH3RT      59   20 PH    2
+ 7155 PH  0804 LY5W       59  102 OF1TD      59   64 SA SA 2
+ 7153 PH  0805 LY5W       59  103 LY2ZO      59   70 KM    2
+ 7153 PH  0807 LY5W       59  104 ES1O       59   36 TL    2
+ 7162 PH  0810 LY5W       59  105 OF8L       59  117 PP PP 2
+ 7183 PH  0811 LY5W       59  106 OZ11A      59   92 NJ NJ 2
+ 7186 PH  0812 LY5W       59  107 SK2T       59   83 VB VB 2
+ 7189 PH  0812 LY5W       59  108 OH2PM      59  124 VA    2
+ 7195 PH  0812 LY5W       59  109 OF6MW      59  107 KT KT 2
+ 7072 PH  0813 LY5W       59  110 OF1F       59  154 SA    2
+ 7076 PH  0814 LY5W       59  111 LY5O       59  147 KM    2
+ 7082 PH  0814 LY5W       59  112 SM5ACQ     59   74 VM VM 2
+ 7089 PH  0815 LY5W       59  113 ES6RW      59  177 VO VO 2
+ 7094 PH  0816 LY5W       59  114 LA5UF      59   58 VF VF 2
+ 7100 PH  0816 LY5W       59  115 ES7GM      59  184 VP VP 2
+ 7070 PH  0818 LY5W       59  116 YL2SM      59  154 AU AU 2
+ 7164 PH  0819 LY5W       59  117 ES6PA      59   94 VO    2
+ 7164 PH  0820 LY5W       59  118 LA2XNA     59   60 AK AK 2
+ 7164 PH  0821 LY5W       59  119 ES1BH      59   93 TL    2
+ 7164 PH  0824 LY5W       59  120 ES5QA      59  142 JG JG 2
+ 7164 PH  0824 LY5W       59  121 SE5L       59   72 VM    0  NotinLog
+ 7164 PH  0825 LY5W       59  122 OZ1KKH     59   50 AH AH 2
+ 7164 PH  0826 LY5W       59  123 OH7JL      59   72 PK PK 2

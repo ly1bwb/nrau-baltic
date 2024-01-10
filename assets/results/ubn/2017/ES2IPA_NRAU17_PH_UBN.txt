@@ -1,0 +1,71 @@
+     Call: ES2IPA
+ Operator:
+ Category: Single Op                      Band   QSO  Points  Mults
+ Power: LOW                               40m     27      44     13
+     Name: Igor Päss                      80m     34      67     23
+  Address: Loc: Haabneeme, Estonia        Sum     61     111     36
+  Address: post: Raua 36, 10152 Tallinn,  Total: 3996
+
+
+
+ 3609 PH  0630 ES2IPA     59    1 ES2EZ      59    2 HR HR 2
+ 3646 PH  0632 ES2IPA     59    2 LY2BAW     59    2 VV VV 2
+ 3729 PH  0638 ES2IPA     59    3 YL9T       59   11 VK VK 2
+ 3748 PH  0640 ES2IPA     59    4 YL2BJ      59   24 VR VR 2
+ 3734 PH  0642 ES2IPA     59    5 ES6QC      59   20 VO VO 2
+ 3703 PH  0643 ES2IPA     59    6 YL2VW      59   24 RR RR 2
+ 3696 PH  0644 ES2IPA     59    7 OH2KW      59   16 UU UU 2
+ 3612 PH  0645 ES2IPA     59    8 ES7GM      59   33 VP VP 2
+ 3625 PH  0647 ES2IPA     59    9 LY4A       59   41 SU SU 2
+ 3645 PH  0648 ES2IPA     59   10 ES2O       59   19 HR    2
+ 3706 PH  0649 ES2IPA     59   11 ES2MC      59   44 HR    2
+ 3709 PH  0650 ES2IPA     59   12 YL2GD      59   44 AU AU 2
+ 3717 PH  0651 ES2IPA     59   13 OZ7X       59   30 AH AH 2
+ 3727 PH  0652 ES2IPA     59   14 OF1F       59   25 SA SA 2
+ 3775 PH  0653 ES2IPA     59   15 YL3FT      59   33 OE OE 2
+ 3765 PH  0655 ES2IPA     59   16 SM5ACQ     59   18 VM VM 2
+ 3759 PH  0655 ES2IPA     59   17 OH2PM      59   42 VA VA 2
+ 3649 PH  0657 ES2IPA     59   18 ES6RW      59   66 VO    2
+ 3643 PH  0658 ES2IPA     59   19 OF1Z       59   25 VA    2
+ 3637 PH  0659 ES2IPA     59   20 YL7A       59   48 VK    2
+ 3627 PH  0700 ES2IPA     59   21 ES1CN      59   28 TL TL 2
+ 3624 PH  0700 ES2IPA     59   22 ES1BH      59   23 TL    2
+ 3615 PH  0701 ES2IPA     59   23 OH8NW      59   50 VA    2
+ 3603 PH  0702 ES2IPA     59   24 ES3BM      59   27 RP RP 1  Nr/23
+ 7173 PH  0703 ES2IPA     59   25 YL4A       59   75 SU    0  Call/LY4A
+ 3720 PH  0709 ES2IPA     59   26 YL2KF      59   66 LM LM 2
+ 3750 PH  0711 ES2IPA     59   27 OH3Z       59   62 VA    2
+ 3770 PH  0712 ES2IPA     59   28 YL2PJ      59   64 RE RE 2
+ 3701 PH  0714 ES2IPA     59   29 YL2SM      59   75 AU    2
+ 3621 PH  0716 ES2IPA     59   30 SK2T       59   33 VB VB 2
+ 7158 PH  0719 ES2IPA     59   31 OZ1A       59   29 NJ    0  Call/OZ11A
+ 7150 PH  0720 ES2IPA     59   32 LY7M       59   36 UT UT 2
+ 7142 PH  0721 ES2IPA     59   33 HF800O     59    1 --    0  Unique <10
+ 7147 PH  0722 ES2IPA     59   34 LY9Y       59   51 SU SU 2
+ 7100 PH  0724 ES2IPA     59   35 ES7GM      59   99 VP VP 2
+ 7093 PH  0725 ES2IPA     59   36 TM57H      59    1 --    0  Unique <10
+ 3754 PH  0728 ES2IPA     59   37 OF8L       59   61 PP PP 2
+ 3612 PH  0731 ES2IPA     59   38 ES5QA      59   88 JG JG 2
+ 3771 PH  0738 ES2IPA     59   39 OF3P       59   56 PM PM 2
+ 3757 PH  0740 ES2IPA     59   40 OF2KM      59   55 UU    2
+ 7062 PH  0743 ES2IPA     59   41 LY6A       59  108 KN KN 2
+ 7065 PH  0744 ES2IPA     59   42 LY1SR      59   62 KM KM 2
+ 7162 PH  0745 ES2IPA     59   43 ES1TU      59   70 TL TL 2
+ 7155 PH  0746 ES2IPA     59   44 LY5W       59   78 KN    2
+ 7149 PH  0747 ES2IPA     59   45 LY3BN      59  100 KN    2
+ 7144 PH  0748 ES2IPA     59   46 OZ7X       59  109 AH AH 2
+ 7151 PH  0756 ES2IPA     59   47 LY2SA      59  109 MM MM 2
+ 7170 PH  0758 ES2IPA     59   48 LY5T       59   72 AT AT 2
+ 7181 PH  0800 ES2IPA     59   49 OZ8PG      59   99 FB FB 2
+ 7099 PH  0804 ES2IPA     59   50 ES1BH      59   83 TL    2
+ 7136 PH  0805 ES2IPA     59   51 ES2EZ      59  122 HR HR 2
+ 7155 PH  0808 ES2IPA     59   52 LY2CO      59  114 TI TI 2
+ 7076 PH  0810 ES2IPA     59   53 LY5O       59  142 KM    2
+ 7084 PH  0812 ES2IPA     59   54 YL2MM      59  115 KM    0  Call/LY2MM
+ 7067 PH  0814 ES2IPA     59   55 ES2MC      59  162 HR    2
+ 7140 PH  0816 ES2IPA     59   56 OZ9VA      59   73 FB    2
+ 7086 PH  0821 ES2IPA     59   57 SD6M       59   63 VD VD 2
+ 3629 PH  0823 ES2IPA     59   58 ES1QD      59   65 TL    2
+ 7064 PH  0825 ES2IPA     59   59 LY4L       59  149 KM    2
+ 7093 PH  0827 ES2IPA     59   60 LY2J       59   91 MM    2
+ 7171 PH  0829 ES2IPA     59   61 ES1CN      59   82 TL    2

@@ -1,0 +1,62 @@
+     Call: LY3IZ
+ Operator:
+ Category: Single Op                      Band   QSO  Points  Mults
+ Power: LOW                               40m     16      31     14
+     Name: MONTVYDAS                      80m     37      73     22
+  Address: PILIES 25 UZPALIAI             Sum     53     104     36
+                                          Total: 3744
+
+
+ 3500 PH  0631 LY3IZ      59    1 LY2CO      59    3 TI TI 2
+ 3500 PH  0634 LY3IZ      59    2 LY3BN      59    7 KN KN 2
+ 3500 PH  0635 LY3IZ      59    3 LY4L       59   12 KM KM 2
+ 3500 PH  0636 LY3IZ      59    4 LY2MM      59   14 KM    2
+ 3500 PH  0638 LY3IZ      59    5 LY4Q       59   11 VU VU 2
+ 3500 PH  0639 LY3IZ      59    6 LY4A       59   25 SU SU 2
+ 3500 PH  0641 LY3IZ      59    7 LY2BAW     59   19 VV VV 2
+ 3500 PH  0644 LY3IZ      59    8 YL7A       59   22 VK VK 2
+ 3500 PH  0646 LY3IZ      59    9 LY2PBV     59   15 MM MM 2
+ 3500 PH  0648 LY3IZ      59   10 LY6A       59   37 KN    2
+ 3500 PH  0649 LY3IZ      59   11 ES6RMR     59   13 VO    1  Mult/VC
+ 3500 PH  0650 LY3IZ      59   12 ES6RW      59   50 VO VO 2
+ 3500 PH  0652 LY3IZ      59   13 LY1CT      59   20 KD KD 2
+ 3500 PH  0654 LY3IZ      59   14 OH8NW      59   36 VA VA 2
+ 3500 PH  0657 LY3IZ      59   15 ES1BH      59   15 TL TL 2
+ 3500 PH  0658 LY3IZ      59   16 LY1SR      59   26 KM    2
+ 3500 PH  0700 LY3IZ      59   17 OF6MW      59   47 KT KT 2
+ 3500 PH  0703 LY3IZ      59   18 LY2TS      59   38 TI    2
+ 3500 PH  0705 LY3IZ      59   19 SA1CCQ     59   23 GO GO 2
+ 3500 PH  0707 LY3IZ      59   20 YL2PJ      59   53 RE RE 2
+ 3500 PH  0708 LY3IZ      59   21 YL3FT      59   63 OE OE 2
+ 3500 PH  0712 LY3IZ      59   22 OH3Z       59   66 VA    2
+ 3500 PH  0714 LY3IZ      59   23 YL9T       59   80 VK    2
+ 3500 PH  0716 LY3IZ      59   24 OF1F       59   72 SA SA 2
+ 3500 PH  0718 LY3IZ      59   25 OH7A       59   73 PK PK 2
+ 3500 PH  0720 LY3IZ      59   26 LY2J       59   53 MM    2
+ 3500 PH  0723 LY3IZ      59   27 LY5O       59   81 KM    2
+ 3500 PH  0725 LY3IZ      59   28 LY2SA      59   75 MM    2
+ 3500 PH  0727 LY3IZ      59   29 LY4K       59   38 KM    2
+ 3500 PH  0727 LY3IZ      59   30 YL2KO      59   82 AU AU 2
+ 3500 PH  0730 LY3IZ      59   31 8S0C       59   51 SL SL 2
+ 3500 PH  0732 LY3IZ      59   32 ES6PA      59   60 VO    2
+ 3500 PH  0733 LY3IZ      59   33 LY4MA      59   30 KM    2
+ 7000 PH  0740 LY3IZ      59   34 ES7GM      59  132 VP VP 2
+ 7000 PH  0744 LY3IZ      59   35 ES2MC      59  122 HR HR 2
+ 7000 PH  0746 LY3IZ      59   36 OH3Z       59  118 VA VA 2
+ 7000 PH  0750 LY3IZ      59   37 OF1F       59  121 SA SA 2
+ 3500 PH  0751 LY3IZ      59   38 LY2BMX     59   44 UT UT 2
+ 3500 PH  0752 LY3IZ      59   39 LY3CY      59   57 VU    2
+ 7000 PH  0756 LY3IZ      59   40 OF8L       59   90 PP PP 2
+ 7000 PH  0804 LY3IZ      59   41 OH8NW      59  117 VA    2
+ 7000 PH  0805 LY3IZ      59   42 SK2T       59   76 VB VB 2
+ 7000 PH  0807 LY3IZ      59   43 OF6MW      59  143 KT KT 1  Nr/103
+ 7000 PH  0809 LY3IZ      59   44 OZ11A      59   87 NJ NJ 2
+ 7000 PH  0810 LY3IZ      59   45 LY4A       59  172 SU SU 2
+ 7000 PH  0811 LY3IZ      59   46 OH6RE      59  128 KE KE 2
+ 3500 PH  0811 LY3IZ      59   47 LY2ZO      59   75 KM    2
+ 7000 PH  0816 LY3IZ      59   48 OH2PM      59  131 VA    2
+ 7000 PH  0817 LY3IZ      59   49 SE5E       59   86 UP UP 2
+ 7000 PH  0819 LY3IZ      59   50 OZ7X       59  167 AH AH 2
+ 7000 PH  0821 LY3IZ      59   51 OH7A       59  151 PK PK 2
+ 7000 PH  0825 LY3IZ      59   52 LB1AH      59  121 HO HO 2
+ 3500 PH  0829 LY3IZ      59   53 YL100ZK    59   73 RR RR 2

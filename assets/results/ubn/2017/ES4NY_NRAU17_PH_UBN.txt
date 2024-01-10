@@ -1,0 +1,89 @@
+     Call: ES4NY
+ Operator:
+ Category: Single Op                      Band   QSO  Points  Mults
+ Power: LOW                               40m     15      28     11
+     Name: Oskar Noges                    80m     63     125     42
+  Address: Oru t. , Alekere k.            Sum     78     153     53
+  Address: Avinurme v. , Ida-Virumaa      Total: 8109
+  Address: ,  42104
+
+
+
+ 3724 PH  0631 ES4NY      59    1 OF8NV      59    2 PO PO 2
+ 3724 PH  0632 ES4NY      59    2 YL1S       59    4 RR RR 2
+ 3724 PH  0632 ES4NY      59    3 OH3Z       59    1 VA VA 2
+ 3724 PH  0634 ES4NY      59    4 OF8UV      59    3 KU KU 2
+ 3724 PH  0634 ES4NY      59    5 YL2KO      59    7 AU AU 2
+ 3724 PH  0635 ES4NY      59    6 OH2KW      59    6 UU UU 2
+ 3724 PH  0635 ES4NY      59    7 OZ4NA      59    4 NJ NJ 2
+ 3724 PH  0636 ES4NY      59    8 OF1Z       59    2 VA    2
+ 3724 PH  0636 ES4NY      59    9 OH3LS      59    6 PM PM 2
+ 3724 PH  0637 ES4NY      59   10 YL2PJ      59    9 RE RE 2
+ 3724 PH  0637 ES4NY      59   11 LY9Y       59   10 SU SU 2
+ 3724 PH  0638 ES4NY      59   12 OZ6ARC     59    2 SJ SJ 2
+ 3724 PH  0639 ES4NY      59   13 YL2KF      59   15 LM LM 2
+ 3724 PH  0639 ES4NY      59   14 LY4K       59    9 KM KM 2
+ 3724 PH  0640 ES4NY      59   15 OF2KM      59   11 UU    2
+ 3724 PH  0642 ES4NY      59   16 OH3JP      59    8 KT KT 2
+ 3724 PH  0643 ES4NY      59   17 ES6PA      59   14 VO VO 2
+ 3748 PH  0648 ES4NY      59   18 YL2BJ      59   43 VR VR 2
+ 3744 PH  0650 ES4NY      59   19 YL100ZK    59   15 RR    2
+ 3744 PH  0651 ES4NY      59   20 LY2TS      59   24 TI TI 2
+ 3744 PH  0651 ES4NY      59   21 OH6ECM     59    9 PO    2
+ 3744 PH  0651 ES4NY      59   22 OF1TD      59   17 SA SA 2
+ 3744 PH  0652 ES4NY      59   23 ES5JR      59   10 TA TA 2
+ 3744 PH  0653 ES4NY      59   24 ES1QD      59   17 TL TL 2
+ 3744 PH  0654 ES4NY      59   25 ES8TJM     59    7 PU PU 2
+ 3744 PH  0654 ES4NY      59   26 YL3GAO     59   14 DO DO 2
+ 3744 PH  0655 ES4NY      59   27 OF3P       59   19 PM    2
+ 3744 PH  0656 ES4NY      59   28 LY1SR      59   24 KM    2
+ 3744 PH  0657 ES4NY      59   29 ES7RIX     59   10 VP VP 2
+ 3744 PH  0658 ES4NY      59   30 ES1TU      59   32 TL    2
+ 3744 PH  0658 ES4NY      59   31 OH7JL      59   24 PK PK 2
+ 3744 PH  0658 ES4NY      59   32 ES3BQ      59    6 RP RP 2
+ 3744 PH  0700 ES4NY      59   33 ES0DJ      59   13 SR SR 2
+ 3744 PH  0702 ES4NY      59   34 ES5TF      59   27 TA    2
+ 3727 PH  0707 ES4NY      59   35 OF1F       59   54 SA    2
+ 3772 PH  0713 ES4NY      59   36 OF0RJ      59   27 AL AL 2
+ 3772 PH  0714 ES4NY      59   37 LY5W       59   49 KN KN 2
+ 3775 PH  0717 ES4NY      59   38 YL3FT      59   81 OE OE 2
+ 3757 PH  0719 ES4NY      59   39 SE5N       59   30 SO SO 2
+ 3757 PH  0720 ES4NY      59   40 SE4E       59   45 DA DA 2
+ 3757 PH  0720 ES4NY      59   41 YL1ZT      59   37 TU TU 2
+ 3757 PH  0721 ES4NY      59   42 YL9T       59   89 VK VK 2
+ 3757 PH  0722 ES4NY      59   43 OF2J       59   26 UU    2
+ 3757 PH  0723 ES4NY      59   44 ES7GM      59   97 VP    2
+ 3757 PH  0723 ES4NY      59   45 LY5T       59   44 AT AT 2
+ 3757 PH  0724 ES4NY      59   46 YL7A       59   81 VK    2
+ 3757 PH  0724 ES4NY      59   47 ES1BH      59   55 TL    2
+ 3757 PH  0725 ES4NY      59   48 LY3CY      59   44 VU VU 2
+ 3757 PH  0725 ES4NY      59   49 LY6A       59   81 KN    2
+ 3757 PH  0726 ES4NY      59   50 YL2SM      59   90 AU    2
+ 3757 PH  0726 ES4NY      59   51 YL2II      59   12 AI AI 2
+ 3757 PH  0726 ES4NY      59   52 ES6QC      59   73 VO    2
+ 3757 PH  0728 ES4NY      59   53 SK2T       59   42 VB VB 2
+ 3757 PH  0728 ES4NY      59   54 ES2O       59   42 HR HR 2
+ 3757 PH  0729 ES4NY      59   55 YL2VW      59   89 RR    2
+ 3757 PH  0729 ES4NY      59   56 OH3RT      59    9 PH PH 2
+ 3757 PH  0730 ES4NY      59   57 ES2EZ      59   87 HR    2
+ 3757 PH  0730 ES4NY      59   58 LY3B       59   52 PA PA 2
+ 3757 PH  0731 ES4NY      59   59 LY4LA      59   42 KD KD 1  Nr/43
+ 3757 PH  0732 ES4NY      59   60 LY4A       59  113 SU    2
+ 3612 PH  0735 ES4NY      59   61 ES5QA      59   93 JG JG 2
+ 3711 PH  0743 ES4NY      59   62 YL2GD      59  108 AU    2
+ 3711 PH  0743 ES4NY      59   63 ES1CN      59   59 TL    2
+ 7063 PH  0757 ES4NY      59   64 LY6A       59  132 KN KN 2
+ 7073 PH  0758 ES4NY      59   65 SF3A       59   45 VN VN 2
+ 7069 PH  0759 ES4NY      59   66 SM5ACQ     59   57 VM VM 2
+ 7076 PH  0801 ES4NY      59   67 LY5O       59  128 KM KM 2
+ 7097 PH  0803 ES4NY      59   68 LY1SR      59   90 KM    2
+ 7097 PH  0812 ES4NY      59   69 LY2A       59  125 MM    0  Call/LY2SA
+ 7097 PH  0815 ES4NY      59   70 LY2N       59   28 KM    2
+ 7097 PH  0816 ES4NY      59   71 LA2XNA     59   58 AK AK 2
+ 7097 PH  0818 ES4NY      59   72 OZ8PG      59  119 FB FB 2
+ 7097 PH  0821 ES4NY      59   73 ES7GM      59  190 VP VP 2
+ 7097 PH  0822 ES4NY      59   74 LA5UF      59   61 VF VF 2
+ 7097 PH  0824 ES4NY      59   75 SE5N       59   79 SO SO 2
+ 7097 PH  0825 ES4NY      59   76 OZ9VA      59   85 FB    2
+ 7097 PH  0826 ES4NY      59   77 OZ7X       59  176 AH AH 2
+ 7097 PH  0828 ES4NY      59   78 ES2MC      59  175 HR HR 2

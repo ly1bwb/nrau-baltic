@@ -1,0 +1,76 @@
+     Call: ES3BM
+ Operator:
+ Category: Single Op                      Band   QSO  Points  Mults
+ Power: LOW                               40m     22      43     18
+     Name: Mart Osmin                     80m     44      84     29
+  Address:                                Sum     66     127     47
+  Address: Estonia                        Total: 5969
+
+
+
+ 3635 PH  0632 ES3BM      59    1 OZ8PG      59    2 FB    0  NotinLog
+ 3635 PH  0632 ES3BM      59    2 ES5TF      59    2 TA TA 2
+ 3635 PH  0633 ES3BM      59    3 LY5AA      59    3 KM KM 2
+ 3635 PH  0634 ES3BM      59    4 ES0DJ      59    2 SR SR 2
+ 3635 PH  0634 ES3BM      59    5 ES6PA      59    6 VO VO 2
+ 3635 PH  0635 ES3BM      59    6 ES2O       59    6 HR HR 2
+ 3635 PH  0637 ES3BM      59    7 LY2BMX     59    1 UT UT 2
+ 3635 PH  0638 ES3BM      59    8 OH7JL      59    9 PK PK 2
+ 3635 PH  0640 ES3BM      59    9 LY2J       59   11 MM MM 2
+ 3635 PH  0641 ES3BM      59   10 LY2TS      59   10 TI TI 2
+ 3635 PH  0641 ES3BM      59   11 ES1TU      59   13 TL TL 2
+ 3635 PH  0642 ES3BM      59   12 YL2KO      59   18 AU AU 2
+ 3635 PH  0642 ES3BM      59   13 ES6RMR     59    8 VC VC 2
+ 3635 PH  0649 ES3BM      59   14 OF1Z       59   12 VA VA 2
+ 3635 PH  0652 ES3BM      59   15 OF0RJ      59   14 AL AL 2
+ 3635 PH  0653 ES3BM      59   16 OH6RE      59   27 KE KE 2
+ 3649 PH  0657 ES3BM      59   17 ES6RW      59   67 VO    2
+ 3604 PH  0659 ES3BM      59   18 OH3JP      59   23 KT KT 2
+ 3604 PH  0700 ES3BM      59   19 ES1O       59   16 TL    2
+ 3604 PH  0700 ES3BM      59   20 ES2EZ      59   56 HR    2
+ 3604 PH  0700 ES3BM      59   21 ES8TJM     59   11 PU PU 2
+ 3604 PH  0702 ES3BM      59   22 ES7RIX     59   14 VP VP 2
+ 3604 PH  0702 ES3BM      59   23 ES2IPA     59   24 HR    2
+ 3604 PH  0704 ES3BM      59   24 SM5ACQ     59   25 VM VM 2
+ 3604 PH  0705 ES3BM      59   25 ES1CN      59   33 TL    2
+ 3604 PH  0706 ES3BM      59   26 LY2CO      59   68 TI    2
+ 3638 PH  0712 ES3BM      59   27 OH8NW      59   67 VA    2
+ 3638 PH  0713 ES3BM      59   28 YL7A       59   69 VK VK 2
+ 3638 PH  0713 ES3BM      59   29 YL2BJ      59   82 VR VR 2
+ 3638 PH  0715 ES3BM      59   30 ES1QD      59   34 TL    2
+ 3638 PH  0716 ES3BM      59   31 ES3BQ      59   10 RP RP 2
+ 3638 PH  0717 ES3BM      59   32 ES2MC      59   84 HR    2
+ 3638 PH  0717 ES3BM      59   33 YL9T       59   85 VK    2
+ 3638 PH  0718 ES3BM      59   34 SM6IQD     59   21 VD VD 2
+ 3638 PH  0719 ES3BM      59   35 LY4L       59   74 KM    2
+ 3638 PH  0720 ES3BM      59   36 YL2PJ      59   70 RE RE 2
+ 3638 PH  0721 ES3BM      59   37 OF1LAM     59   15 VA    0  Call/OF1LAR
+ 3638 PH  0722 ES3BM      59   38 OF3R       59   23 PH PH 2
+ 3627 PH  0728 ES3BM      59   39 8S0C       59   47 SL SL 2
+ 3624 PH  0728 ES3BM      59   40 OF2J       59   28 UU UU 2
+ 3624 PH  0731 ES3BM      59   41 LY6A       59   86 KN KN 2
+ 3624 PH  0733 ES3BM      59   42 YL2GD      59   97 AU    2
+ 3624 PH  0734 ES3BM      59   43 LY3B       59   55 PA PA 2
+ 3624 PH  0734 ES3BM      59   44 YL2SM      59   95 AU    2
+ 7070 PH  0741 ES3BM      59   45 ES2MC      59  115 HR HR 2
+ 7072 PH  0748 ES3BM      59   46 LY2CO      59  100 TI TI 2
+ 7072 PH  0749 ES3BM      59   47 LY5T       59   61 AT AT 2
+ 7072 PH  0750 ES3BM      59   48 LY4A       59  141 SU SU 2
+ 7072 PH  0750 ES3BM      59   49 SM6IQD     59   39 VD VD 2
+ 7072 PH  0752 ES3BM      59   50 LY2TS      59   79 TI    2
+ 7072 PH  0753 ES3BM      59   51 OZ7SG      59   34 NJ NJ 2
+ 7072 PH  0753 ES3BM      59   52 LY3B       59   74 PA PA 2
+ 7072 PH  0754 ES3BM      59   53 ES0DJ      59   31 SL    1  Mult/SR
+ 7072 PH  0755 ES3BM      59   54 ES8TJM     59   17 PU PU 2
+ 7072 PH  0758 ES3BM      59   55 ES7GM      59  163 VP VP 2
+ 7072 PH  0800 ES3BM      59   56 OZ4QX      59   13 KH KH 2
+ 7089 PH  0804 ES3BM      59   57 ES6RW      59  166 VO VO 2
+ 7135 PH  0809 ES3BM      59   58 LY4Q       59   85 VU VU 2
+ 7135 PH  0811 ES3BM      59   59 LY4L       59  136 KM KM 2
+ 7135 PH  0811 ES3BM      59   60 LY2BOK     59   47 AT    2
+ 7149 PH  0820 ES3BM      59   61 LY3CY      59   75 VU    2
+ 7149 PH  0822 ES3BM      59   62 LY2ON      59   40 KI KI 2
+ 7149 PH  0823 ES3BM      59   63 OZ8PG      59  124 FB FB 2
+ 7149 PH  0824 ES3BM      59   64 LA2XNA     59   61 AK AK 2
+ 7149 PH  0825 ES3BM      59   65 ES5QA      59  143 JG JG 2
+ 7149 PH  0827 ES3BM      59   66 LY4LA      59   65 KD KD 2

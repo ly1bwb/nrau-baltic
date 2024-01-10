@@ -1,0 +1,147 @@
+     Call: OF8L
+ Operator: OH8LQ
+ Category: Single Op                      Band   QSO  Points  Mults
+ Power: LOW                               40m     73     140     43
+     Name: Jari Ojala                     80m     63     123     43
+  Address: Latvalammentie 32              Sum    136     263     86
+  Address: 92260 KOPSA                    Total: 22618
+  Address: FINLAND
+
+
+
+ 3763 PH  0630 OF8L       59    1 LY9Y       59    2 SU SU 2
+ 3760 PH  0635 OF8L       59    2 OH2PM      59    9 VA VA 2
+ 3744 PH  0636 OF8L       59    3 YL1S       59   10 RR RR 2
+ 3744 PH  0636 OF8L       59    4 OZ9VA      59    6 FB FB 2
+ 3744 PH  0637 OF8L       59    5 OF2KM      59    7 UU UU 2
+ 3744 PH  0637 OF8L       59    6 OH3Z       59    7 VA    2
+ 3744 PH  0638 OF8L       59    7 OH3JP      59    5 KT KT 2
+ 3744 PH  0639 OF8L       59    8 LY2SA      59   17 MM MM 2
+ 3744 PH  0639 OF8L       59    9 OH2KW      59   14 UU    2
+ 3744 PH  0640 OF8L       59   10 OH3LS      59    9 PM PM 2
+ 3744 PH  0641 OF8L       59   11 SE5L       59    8 VM VM 2
+ 3744 PH  0641 OF8L       59   12 OF2J       59    6 UU    2
+ 3744 PH  0642 OF8L       59   13 SE4E       59   13 DA DA 2
+ 3744 PH  0643 OF8L       59   14 YL2KF      59   19 LM LM 2
+ 3744 PH  0644 OF8L       59   15 ES1CN      59   16 TL TL 2
+ 3744 PH  0646 OF8L       59   16 SE5N       59    7 SO SO 2
+ 3744 PH  0646 OF8L       59   17 OH8NW      59   20 VA    2
+ 3744 PH  0646 OF8L       59   18 OH7JL      59   15 PK PK 2
+ 3744 PH  0647 OF8L       59   19 LY3B       59   19 PA PA 2
+ 3744 PH  0648 OF8L       59   20 SE3X       59    6 JL JL 2
+ 3752 PH  0651 OF8L       59   21 ES5JR      59    8 TA TA 2
+ 3752 PH  0652 OF8L       59   22 LY2TS      59   26 TI TI 2
+ 3752 PH  0652 OF8L       59   23 OH6ECM     59   11 PO PO 2
+ 3752 PH  0653 OF8L       59   24 LY4L       59   40 KM KM 2
+ 3752 PH  0653 OF8L       59   25 OF1TD      59   19 SA SA 2
+ 3752 PH  0653 OF8L       59   26 OF3P       59   17 PM    2
+ 3752 PH  0654 OF8L       59   27 ES1QD      59   19 TL    2
+ 3775 PH  0655 OF8L       59   28 YL3FT      59   38 OE OE 2
+ 3766 PH  0656 OF8L       59   29 SM5ACQ     59   19 VM    2
+ 3748 PH  0657 OF8L       59   30 YL2BJ      59   59 VR VR 2
+ 3738 PH  0658 OF8L       59   31 OZ8PG      59   31 FB    2
+ 3727 PH  0658 OF8L       59   32 OF1F       59   35 SA    2
+ 3718 PH  0659 OF8L       59   33 OZ7X       59   40 AH AH 2
+ 3707 PH  0659 OF8L       59   34 ES2MC      59   64 HR HR 2
+ 3606 PH  0701 OF8L       59   35 LY3BN      59   54 KN KN 2
+ 3632 PH  0701 OF8L       59   36 YL2GD      59   59 AU AU 2
+ 3638 PH  0702 OF8L       59   37 YL7A       59   55 VK VK 2
+ 3643 PH  0703 OF8L       59   38 OF1Z       59   38 VA    2
+ 3649 PH  0704 OF8L       59   39 ES6RW      59   80 VO VO 2
+ 3621 PH  0704 OF8L       59   40 SK2T       59   22 VB VB 2
+ 3634 PH  0705 OF8L       59   41 LA5UF      59   13 VF VF 2
+ 3618 PH  0707 OF8L       59   42 ES2EZ      59   63 HR    2
+ 3628 PH  0709 OF8L       59   43 ES5QA      59   55 JG JG 2
+ 3725 PH  0711 OF8L       59   44 LY7M       59   28 UT UT 2
+ 3725 PH  0712 OF8L       59   45 ES6RMR     59   30 VC VC 1  Nr/34
+ 3744 PH  0714 OF8L       59   46 LA2XNA     59   24 AK AK 2
+ 3744 PH  0715 OF8L       59   47 SF3A       59   20 VN VN 2
+ 3765 PH  0717 OF8L       59   48 LY4A       59   91 SU    2
+ 3760 PH  0717 OF8L       59   49 YL2KO      59   69 AU    2
+ 3740 PH  0718 OF8L       59   50 LY5O       59   75 KM    2
+ 3715 PH  0719 OF8L       59   51 OF7A       59   74 PK    0  Call/OH7A
+ 3705 PH  0720 OF8L       59   52 LY2BAW     59   72 VV VV 2
+ 3701 PH  0720 OF8L       59   53 YL2SM      59   87 AU    2
+ 3754 PH  0724 OF8L       59   54 LY2CO      59   83 TI    2
+ 3754 PH  0725 OF8L       59   55 YL2II      59   11 AI AI 2
+ 3754 PH  0725 OF8L       59   56 OF0RJ      59   33 AL AL 2
+ 3754 PH  0726 OF8L       59   57 OF8NV      59   27 PO    2
+ 3754 PH  0726 OF8L       59   58 OH3RT      59    8 PH PH 2
+ 3754 PH  0727 OF8L       59   59 OF8UV      59   26 KU KU 2
+ 3754 PH  0727 OF8L       59   60 ES6QC      59   74 VO    2
+ 3754 PH  0728 OF8L       59   61 ES2IPA     59   37 HR    2
+ 3754 PH  0729 OF8L       59   62 SA0BVA     59   21 SL SL 2
+ 3754 PH  0730 OF8L       59   63 YL2PJ      59   80 RE RE 2
+ 7070 PH  0732 OF8L       59   64 ES2MC      59   99 HR HR 2
+ 7098 PH  0733 OF8L       59   65 LY2J       59   64 MM MM 2
+ 7089 PH  0734 OF8L       59   66 ES6RW      59  116 VO VO 2
+ 7084 PH  0735 OF8L       59   67 OZ9VA      59   34 FB FB 2
+ 7066 PH  0735 OF8L       59   68 LY5AA      59   39 KM KM 2
+ 7066 PH  0736 OF8L       59   69 YL2VW      59   97 RR RR 2
+ 7066 PH  0737 OF8L       59   70 LY2CO      59   87 TI TI 2
+ 7154 PH  0738 OF8L       59   71 YL1ZT      59   47 TU TU 2
+ 7158 PH  0739 OF8L       59   72 OF1F       59  100 SA SA 2
+ 7170 PH  0739 OF8L       59   73 LY5T       59   56 AT AT 2
+ 7162 PH  0740 OF8L       59   74 OH8NW      59   96 VA VA 2
+ 7162 PH  0741 OF8L       59   75 YL3IR      59   31 GU GU 2
+ 7162 PH  0742 OF8L       59   76 ES0DJ      59   28 SR SR 2
+ 7162 PH  0743 OF8L       59   77 LY2ZO      59   48 KM    2
+ 7162 PH  0743 OF8L       59   78 LY9Y       59   66 SU SU 2
+ 7162 PH  0743 OF8L       59   79 LA9PTA     59   17 OF OF 2
+ 7162 PH  0744 OF8L       59   80 ES6PA      59   69 VO    2
+ 7162 PH  0744 OF8L       59   81 OZ1KKH     59   31 AH AH 2
+ 7162 PH  0745 OF8L       59   82 YL1S       59   83 RR    2
+ 7162 PH  0746 OF8L       59   83 LY3B       59   66 PA PA 2
+ 7162 PH  0747 OF8L       59   84 LY4LA      59   49 KD KD 2
+ 7162 PH  0747 OF8L       59   85 YL2PJ      59   96 RE RE 2
+ 7162 PH  0748 OF8L       59   86 ES7RIX     59   37 VP VP 2
+ 7162 PH  0749 OF8L       59   87 OZ6ARC     59   37 SJ SJ 2
+ 7162 PH  0754 OF8L       59   88 YL2KO      59  109 AU AU 2
+ 7162 PH  0755 OF8L       59   89 SE4E       59   75 DA DA 2
+ 7162 PH  0756 OF8L       59   90 LY3IZ      59   40 UT UT 2
+ 7162 PH  0756 OF8L       59   91 ES6RMR     59   55 VC VC 2
+ 7162 PH  0757 OF8L       59   92 YL2T       59  121 VK    0  Call/YL9T
+ 7162 PH  0758 OF8L       59   93 ES1O       59   34 TL TL 2
+ 7162 PH  0758 OF8L       59   94 LY2NY      59   70 KN KN 2
+ 7162 PH  0759 OF8L       59   95 YL3FT      59  117 OE OE 2
+ 7162 PH  0759 OF8L       59   96 LB3RE      59   18 OP OP 2
+ 7162 PH  0759 OF8L       59   97 LY2TS      59   85 TI    2
+ 7162 PH  0800 OF8L       59   98 8S0C       59   85 SL SL 2
+ 7162 PH  0801 OF8L       59   99 YL2GD      59  128 AU    2
+ 7162 PH  0801 OF8L       59  100 YL7A       59  108 VK VK 2
+ 7162 PH  0802 OF8L       59  101 ES5JR      59   53 TA TA 2
+ 7162 PH  0802 OF8L       59  102 LY2N       59   22 KM    2
+ 7162 PH  0803 OF8L       59  103 SE5L       59   58 VM VM 2
+ 7162 PH  0804 OF8L       59  104 OF1Z       59  104 VA    2
+ 7162 PH  0804 OF8L       59  105 ES5TF      59   56 TA    2
+ 7162 PH  0805 OF8L       59  106 LA2XNA     59   52 AK AK 2
+ 7162 PH  0805 OF8L       59  107 YL2BJ      59  124 VR VR 2
+ 7162 PH  0805 OF8L       59  108 YL1HZK     59   63 RR    0  Call/YL100ZK
+ 7162 PH  0805 OF8L       59  109 LY1CT      59   84 KD    2
+ 7162 PH  0806 OF8L       59  110 LY7M       59   85 UT    2
+ 7162 PH  0806 OF8L       59  111 YL2KF      59  104 LM LM 2
+ 7162 PH  0806 OF8L       59  112 YL2SM      59  143 AU    2
+ 7162 PH  0807 OF8L       59  113 LY4LA      59   56 KD    0  QSO B4 Nr/60
+ 7162 PH  0807 OF8L       59  114 YL3GAO     59   53 DO DO 2
+ 7162 PH  0808 OF8L       59  115 LY4Q       59   84 VU VU 2
+ 7162 PH  0808 OF8L       59  116 LY6A       59  143 KN    2
+ 7162 PH  0810 OF8L       59  117 LY5W       59  105 KN    2
+ 7183 PH  0812 OF8L       59  118 OZ11A      59   93 NJ NJ 2
+ 7162 PH  0815 OF8L       59  119 LY2ND      59   50 KM    2
+ 7054 PH  0816 OF8L       59  120 LY4L       59  140 KM    2
+ 7076 PH  0817 OF8L       59  121 LY5O       59  153 KM    2
+ 7086 PH  0817 OF8L       59  122 SD6M       59   59 VD VD 2
+ 7100 PH  0818 OF8L       59  123 ES7GM      59  186 VP    2
+ 7170 PH  0821 OF8L       59  124 LY3BN      59  149 KN    2
+ 7170 PH  0821 OF8L       59  125 LY3CY      59   76 VU    2
+ 7170 PH  0821 OF8L       59  126 LA8FTA     59   56 AK    2
+ 7170 PH  0822 OF8L       59  127 ES5QA      59  140 JG JG 2
+ 7170 PH  0822 OF8L       59  128 LB8QG      59   25 OF    2
+ 7170 PH  0825 OF8L       59  129 LY2ON      59   42 KI KI 2
+ 7170 PH  0825 OF8L       59  130 SE5E       59   98 UP UP 2
+ 7170 PH  0825 OF8L       59  131 LY2MM      59  129 KM    2
+ 7170 PH  0826 OF8L       59  132 ES1TU      59   94 TL    2
+ 7170 PH  0826 OF8L       59  133 LY4K       59   74 KM    2
+ 7170 PH  0826 OF8L       59  134 LY1SR      59  103 KM    2
+ 7170 PH  0828 OF8L       59  135 LY4A       59  184 SU    2
+ 7170 PH  0829 OF8L       59  136 LY1CO      59   75 KN    2

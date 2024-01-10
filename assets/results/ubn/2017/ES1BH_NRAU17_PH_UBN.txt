@@ -1,0 +1,108 @@
+     Call: ES1BH
+ Operator:
+ Category: Single Op                      Band   QSO  Points  Mults
+ Power: HIGH                              40m     31      58     18
+     Name: xxx                            80m     66     129     40
+  Address: xxx                            Sum     97     187     58
+  Address: xxx                            Total: 10846
+  Address: xxx
+
+
+
+ 3611 PH  0651 ES1BH      59    1 ES7GM      59   46 VP VP 2
+ 3614 PH  0651 ES1BH      59    2 LY2MM      59   36 KM KM 2
+ 3618 PH  0652 ES1BH      59    3 OF6MW      59   33 KT KT 2
+ 3621 PH  0653 ES1BH      59    4 SK2T       59   10 VB VB 2
+ 3624 PH  0654 ES1BH      59    5 ES5QA      59   37 JG JG 2
+ 3624 PH  0654 ES1BH      59    6 ES2O       59   23 HR HR 2
+ 3624 PH  0654 ES1BH      59    7 OH6RE      59   28 KE KE 2
+ 3624 PH  0654 ES1BH      59    8 LY3B       59   29 PA PA 2
+ 3624 PH  0655 ES1BH      59    9 OH3JP      59   18 KT    2
+ 3624 PH  0655 ES1BH      59   10 LY2O       59   19 KM    0  Call/LY2ZO
+ 3624 PH  0655 ES1BH      59   11 LY2CO      59   54 TI TI 2
+ 3624 PH  0656 ES1BH      59   12 OF2KM      59   26 UU UU 2
+ 3624 PH  0656 ES1BH      59   13 LA8FTA     59    4 AK AK 2
+ 3624 PH  0656 ES1BH      59   14 LY4K       59   24 KM    2
+ 3624 PH  0657 ES1BH      59   15 LY3IZ      59   15 UT UT 2
+ 3624 PH  0657 ES1BH      59   16 ES6PA      59   23 VO VO 2
+ 3624 PH  0658 ES1BH      59   17 OF8NV      59   11 PO PO 2
+ 3624 PH  0658 ES1BH      59   18 ES1O       59   15 TL TL 2
+ 3624 PH  0658 ES1BH      59   19 ES8TJM     59    9 PU PU 2
+ 3624 PH  0658 ES1BH      59   20 LY2BOK     59   15 AT AT 2
+ 3624 PH  0659 ES1BH      59   21 YL2VW      59   56 RR RR 2
+ 3624 PH  0659 ES1BH      59   22 ES1CN      59   27 TL    2
+ 3624 PH  0700 ES1BH      59   23 ES2IPA     59   22 HR    2
+ 3624 PH  0701 ES1BH      59   24 ES6RMR     59   24 VC VC 2
+ 3624 PH  0702 ES1BH      59   25 LY5O       59   53 KM    2
+ 3624 PH  0703 ES1BH      59   26 LY4L       59   57 KM    2
+ 3611 PH  0704 ES1BH      59   27 ES2EZ      59   60 HR    2
+ 3611 PH  0705 ES1BH      59   28 SE4E       59   31 AA    1  Mult/DA
+ 3701 PH  0707 ES1BH      59   29 YL2SM      59   60 AU AU 2
+ 3715 PH  0708 ES1BH      59   30 OH7A       59   59 PK PK 2
+ 3720 PH  0708 ES1BH      59   31 YL2KF      59   64 LM LM 2
+ 3761 PH  0708 ES1BH      59   32 YL2KO      59   56 AU    2
+ 3765 PH  0709 ES1BH      59   33 LY4A       59   83 SU SU 2
+ 3767 PH  0711 ES1BH      59   34 SA1CCQ     59   30 GO GO 2
+ 3770 PH  0712 ES1BH      59   35 YL2PJ      59   63 RE RE 2
+ 3775 PH  0712 ES1BH      59   36 YL3FT      59   74 OE OE 2
+ 3750 PH  0713 ES1BH      59   37 OH3Z       59   67 VA VA 2
+ 3747 PH  0713 ES1BH      59   38 LB1AH      59   29 HO HO 2
+ 3738 PH  0713 ES1BH      59   39 ES6RW      59   93 VO    2
+ 3735 PH  0714 ES1BH      59   40 ES6QC      59   68 VO    2
+ 3726 PH  0715 ES1BH      59   41 OF1F       59   69 SA SA 2
+ 3729 PH  0716 ES1BH      59   42 YL1S       59   58 RR    2
+ 3729 PH  0716 ES1BH      59   43 YL7A       59   75 VK VK 2
+ 3729 PH  0717 ES1BH      59   44 LY3CY      59   41 VU VU 2
+ 3729 PH  0718 ES1BH      59   45 SE5E       59   24 UP UP 2
+ 3729 PH  0718 ES1BH      59   46 ES5JR      59   31 TA TA 2
+ 3729 PH  0718 ES1BH      59   47 LY9Y       59   49 SU    2
+ 3729 PH  0719 ES1BH      59   48 SM5ACQ     59   34 VM VM 2
+ 3729 PH  0720 ES1BH      59   49 OZ6ARC     59   20 SJ SJ 2
+ 3729 PH  0720 ES1BH      59   50 8S0C       59   41 SL SL 2
+ 3729 PH  0721 ES1BH      59   51 LY1SR      59   45 KM    2
+ 3729 PH  0722 ES1BH      59   52 OF2J       59   25 UU    2
+ 3729 PH  0722 ES1BH      59   53 LY5T       59   42 AT    2
+ 3729 PH  0722 ES1BH      59   54 ES2MC      59   92 HR    2
+ 3757 PH  0724 ES1BH      59   55 ES4NY      59   47 IV IV 2
+ 3770 PH  0725 ES1BH      59   56 OF3P       59   43 PM PM 2
+ 3616 PH  0726 ES1BH      59   57 LY1CO      59   52 KN KN 2
+ 3729 PH  0727 ES1BH      59   58 OH6ECM     59   34 PO    2
+ 3729 PH  0728 ES1BH      59   59 YL2BJ      59   93 VR VR 2
+ 3729 PH  0728 ES1BH      59   60 ES1TU      59   56 TL    2
+ 3729 PH  0728 ES1BH      59   61 YL100ZK    59   41 RR    2
+ 3729 PH  0728 ES1BH      59   62 ES1QD      59   44 TL    2
+ 3601 PH  0730 ES1BH      59   63 LY5AA      59   36 KM    2
+ 3608 PH  0731 ES1BH      59   64 LY7M       59   45 UT    2
+ 3744 PH  0732 ES1BH      59   65 LY5W       59   70 KN    2
+ 3729 PH  0733 ES1BH      59   66 OF1Z       59   80 VA    2
+ 7054 PH  0736 ES1BH      59   67 LY6A       59   92 KN KN 2
+ 7054 PH  0737 ES1BH      59   68 YL2VW      59   99 RR RR 2
+ 7054 PH  0738 ES1BH      59   69 ES2O       59   46 HR HR 2
+ 7054 PH  0738 ES1BH      59   70 ES2EZ      59   94 HR    2
+ 7054 PH  0739 ES1BH      59   71 SK2T       59   50 VB VB 2
+ 7054 PH  0739 ES1BH      59   72 LY1CT      59   63 KD KD 2
+ 7054 PH  0741 ES1BH      59   73 ES2MC      59  116 HR    2
+ 7054 PH  0742 ES1BH      59   74 OH3Z       59  111 VA VA 2
+ 7088 PH  0745 ES1BH      59   75 ES6RW      59  137 VO VO 2
+ 7088 PH  0746 ES1BH      59   76 LY2BAW     59   97 VV VV 2
+ 7098 PH  0750 ES1BH      59   77 ES1QD      59   54 TL TL 2
+ 7179 PH  0754 ES1BH      59   78 LB1AH      59   81 HO HO 2
+ 7181 PH  0754 ES1BH      59   79 OZ8PG      59   86 FB FB 2
+ 7085 PH  0756 ES1BH      59   80 LY2MM      59   96 KM KM 2
+ 7099 PH  0759 ES1BH      59   81 LY2J       59   78 MM MM 2
+ 7099 PH  0800 ES1BH      59   82 LY2BOK     59   43 AT AT 2
+ 7099 PH  0804 ES1BH      59   83 ES2IPA     59   50 HR    2
+ 7061 PH  0808 ES1BH      59   84 LY2SA      59  121 MM    2
+ 7140 PH  0808 ES1BH      59   85 OZ9VA      59   63 FB    2
+ 7187 PH  0810 ES1BH      59   86 LA8FTA     59   47 AK AK 2
+ 7183 PH  0810 ES1BH      59   87 OZ1AA      59   90 NJ    0  Call/OZ11A
+ 7099 PH  0813 ES1BH      59   88 LY2ZO      59   75 KM    2
+ 7099 PH  0814 ES1BH      59   89 SM6IQD     59   56 VD VD 2
+ 7076 PH  0817 ES1BH      59   90 LY5O       59  155 KM    2
+ 7086 PH  0819 ES1BH      59   91 SD6M       59   60 VD    2
+ 7144 PH  0821 ES1BH      59   92 OZ7X       59  169 AH AH 2
+ 7164 PH  0821 ES1BH      59   93 LY5W       59  119 KN    2
+ 7151 PH  0822 ES1BH      59   94 LY1SR      59  101 KM    2
+ 7138 PH  0824 ES1BH      59   95 OZ7SG      59   49 NJ NJ 2
+ 7070 PH  0829 ES1BH      59   96 ES1O       59   44 TL    2
+ 7064 PH  0830 ES1BH      59   97 LY4L       59  153 KM    0 Time

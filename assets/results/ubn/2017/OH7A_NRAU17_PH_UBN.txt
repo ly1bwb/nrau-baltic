@@ -1,0 +1,172 @@
+     Call: OH7A
+ Operator: OH7UE
+ Category: Single Op                      Band   QSO  Points  Mults
+ Power: HIGH                              40m     78     146     49
+     Name: Mauno Hirvonen                 80m     83     150     50
+  Address: Palo                           Sum    161     296     99
+  Address: KIIHTELYSVAARA                 Total: 29304
+  Address: FINLAND
+
+
+
+ 3705 PH  0630 OH7A       59    1 OF2J       59    1 UU UU 2
+ 3705 PH  0630 OH7A       59    2 OF0RJ      59    1 AL AL 2
+ 3705 PH  0631 OH7A       59    3 OH2KW      59    2 UU    0  Time/OH2KW/0629
+ 3705 PH  0631 OH7A       59    4 SF3A       59    1 VN VN 2
+ 3705 PH  0631 OH7A       59    5 SM6IQD     59    2 VD VD 2
+ 3705 PH  0632 OH7A       59    6 OF8UV      59    1 KU KU 2
+ 3705 PH  0632 OH7A       59    7 LA2XNA     59    1 AK AK 2
+ 3705 PH  0633 OH7A       59    8 OF8NV      59    3 PO PO 2
+ 3705 PH  0633 OH7A       59    9 OH3LS      59    4 PM PM 2
+ 3705 PH  0634 OH7A       59   10 OZ6ARC     59    1 SJ SJ 2
+ 3705 PH  0635 OH7A       59   11 ES7KEW     59    1 VP VP 2
+ 3705 PH  0636 OH7A       59   12 YL2KF      59   13 LM LM 2
+ 3705 PH  0637 OH7A       59   13 OH6ECM     59    2 PO    2
+ 3705 PH  0638 OH7A       59   14 YL2PJ      59   12 RE RE 2
+ 3705 PH  0640 OH7A       59   15 ES1CN      59   10 TL TL 2
+ 3705 PH  0640 OH7A       59   16 SE4E       59   12 DA DA 2
+ 3705 PH  0641 OH7A       59   17 LY3B       59   13 PA PA 2
+ 3705 PH  0642 OH7A       59   18 OF2KM      59   13 UU    2
+ 3705 PH  0642 OH7A       59   19 OH7JL      59   11 PK PK 2
+ 3705 PH  0643 OH7A       59   20 YL100ZK    59   17 RR RR 1  Nr/7
+ 3705 PH  0644 OH7A       59   21 ES5JR      59    5 TA TA 2
+ 3705 PH  0644 OH7A       59   22 OZ9VA      59    9 FB FB 2
+ 3705 PH  0645 OH7A       59   23 OH3JP      59   10 KT KT 2
+ 3705 PH  0646 OH7A       59   24 OF1TD      59   10 SA SA 2
+ 3705 PH  0646 OH7A       59   25 LB8QG      59    4 OF OF 2
+ 3705 PH  0647 OH7A       59   26 LY1CT      59   13 KD KD 2
+ 3705 PH  0648 OH7A       59   27 SA1CCQ     59    7 GO GO 2
+ 3705 PH  0648 OH7A       59   28 YL1ZT      59   13 TU TU 2
+ 3705 PH  0649 OH7A       59   29 LY2ZO      59   13 KM KM 2
+ 3705 PH  0649 OH7A       59   30 LY1SR      59   16 KM    2
+ 3705 PH  0650 OH7A       59   31 ES1TU      59   23 TL    2
+ 3705 PH  0650 OH7A       59   32 SE5L       59   13 VM VM 2
+ 3705 PH  0651 OH7A       59   33 ES7RI      59    6 VP    0  Call/ES7RIX
+ 3705 PH  0652 OH7A       59   34 OF3R       59    9 PH PH 2
+ 3705 PH  0653 OH7A       59   35 SE5N       59   11 SO SO 2
+ 3705 PH  0653 OH7A       59   36 LB1AH      59   11 HO HO 2
+ 3705 PH  0654 OH7A       59   37 LY1CO      59   20 KN KN 2
+ 3705 PH  0654 OH7A       59   38 ES5TF      59   20 TA    2
+ 3705 PH  0655 OH7A       59   39 LY9Y       59   29 SU SU 2
+ 3705 PH  0656 OH7A       59   40 LY5P       59   12 SI SI 2
+ 3705 PH  0656 OH7A       59   41 SD6M       59    9 VD    2
+ 3705 PH  0657 OH7A       59   42 LY5T       59   17 AT AT 2
+ 3705 PH  0657 OH7A       59   43 8S0C       59   14 SL SL 2
+ 3705 PH  0658 OH7A       59   44 LY4L       59   48 KM    2
+ 3705 PH  0658 OH7A       59   45 SE3X       59   12 JL JL 2
+ 3705 PH  0659 OH7A       59   46 OZ7SG      59    6 NJ NJ 2
+ 3705 PH  0659 OH7A       59   47 LA9PTA     59    5 OF    2
+ 3705 PH  0700 OH7A       59   48 ES6PA      59   24 VO VO 2
+ 3705 PH  0700 OH7A       59   49 YL2KO      59   46 AU AU 2
+ 3705 PH  0701 OH7A       59   50 SK2T       59   20 VR    1  Mult/VB
+ 3705 PH  0701 OH7A       59   51 LY3CY      59   33 VU VU 2
+ 3705 PH  0702 OH7A       59   52 LY2MM      59   50 KM    2
+ 3705 PH  0702 OH7A       59   53 OF3P       59   25 PM    2
+ 3705 PH  0703 OH7A       59   54 OF1F       59   47 SA    2
+ 3705 PH  0703 OH7A       59   55 LA8FTA     59    8 AK    2
+ 3705 PH  0704 OH7A       59   56 YL2VW      59   61 RR    1  Nr/64
+ 3705 PH  0704 OH7A       59   57 OZ4NA      59   44 NJ    1  Nr/24
+ 3705 PH  0705 OH7A       59   58 SA0RVA     59   13 SL    0  Call/SA0BVA
+ 3705 PH  0706 OH7A       59   59 ES1BH      59   30 TL    2
+ 3705 PH  0706 OH7A       59   60 ES6RW      59   86 VO    2
+ 3705 PH  0707 OH7A       59   61 ES1QD      59   29 TL    2
+ 3705 PH  0707 OH7A       59   62 ES2EZ      59   65 HR HR 2
+ 3705 PH  0710 OH7A       59   63 YL2GD      59   74 AU    2
+ 3705 PH  0711 OH7A       59   64 LY5W       59   44 KN    2
+ 3705 PH  0712 OH7A       59   65 LY7M       59   30 UT UT 2
+ 3705 PH  0713 OH7A       59   66 OZ0DP      59   13 SS    0  Unique <10
+ 3705 PH  0713 OH7A       59   67 OH2PM      59   71 VA VA 2
+ 3705 PH  0714 OH7A       59   68 OZ8PG      59   47 FB    2
+ 3705 PH  0715 OH7A       59   69 LY4A       59   90 SU    2
+ 3705 PH  0716 OH7A       59   70 YL9T       59   83 VK VK 2
+ 3705 PH  0717 OH7A       59   71 ES2O       59   35 HR    2
+ 3705 PH  0718 OH7A       59   72 YL2II      59    3 AI AI 2
+ 3705 PH  0719 OH7A       59   73 LY3IZ      59   25 UT    2
+ 3705 PH  0720 OH7A       59   74 OF8L       59   51 PP PP 2
+ 3705 PH  0721 OH7A       59   75 LY6A       59   76 KN    2
+ 3705 PH  0721 OH7A       59   76 YL2CO      59   80 TI    0  Call/LY2CO
+ 3705 PH  0722 OH7A       59   77 OH8NW      59   76 VA    2
+ 3705 PH  0724 OH7A       59   78 SE5E       59   26 UP UP 2
+ 3705 PH  0725 OH7A       59   79 YL2AQ      59   54 RR    1  Nr/4
+ 3705 PH  0726 OH7A       59   80 LY2TS      59   65 TI TI 1  Nr/56
+ 3705 PH  0727 OH7A       59   81 LB4FH      59   16 RL RL 2
+ 3705 PH  0728 OH7A       59   82 ES7GM      59  106 VP    2
+ 3705 PH  0729 OH7A       59   83 OH6RE      59   77 KE KE 2
+ 7100 PH  0730 OH7A       59   84 LY5AA      59   37 KM KM 2
+ 7100 PH  0731 OH7A       59   85 SE4E       59   59 DA DA 2
+ 7100 PH  0732 OH7A       59   86 LY1CO      59   55 KN KN 2
+ 7100 PH  0733 OH7A       59   87 OH7JL      59   47 PK PK 2
+ 7100 PH  0734 OH7A       59   88 LB2WG      59   12 OS OS 2
+ 7100 PH  0735 OH7A       59   89 LY2ON      59   33 KI KI 2
+ 7100 PH  0736 OH7A       59   90 OZ8PG      59   65 FB FB 2
+ 7100 PH  0737 OH7A       59   91 SE5N       59   41 SO SO 2
+ 7100 PH  0738 OH7A       59   92 LY3BN      59   85 KN    2
+ 7100 PH  0739 OH7A       59   93 YL3GAO     59   38 DO DO 2
+ 7100 PH  0740 OH7A       59   94 LY7M       59   60 UT UT 2
+ 7100 PH  0740 OH7A       59   95 LY4Q       59   73 VU VU 2
+ 7100 PH  0741 OH7A       59   96 SE3X       59   33 JL JL 2
+ 7100 PH  0741 OH7A       59   97 LY2MM      59   81 KM    2
+ 7100 PH  0742 OH7A       59   98 YL1S       59   80 RR RR 2
+ 7100 PH  0742 OH7A       59   99 YL2PJ      59   89 RE RE 2
+ 7100 PH  0743 OH7A       59  100 SE5L       59   45 VM VM 2
+ 7100 PH  0743 OH7A       59  101 8S0C       59   63 SL SL 2
+ 7100 PH  0744 OH7A       59  102 LY3B       59   63 PA PA 2
+ 7100 PH  0744 OH7A       59  103 OZ6ARC     59   34 SJ SJ 2
+ 7100 PH  0745 OH7A       59  104 LY9Y       59   69 SU SU 2
+ 7100 PH  0745 OH7A       59  105 OH2KW      59   66 UU UU 2
+ 7100 PH  0746 OH7A       59  106 LY4A       59  134 SU    2
+ 7100 PH  0746 OH7A       59  107 ES5TF      59   51 TA TA 2
+ 7100 PH  0747 OH7A       59  108 LY2TS      59   74 TI TI 2
+ 7100 PH  0748 OH7A       59  109 LB4FH      59   23 RL RL 2
+ 7100 PH  0748 OH7A       59  110 SA0RVA     59   29 SL    0  Call/SA0BVA
+ 7100 PH  0749 OH7A       59  111 OZ7SG      59   32 NJ NJ 2
+ 7100 PH  0749 OH7A       59  112 LA9RY      59   11 RL    2
+ 7100 PH  0750 OH7A       59  113 LY2ZO      59   56 KM    2
+ 7100 PH  0750 OH7A       59  114 YL3FT      59  109 OE OE 2
+ 7100 PH  0751 OH7A       59  115 YL100ZK    59   55 RR    2
+ 7100 PH  0752 OH7A       59  116 LY4LA      59   54 KD KD 2
+ 7100 PH  0752 OH7A       59  117 YL1ZT      59   57 TU TU 2
+ 7100 PH  0753 OH7A       59  118 ES6RMR     59   54 VC VC 2
+ 7100 PH  0754 OH7A       59  119 YL2KF      59   96 LM LM 2
+ 7100 PH  0754 OH7A       59  120 LY2NY      59   68 KN    2
+ 7100 PH  0755 OH7A       59  121 SA1CCQ     59   69 GO GO 2
+ 7100 PH  0756 OH7A       59  122 ES1TU      59   80 TL TL 2
+ 7100 PH  0756 OH7A       59  123 LY2N       59   17 KM    2
+ 7100 PH  0757 OH7A       59  124 LA2XNA     59   48 AK AK 2
+ 7100 PH  0758 OH7A       59  125 YL9T       59  123 VK VK 2
+ 7100 PH  0758 OH7A       59  126 YL2VW      59  121 RR    2
+ 7100 PH  0759 OH7A       59  127 YL7A       59  106 VK    2
+ 7100 PH  0759 OH7A       59  128 LY2CO      59  108 TI    2
+ 7100 PH  0800 OH7A       59  129 OZ9VA      59   45 FB    1  Nr/49
+ 7100 PH  0801 OH7A       59  130 LY2SA      59  116 MM MM 2
+ 7100 PH  0802 OH7A       59  131 LY5T       59   74 AT AT 2
+ 7100 PH  0803 OH7A       59  132 ES2EZ      59   99 HR    0  NotinLog
+ 7100 PH  0804 OH7A       59  133 YL2SM      59  140 AU AU 2
+ 7100 PH  0804 OH7A       59  134 LY3CY      59   62 VU    2
+ 7100 PH  0805 OH7A       59  135 OF1F       59  144 SA SA 2
+ 7100 PH  0806 OH7A       59  136 YL2BJ      59  126 VR VR 2
+ 7100 PH  0807 OH7A       59  137 LY6A       59  140 KN    2
+ 7100 PH  0808 OH7A       59  138 YL100ZK    59   65 RR    0  QSO B4
+ 7100 PH  0809 OH7A       59  139 OZ1KKH     59   44 AH AH 2
+ 7100 PH  0810 OH7A       59  140 LY4L       59  137 KM    2
+ 7100 PH  0811 OH7A       59  141 LY4K       59   69 KM    2
+ 7100 PH  0812 OH7A       59  142 LY2BOK     59   48 AT    2
+ 7100 PH  0813 OH7A       59  143 OH3JP      59   68 KT KT 2
+ 7100 PH  0814 OH7A       59  144 LY2BAG     59   28 KM    2
+ 7100 PH  0815 OH7A       59  145 OF1Z       59  111 VA VA 2
+ 7100 PH  0816 OH7A       59  146 OF2J       59   37 UU    2
+ 7100 PH  0817 OH7A       59  147 ES5QA      59  134 JO    1  Mult/JG
+ 7100 PH  0818 OH7A       59  148 OF3R       59   43 PH PH 2
+ 7100 PH  0820 OH7A       59  149 LB8QG      59   23 OF OF 2
+ 7100 PH  0821 OH7A       59  150 ES6QC      59  116 VO VO 2
+ 7100 PH  0821 OH7A       59  151 LY3IZ      59   51 UT    2
+ 7100 PH  0822 OH7A       59  152 LY2ND      59   52 KM    2
+ 7100 PH  0822 OH7A       59  153 YL2II      59   37 AI AI 2
+ 7100 PH  0823 OH7A       59  154 OF0RJ      59   66 AL AL 2
+ 7100 PH  0824 OH7A       59  155 LY1SR      59  102 KM    2
+ 7100 PH  0824 OH7A       59  156 OZ4NA      59   85 NJ    2
+ 7100 PH  0825 OH7A       59  157 ES7GM      59  196 VP VP 2
+ 7100 PH  0825 OH7A       59  158 OH6ECM     59   70 PO PO 2
+ 7100 PH  0826 OH7A       59  159 ES6PA      59   99 VO    2
+ 7100 PH  0827 OH7A       59  160 SA1CCQ     59   88 GO    0  QSO B4
+ 7100 PH  0828 OH7A       59  161 SE5E       59  100 UP UP 2

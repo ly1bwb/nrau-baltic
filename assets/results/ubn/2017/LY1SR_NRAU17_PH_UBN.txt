@@ -1,0 +1,112 @@
+     Call: LY1SR
+ Operator:
+ Category: Single Op                      Band   QSO  Points  Mults
+ Power: LOW                               40m     46      85     26
+     Name: ROMUALDAS VARNAS               80m     57     113     33
+  Address: TAIKOS PR.73-88                Sum    103     198     59
+                                          Total: 11682
+
+
+ 3500 PH  0630 LY1SR      59    1 LY2MM      59    3 KM KM 2
+ 3500 PH  0632 LY1SR      59    2 LY4LA      59    3 KD KD 2
+ 3500 PH  0633 LY1SR      59    3 LY5W       59    1 KN KN 2
+ 3500 PH  0633 LY1SR      59    4 LY2PBV     59    3 MM MM 2
+ 3500 PH  0637 LY1SR      59    5 ES2EZ      59   15 HR HR 2
+ 3500 PH  0637 LY1SR      59    6 LY6A       59   23 KN    2
+ 3500 PH  0639 LY1SR      59    7 LY2CO      59   20 TI TI 2
+ 3500 PH  0639 LY1SR      59    8 LY2NY      59   14 KN    2
+ 3500 PH  0640 LY1SR      59    9 LY2BAW     59   17 VV VV 2
+ 3500 PH  0641 LY1SR      59   10 YL7A       59   17 VK VK 2
+ 3500 PH  0643 LY1SR      59   11 LY4A       59   30 SU SU 2
+ 3500 PH  0643 LY1SR      59   12 OF6MW      59   21 KT KT 2
+ 3500 PH  0644 LY1SR      59   13 LY2BMX     59    6 UT UT 2
+ 3500 PH  0645 LY1SR      59   14 LY4Q       59   23 VU VU 2
+ 3500 PH  0646 LY1SR      59   15 OH2KW      59   18 UU UU 2
+ 3500 PH  0648 LY1SR      59   16 OH7A       59   30 PK PK 2
+ 3500 PH  0649 LY1SR      59   17 OZ7X       59   27 AH AH 2
+ 3500 PH  0650 LY1SR      59   18 LY2SA      59   34 MM    2
+ 3500 PH  0650 LY1SR      59   19 YL9T       59   32 VK    2
+ 3500 PH  0651 LY1SR      59   20 LY5O       59   37 KM    2
+ 3500 PH  0653 LY1SR      59   21 YL3FT      59   34 OE OE 2
+ 3500 PH  0654 LY1SR      59   22 LY2J       59   29 MM    2
+ 3500 PH  0655 LY1SR      59   23 YL2BJ      59   56 VR VR 2
+ 3500 PH  0656 LY1SR      59   24 ES4NY      59   28 IV IV 2
+ 3500 PH  0658 LY1SR      59   25 LY2ZO      59   20 KM    2
+ 3500 PH  0658 LY1SR      59   26 LY3IZ      59   16 UT    2
+ 3500 PH  0659 LY1SR      59   27 YL2VW      59   57 RR RR 2
+ 3500 PH  0659 LY1SR      59   28 LY2BOK     59   16 AT AT 2
+ 3500 PH  0700 LY1SR      59   29 LY3PDX     59   11 MM    2
+ 3500 PH  0702 LY1SR      59   30 LY5AA      59   17 KM    2
+ 3500 PH  0703 LY1SR      59   31 LY3BN      59   57 KN    2
+ 3500 PH  0703 LY1SR      59   32 LY4L       59   59 KM    1  Nr/58
+ 3500 PH  0704 LY1SR      59   33 YL2KO      59   49 AU AU 2
+ 3500 PH  0706 LY1SR      59   34 SE5L       59   21 VM VM 2
+ 3500 PH  0707 LY1SR      59   35 OF1Z       59   47 VA VA 2
+ 3500 PH  0708 LY1SR      59   36 LY2ND      59   21 KM    2
+ 3500 PH  0709 LY1SR      59   37 ES7GM      59   78 VP VP 2
+ 3500 PH  0710 LY1SR      59   38 ES6RW      59   89 VO VO 2
+ 3500 PH  0711 LY1SR      59   39 OH6RE      59   51 KE KE 2
+ 3500 PH  0713 LY1SR      59   40 ES2MC      59   81 HR    2
+ 3500 PH  0714 LY1SR      59   41 LY4MA      59   11 KM    2
+ 3500 PH  0714 LY1SR      59   42 YL2GD      59   81 AU    2
+ 3500 PH  0715 LY1SR      59   43 LY2TS      59   50 TI    2
+ 3500 PH  0717 LY1SR      59   44 YL2SM      59   82 AU    2
+ 3500 PH  0721 LY1SR      59   45 ES1BH      59   51 TL TL 2
+ 3500 PH  0724 LY1SR      59   46 LY1CO      59   49 KN    2
+ 3500 PH  0726 LY1SR      59   47 ES5QA      59   81 JG JG 2
+ 3500 PH  0727 LY1SR      59   48 SE5E       59   33 UP UP 2
+ 3500 PH  0729 LY1SR      59   49 ES6PA      59   55 VO    2
+ 3500 PH  0729 LY1SR      59   50 OF1F       59   87 SA SA 2
+ 3500 PH  0731 LY1SR      59   51 LY7M       59   44 UT    2
+ 3500 PH  0733 LY1SR      59   52 LY3B       59   54 PA PA 2
+ 3500 PH  0733 LY1SR      59   53 LY5P       59   30 SI SI 2
+ 3500 PH  0735 LY1SR      59   54 OH2PM      59   85 VA    2
+ 3500 PH  0735 LY1SR      59   55 YL2KF      59   87 LM LM 2
+ 3500 PH  0737 LY1SR      59   56 LY4K       59   47 KM    2
+ 3500 PH  0737 LY1SR      59   57 YL100ZK    59   47 RR    2
+ 7000 PH  0739 LY1SR      59   58 ES7GM      59  130 VP VP 2
+ 7000 PH  0741 LY1SR      59   59 ES2MC      59  114 HR HR 2
+ 7000 PH  0742 LY1SR      59   60 OH3LS      59   55 PM PM 2
+ 7000 PH  0743 LY1SR      59   61 ES2O       59   49 HR    2
+ 7000 PH  0744 LY1SR      59   62 ES2IPA     59   42 HR    2
+ 7000 PH  0745 LY1SR      59   63 SM6IQD     59   36 VD VD 1  Nr/32
+ 7000 PH  0745 LY1SR      59   64 LY2MM      59   82 KM KM 2
+ 7000 PH  0745 LY1SR      59   65 OH8HW      59  102 VA    0  Call/OH8NW
+ 7000 PH  0746 LY1SR      59   66 OF0RJ      59   48 AL AL 2
+ 7000 PH  0746 LY1SR      59   67 LY2BAG     59   23 KM    2
+ 7000 PH  0747 LY1SR      59   68 OF3P       59   52 PM    1  Nr/62
+ 7000 PH  0748 LY1SR      59   69 OF2KM      59   59 UU UU 2
+ 7000 PH  0748 LY1SR      59   70 LY4A       59  139 SU SU 2
+ 7000 PH  0748 LY1SR      59   71 SF3AQ      59   38 VN    0  Call/SF3A
+ 7000 PH  0749 LY1SR      59   72 OH3JP      59   55 KD    1  Mult/KT
+ 7000 PH  0749 LY1SR      59   73 OH6ECM     59   48 PO PO 2
+ 7000 PH  0750 LY1SR      59   74 OF1F       59  124 SA SA 2
+ 7000 PH  0751 LY1SR      59   75 OF1TD      59   55 SA    2
+ 7000 PH  0752 LY1SR      59   76 LY4K       59   57 KM    2
+ 7000 PH  0753 LY1SR      59   77 LY2ND      59   40 KM    2
+ 7000 PH  0753 LY1SR      59   78 OH3Z       59  129 VA VA 2
+ 7000 PH  0753 LY1SR      59   79 YL2BJ      59  114 VR VR 2
+ 7000 PH  0754 LY1SR      59   80 LY2N       59   13 KM    2
+ 7000 PH  0754 LY1SR      59   81 OF8NV      59   41 PO    2
+ 7000 PH  0755 LY1SR      59   82 SE3X       59   48 JL JL 2
+ 7000 PH  0755 LY1SR      59   83 OH6RE      59  110 KE KE 2
+ 7000 PH  0756 LY1SR      59   84 SE4E       59   76 DA DA 2
+ 7000 PH  0758 LY1SR      59   85 SE5E       59   66 UP UP 2
+ 7000 PH  0758 LY1SR      59   86 ES1CN      59   71 TL TL 2
+ 7000 PH  0759 LY1SR      59   87 ES2EZ      59  118 HR    2
+ 7000 PH  0801 LY1SR      59   88 LY5O       59  127 KM    2
+ 7000 PH  0802 LY1SR      59   89 OH2KW      59   76 UU    2
+ 7000 PH  0803 LY1SR      59   90 ES4NY      59   68 IV IV 2
+ 7000 PH  0805 LY1SR      59   91 OZ7X       59  147 AH AH 2
+ 7000 PH  0805 LY1SR      59   92 LY3BN      59  128 KN KN 2
+ 7000 PH  0806 LY1SR      59   93 LY4L       59  131 KM    2
+ 7000 PH  0810 LY1SR      59   94 LY2ZO      59   73 KM    2
+ 7000 PH  0810 LY1SR      59   95 ES1TU      59   88 TL    2
+ 7000 PH  0813 LY1SR      59   96 OH3RT      59   23 PH PH 2
+ 7000 PH  0814 LY1SR      59   97 ES5JR      59   56 TA TA 2
+ 7000 PH  0816 LY1SR      59   98 ES6RW      59  179 VO VO 2
+ 7000 PH  0818 LY1SR      59   99 OH2PM      59  136 VA    2
+ 7000 PH  0819 LY1SR      59  100 ES5QA      59  137 JG JG 2
+ 7000 PH  0822 LY1SR      59  101 ES1BH      59   94 TL    2
+ 7000 PH  0823 LY1SR      59  102 OH7A       59  155 PK PK 2
+ 7000 PH  0826 LY1SR      59  103 OF8L       59  134 PP PP 2

@@ -1,0 +1,100 @@
+     Call: LY7M
+ Operator:
+ Category: Single Op                      Band   QSO  Points  Mults
+ Power: HIGH                              40m     42      83     30
+     Name: Algirdas Uzdonas               80m     47      92     29
+  Address: Kvarco 30                      Sum     89     175     59
+  Address: Anyksciai                      Total: 10325
+  Address: Lithuania
+
+
+
+ 3649 PH  0642 LY7M       59    1 ES6RW      59   28 VO VO 2
+ 3644 PH  0643 LY7M       59    2 LA5UF      59    2 VF VF 2
+ 3637 PH  0644 LY7M       59    3 YL7A       59   21 VK VK 2
+ 3641 PH  0646 LY7M       59    4 YL2PJ      59   23 RE RE 2
+ 3601 PH  0647 LY7M       59    5 LY4Q       59   28 VU VU 2
+ 3605 PH  0647 LY7M       59    6 LY3BN      59   29 KN KN 2
+ 3612 PH  0648 LY7M       59    7 ES7GM      59   39 VP VP 2
+ 3614 PH  0648 LY7M       59    8 LY2MM      59   32 KM KM 2
+ 3616 PH  0649 LY7M       59    9 LY2PBV     59   20 MM MM 1  Nr/19
+ 3622 PH  0650 LY7M       59   10 LY1CT      59   16 KD KD 2
+ 3625 PH  0650 LY7M       59   11 LY4A       59   48 SU SU 2
+ 3629 PH  0651 LY7M       59   12 LY6A       59   42 KN    2
+ 3642 PH  0652 LY7M       59   13 LY2CO      59   46 TI TI 2
+ 3646 PH  0652 LY7M       59   14 LY2BAW     59   41 VV VV 2
+ 3703 PH  0653 LY7M       59   15 YL2VW      59   47 RR RR 2
+ 3717 PH  0654 LY7M       59   16 OZ7X       59   34 AH AH 2
+ 3729 PH  0655 LY7M       59   17 YL9T       59   43 VK    2
+ 3741 PH  0655 LY7M       59   18 LY5O       59   45 KM    2
+ 3748 PH  0658 LY7M       59   19 YL2BJ      59   63 VR VR 2
+ 3750 PH  0659 LY7M       59   20 OH3Z       59   33 VA VA 2
+ 3753 PH  0659 LY7M       59   21 YL1S       59   38 RR    2
+ 3767 PH  0701 LY7M       59   22 SA1CCQ     59   17 GD    1  Mult/GO
+ 3775 PH  0703 LY7M       59   23 YL3FT      59   50 OE OE 2
+ 3761 PH  0707 LY7M       59   24 YL2KO      59   53 AU AU 2
+ 3747 PH  0708 LY7M       59   25 LB1AH      59   23 HO HO 2
+ 3741 PH  0709 LY7M       59   26 OH6RE      59   48 KE KE 2
+ 3735 PH  0710 LY7M       59   27 ES6QC      59   61 VO    2
+ 3724 PH  0711 LY7M       59   28 OF8L       59   44 PP PP 2
+ 3720 PH  0712 LY7M       59   29 YL2KF      59   72 LM LM 2
+ 3715 PH  0712 LY7M       59   30 OH7A       59   65 PK PK 2
+ 3705 PH  0713 LY7M       59   31 LY2SA      59   58 MM    2
+ 3701 PH  0714 LY7M       59   32 YL2SM      59   74 AU    2
+ 3647 PH  0715 LY7M       59   33 LY2TS      59   49 TI    2
+ 3616 PH  0716 LY7M       59   34 LY1CO      59   37 KN    2
+ 7158 PH  0719 LY7M       59   35 OZ11A      59   27 NJ NJ 2
+ 7150 PH  0720 LY7M       59   36 ES2IPA     59   32 HR HR 2
+ 7150 PH  0720 LY7M       59   37 LY9Y       59   50 SU SU 2
+ 3601 PH  0728 LY7M       59   38 LY5AA      59   35 KM    2
+ 3608 PH  0729 LY7M       59   39 LY4K       59   40 KM    2
+ 3608 PH  0730 LY7M       59   40 LY2BOK     59   29 AT AT 2
+ 3608 PH  0730 LY7M       59   41 LY5P       59   28 SI SI 2
+ 3608 PH  0731 LY7M       59   42 LY3PDX     59   24 MM    2
+ 3608 PH  0731 LY7M       59   43 LY2ND      59   31 KM    2
+ 3608 PH  0731 LY7M       59   44 LY1SR      59   51 KM    2
+ 3608 PH  0731 LY7M       59   45 ES1BH      59   64 TL TL 2
+ 3608 PH  0732 LY7M       59   46 OH2PM      59   84 VA    2
+ 3608 PH  0732 LY7M       59   47 LY3CY      59   49 VU    2
+ 3608 PH  0732 LY7M       59   48 LY3B       59   53 PA PA 2
+ 3608 PH  0732 LY7M       59   49 LY5T       59   50 AT    2
+ 7050 PH  0734 LY7M       59   50 OF6MW      59   74 KT KT 2
+ 7062 PH  0734 LY7M       59   51 LY6A       59   88 KN KN 2
+ 7069 PH  0735 LY7M       59   52 ES2MC      59  105 HR    2
+ 3610 PH  0736 LY7M       59   53 ES2MC      59  106 HR HR 2
+ 7072 PH  0736 LY7M       59   54 OH3Z       59   98 VA VA 2
+ 7086 PH  0737 LY7M       59   55 LY2SA      59   83 MM MM 2
+ 7088 PH  0737 LY7M       59   56 ES6RW      59  122 VO VO 2
+ 7096 PH  0738 LY7M       59   57 LA5UF      59   34 VF VF 2
+ 7099 PH  0739 LY7M       59   58 ES7GM      59  128 VP VP 2
+ 7116 PH  0739 LY7M       59   59 OZ8PG      59   67 FB FB 2
+ 7132 PH  0740 LY7M       59   60 OH7A       59   94 PK PK 2
+ 7144 PH  0741 LY7M       59   61 OZ7X       59   94 AH AH 2
+ 7147 PH  0742 LY7M       59   62 LY5O       59  105 KM KM 2
+ 7149 PH  0742 LY7M       59   63 LY3BN      59   91 KN    2
+ 7158 PH  0743 LY7M       59   64 OF1F       59  109 SA SA 2
+ 7162 PH  0743 LY7M       59   65 ES1TU      59   68 TL TL 2
+ 7167 PH  0744 LY7M       59   66 OF8UV      59   34 KU KU 2
+ 7170 PH  0745 LY7M       59   67 LB4FH      59   22 RI    1  Mult/RL
+ 7170 PH  0746 LY7M       59   68 ES2EZ      59  106 HR    2
+ 7171 PH  0749 LY7M       59   69 8S0C       59   71 SL SL 2
+ 7168 PH  0750 LY7M       59   70 OH6RE      59  101 KE KE 2
+ 7159 PH  0750 LY7M       59   71 SE5L       59   49 VM VM 2
+ 7098 PH  0752 LY7M       59   72 OH8NW      59  106 VA    2
+ 7095 PH  0753 LY7M       59   73 LY2BAW     59  109 VV VV 2
+ 7085 PH  0754 LY7M       59   74 LY2MM      59   92 KM    2
+ 7091 PH  0757 LY7M       59   75 OH6ECM     59   53 PO PO 2
+ 7091 PH  0757 LY7M       59   76 LA8FTA     59   39 AK AK 2
+ 7091 PH  0758 LY7M       59   77 OF8NV      59   43 PO    2
+ 7091 PH  0758 LY7M       59   78 SM6IQD     59   45 VD VD 2
+ 7091 PH  0758 LY7M       59   79 OF1TD      59   59 SA    2
+ 7091 PH  0759 LY7M       59   80 YL2SM      59  134 AU AU 2
+ 7091 PH  0800 LY7M       59   81 SA1CCQ     59   71 GO GO 2
+ 7091 PH  0800 LY7M       59   82 SE4E       59   79 DA DA 2
+ 7139 PH  0804 LY7M       59   83 OZ9VA      59   54 FB    2
+ 7158 PH  0805 LY7M       59   84 YL2GD      59  132 AU    2
+ 7161 PH  0806 LY7M       59   85 OF8L       59  110 PP PP 2
+ 7179 PH  0807 LY7M       59   86 LB1AH      59  100 HO HO 2
+ 7189 PH  0808 LY7M       59   87 OH2PM      59  116 VA    2
+ 7197 PH  0808 LY7M       59   88 OZ4NA      59   68 NJ    2
+ 7199 PH  0809 LY7M       59   89 SE5E       59   74 UP UP 2

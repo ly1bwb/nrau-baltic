@@ -1,0 +1,116 @@
+     Call: 8S0C
+ Operator: SM0MPV
+ Category: Single Op                      Band   QSO  Points  Mults
+ Power: HIGH                              40m     51     101     32
+     Name: Claes Carneheim                80m     54     106     37
+  Address: Sagov. 3                       Sum    105     207     69
+  Address: Enebyberg,  SE-182 47          Total: 14283
+  Address: SWEDEN
+
+
+
+ 3609 PH  0644 8S0C       59    1 ES2EZ      59   28 HR HR 2
+ 3614 PH  0646 8S0C       59    2 LY2MM      59   29 KM KM 2
+ 3619 PH  0647 8S0C       59    3 OF6MW      59   26 KT KT 2
+ 3625 PH  0648 8S0C       59    4 LY4A       59   43 SU SU 2
+ 7173 PH  0648 8S0C       59    5 LY4A       59   44 SU SU 2
+ 3631 PH  0650 8S0C       59    6 LY5W       59   20 KN KN 2
+ 3637 PH  0651 8S0C       59    7 YL7A       59   33 VK VK 2
+ 3643 PH  0651 8S0C       59    8 LY2CO      59   45 TI TI 2
+ 3612 PH  0652 8S0C       59    9 ES7GM      59   51 VP VP 2
+ 3622 PH  0654 8S0C       59   10 LY1CT      59   23 KD KD 2
+ 3630 PH  0655 8S0C       59   11 LY6A       59   47 KN    2
+ 3712 PH  0656 8S0C       59   12 OH2KW      59   30 UU UU 2
+ 3707 PH  0656 8S0C       59   13 ES2MC      59   58 HR    2
+ 3715 PH  0657 8S0C       59   14 OH7A       59   43 PK PK 2
+ 3718 PH  0658 8S0C       59   15 OZ7X       59   39 AH AH 2
+ 3720 PH  0659 8S0C       59   16 YL2KF      59   51 LM LM 2
+ 3724 PH  0700 8S0C       59   17 LY5T       59   19 AT AT 2
+ 3727 PH  0700 8S0C       59   18 OF1F       59   40 SA SA 2
+ 3729 PH  0701 8S0C       59   19 YL9T       59   57 VK    2
+ 3738 PH  0702 8S0C       59   20 OZ8PJ      59   36 FB    0  Call/OZ8PG
+ 3754 PH  0704 8S0C       59   21 YL1S       59   46 RR RR 2
+ 3759 PH  0704 8S0C       59   22 OH2PM      59   57 VA VA 2
+ 3775 PH  0705 8S0C       59   23 YL3FT      59   58 OE OE 2
+ 3632 PH  0707 8S0C       59   24 YL2GD      59   68 AU AU 2
+ 3616 PH  0708 8S0C       59   25 OH8NW      59   64 VA    2
+ 3603 PH  0710 8S0C       59   26 OZ7SG      59   11 NJ NJ 2
+ 3603 PH  0711 8S0C       59   27 OF8NV      59   19 PO PO 2
+ 3603 PH  0711 8S0C       59   28 OF3R       59   19 PH PH 2
+ 3603 PH  0712 8S0C       59   29 OZ4NA      59   26 NJ    2
+ 3603 PH  0712 8S0C       59   30 SE3X       59   23 JL JL 2
+ 3603 PH  0713 8S0C       59   31 ES6PA      59   31 VO VO 2
+ 3603 PH  0713 8S0C       59   32 ES1TU      59   46 TL TL 2
+ 3603 PH  0714 8S0C       59   33 YL2VW      59   72 RR    2
+ 3603 PH  0715 8S0C       59   34 OF2J       59   20 UU    2
+ 3603 PH  0715 8S0C       59   35 YL2PJ      59   66 RE RE 2
+ 3603 PH  0716 8S0C       59   36 OH7JL      59   37 PK    2
+ 3603 PH  0716 8S0C       59   37 LA5UF      59   22 VF VF 2
+ 3751 PH  0717 8S0C       59   38 OH3Z       59   76 VA    2
+ 3742 PH  0718 8S0C       59   39 OH6RE      59   64 KE KE 2
+ 3735 PH  0719 8S0C       59   40 LY3BN      59   71 KN    2
+ 3729 PH  0720 8S0C       59   41 ES1BH      59   50 TL    2
+ 3740 PH  0722 8S0C       59   42 LY5O       59   78 KM    2
+ 3748 PH  0724 8S0C       59   43 LB1AH      59   45 HO HO 2
+ 3770 PH  0725 8S0C       59   44 OF3P       59   44 PM PM 2
+ 3627 PH  0727 8S0C       59   45 SE5E       59   34 UP UP 2
+ 3627 PH  0727 8S0C       59   46 YL2SM      59   92 AU    2
+ 3627 PH  0728 8S0C       59   47 ES3BM      59   39 RP RP 2
+ 3627 PH  0728 8S0C       59   48 ES0DJ      59   22 SR SR 2
+ 3627 PH  0729 8S0C       59   49 ES1CN      59   46 TL    2
+ 3627 PH  0730 8S0C       59   50 LY3CY      59   47 VU VU 2
+ 3627 PH  0730 8S0C       59   51 LY3IZ      59   31 UT UT 2
+ 3627 PH  0731 8S0C       59   52 LY2ZO      59   35 KM    2
+ 3627 PH  0731 8S0C       59   53 SM5ACQ     59   39 VM VM 2
+ 3613 PH  0734 8S0C       59   54 ES5QA      59   92 JG JG 2
+ 7100 PH  0736 8S0C       59   55 ES7GM      59  123 VP VP 2
+ 7063 PH  0737 8S0C       59   56 LY6A       59   93 KN KN 2
+ 7070 PH  0737 8S0C       59   57 ES2MC      59  109 HR HR 2
+ 7081 PH  0738 8S0C       59   58 YL2VW      59  100 RR RR 2
+ 7086 PH  0739 8S0C       59   59 LY2SA      59   87 MM MM 2
+ 7089 PH  0739 8S0C       59   60 ES6RW      59  126 VO VO 2
+ 7095 PH  0740 8S0C       59   61 LY2BAW     59   87 VV VV 2
+ 7117 PH  0742 8S0C       59   62 OZ8PG      59   69 FB FB 2
+ 7133 PH  0743 8S0C       59   63 OH7A       59  101 PK PK 2
+ 7139 PH  0744 8S0C       59   64 YL2PJ      59   91 RE RE 2
+ 7140 PH  0744 8S0C       59   65 YL2BJ      59  106 VR VR 2
+ 7147 PH  0746 8S0C       59   66 LY5O       59  110 KM KM 2
+ 7193 PH  0746 8S0C       59   67 YL9T       59  111 VK VK 2
+ 7172 PH  0748 8S0C       59   68 OZ9VA      59   42 FB    2
+ 7172 PH  0749 8S0C       59   69 LY2ZO      59   53 KM    2
+ 7172 PH  0749 8S0C       59   70 LY3B       59   68 PA PA 2
+ 7172 PH  0749 8S0C       59   71 LY7M       59   69 UT UT 2
+ 7172 PH  0749 8S0C       59   72 OH7JL      59   57 PK    2
+ 7172 PH  0750 8S0C       59   73 SE3X       59   44 JL JL 2
+ 7172 PH  0751 8S0C       59   74 YL7A       59  104 VK    2
+ 7172 PH  0751 8S0C       59   75 LY5T       59   64 AT AT 2
+ 7172 PH  0752 8S0C       59   76 LY9Y       59   77 SU    2
+ 7172 PH  0752 8S0C       59   77 LY2J       59   75 MM    2
+ 7172 PH  0753 8S0C       59   78 YL1S       59   90 RR    2
+ 7172 PH  0753 8S0C       59   79 LY2NY      59   65 KN    2
+ 7172 PH  0753 8S0C       59   80 YL2KO      59  108 AU AU 2
+ 7172 PH  0754 8S0C       59   81 LY2CO      59  103 TI TI 2
+ 7172 PH  0755 8S0C       59   82 LY5AA      59   50 KM    2
+ 7141 PH  0757 8S0C       59   83 LY1CT      59   79 KD KD 2
+ 7144 PH  0758 8S0C       59   84 OZ7X       59  131 AH AH 2
+ 7162 PH  0800 8S0C       59   85 OF8L       59   98 PP PP 2
+ 7167 PH  0800 8S0C       59   86 LY4L       59  123 KM    2
+ 3615 PH  0801 8S0C       59   87 LY4L       59  124 KM    2
+ 7102 PH  0804 8S0C       59   88 SD6M       59   50 VD VD 2
+ 7102 PH  0805 8S0C       59   89 YL1ZT      59   64 TU TU 2
+ 7102 PH  0806 8S0C       59   90 LY3CY      59   63 VU VU 2
+ 7102 PH  0807 8S0C       59   91 OH6ECM     59   51 PO PO 1  Nr/59
+ 7102 PH  0807 8S0C       59   92 ES6PA      59   84 VO    2
+ 7102 PH  0808 8S0C       59   93 SM6IQD     59   51 VD    2
+ 7198 PH  0811 8S0C       59   94 OZ4NA      59   71 NJ NJ 2
+ 7067 PH  0818 8S0C       59   95 LY4Q       59   90 VU    2
+ 7062 PH  0819 8S0C       59   96 YL3FT      59  139 OE OE 2
+ 7070 PH  0822 8S0C       59   97 YL2SM      59  159 AU    2
+ 7189 PH  0823 8S0C       59   98 LY3BN      59  151 KN    2
+ 7189 PH  0824 8S0C       59   99 LY2MM      59  128 KM    2
+ 7189 PH  0825 8S0C       59  100 LY2N       59   36 KM    2
+ 7189 PH  0825 8S0C       59  101 LY4K       59   73 KM    2
+ 7189 PH  0827 8S0C       59  102 OH6RE      59  142 KE KE 2
+ 7189 PH  0829 8S0C       59  103 YL3GAO     59   60 DO DO 2
+ 7189 PH  0829 8S0C       59  104 OF8UV      59   62 KU KU 2
+ 7189 PH  0829 8S0C       59  105 LY2BOK     59   58 AT    2

@@ -1,0 +1,72 @@
+     Call: OF8UV
+ Operator:
+ Category: Single Op                      Band   QSO  Points  Mults
+ Power: LOW                               40m     37      68     25
+     Name: Markku Korhonen                80m     26      51     20
+  Address: Rinnetie 12                    Sum     63     119     45
+                                          Total: 5355
+
+
+ 3500 PH  0632 OF8UV      59    1 OH7A       59    1 PK PK 1  Nr/6
+ 3500 PH  0633 OF8UV      59    2 OH8NW      59    2 VA VA 2
+ 3500 PH  0634 OF8UV      59    3 ES4NY      59    4 IV IV 2
+ 3500 PH  0635 OF8UV      59    4 OF1F       59    6 SA SA 2
+ 3500 PH  0637 OF8UV      59    5 ES6QC      59   12 VO VO 2
+ 3500 PH  0640 OF8UV      59    6 LY5O       59   17 KM KM 2
+ 3500 PH  0642 OF8UV      59    7 YL2BJ      59   28 VR VR 2
+ 3500 PH  0642 OF8UV      59    8 YL2SM      59   22 AU AU 2
+ 3500 PH  0643 OF8UV      59    9 OH2PM      59   23 VA    2
+ 3500 PH  0644 OF8UV      59   10 OF3P       59    9 PM PM 2
+ 3500 PH  0646 OF8UV      59   11 LY4L       59   31 KM    2
+ 3500 PH  0646 OF8UV      59   12 YL3FT      59   24 OE OE 2
+ 3500 PH  0648 OF8UV      59   13 YL2KO      59   30 AU    2
+ 3500 PH  0653 OF8UV      59   14 YL9T       59   36 VK VK 2
+ 3500 PH  0657 OF8UV      59   15 OH2KW      59   32 UU UU 2
+ 3500 PH  0658 OF8UV      59   16 LY5W       59   32 KN KN 2
+ 3500 PH  0701 OF8UV      59   17 ES2MC      59   66 HR HR 2
+ 3500 PH  0703 OF8UV      59   18 OZ7X       59   47 AH AH 2
+ 3500 PH  0711 OF8UV      59   19 OH3Z       59   63 VA    2
+ 3500 PH  0715 OF8UV      59   20 ES1CN      59   38 TL TL 2
+ 3500 PH  0717 OF8UV      59   21 OH6RE      59   62 KE KE 2
+ 3500 PH  0720 OF8UV      59   22 ES6RW      59   97 VO    2
+ 3500 PH  0721 OF8UV      59   23 LY2BAW     59   73 VV VV 2
+ 3500 PH  0722 OF8UV      59   24 ES7GM      59   95 VP VP 2
+ 3500 PH  0724 OF8UV      59   25 OH3LS      59   40 PM    2
+ 3500 PH  0727 OF8UV      59   26 OF8L       59   59 PP PP 2
+ 7000 PH  0731 OF8UV      59   27 ES6RW      59  110 VO VO 2
+ 7000 PH  0733 OF8UV      59   28 ES2MC      59  100 HR HR 2
+ 7000 PH  0733 OF8UV      59   29 LY6A       59  187 KN KN 1  Nr/87
+ 7000 PH  0734 OF8UV      59   30 ES6QC      59   79 VO    2
+ 7000 PH  0737 OF8UV      59   31 LY2SA      59   82 MM MM 2
+ 7000 PH  0738 OF8UV      59   32 ES7GM      59  126 VP VP 2
+ 7000 PH  0739 OF8UV      59   33 LY2VW      59  102 RR    0  Call/YL2VW
+ 7000 PH  0744 OF8UV      59   34 LY7M       59   66 UT UT 2
+ 7000 PH  0745 OF8UV      59   35 LY5W       59   76 KN    2
+ 7000 PH  0747 OF8UV      59   36 LY3B       59   67 PA PA 2
+ 7000 PH  0747 OF8UV      59   37 YL1S       59   85 RR RR 2
+ 7000 PH  0748 OF8UV      59   38 YL2PJ      59   97 RE RE 2
+ 7000 PH  0751 OF8UV      59   39 LY4A       59  143 SU SU 2
+ 7000 PH  0755 OF8UV      59   40 OZ11A      59   63 NJ NJ 1  Nr/65
+ 7000 PH  0756 OF8UV      59   41 OZ8PG      59   91 FB FB 2
+ 7000 PH  0758 OF8UV      59   42 ES6PA      59   75 VO    2
+ 7000 PH  0759 OF8UV      59   43 YL2KF      59   98 LM LM 2
+ 7000 PH  0800 OF8UV      59   44 LY3BN      59  121 KN    2
+ 7000 PH  0801 OF8UV      59   45 OZ7X       59  138 AH AH 2
+ 7000 PH  0802 OF8UV      59   46 LY9Y       59   86 SU    2
+ 7000 PH  0803 OF8UV      59   47 YL2SM      59  139 AU AU 2
+ 7000 PH  0804 OF8UV      59   48 LY2BAW     59  123 VV VV 2
+ 7000 PH  0805 OF8UV      59   49 LY2MM      59  106 KM KM 2
+ 7000 PH  0806 OF8UV      59   50 LY5O       59  136 KM    2
+ 7000 PH  0808 OF8UV      59   51 YL2VW      59  127 RR    2
+ 7000 PH  0812 OF8UV      59   52 SE5N       59   65 SO SO 2
+ 7000 PH  0814 OF8UV      59   53 SE4E       59   91 DA DA 2
+ 7000 PH  0814 OF8UV      59   54 YL2BJ      59  130 VR VR 2
+ 7000 PH  0816 OF8UV      59   55 YL9T       59  135 VK VK 2
+ 7000 PH  0820 OF8UV      59   56 YL100ZK    59   67 RR    2  Check this!
+ 7000 PH  0821 OF8UV      59   57 YL2KO      59  152 AU    2
+ 7000 PH  0822 OF8UV      59   58 YL1ZT      59   71 TU TU 2
+ 7000 PH  0823 OF8UV      59   59 YL2II      59   38 AI AI 2
+ 7000 PH  0826 OF8UV      59   60 YL2GD      59  156 AU    2
+ 7000 PH  0827 OF8UV      59   61 SM5ACQ     59   85 VM VM 2
+ 7000 PH  0829 OF8UV      59   62 8S0C       59  104 SL SL 2
+ 7000 PH  0830 OF8UV      59   63 OF6MW      59  121 KT    0 Time

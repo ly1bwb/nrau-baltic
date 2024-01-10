@@ -1,0 +1,70 @@
+     Call: LY5AA
+ Operator: LY5OO
+ Category: MultiOp                        Band   QSO  Points  Mults
+ Power: LOW                               40m     22      43     14
+     Name: xxx                            80m     37      73     23
+  Address: p.o.box 210                    Sum     59     116     37
+  Address: Kaunas                         Total: 4292
+  Address: Lithuania
+
+
+
+ 3500 PH  0630 LY5AA      59    1 LY2CO      59    1 TI TI 2
+ 3500 PH  0632 LY5AA      59    2 YL9T       59    1 VK VK 2
+ 3500 PH  0634 LY5AA      59    3 ES3BM      59    3 RP RP 2
+ 3500 PH  0635 LY5AA      59    4 LY6A       59   17 KN KN 2
+ 3500 PH  0636 LY5AA      59    5 LY3BN      59   12 KN    2
+ 3500 PH  0638 LY5AA      59    6 LY2MM      59   17 KM KM 2
+ 3500 PH  0638 LY5AA      59    7 ES7GM      59   23 VP VP 2
+ 3500 PH  0641 LY5AA      59    8 LY2NY      59   19 KN    2
+ 3500 PH  0642 LY5AA      59    9 LY2BAW     59   21 VV VV 2
+ 3500 PH  0644 LY5AA      59   10 LY4Q       59   22 VU VU 2
+ 3500 PH  0645 LY5AA      59   11 LY4A       59   38 SU SU 2
+ 3500 PH  0646 LY5AA      59   12 LY2PBV     59   14 MM MM 2
+ 3500 PH  0647 LY5AA      59   13 ES6RW      59   45 VO VO 2
+ 3500 PH  0650 LY5AA      59   14 YL7A       59   32 VK    2
+ 3500 PH  0652 LY5AA      59   15 LY1CT      59   21 KD KD 2
+ 3500 PH  0656 LY5AA      59   16 OH8NW      59   40 VA VA 2
+ 3500 PH  0702 LY5AA      59   17 LY1SR      59   30 KM    2
+ 3500 PH  0706 LY5AA      59   18 LY5O       59   59 KM    2
+ 3500 PH  0707 LY5AA      59   19 OF1Z       59   46 VA    2
+ 3500 PH  0709 LY5AA      59   20 ES2MC      59   75 HR HR 2
+ 3500 PH  0712 LY5AA      59   21 LA5UF      59   20 VF VF 2
+ 3500 PH  0713 LY5AA      59   22 YL2GD      59   79 AU AU 2
+ 3500 PH  0715 LY5AA      59   23 ES5QA      59   66 JG JG 2
+ 3500 PH  0717 LY5AA      59   24 LY2TS      59   52 TI    2
+ 3500 PH  0719 LY5AA      59   25 LY2BAG     59   18 KM    2
+ 3500 PH  0720 LY5AA      59   26 YL2VW      59   78 RR RR 2
+ 3500 PH  0722 LY5AA      59   27 LY2SA      59   69 MM    2
+ 3500 PH  0723 LY5AA      59   28 LY4L       59   77 OF    1  Mult/KM
+ 3500 PH  0724 LY5AA      59   29 YL2PJ      59   75 RE RE 2
+ 3500 PH  0724 LY5AA      59   30 LY4MA      59   21 KM    2
+ 3500 PH  0726 LY5AA      59   31 LY3CY      59   45 VU    2
+ 3500 PH  0727 LY5AA      59   32 LY5P       59   26 SI SI 2
+ 3500 PH  0728 LY5AA      59   33 LY2BOK     59   28 AT AT 2
+ 3500 PH  0728 LY5AA      59   34 LY4K       59   39 KM    2
+ 3500 PH  0728 LY5AA      59   35 LY7M       59   38 UT UT 2
+ 3500 PH  0731 LY5AA      59   36 ES1BH      59   63 TL TL 2
+ 7000 PH  0733 LY5AA      59   37 OH7A       59   84 PK PK 2
+ 7000 PH  0735 LY5AA      59   38 OH3Z       59   95 VA VA 2
+ 7000 PH  0735 LY5AA      59   39 OF8L       59   68 PP PP 2
+ 7000 PH  0737 LY5AA      59   40 ES2MC      59  107 HR HR 2
+ 3500 PH  0739 LY5AA      59   41 LY2ZO      59   44 KM    2
+ 7000 PH  0744 LY5AA      59   42 ES7GM      59  140 VP VP 2
+ 7000 PH  0748 LY5AA      59   43 LY4L       59  108 OF    1  Mult/KM
+ 7000 PH  0749 LY5AA      59   44 OF1F       59  118 SA SA 2
+ 7000 PH  0749 LY5AA      59   45 LY5O       59  114 KM KM 2
+ 7000 PH  0751 LY5AA      59   46 LY6A       59  126 KN KN 2
+ 7000 PH  0752 LY5AA      59   47 OF6MW      59   90 KT KT 2
+ 7000 PH  0752 LY5AA      59   48 OZ11A      59   61 NJ NJ 2
+ 7000 PH  0754 LY5AA      59   49 OZ8PG      59   85 FB FB 2
+ 7000 PH  0755 LY5AA      59   50 8S0C       59   82 SL SL 2
+ 7000 PH  0756 LY5AA      59   51 LY2ZO      59   62 KM    2
+ 7000 PH  0757 LY5AA      59   52 LY3BN      59  115 KN    2
+ 7000 PH  0757 LY5AA      59   53 OH8NW      59  110 VA    2
+ 7000 PH  0804 LY5AA      59   54 OZ7X       59  145 AH AH 2
+ 7000 PH  0806 LY5AA      59   55 LY2BAG     59   25 KM    2
+ 7000 PH  0809 LY5AA      59   56 LY2MM      59  109 KM    2
+ 7000 PH  0813 LY5AA      59   57 LY2ND      59   49 KM    2
+ 7000 PH  0817 LY5AA      59   58 SE5E       59   87 UP UP 2
+ 7000 PH  0819 LY5AA      59   59 OH3JP      59   72 KT    2

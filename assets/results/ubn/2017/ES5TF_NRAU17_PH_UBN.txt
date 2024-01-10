@@ -1,0 +1,78 @@
+     Call: ES5TF
+ Operator:
+ Category: Single Op                      Band   QSO  Points  Mults
+ Power: LOW                               40m     14      26     11
+     Name: Tõnis Eenmäe                   80m     53     102     34
+  Address: Observatooriumi 5-7            Sum     67     128     45
+  Address: Tõravere,  61602               Total: 5760
+  Address: Estonia
+
+
+
+ 3629 PH  0632 ES5TF      59    1 LY6A       59    8 KN KN 2
+ 3635 PH  0632 ES5TF      59    2 ES3BM      59    2 RP RP 2
+ 3601 PH  0633 ES5TF      59    3 LY4Q       59    6 VU VU 2
+ 3609 PH  0634 ES5TF      59    4 ES2EZ      59   11 HR HR 2
+ 3611 PH  0635 ES5TF      59    5 ES7GM      59   14 VP VP 2
+ 3614 PH  0635 ES5TF      59    6 LY2MM      59   11 KM KM 2
+ 3617 PH  0636 ES5TF      59    7 LY4L       59   14 KM    2
+ 3619 PH  0637 ES5TF      59    8 OF6MW      59   14 KT KT 2
+ 3625 PH  0638 ES5TF      59    9 LY4A       59   21 SU SU 2
+ 3649 PH  0642 ES5TF      59   10 ES6RW      59   29 VO VO 2
+ 3646 PH  0643 ES5TF      59   11 LY2BAW     59   25 VV VV 2
+ 3643 PH  0644 ES5TF      59   12 LY2CO      59   32 TI TI 2
+ 3637 PH  0645 ES5TF      59   13 YL7A       59   25 VK VK 2
+ 3633 PH  0646 ES5TF      59   14 ES5QA      59   29 JG JG 2
+ 3604 PH  0647 ES5TF      59   15 ES1O       59    8 TL TL 2
+ 3703 PH  0650 ES5TF      59   16 YL2VW      59   39 RR RR 2
+ 3707 PH  0650 ES5TF      59   17 ES2MC      59   47 HR    2
+ 3710 PH  0652 ES5TF      59   18 YL2GD      59   48 AU AU 2
+ 3713 PH  0653 ES5TF      59   19 OH2KW      59   28 UU UU 2
+ 3715 PH  0654 ES5TF      59   20 OH7A       59   38 PK PK 2
+ 3718 PH  0656 ES5TF      59   21 OZ7X       59   36 AH AH 2
+ 3720 PH  0657 ES5TF      59   22 YL2KF      59   48 LM LM 2
+ 3727 PH  0658 ES5TF      59   23 OF1F       59   36 SA SA 2
+ 3729 PH  0659 ES5TF      59   24 YL9T       59   54 VK    2
+ 3735 PH  0700 ES5TF      59   25 ES6QC      59   46 VO    2
+ 3742 PH  0701 ES5TF      59   26 OH6RE      59   34 KE KE 2
+ 3745 PH  0702 ES5TF      59   27 ES4NY      59   34 IV IV 2
+ 3748 PH  0702 ES5TF      59   28 YL2BJ      59   70 VR VR 2
+ 3751 PH  0705 ES5TF      59   29 OH3Z       59   48 VA VA 2
+ 3754 PH  0705 ES5TF      59   30 YL1S       59   49 RR    2
+ 3760 PH  0708 ES5TF      59   31 OH2PM      59   61 VA    2
+ 3762 PH  0709 ES5TF      59   32 YL2KO      59   57 AU    2
+ 3771 PH  0710 ES5TF      59   33 YL2PJ      59   60 RE RE 2
+ 3775 PH  0711 ES5TF      59   34 YL3FT      59   69 OE OE 2
+ 3724 PH  0714 ES5TF      59   35 LY5T       59   32 AT AT 2
+ 3712 PH  0715 ES5TF      59   36 OF2KM      59   40 UU    2
+ 3706 PH  0716 ES5TF      59   37 LY2SA      59   61 MM MM 2
+ 3702 PH  0717 ES5TF      59   38 YL2SM      59   81 AU    2
+ 3609 PH  0718 ES5TF      59   39 ES1TU      59   52 TL    2
+ 3616 PH  0721 ES5TF      59   40 LY1CO      59   44 KN    2
+ 3621 PH  0723 ES5TF      59   41 ES5JR      59   33 TA TA 2
+ 3633 PH  0724 ES5TF      59   42 ES6PA      59   47 VO    2
+ 3640 PH  0728 ES5TF      59   43 ES6RMR     59   39 VC VC 2
+ 3640 PH  0730 ES5TF      59   44 OF2J       59   29 UU    2
+ 3640 PH  0730 ES5TF      59   45 ES8TJM     59   15 PU PU 2
+ 3640 PH  0731 ES5TF      59   46 ES0DJ      59   24 SR SR 2
+ 3640 PH  0732 ES5TF      59   47 ES1CN      59   49 TL    2
+ 3627 PH  0737 ES5TF      59   48 LY2NY      59   56 KN    2
+ 3722 PH  0742 ES5TF      59   49 LA5FTA     59   31 AK    0  Call/LA8FTA
+ 3719 PH  0743 ES5TF      59   50 ES1QD      59   51 TL    2
+ 7133 PH  0747 ES5TF      59   51 OH7A       59  107 PK PK 2
+ 7160 PH  0751 ES5TF      59   52 SK2T       59   64 VB VB 2
+ 7181 PH  0753 ES5TF      59   53 OZ8PG      59   84 FB FB 2
+ 7179 PH  0754 ES5TF      59   54 LB1AH      59   83 HO HO 2
+ 7183 PH  0757 ES5TF      59   55 OZ11A      59   68 NJ NJ 2
+ 7162 PH  0804 ES5TF      59   56 OH8L       59  105 PP    0  Call/OF8L
+ 7144 PH  0806 ES5TF      59   57 OZ7X       59  151 AH AH 2
+ 7140 PH  0807 ES5TF      59   58 OZ9VA      59   60 FB    2
+ 7092 PH  0810 ES5TF      59   59 SE5L       59   63 VM VM 2
+ 7076 PH  0811 ES5TF      59   60 LY5O       59  143 KM KM 2
+ 7058 PH  0813 ES5TF      59   61 LY3BN      59  139 KN KN 2
+ 7085 PH  0814 ES5TF      59   62 LY2MM      59  116 KM    2
+ 7136 PH  0818 ES5TF      59   63 SE5N       59   73 SO SO 2
+ 7159 PH  0820 ES5TF      59   64 LY2SA      59  133 MM MM 2
+ 3720 PH  0823 ES5TF      59   65 LY5P       59   45 SI SI 2
+ 3642 PH  0826 ES5TF      59   66 LY4MA      59   48 KM    0  NotinLog
+ 3638 PH  0826 ES5TF      59   67 YL100ZK    59   70 RR    2

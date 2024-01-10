@@ -1,0 +1,74 @@
+     Call: SF3A
+ Operator: SM3CER
+ Category: Single Op                      Band   QSO  Points  Mults
+ Power: LOW                               40m     34      68     24
+     Name: Jan-Eric Rehn                  80m     30      60     23
+  Address: Finstavägen 26, 7 tr.          Sum     64     128     47
+  Address: 863 31 SUNDSBRUK               Total: 6016
+
+
+
+ 3714 PH  0631 SF3A       59    1 OH7A       59    4 PK PK 2
+ 3748 PH  0633 SF3A       59    2 YL2BJ      59    8 VR VR 2
+ 3754 PH  0634 SF3A       59    3 YL2SM      59    7 AU AU 2
+ 3775 PH  0635 SF3A       59    4 YL3FT      59    5 OE OE 2
+ 3741 PH  0637 SF3A       59    5 LY5O       59   13 KM KM 2
+ 3734 PH  0640 SF3A       59    6 ES6QC      59   17 VO VO 2
+ 3729 PH  0641 SF3A       59    7 YL9T       59   17 VK VK 2
+ 3706 PH  0643 SF3A       59    8 ES2MC      59   26 HR HR 2
+ 3648 PH  0645 SF3A       59    9 ES6RW      59   36 VO    2
+ 3646 PH  0647 SF3A       59   10 LY2BAW     59   33 VV VV 2
+ 3642 PH  0648 SF3A       59   11 LY2CO      59   38 TI TI 2
+ 3624 PH  0651 SF3A       59   12 LY4A       59   49 SU SU 2
+ 3611 PH  0652 SF3A       59   13 ES7GM      59   50 VP VP 2
+ 3637 PH  0658 SF3A       59   14 YL7A       59   46 VK    2
+ 3643 PH  0659 SF3A       59   15 OF1Z       59   27 VA VA 2
+ 3759 PH  0702 SF3A       59   16 OH2PM      59   54 VA    2
+ 3750 PH  0704 SF3A       59   17 OH3Z       59   47 VA    2
+ 3741 PH  0705 SF3A       59   18 OH6RE      59   41 KE KE 2
+ 3737 PH  0706 SF3A       59   19 OZ8PG      59   40 FB FB 2
+ 3743 PH  0715 SF3A       59   20 OF8L       59   47 PP PP 2
+ 3734 PH  0716 SF3A       59   21 LY3BN      59   67 KN KN 2
+ 3726 PH  0717 SF3A       59   22 OF1F       59   74 SA SA 2
+ 3703 PH  0719 SF3A       59   23 OH8NW      59   72 VA    2
+ 3614 PH  0722 SF3A       59   24 LA5UF      59   25 VF VF 2
+ 3621 PH  0725 SF3A       59   25 SE5E       59   32 UP UP 2
+ 3642 PH  0728 SF3A       59   26 OF1TD      59   41 SA    2
+ 3729 PH  0732 SF3A       59   27 SE5L       59   39 VM VM 2
+ 3717 PH  0734 SF3A       59   28 OZ7X       59   87 AH AH 2
+ 3710 PH  0736 SF3A       59   29 OZ11A      59   39 NJ NJ 2
+ 3715 PH  0738 SF3A       59   30 SM5ACQ     59   43 VM    2
+ 7086 PH  0738 SF3A       59   31 LY2SA      59   86 MM MM 2
+ 7088 PH  0739 SF3A       59   32 ES6RW      59  124 VO VO 2
+ 7095 PH  0741 SF3A       59   33 LY2BAW     59   89 VV VV 2
+ 7099 PH  0743 SF3A       59   34 ES7GM      59  138 VP VP 2
+ 7093 PH  0744 SF3A       59   35 OF6MW      59   81 KT KT 2
+ 7081 PH  0747 SF3A       59   36 ES5QA      59  103 JG JG 2
+ 7075 PH  0747 SF3A       59   37 YL2SM      59  115 AU AU 2
+ 7064 PH  0748 SF3A       59   38 LY1SR      59   71 KM KM 2
+ 7062 PH  0749 SF3A       59   39 LY6A       59  120 KN KN 2
+ 7060 PH  0750 SF3A       59   40 ES6QC      59   97 VO    2
+ 7084 PH  0752 SF3A       59   41 LY2MM      59   87 KM    2
+ 7073 PH  0755 SF3A       59   42 YL2BJ      59  116 VR VR 2
+ 7073 PH  0755 SF3A       59   43 LY2N       59   15 KM    2
+ 7073 PH  0756 SF3A       59   44 YL3IR      59   35 GU GU 2
+ 7073 PH  0758 SF3A       59   45 ES4NY      59   65 IV IV 2
+ 7073 PH  0758 SF3A       59   46 YL1ZT      59   60 TU TU 2
+ 7072 PH  0800 SF3A       59   47 YL1S       59   95 RR RR 2
+ 7072 PH  0801 SF3A       59   48 YL2KO      59  117 AU    2
+ 7072 PH  0801 SF3A       59   49 LY1CT      59   82 KD KD 2
+ 7072 PH  0803 SF3A       59   50 YL2PJ      59  107 RE RE 2
+ 7072 PH  0804 SF3A       59   51 LY3B       59   80 PA PA 2
+ 7072 PH  0805 SF3A       59   52 ES6PA      59   82 VO    2
+ 7072 PH  0805 SF3A       59   53 YL7A       59  111 VK VK 2
+ 7072 PH  0806 SF3A       59   54 LY2NY      59   74 KN    2
+ 7073 PH  0809 SF3A       59   55 LY9Y       59   90 SU SU 2
+ 7073 PH  0810 SF3A       59   56 LA5UF      59   53 VF VF 2
+ 7180 PH  0815 SF3A       59   57 OZ8PG      59  116 FB FB 2
+ 7178 PH  0816 SF3A       59   58 LB1AH      59  108 HO HO 2
+ 7172 PH  0817 SF3A       59   59 LY4A       59  178 SU    2
+ 7167 PH  0818 SF3A       59   60 OZ6ARC     59   53 SJ SJ 2
+ 7153 PH  0820 SF3A       59   61 YL2GD      59  147 AU    2
+ 7144 PH  0821 SF3A       59   62 OZ7X       59  170 AH AH 2
+ 7061 PH  0828 SF3A       59   63 LY3BN      59  159 KN    2
+ 7064 PH  0828 SF3A       59   64 LY4L       59  151 KM    2

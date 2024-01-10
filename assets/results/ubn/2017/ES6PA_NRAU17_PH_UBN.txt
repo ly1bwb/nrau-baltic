@@ -1,0 +1,109 @@
+     Call: ES6PA
+ Operator:
+ Category: Single Op                      Band   QSO  Points  Mults
+ Power: LOW                               40m     35      69     28
+     Name:                                80m     65     126     37
+  Address:                                Sum    100     195     65
+                                          Total: 12675
+
+
+ 3500 PH  0630 ES6PA      59    1 ES2EZ      59    1 HR HR 2
+ 3500 PH  0630 ES6PA      59    2 ES7MG      59    2 VP    0  Call/ES7GM
+ 3500 PH  0632 ES6PA      59    3 LY4A       59    3 SU SU 2
+ 3500 PH  0632 ES6PA      59    4 LY6A       59   10 KN KN 2
+ 3500 PH  0633 ES6PA      59    5 ES5QA      59    4 JG JG 2
+ 3500 PH  0634 ES6PA      59    6 ES3BM      59    5 RP RP 2
+ 3500 PH  0635 ES6PA      59    7 YL7A       59    7 VK VK 2
+ 3500 PH  0638 ES6PA      59    8 LY2CO      59   18 TI TI 2
+ 3500 PH  0639 ES6PA      59    9 LY2BAW     59   12 VV VV 2
+ 3500 PH  0639 ES6PA      59   10 ES6RW      59   23 VO VO 2
+ 3500 PH  0640 ES6PA      59   11 ES2MC      59   23 HR    2
+ 3500 PH  0641 ES6PA      59   12 YL2GD      59   26 AU AU 2
+ 3500 PH  0642 ES6PA      59   13 OZ7X       59   16 AH AH 2
+ 3500 PH  0643 ES6PA      59   14 ES4NY      59   17 IV IV 2
+ 3500 PH  0644 ES6PA      59   15 YL9T       59   21 VK    2
+ 3500 PH  0646 ES6PA      59   16 LY5O       59   28 KM KM 2
+ 3500 PH  0648 ES6PA      59   17 LY4L       59   37 KM    2
+ 3500 PH  0651 ES6PA      59   18 YL2VW      59   41 RR RR 2
+ 3500 PH  0652 ES6PA      59   19 OH2KW      59   25 UU UU 2
+ 3500 PH  0652 ES6PA      59   20 LY2SA      59   40 MM MM 2
+ 3500 PH  0654 ES6PA      59   21 ES6QC      59   37 VO    2
+ 3500 PH  0656 ES6PA      59   22 OH8NW      59   41 VA VA 2
+ 3500 PH  0657 ES6PA      59   23 ES1BH      59   16 TL TL 2
+ 3500 PH  0700 ES6PA      59   24 OH7A       59   48 PK PK 2
+ 3500 PH  0701 ES6PA      59   25 YL2KF      59   56 LM LM 2
+ 3500 PH  0705 ES6PA      59   26 YL3FT      59   59 OE OE 2
+ 3500 PH  0707 ES6PA      59   27 YL2PJ      59   52 RE RE 2
+ 3500 PH  0708 ES6PA      59   28 YL2KO      59   55 AU    2
+ 3500 PH  0710 ES6PA      59   29 LB1AH      59   27 HO HO 2
+ 3500 PH  0711 ES6PA      59   30 ES1TU      59   45 TL    2
+ 3500 PH  0713 ES6PA      59   31 8S0C       59   31 SL SL 2
+ 3500 PH  0714 ES6PA      59   32 ES5JR      59   27 TA TA 2
+ 3500 PH  0715 ES6PA      59   33 ES1O       59   22 TL    2
+ 3500 PH  0717 ES6PA      59   34 YL2SM      59   80 AU    2
+ 3500 PH  0719 ES6PA      59   35 SM6IQD     59   22 VD VD 2
+ 3500 PH  0720 ES6PA      59   36 LY2NY      59   47 KN    2
+ 3500 PH  0720 ES6PA      59   37 ES2O       59   37 HR    2
+ 3500 PH  0721 ES6PA      59   38 ES7RIX     59   28 VP VP 2
+ 3500 PH  0721 ES6PA      59   39 YL2BJ      59   90 VR VR 2
+ 3500 PH  0721 ES6PA      59   40 OH2PM      59   76 VA    2
+ 3500 PH  0722 ES6PA      59   41 LY3PDX     59   20 MM    2
+ 3500 PH  0722 ES6PA      59   42 LY3B       59   48 PA PA 2
+ 3500 PH  0723 ES6PA      59   43 LY1CT      59   47 KD KD 2
+ 3500 PH  0723 ES6PA      59   44 LY2ND      59   29 KM    2
+ 3500 PH  0724 ES6PA      59   45 OF1TD      59   38 SA SA 2
+ 3500 PH  0724 ES6PA      59   46 ES3BQ      59   11 RP    2
+ 3500 PH  0724 ES6PA      59   47 ES5TF      59   42 TA    2
+ 3500 PH  0725 ES6PA      59   48 LY4Q       59   65 VU VU 2
+ 3500 PH  0725 ES6PA      59   49 OF2KM      59   45 UU    2
+ 3500 PH  0725 ES6PA      59   50 ES1QD      59   41 TL    2
+ 3500 PH  0727 ES6PA      59   51 LY4LA      59   42 KD    2
+ 3500 PH  0727 ES6PA      59   52 ES6RMR     59   38 VA    1  Mult/VC
+ 3500 PH  0728 ES6PA      59   53 LY2BMX     59   31 UT UT 2
+ 3500 PH  0728 ES6PA      59   54 ES1CN      59   45 TL    2
+ 3500 PH  0729 ES6PA      59   55 LY1SR      59   49 KM    2
+ 3500 PH  0729 ES6PA      59   56 YL3GAO     59   32 DO DO 2
+ 3500 PH  0730 ES6PA      59   57 ES8TJM     59   14 PU PU 2
+ 3500 PH  0730 ES6PA      59   58 ES0DJ      59   23 SR SR 2
+ 3500 PH  0730 ES6PA      59   59 LY2MM      59   71 KM    2
+ 3500 PH  0732 ES6PA      59   60 LY3IZ      59   32 UT    2
+ 3500 PH  0733 ES6PA      59   61 LY2PBV     59   32 MM    1  Nr/31
+ 3500 PH  0733 ES6PA      59   62 LY3CY      59   50 VU    2
+ 3500 PH  0734 ES6PA      59   63 ES7KEW     59    8 VP    2
+ 3500 PH  0735 ES6PA      59   64 OH3JP      59   44 KT KT 2
+ 3500 PH  0735 ES6PA      59   65 YL100ZK    59   45 RR    2
+ 7000 PH  0740 ES6PA      59   66 OH3Z       59  108 VA VA 2
+ 7000 PH  0742 ES6PA      59   67 OZ7X       59   96 AH AH 2
+ 7000 PH  0742 ES6PA      59   68 YL1ZT      59   52 TU TU 2
+ 7000 PH  0744 ES6PA      59   69 OF8L       59   80 PP PP 2
+ 7000 PH  0749 ES6PA      59   70 SE4E       59   70 DA DA 2
+ 7000 PH  0749 ES6PA      59   71 LY2TS      59   76 TI TI 2
+ 7000 PH  0752 ES6PA      59   72 ES6RW      59  149 VO VO 2
+ 7000 PH  0756 ES6PA      59   73 SK2T       59   70 VB VB 2
+ 7000 PH  0758 ES6PA      59   74 SE5N       59   54 SO SO 2
+ 7000 PH  0758 ES6PA      59   75 OF8UV      59   42 KU KU 2
+ 7000 PH  0759 ES6PA      59   76 OH7JL      59   64 PK PK 2
+ 7000 PH  0800 ES6PA      59   77 LB3RE      59   19 OP OP 2
+ 7000 PH  0801 ES6PA      59   78 OH6ECM     59   56 PO PO 2
+ 7000 PH  0802 ES6PA      59   79 SE5L       59   57 VM VM 2
+ 7000 PH  0803 ES6PA      59   80 LB4FH      59   31 RL RL 2
+ 7000 PH  0803 ES6PA      59   81 OF1F       59  143 SA SA 2
+ 7000 PH  0805 ES6PA      59   82 SF3A       59   52 VN VN 2
+ 7000 PH  0806 ES6PA      59   83 SA1CCQ     59   77 GO GO 2
+ 7000 PH  0807 ES6PA      59   84 8S0C       59   92 SL SL 2
+ 7000 PH  0809 ES6PA      59   85 OZ9VA      59   64 FB FB 2
+ 7000 PH  0811 ES6PA      59   86 YL2KO      59  142 AU AU 2
+ 7000 PH  0813 ES6PA      59   87 LY5O       59  145 KM KM 2
+ 7000 PH  0814 ES6PA      59   88 SM5ACQ     59   73 VM    2
+ 7000 PH  0814 ES6PA      59   89 LY2MM      59  117 KM    2
+ 7000 PH  0817 ES6PA      59   90 OH6RE      59  133 KE KE 2
+ 7000 PH  0817 ES6PA      59   91 LY2SA      59  130 MM MM 2
+ 7000 PH  0818 ES6PA      59   92 LY5T       59   84 AT AT 2
+ 7000 PH  0819 ES6PA      59   93 LB1AH      59  111 HA    1  Mult/HO
+ 7000 PH  0819 ES6PA      59   94 LY5W       59  117 KN KN 2
+ 7000 PH  0822 ES6PA      59   95 LY2BAW     59  143 VV VV 2
+ 7000 PH  0823 ES6PA      59   96 LY4L       59  146 KM    2
+ 7000 PH  0824 ES6PA      59   97 LA5UF      59   63 VF VF 2
+ 7000 PH  0825 ES6PA      59   98 LY2J       59   89 MM    2
+ 7000 PH  0827 ES6PA      59   99 OH7A       59  159 PK    2
+ 7000 PH  0829 ES6PA      59  100 OZ8PG      59  130 FB    2

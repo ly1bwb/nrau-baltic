@@ -1,0 +1,62 @@
+     Call: OZ1KKH
+ Operator:
+ Category: Single Op                      Band   QSO  Points  Mults
+ Power: LOW                               40m     29      56     21
+     Name:          Erik NIelsen          80m     22      44     18
+  Address:       Hindbaerhaven 83         Sum     51     100     39
+  Address:       DK-8520 Lystrup          Total: 3900
+  Address:       Denmark
+
+
+
+ 3500 PH  0631 OZ1KKH     59    1 OZ7X       59    1 AH AH 2
+ 3500 PH  0633 OZ1KKH     59    2 ES6QC      59    5 VO VO 2
+ 3500 PH  0633 OZ1KKH     59    3 LY5O       59    5 KM KM 2
+ 3500 PH  0634 OZ1KKH     59    4 YL2BJ      59   10 VR VR 2
+ 3500 PH  0635 OZ1KKH     59    5 YL2SM      59   10 AU AU 2
+ 3500 PH  0636 OZ1KKH     59    6 YL3FT      59    7 OE OE 2
+ 3500 PH  0637 OZ1KKH     59    7 OH2PM      59   16 VA VA 2
+ 3500 PH  0642 OZ1KKH     59    8 OH3Z       59   13 VA    2
+ 3500 PH  0645 OZ1KKH     59    9 LY2CO      59   33 TI TI 2
+ 3500 PH  0649 OZ1KKH     59   10 YL2KO      59   32 AU    2
+ 3500 PH  0652 OZ1KKH     59   11 ES2MC      59   50 HR HR 2
+ 3500 PH  0654 OZ1KKH     59   12 ES6RW      59   58 VO    2
+ 3500 PH  0659 OZ1KKH     59   13 OH8NW      59   47 VA    2
+ 3500 PH  0703 OZ1KKH     59   14 OF1F       59   46 SA SA 2
+ 3500 PH  0706 OZ1KKH     59   15 LY4A       59   79 SU SU 2
+ 3500 PH  0713 OZ1KKH     59   16 SE5E       59   21 UP UP 2
+ 3500 PH  0716 OZ1KKH     59   17 OZ9VA      59   28 FB FB 2
+ 3500 PH  0720 OZ1KKH     59   18 ES5QA      59   74 JG JG 2
+ 3500 PH  0723 OZ1KKH     59   19 LY2BAW     59   75 VV VV 2
+ 3500 PH  0724 OZ1KKH     59   20 SE5L       59   33 VM VM 2
+ 3500 PH  0725 OZ1KKH     59   21 OZ4NA      59   34 NJ NJ 2
+ 3500 PH  0728 OZ1KKH     59   22 LB1AH      59   50 HO HO 2
+ 7000 PH  0731 OZ1KKH     59   23 YL2GD      59   94 AU AU 2
+ 7000 PH  0734 OZ1KKH     59   24 ES2MC      59  104 HR HR 2
+ 7000 PH  0736 OZ1KKH     59   25 OH3Z       59   96 VA VA 2
+ 7000 PH  0738 OZ1KKH     59   26 LY2SA      59   85 MM MM 2
+ 7000 PH  0740 OZ1KKH     59   27 ES6RW      59  127 VO VO 2
+ 7000 PH  0741 OZ1KKH     59   28 ES7GM      59  133 VP VP 2
+ 7000 PH  0742 OZ1KKH     59   29 OZ7X       59   97 AH AH 2
+ 7000 PH  0743 OZ1KKH     59   30 LY3BN      59   93 KN KN 2
+ 7000 PH  0744 OZ1KKH     59   31 OF8L       59   81 PP PP 2
+ 7000 PH  0746 OZ1KKH     59   32 YL9T       59  110 VK VK 2
+ 7000 PH  0748 OZ1KKH     59   33 OH6RE      59   97 KE KE 2
+ 7000 PH  0749 OZ1KKH     59   34 OF1F       59  119 SA SA 2
+ 7000 PH  0751 OZ1KKH     59   35 LY2BAW     59  106 VV VV 2
+ 7000 PH  0752 OZ1KKH     59   36 ES5QA      59  111 JG JG 2
+ 7000 PH  0755 OZ1KKH     59   37 YL2SM      59  130 AU    2
+ 7000 PH  0800 OZ1KKH     59   38 OH2PM      59  111 VA    2
+ 7000 PH  0801 OZ1KKH     59   39 OF6MW      59  100 KT KT 2
+ 7000 PH  0802 OZ1KKH     59   40 LY4A       59  163 SU SU 2
+ 7000 PH  0804 OZ1KKH     59   41 LY6A       59  139 KN    2
+ 7000 PH  0805 OZ1KKH     59   42 LY5O       59  135 KM KM 2
+ 7000 PH  0808 OZ1KKH     59   43 YL2KO      59  132 AU    2
+ 7000 PH  0810 OZ1KKH     59   44 OH7A       59  139 PK PK 2
+ 7000 PH  0813 OZ1KKH     59   45 SK2T       59   85 VB VB 2
+ 7000 PH  0816 OZ1KKH     59   46 SE5E       59   84 UP UP 2
+ 7000 PH  0818 OZ1KKH     59   47 YL2PJ      59  120 RE RE 2
+ 7000 PH  0821 OZ1KKH     59   48 LY4L       59  143 KM    2
+ 7000 PH  0822 OZ1KKH     59   49 ON8NW      59  124 VA    0  Call/OH8NW
+ 7000 PH  0825 OZ1KKH     59   50 LY5W       59  122 KN    2
+ 7000 PH  0826 OZ1KKH     59   51 OF1Z       59  118 VA    2

@@ -1,0 +1,51 @@
+     Call: OF2J
+ Operator: OG55W
+ Category: CheckLog                       Band   QSO  Points  Mults
+ Power: HIGH                              40m     12      22     11
+     Name:                                80m     30      60     22
+  Address:                                Sum     42      82     33
+                                          Total: 2706
+
+
+ 3714 PH  0630 OF2J       59    1 OH7A       59    1 PK PK 2
+ 3717 PH  0632 OF2J       59    2 OZ7X       59    4 AH AH 2
+ 3719 PH  0633 OF2J       59    3 OH8NW      59    3 VA VA 2
+ 3759 PH  0636 OF2J       59    4 OH2PM      59   12 VA    2
+ 3762 PH  0636 OF2J       59    5 OF3P       59    1 PM PM 2
+ 3743 PH  0641 OF2J       59    6 OF8L       59   12 PP PP 2
+ 3618 PH  0646 OF2J       59    7 OF6MW      59   25 KT KT 2
+ 3648 PH  0650 OF2J       59    8 ES6RW      59   49 VO VO 2
+ 3700 PH  0651 OF2J       59    9 OZ11A      59   14 NJ NJ 2
+ 3712 PH  0652 OF2J       59   10 OH2KW      59   26 UU UU 2
+ 3770 PH  0657 OF2J       59   11 OF1TD      59   23 SA SA 2
+ 3770 PH  0657 OF2J       59   12 ES1QD      59   22 TL TL 2
+ 3750 PH  0703 OF2J       59   13 OH3Z       59   43 VA    2
+ 3743 PH  0707 OF2J       59   14 OF0RJ      59   21 AL AL 2
+ 3741 PH  0707 OF2J       59   15 OH6RE      59   45 KE KE 2
+ 3726 PH  0708 OF2J       59   16 OF1F       59   56 SA    2
+ 3643 PH  0711 OF2J       59   17 OF1Z       59   58 VA    2
+ 3627 PH  0712 OF2J       59   18 ES5QA      59   63 JG JG 2
+ 3613 PH  0713 OF2J       59   19 ES2MC      59   82 HR HR 2
+ 3602 PH  0715 OF2J       59   20 8S0C       59   34 SL SL 2
+ 3609 PH  0716 OF2J       59   21 ES1TU      59   48 TL    2
+ 3646 PH  0718 OF2J       59   22 OH7JL      59   38 PK    2
+ 3706 PH  0719 OF2J       59   23 ES7GM      59   92 VP VP 2
+ 3747 PH  0721 OF2J       59   24 LB1AH      59   40 HO HO 2
+ 3729 PH  0722 OF2J       59   25 ES1BH      59   52 TL    2
+ 3756 PH  0722 OF2J       59   26 ES4NY      59   43 IV IV 2
+ 3762 PH  0723 OF2J       59   27 ES2EZ      59   77 HR    2
+ 3624 PH  0728 OF2J       59   28 ES3BM      59   40 RP RP 2
+ 3639 PH  0730 OF2J       59   29 ES5TF      59   44 TA TA 2
+ 3721 PH  0738 OF2J       59   30 LA8FTA     59   26 AK AK 2
+ 7088 PH  0741 OF2J       59   31 ES6RW      59  130 VO VO 2
+ 7144 PH  0746 OF2J       59   32 OZ7X       59  104 AH AH 2
+ 7183 PH  0748 OF2J       59   33 OZ11A      59   55 NJ NJ 2
+ 7134 PH  0754 OF2J       59   34 SD6M       59   43 VD VD 2
+ 7181 PH  0759 OF2J       59   35 OZ8PG      59   96 FB FB 2
+ 7189 PH  0815 OF2J       59   36 OH2PM      59  130 VA VA 2
+ 7132 PH  0815 OF2J       59   37 OH7A       59  146 PK PK 2
+ 7179 PH  0816 OF2J       59   38 LB1AH      59  107 HO HO 2
+ 7140 PH  0818 OF2J       59   39 OZ9VA      59   78 FB    0  NotinLog
+ 7081 PH  0822 OF2J       59   40 OH2KW      59   93 UU UU 2
+ 7084 PH  0826 OF2J       59   41 LA5UF      59   66 VF VF 2
+ 7180 PH  0829 OF2J       59   42 LA8FTA     59   64 AK AK 2

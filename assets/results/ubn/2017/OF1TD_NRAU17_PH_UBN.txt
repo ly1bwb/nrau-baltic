@@ -1,0 +1,89 @@
+     Call: OF1TD
+ Operator:
+ Category: Single Op                      Band   QSO  Points  Mults
+ Power: LOW                               40m     28      54     18
+     Name: Tauno Karvo                    80m     50      91     33
+  Address: Pres.puistokatu 29 b 9         Sum     78     145     51
+  Address: Pori,  28130                   Total: 7395
+  Address: FINLAND
+
+
+
+ 3700 PH  0633 OF1TD      59    1 LY4Q       59    5 VU VU 2
+ 3700 PH  0634 OF1TD      59    2 ES7GM      59   12 VP VP 2
+ 3700 PH  0636 OF1TD      59    3 ES5QA      59    9 JG JG 2
+ 3700 PH  0637 OF1TD      59    4 LY7A       59    9 VK    0  Call/YL7A
+ 3700 PH  0637 OF1TD      59    5 LY2CO      59   16 TI TI 2
+ 3700 PH  0638 OF1TD      59    6 ES6RW      59   19 VO VO 2
+ 3700 PH  0642 OF1TD      59    7 YL2VW      59   21 RR RR 2
+ 3700 PH  0643 OF1TD      59    8 ES2MC      59   28 HR HR 2
+ 3700 PH  0644 OF1TD      59    9 YL2GD      59   33 AU AU 2
+ 3700 PH  0645 OF1TD      59   10 OH7A       59   24 PK PK 2
+ 3700 PH  0646 OF1TD      59   11 YL2KF      59   24 LM LM 2
+ 3700 PH  0647 OF1TD      59   12 OF1F       59   16 SA SA 2
+ 3700 PH  0648 OF1TD      59   13 LY9T       59   30 VK    0  Call/YL9T
+ 3700 PH  0649 OF1TD      59   14 ES6QC      59   29 VO    2
+ 3700 PH  0650 OF1TD      59   15 OZ8PG      59   19 FB FB 2
+ 3700 PH  0651 OF1TD      59   16 LY5O       59   36 KM KM 2
+ 3700 PH  0651 OF1TD      59   17 ES4NY      59   22 IV IV 2
+ 3700 PH  0653 OF1TD      59   18 LY2BJ      59   50 VR    0  Call/YL2BJ
+ 3700 PH  0653 OF1TD      59   19 OF8L       59   25 PP PP 2
+ 3700 PH  0654 OF1TD      59   20 YL1S       59   26 RR    2
+ 3700 PH  0655 OF1TD      59   21 OH2PM      59   41 VA VA 2
+ 3700 PH  0656 OF1TD      59   22 LY2J       59   31 MM MM 2
+ 3700 PH  0657 OF1TD      59   23 OF2J       59   11 UU UU 2
+ 3700 PH  0658 OF1TD      59   24 YL3FT      59   43 OE OE 2
+ 3700 PH  0700 OF1TD      59   25 YL2PJ      59   11 RE RE 1  Nr/41
+ 3700 PH  0701 OF1TD      59   26 OH3Z       59   40 VA    2
+ 3700 PH  0704 OF1TD      59   27 YL9T       59   62 VK VK 2
+ 3700 PH  0706 OF1TD      59   28 OH2KW      59   38 UU    2
+ 3700 PH  0707 OF1TD      59   29 LY5W       59   42 KN KN 2
+ 3700 PH  0708 OF1TD      59   30 YL2SM      59   64 AU    2
+ 3700 PH  0709 OF1TD      59   31 OF1Z       59   53 VA    2
+ 3700 PH  0713 OF1TD      59   32 SE5L       59   25 VM VM 2
+ 3700 PH  0715 OF1TD      59   33 OF6MW      59   58 KT KT 2
+ 3700 PH  0715 OF1TD      59   34 LY1CO      59   35 KN    2
+ 3700 PH  0716 OF1TD      59   35 ES1TU      59   49 TL TL 2
+ 3700 PH  0720 OF1TD      59   36 YL2BMX     59   26 UT    0  Call/LY2BMX
+ 3700 PH  0722 OF1TD      59   37 LY2SA      59   68 MM    2
+ 3700 PH  0724 OF1TD      59   38 ES6PA      59   45 VO    2
+ 3700 PH  0725 OF1TD      59   39 LY4MA      59   22 KM    2
+ 3700 PH  0727 OF1TD      59   40 ES1CN      59   44 TL    2
+ 3700 PH  0728 OF1TD      59   41 SF3A       59   26 VN VN 2
+ 3700 PH  0729 OF1TD      59   42 SE5E       59   37 UP UP 2
+ 3700 PH  0731 OF1TD      59   43 YL7A       59   87 VK    2
+ 3700 PH  0733 OF1TD      59   44 LY2BAW     59   84 VV VV 2
+ 3700 PH  0735 OF1TD      59   45 OZ7X       59   88 AH AH 2
+ 3700 PH  0736 OF1TD      59   46 OF0RJ      59   39 AL AL 2
+ 3700 PH  0738 OF1TD      59   47 LB1AH      59   63 HO HO 2
+ 3700 PH  0739 OF1TD      59   48 OF2KM      59   54 UU    2
+ 3700 PH  0740 OF1TD      59   49 OF3P       59   58 PM PM 2
+ 7100 PH  0742 OF1TD      59   50 LY6A       59  104 KN KN 2
+ 7100 PH  0742 OF1TD      59   51 YL2SM      59  105 AU AU 2
+ 7100 PH  0743 OF1TD      59   52 LY2SA      59   92 MM MM 2
+ 7100 PH  0744 OF1TD      59   53 ES6RW      59  135 VO VO 2
+ 7100 PH  0745 OF1TD      59   54 LY2BAW     59   95 VV VV 2
+ 7100 PH  0751 OF1TD      59   55 LY1SR      59   75 KM KM 2
+ 7100 PH  0752 OF1TD      59   56 LY4Q       59   78 VU VU 2
+ 7100 PH  0756 OF1TD      59   57 LY2MM      59   95 KM    2
+ 7100 PH  0757 OF1TD      59   58 YL2GD      59  124 AU    2
+ 7100 PH  0758 OF1TD      59   59 LY7M       59   79 UT UT 2
+ 7100 PH  0801 OF1TD      59   60 OZ6ARC     59   43 SJ SJ 2
+ 7100 PH  0802 OF1TD      59   61 LY9Y       59   85 SU SU 2
+ 7100 PH  0803 OF1TD      59   62 OZ7X       59  142 AH AH 2
+ 7100 PH  0803 OF1TD      59   63 LY3BN      59  124 KN    2
+ 7100 PH  0804 OF1TD      59   64 LY5W       59  102 KN    2
+ 7100 PH  0804 OF1TD      59   65 LY2GD      59  131 AU    0  Call/YL2GD
+ 7100 PH  0805 OF1TD      59   66 LY4L       59  130 KM    2
+ 7100 PH  0806 OF1TD      59   67 LY4A       59  168 SU    2
+ 3700 PH  0807 OF1TD      59   68 LY4A       59  170 SU SU 2
+ 7100 PH  0810 OF1TD      59   69 YL9T       59  130 VK VK 2
+ 7100 PH  0810 OF1TD      59   70 YL3FT      59  128 OE OE 2
+ 7100 PH  0812 OF1TD      59   71 LY5O       59  144 KM    2
+ 7100 PH  0820 OF1TD      59   72 OF1F       59  159 SA SA 2
+ 7100 PH  0821 OF1TD      59   73 LY5T       59   85 AT AT 2
+ 7100 PH  0822 OF1TD      59   74 LB1AH      59  116 HO HO 2
+ 7100 PH  0824 OF1TD      59   75 OZ11A      59  100 NJ NJ 2
+ 7100 PH  0826 OF1TD      59   76 LA9RY      59   19 RL RL 2
+ 7100 PH  0827 OF1TD      59   77 LB4FH      59   41 RL    2
+ 7100 PH  0828 OF1TD      59   78 OZ4NA      59   86 NJ    2

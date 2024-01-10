@@ -1,0 +1,60 @@
+     Call: SE3X
+ Operator: SA3BYC
+ Category: Single Op                      Band   QSO  Points  Mults
+ Power: HIGH                              40m     27      52     18
+     Name:                                80m     24      44     17
+  Address:                                Sum     51      96     35
+                                          Total: 3360
+
+
+ 3775 PH  0640 SE3X       59    1 YL3FT      59   14 OE OE 2
+ 3767 PH  0644 SE3X       59    2 LY4L       59   28 KM KM 2
+ 3760 PH  0646 SE3X       59    3 OH2PM      59   27 VA VA 2
+ 3754 PH  0646 SE3X       59    4 YL2SM      59   30 AU AU 2
+ 3748 PH  0648 SE3X       59    5 YL2BJ      59   42 VR VR 2
+ 3744 PH  0648 SE3X       59    6 OF8L       59   20 PP PP 2
+ 3741 PH  0649 SE3X       59    7 LY5O       59   32 KM    2
+ 3735 PH  0653 SE3X       59    8 ES6QC      59   35 VO VO 2
+ 3729 PH  0654 SE3X       59    9 YL9T       59   42 VK VK 2
+ 3727 PH  0655 SE3X       59   10 OF1F       59   30 SA SA 2
+ 3720 PH  0657 SE3X       59   11 YL2KF      59   49 LM LM 2
+ 3715 PH  0658 SE3X       59   12 OH7A       59   45 PK PK 2
+ 3707 PH  0659 SE3X       59   13 ES2MC      59   61 HR HR 2
+ 3703 PH  0700 SE3X       59   14 LY5W       59   34 KN KN 2
+ 3649 PH  0701 SE3X       59   15 ES6RW      59   76 VO    2
+ 3646 PH  0702 SE3X       59   16 LY2BAW     59   63 VV VV 2
+ 3643 PH  0703 SE3X       59   17 OF1Z       59   40 VA    2
+ 3637 PH  0704 SE3X       59   18 YL7A       59   60 VK    2
+ 3632 PH  0706 SE3X       59   19 YL2GD      59   67 AU    2
+ 3628 PH  0709 SE3X       59   20 ES5QA      59   54 JG JG 2
+ 3619 PH  0710 SE3X       59   21 OF6MW      59   54 KT KT 2
+ 3616 PH  0710 SE3X       59   22 YL1CT      59   37 KD    0  Call/LY1CT
+ 3603 PH  0712 SE3X       59   23 8S0C       59   30 SL SL 2
+ 7147 PH  0722 SE3X       59   24 LY9Y       59   52 SU SU 2
+ 7142 PH  0724 SE3X       59   25 HF800O     59    0 XX    0  Unique <10
+ 7100 PH  0725 SE3X       59   26 ES7GM      59  102 VP VP 2
+ 3707 PH  0726 SE3X       59   27 ES2GM      59  104 VP    0  Call/ES7GM
+ 7089 PH  0727 SE3X       59   28 ES6RW      59  103 VO VO 2
+ 7161 PH  0737 SE3X       59   29 ES6RMR     59   44 VC VC 2
+ 7147 PH  0738 SE3X       59   30 LY5O       59   99 KM KM 2
+ 7144 PH  0739 SE3X       59   31 OZ7X       59   91 AH AH 2
+ 7141 PH  0740 SE3X       59   32 YL2GD      59  106 AU AU 2
+ 7133 PH  0741 SE3X       59   33 OH7A       59   96 PK PK 2
+ 7095 PH  0743 SE3X       59   34 LY2BAW     59   91 VV VV 2
+ 7085 PH  0743 SE3X       59   35 LY2CO      59   95 TI TI 2
+ 7082 PH  0744 SE3X       59   36 ES5QA      59   97 JG JG 2
+ 7076 PH  0745 SE3X       59   37 YL2SM      59  109 AU    2
+ 7073 PH  0745 SE3X       59   38 OH3Z       59  115 VA VA 2
+ 7070 PH  0746 SE3X       59   39 ES2MC      59  125 HR HR 2
+ 7063 PH  0746 SE3X       59   40 LY6A       59  115 KN KN 2
+ 7060 PH  0747 SE3X       59   41 ES6QC      59   93 VO    2
+ 7187 PH  0748 SE3X       59   42 YL2KO      59  102 AU    2
+ 7175 PH  0749 SE3X       59   43 LY4L       59  109 KM    2
+ 7172 PH  0750 SE3X       59   44 8S0C       59   73 SL SL 2
+ 7168 PH  0751 SE3X       59   45 OH6RE      59  104 KE KE 2
+ 7155 PH  0751 SE3X       59   46 LY5W       59   84 KN    2
+ 7137 PH  0753 SE3X       59   47 ES5JR      59   50 TA TA 2
+ 7065 PH  0755 SE3X       59   48 LY1SR      59   82 KM    2
+ 7066 PH  0804 SE3X       59   49 LA5UF      59   52 VF VF 2
+ 7150 PH  0806 SE3X       59   50 LY3BN      59  131 KN    2
+ 7189 PH  0808 SE3X       59   51 OH2PM      59  117 VA    2

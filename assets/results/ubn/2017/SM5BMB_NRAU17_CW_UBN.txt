@@ -1,0 +1,36 @@
+     Call: SM5BMB
+ Operator:
+ Category: Single Op                      Band   QSO  Points  Mults
+ Power: LOW                               40m     12      23     11
+     Name:          Ulf Ericsson          80m     13      26     13
+  Address:       Grahundsvagen 226        Sum     25      49     24
+  Address:       SE 12682 Skondal         Total: 1176
+  Address:       Sweden
+
+
+
+ 3500 CW  0933 SM5BMB     599   1 SF3A       599  17 VN VN 2
+ 3500 CW  0934 SM5BMB     599   2 LY5W       599  44 KN KN 2
+ 3500 CW  0937 SM5BMB     599   3 LY2BAW     599  57 VV VV 2
+ 3500 CW  0941 SM5BMB     599   4 ES4NY      599  52 IV IV 2
+ 3500 CW  0944 SM5BMB     599   5 YL9T       599  59 VK VK 2
+ 3500 CW  0946 SM5BMB     599   6 ES1CN      599  42 TL TL 2
+ 3500 CW  0949 SM5BMB     599   7 ES3BM      599  40 RP RP 2
+ 3500 CW  0951 SM5BMB     599   8 LY2CO      599  59 TI TI 2
+ 3500 CW  0957 SM5BMB     599   9 SE5E       599  65 UP UP 2
+ 3500 CW  0959 SM5BMB     599  10 OF8L       599  76 PP PP 2
+ 3500 CW  1004 SM5BMB     599  11 OZ8PG      599  52 FB FB 2
+ 3500 CW  1010 SM5BMB     599  12 LA0CX      599  48 OF OF 2
+ 3500 CW  1012 SM5BMB     599  13 OF0RJ      599  33 AL AL 2
+ 7000 CW  1018 SM5BMB     599  14 YL2VW      599  98 RR RR 2
+ 7000 CW  1020 SM5BMB     599  15 YL2SM      599 121 AU AU 1  Nr/120
+ 7000 CW  1023 SM5BMB     599  16 LY2IJ      599 111 UT UT 2
+ 7000 CW  1024 SM5BMB     599  17 OZ8SW      599  50 KH KH 2
+ 7000 CW  1025 SM5BMB     599  18 LY2SA      599 113 MM MM 2
+ 7000 CW  1027 SM5BMB     599  19 ES4NY      599  90 IV IV 2
+ 7000 CW  1030 SM5BMB     599  20 OF8L       599 128 PP PP 2
+ 7000 CW  1030 SM5BMB     599  21 OZ7YY      599  98 AH AH 2
+ 7000 CW  1032 SM5BMB     599  22 ES5JR      599  82 TA TA 2
+ 7000 CW  1033 SM5BMB     599  23 LY2WR      599  28 KN KN 2
+ 7000 CW  1035 SM5BMB     599  24 LY3BN      599 130 KN    2
+ 7000 CW  1038 SM5BMB     599  25 OZ4CG      599  63 BH BH 2

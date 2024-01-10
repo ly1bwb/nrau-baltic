@@ -1,0 +1,188 @@
+     Call: OZ7X
+ Operator: OZ5KF
+ Category: Single Op                      Band   QSO  Points  Mults
+ Power: HIGH                              40m     91     180     52
+     Name: Kristian                       80m     88     169     53
+  Address:                                Sum    179     349    105
+                                          Total: 36645
+
+
+ 3500 PH  0631 OZ7X       59    1 OZ1KKH     59    1 AH AH 2
+ 3500 PH  0631 OZ7X       59    2 OF2KM      59    1 UU UU 2
+ 3500 PH  0632 OZ7X       59    3 YL1S       59    3 RR RR 2
+ 3500 PH  0632 OZ7X       59    4 OH2J       59    2 UU    0  Call/OF2J
+ 3500 PH  0633 OZ7X       59    5 OH3Z       59    2 VA VA 2
+ 3500 PH  0633 OZ7X       59    6 YL2KO      59    5 AU AU 2
+ 3500 PH  0634 OZ7X       59    7 ES1CN      59    6 TL TL 2
+ 3500 PH  0636 OZ7X       59    8 YL3IR      59    4 GU GU 2
+ 3500 PH  0636 OZ7X       59    9 OH6RE      59   10 KE KE 1  Nr/11
+ 3500 PH  0636 OZ7X       59   10 OF1Z       59    3 VA    2
+ 3500 PH  0637 OZ7X       59   11 OZ4NA      59    5 NJ NJ 2
+ 3500 PH  0638 OZ7X       59   12 LY4K       59    7 KM KM 2
+ 3500 PH  0638 OZ7X       59   13 YL2PJ      59   11 RE RE 2
+ 3500 PH  0641 OZ7X       59   14 LY9Y       59   15 SU SU 2
+ 3500 PH  0642 OZ7X       59   15 YL2ON      59    6 TS TS 2
+ 3500 PH  0642 OZ7X       59   16 ES6PA      59   13 VO VO 2
+ 3500 PH  0643 OZ7X       59   17 OH7JL      59   12 PK PK 2
+ 3500 PH  0644 OZ7X       59   18 OH3JP      59    9 KT KT 2
+ 3500 PH  0644 OZ7X       59   19 YL3GAO     59    8 DO DO 2
+ 3500 PH  0645 OZ7X       59   20 OZ8PG      59   11 FB FB 2
+ 3500 PH  0646 OZ7X       59   21 OZ11A      59   11 NJ    2
+ 3500 PH  0647 OZ7X       59   22 LY2ZO      59   12 KM    2
+ 3500 PH  0647 OZ7X       59   23 ES1QD      59   13 TL    2
+ 3500 PH  0648 OZ7X       59   24 LY1CT      59   14 KD KD 2
+ 3500 PH  0648 OZ7X       59   25 YL1ZT      59   14 TU TU 2
+ 3500 PH  0649 OZ7X       59   26 LY3CY      59   22 VU VU 2
+ 3500 PH  0649 OZ7X       59   27 LY1SR      59   17 KM    2
+ 3500 PH  0649 OZ7X       59   28 ES1TU      59   24 TL    2
+ 3500 PH  0650 OZ7X       59   29 LY2NY      59   27 KN KN 2
+ 3500 PH  0651 OZ7X       59   30 ES1IPA     59   13 HR    0  Call/ES2IPA
+ 3500 PH  0652 OZ7X       59   31 ES0DJ      59   10 SR SR 2
+ 3500 PH  0653 OZ7X       59   32 YL2GD      59   49 AU    2
+ 3500 PH  0654 OZ7X       59   33 LY1CO      59   21 KN    2
+ 3500 PH  0654 OZ7X       59   34 LY7M       59   16 UT UT 2
+ 3500 PH  0655 OZ7X       59   35 YL100ZK    59   18 RR    2
+ 3500 PH  0656 OZ7X       59   36 ES5TF      59   21 TA TA 2
+ 3500 PH  0657 OZ7X       59   37 ES5JR      59   14 TA    2
+ 3500 PH  0657 OZ7X       59   38 LY4L       59   47 KM    2
+ 3500 PH  0658 OZ7X       59   39 8S0C       59   15 SL SL 2
+ 3500 PH  0659 OZ7X       59   40 OF8L       59   33 PP PP 2
+ 3500 PH  0659 OZ7X       59   41 ES2O       59   26 HR HR 2
+ 3500 PH  0700 OZ7X       59   42 OF0RJ      59   16 AL AL 2
+ 3500 PH  0700 OZ7X       59   43 YL2SM      59   52 AU    2
+ 3500 PH  0700 OZ7X       59   44 LY3B       59   33 PA PA 2
+ 3500 PH  0701 OZ7X       59   45 OH6ECM     59   18 PO PO 2
+ 3500 PH  0701 OZ7X       59   46 OH3LS      59   27 PM PM 2
+ 3500 PH  0703 OZ7X       59   47 OF8UV      59   18 KU KU 2
+ 3500 PH  0703 OZ7X       59   48 LY2MM      59   51 KM    2
+ 3500 PH  0705 OZ7X       59   49 SE5N       59   23 SO SO 2
+ 3500 PH  0706 OZ7X       59   50 YL2VW      59   65 RR    2
+ 3500 PH  0707 OZ7X       59   51 YL2BJ      59   75 VR VR 2
+ 3500 PH  0708 OZ7X       59   52 ES6RW      59   85 VO    2
+ 3500 PH  0709 OZ7X       59   53 LY6A       59   64 KN    2
+ 3500 PH  0711 OZ7X       59   54 LY2IJ      59    5 UT    2
+ 3500 PH  0711 OZ7X       59   55 LY5W       59   45 KN    2
+ 3500 PH  0712 OZ7X       59   56 OH2KW      59   40 UU    2
+ 3500 PH  0714 OZ7X       59   57 ES6RMR     59   35 VC VC 2
+ 3500 PH  0715 OZ7X       59   58 SE4E       59   40 DA DA 2
+ 3500 PH  0716 OZ7X       59   59 LY2J       59   50 MM MM 2
+ 3500 PH  0716 OZ7X       59   60 ES2EZ      59   69 HR    2
+ 3500 PH  0716 OZ7X       59   61 LY4LA      59   37 KD    2
+ 3500 PH  0717 OZ7X       59   62 OF8NV      59   22 PO    2
+ 3500 PH  0717 OZ7X       59   63 SD6M       59   17 VD VD 2
+ 3500 PH  0719 OZ7X       59   64 LB3RE      59    8 OP OP 2
+ 3500 PH  0720 OZ7X       59   65 SE5L       59   29 VM VM 2
+ 3500 PH  0720 OZ7X       59   66 LY4A       59   94 SU    2
+ 3500 PH  0721 OZ7X       59   67 ES7GM      59   93 VP VP 2
+ 3500 PH  0721 OZ7X       59   68 SM5ACQ     59   35 VM    2
+ 3500 PH  0722 OZ7X       59   69 OH8NW      59   77 VA    2
+ 3500 PH  0722 OZ7X       59   70 LY2CO      59   81 TI TI 2
+ 3500 PH  0722 OZ7X       59   71 YL2KF      59   81 LM LM 2
+ 3500 PH  0723 OZ7X       59   72 LY5T       59   40 AT AT 1  Nr/43
+ 3500 PH  0723 OZ7X       59   73 YL9T       59   91 VK VK 2
+ 3500 PH  0723 OZ7X       59   74 LY5P       59   24 SI SI 2
+ 3500 PH  0724 OZ7X       59   75 LY2TS      59   57 TI    2
+ 3500 PH  0724 OZ7X       59   76 OZ6ARC     59   22 SJ SJ 2
+ 3500 PH  0725 OZ7X       59   77 OZ7SG      59   18 NJ    2
+ 3500 PH  0726 OZ7X       59   78 SK2T       59   22 VB VB 1  Nr/40
+ 3500 PH  0726 OZ7X       59   79 LB8QG      59   14 OF OF 2
+ 3500 PH  0727 OZ7X       59   80 YL2AQ      59    5 RR    2
+ 3500 PH  0728 OZ7X       59   81 OH2PM      59   81 VA    2
+ 3500 PH  0730 OZ7X       59   82 LY3BN      59   83 KN    2
+ 3500 PH  0730 OZ7X       59   83 LY4Q       59   68 VU    2
+ 3500 PH  0731 OZ7X       59   84 LA8FTA     59   21 AK AK 2
+ 3500 PH  0732 OZ7X       59   85 OF1F       59   91 SA SA 2
+ 3500 PH  0733 OZ7X       59   86 SM6IQD     59   27 VD    2
+ 3500 PH  0734 OZ7X       59   87 SF3A       59   28 VN VN 2
+ 3500 PH  0735 OZ7X       59   88 OF1TD      59   45 SA    2
+ 7000 PH  0738 OZ7X       59   89 YL3GAO     59   37 DO DO 2
+ 7000 PH  0739 OZ7X       59   90 OH6ECM     59   40 PO PO 2
+ 7000 PH  0739 OZ7X       59   91 SE3X       59   31 JL JL 2
+ 7000 PH  0740 OZ7X       59   92 LY4Q       59   72 VU VU 2
+ 7000 PH  0740 OZ7X       59   93 YL7A       59   95 VK VK 2
+ 7000 PH  0741 OZ7X       59   94 LY7M       59   61 UT UT 2
+ 7000 PH  0741 OZ7X       59   95 YL1S       59   79 RR RR 2
+ 7000 PH  0742 OZ7X       59   96 ES6PA      59   67 VO VO 2
+ 7000 PH  0742 OZ7X       59   97 OZ1KKH     59   29 AH AH 2
+ 7000 PH  0742 OZ7X       59   98 YL2VW      59  107 RR    2
+ 7000 PH  0743 OZ7X       59   99 OH2KW      59   64 UU UU 2
+ 7000 PH  0744 OZ7X       59  100 SK2T       59   56 VB VB 2
+ 7000 PH  0745 OZ7X       59  101 LY3B       59   64 PA PA 2
+ 7000 PH  0745 OZ7X       59  102 OH6RE      59   91 KE KE 2
+ 7000 PH  0745 OZ7X       59  103 LY4A       59  133 SU SU 2
+ 7000 PH  0746 OZ7X       59  104 OF2J       59   32 UU    2
+ 7000 PH  0746 OZ7X       59  105 OF1Z       59   90 VA VA 2
+ 7000 PH  0747 OZ7X       59  106 OH7JL      59   56 PK PK 2
+ 7000 PH  0747 OZ7X       59  107 ES2EZ      59  107 HR HR 2
+ 7000 PH  0748 OZ7X       59  108 SE5N       59   48 SO SO 2
+ 7000 PH  0748 OZ7X       59  109 ES2IPA     59   46 HR    2
+ 7000 PH  0749 OZ7X       59  110 ES1TU      59   73 TL TL 2
+ 7000 PH  0749 OZ7X       59  111 OF3R       59   32 PH PH 2
+ 7000 PH  0750 OZ7X       59  112 LY2NY      59   61 KN KN 2
+ 7000 PH  0750 OZ7X       59  113 LY2ZO      59   55 KM KM 2
+ 7000 PH  0750 OZ7X       59  114 YL2GD      59  116 AU AU 2
+ 7000 PH  0751 OZ7X       59  115 LY2ND      59   39 KM    2
+ 7000 PH  0751 OZ7X       59  116 ES1CN      59   64 TL    2
+ 7000 PH  0751 OZ7X       59  117 ES5JR      59   49 TA TA 2
+ 7000 PH  0751 OZ7X       59  118 OF3P       59   63 PM PM 2
+ 7000 PH  0752 OZ7X       59  119 ES1O       59   31 TL    2
+ 7000 PH  0752 OZ7X       59  120 ES1QD      59   55 TL    2
+ 7000 PH  0753 OZ7X       59  121 SE4E       59   72 DA DA 2
+ 7000 PH  0754 OZ7X       59  122 OH3RT      59   16 PH    2
+ 7000 PH  0754 OZ7X       59  123 SM5ACQ     59   54 VM VM 2
+ 7000 PH  0756 OZ7X       59  124 LY4LA      59   55 KD KD 2
+ 7000 PH  0756 OZ7X       59  125 YL2KF      59   97 LM LM 2
+ 7000 PH  0756 OZ7X       59  126 OH3Z       59  131 VA    2
+ 7000 PH  0757 OZ7X       59  127 YL2KO      59  112 AU    2
+ 7000 PH  0757 OZ7X       59  128 YL2PJ      59  102 RE RE 2
+ 7000 PH  0757 OZ7X       59  129 OF0RJ      59   55 AL AL 2
+ 7000 PH  0758 OZ7X       59  130 YL3FT      59  115 OE OE 2
+ 7000 PH  0758 OZ7X       59  131 8S0C       59   84 SL SL 2
+ 7000 PH  0758 OZ7X       59  132 LY9Y       59   80 SU    2
+ 7000 PH  0759 OZ7X       59  133 ES6RMR     59   56 VC VC 2
+ 7000 PH  0759 OZ7X       59  134 OF2KM      59   71 UU    2
+ 7000 PH  0800 OZ7X       59  135 LY2N       59   19 KM    2
+ 7000 PH  0800 OZ7X       59  136 YL9T       59  124 VK    2
+ 7000 PH  0800 OZ7X       59  137 LA8FTA     59   41 AK AK 2
+ 7000 PH  0801 OZ7X       59  138 OF8UV      59   45 KU KU 2
+ 7000 PH  0802 OZ7X       59  139 YL3IR      59   37 GU GU 2
+ 7000 PH  0802 OZ7X       59  140 LY3CY      59   60 VU    2
+ 7000 PH  0802 OZ7X       59  141 LY4K       59   63 KM    2
+ 7000 PH  0803 OZ7X       59  142 OF1TD      59   62 SA SA 2
+ 7000 PH  0803 OZ7X       59  143 LY1CT      59   83 KD    2
+ 7000 PH  0803 OZ7X       59  144 LY2CO      59  110 TI TI 2
+ 7000 PH  0804 OZ7X       59  145 LY5AA      59   54 KM    2
+ 7000 PH  0804 OZ7X       59  146 LY2TS      59   89 TI    2
+ 7000 PH  0805 OZ7X       59  147 LY1SR      59   91 KM    2
+ 7000 PH  0805 OZ7X       59  148 YL2SM      59  141 AU    2
+ 7000 PH  0805 OZ7X       59  149 SE5E       59   70 UP UP 2
+ 7000 PH  0806 OZ7X       59  150 YL2BJ      59  125 VR VR 2
+ 7000 PH  0806 OZ7X       59  151 ES5TF      59   57 TA    2
+ 7000 PH  0807 OZ7X       59  152 ES2O       59   60 HR    2
+ 7000 PH  0807 OZ7X       59  153 LY2BOK     59   45 AT AT 2
+ 7000 PH  0807 OZ7X       59  154 LY6A       59  142 KN    2
+ 7000 PH  0808 OZ7X       59  155 YL100ZK    59   64 RR    2
+ 7000 PH  0809 OZ7X       59  156 LY4L       59  135 KM    2
+ 7000 PH  0811 OZ7X       59  157 ES2MC      59  160 HR    2
+ 7000 PH  0812 OZ7X       59  158 LY1CO      59   68 KN    2
+ 7000 PH  0813 OZ7X       59  159 OF1LAR     59   25 VA    2
+ 7000 PH  0814 OZ7X       59  160 ES7GM      59  183 VP VP 2
+ 7000 PH  0816 OZ7X       59  161 OH3JP      59   70 KT KT 2
+ 7000 PH  0816 OZ7X       59  162 LY2ON      59   39 KI KI 2
+ 7000 PH  0817 OZ7X       59  163 LY2BAG     59   29 KM    2
+ 7000 PH  0818 OZ7X       59  164 ES5QA      59  136 JG JG 2
+ 7000 PH  0818 OZ7X       59  165 SE5L       59   69 VM    2
+ 7000 PH  0819 OZ7X       59  166 LY3BN      59  146 KN    2
+ 7000 PH  0819 OZ7X       59  167 LY3IZ      59   50 UT    2
+ 7000 PH  0820 OZ7X       59  168 YL2II      59   36 AI AI 2
+ 7000 PH  0821 OZ7X       59  169 ES1BH      59   92 TL    2
+ 7000 PH  0821 OZ7X       59  170 SF3A       59   62 VN VN 2
+ 7000 PH  0822 OZ7X       59  171 OF5AA      59   10 KL    0  Unique <10
+ 7000 PH  0823 OZ7X       59  172 ES6QC      59  118 VO    2
+ 7000 PH  0824 OZ7X       59  173 OZ8PG      59  125 FB FB 2
+ 7000 PH  0825 OZ7X       59  174 OF1F       59  163 SA    2
+ 7000 PH  0826 OZ7X       59  175 YL1ZT      59   72 TU TU 2
+ 7000 PH  0826 OZ7X       59  176 ES4NY      59   77 IV IV 2
+ 7000 PH  0827 OZ7X       59  177 LY2MM      59  131 KM    2
+ 7000 PH  0829 OZ7X       59  178 SA1CCQ     59   89 GO GO 2
+ 7000 PH  0829 OZ7X       59  179 OH2PM      59  150 VA    2

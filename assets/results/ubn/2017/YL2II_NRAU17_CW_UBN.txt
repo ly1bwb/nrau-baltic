@@ -1,0 +1,56 @@
+     Call: YL2II
+ Operator:
+ Category: Single Op                      Band   QSO  Points  Mults
+ Power: LOW                               40m     11      16      8
+     Name: Yan                            80m     34      64     25
+  Address: Augstkalni, Aizkraukles pag.   Sum     45      80     33
+  Address: Aizkraukles novads             Total: 2640
+  Address: Aizkraukle,  LV-5101
+
+
+
+ 3500 CW  0906 YL2II      599   1 OZ8PG      599   6 FB FB 2
+ 3500 CW  0907 YL2II      599   2 LY2H       599   7 VU VU 2
+ 3500 CW  0909 YL2II      599   3 LY4T       599  12 KN KN 2
+ 3500 CW  0910 YL2II      599   4 YL2VW      599  15 RR RR 2
+ 3500 CW  0911 YL2II      599   5 YL1S       599  15 RR    2
+ 3500 CW  0913 YL2II      599   6 YL9T       599  18 VK VK 2
+ 3500 CW  0915 YL2II      599   7 ES2EZ      599  21 HR HR 2
+ 3500 CW  0916 YL2II      599   8 ES6Q       599  25 VO VO 2
+ 3500 CW  0918 YL2II      599   9 OF2KM      599  21 UU UU 2
+ 3500 CW  0919 YL2II      599  10 LY2CO      599  30 TI TI 2
+ 3500 CW  0922 YL2II      599  11 ES1DH      599  25 TL    0  Call/ES1BH
+ 3500 CW  0924 YL2II      599  12 LY2BAW     599  33 VV VV 2
+ 3500 CW  0927 YL2II      599  13 YL7A       599  45 VK    2
+ 3500 CW  0929 YL2II      599  14 OH2PM      599  53 VA VA 2
+ 3500 CW  0929 YL2II      599  15 ES1CN      599  28 TL TL 2
+ 3500 CW  0930 YL2II      599  16 LY2IJ      599  51 UT UT 2
+ 3500 CW  0932 YL2II      599  17 LY2J       599  38 MM MM 2
+ 3500 CW  0934 YL2II      599  18 OH6BA      599  41 KE KE 2
+ 3500 CW  0938 YL2II      599  19 ES7GM      599  62 VP VP 2
+ 3500 CW  0945 YL2II      599  20 ES5QA      599  53 JG JG 2
+ 3500 CW  0946 YL2II      599  21 LY2MM      599  53 KM KM 2
+ 3500 CW  0949 YL2II      599  22 YL2QV      599  43 JP JP 2
+ 3500 CW  0951 YL2II      599  23 YL2PJ      599  72 RE RE 2
+ 3500 CW  0952 YL2II      599  24 ES3BM      599  42 RP RP 2
+ 3500 CW  0953 YL2II      599  25 YL2SM      599  77 AU AU 2
+ 3500 CW  0955 YL2II      599  26 OF10A      599  32 SA SA 2
+ 3500 CW  0957 YL2II      599  27 YL3FT      599  90 OE OE 2
+ 3500 CW  0958 YL2II      599  28 LY2TS      599  72 TI    2
+ 3500 CW  1003 YL2II      599  29 YL2KO      599  82 AU    2
+ 3500 CW  1004 YL2II      599  30 LY6A       599  93 KN    2
+ 3500 CW  1005 YL2II      599  31 YL2KF      599  75 LM LM 2
+ 3500 CW  1007 YL2II      599  32 ES4QA      599  80 JG    0  Call/ES5QA
+ 3500 CW  1008 YL2II      599  33 LY2WR      599  16 KN    2
+ 7000 CW  1014 YL2II      599  34 OF6MW      599 114 KT    0  NotinLog
+ 7000 CW  1016 YL2II      599  35 OF1F       599 105 HA    0  Nr/106 Mult/SA
+ 7000 CW  1023 YL2II      599  36 SM5CSS     599  90 UP UP 2
+ 7000 CW  1026 YL2II      599  37 OZ8AE      599  69 SS SS 2
+ 7000 CW  1028 YL2II      599  38 OH8NW      599  67 FB    0  Nr/108 Mult/VA
+ 7000 CW  1029 YL2II      599  39 OZ8SW      599  57 KH KH 2
+ 7000 CW  1030 YL2II      599  40 OH2KW      599 100 UU UU 2
+ 7000 CW  1035 YL2II      599  41 OZ2TF      599  70 RK RK 2
+ 3500 CW  1043 YL2II      599  42 LY2BMX     599  71 UT    2
+ 7000 CW  1050 YL2II      599  43 LA5UF      599 114 VF VF 2
+ 7000 CW  1052 YL2II      599  44 SM5ACQ     599 108 VM VM 2
+ 7000 CW  1054 YL2II      599  45 OZ7BQ      599  51 FB FB 2

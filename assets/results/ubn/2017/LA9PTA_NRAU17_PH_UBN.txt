@@ -1,0 +1,42 @@
+     Call: LA9PTA
+ Operator:
+ Category: Single Op                      Band   QSO  Points  Mults
+ Power: HIGH                              40m     17      34     13
+     Name: Øivind Bjerke                  80m     14      28     12
+  Address: Ringfjellet 30                 Sum     31      62     25
+  Address: Vesterøy,  1684                Total: 1550
+  Address: NORWAY
+
+
+
+ 3649 PH  0636 LA9PTA     59    1 ES6RW      59   14 VO VO 2
+ 3610 PH  0640 LA9PTA     59    2 ES2EZ      59   17 HR HR 2
+ 3748 PH  0644 LA9PTA     59    3 YL2BJ      59   30 VR VR 2
+ 3646 PH  0657 LA9PTA     59    4 LY2BAW     59   50 VV VV 2
+ 3715 PH  0700 LA9PTA     59    5 OH7A       59   47 PK PK 2
+ 3727 PH  0701 LA9PTA     59    6 OF1F       59   42 SA SA 2
+ 3751 PH  0704 LA9PTA     59    7 OH3Z       59   45 VA VA 2
+ 3760 PH  0707 LA9PTA     59    8 OH2PM      59   60 VA    2
+ 3775 PH  0710 LA9PTA     59    9 YL3FT      59   67 OE OE 2
+ 3729 PH  0712 LA9PTA     59   10 YL9T       59   77 VK VK 2
+ 3641 PH  0716 LA9PTA     59   11 OH8NW      59   71 VA    2
+ 3628 PH  0717 LA9PTA     59   12 ES5QA      59   69 JG JG 2
+ 7141 PH  0726 LA9PTA     59   13 YL2GD      59   88 AU AU 2
+ 7173 PH  0730 LA9PTA     59   14 LY4A       59  110 SU SU 2
+ 3765 PH  0734 LA9PTA     59   15 LY4A       59  108 SU SU 2
+ 7150 PH  0742 LA9PTA     59   16 LY3BN      59   89 KN KN 2
+ 7162 PH  0743 LA9PTA     59   17 OF8L       59   79 PP PP 2
+ 3717 PH  0746 LA9PTA     59   18 SM5ACQ     59   52 VM VM 2
+ 7155 PH  0750 LA9PTA     59   19 LY5W       59   82 KN    2
+ 7160 PH  0752 LA9PTA     59   20 SK2T       59   65 VB VB 2
+ 7186 PH  0755 LA9PTA     59   21 OH2PM      59  100 VA VA 2
+ 7195 PH  0757 LA9PTA     59   22 OF6MW      59   97 KT KT 2
+ 7089 PH  0803 LA9PTA     59   23 ES6RW      59  165 VO VO 2
+ 7070 PH  0805 LA9PTA     59   24 ES2MC      59  153 HR HR 2
+ 7064 PH  0806 LA9PTA     59   25 YL2KO      59  127 AU    2
+ 7055 PH  0808 LA9PTA     59   26 ES6QC      59  107 VO    2
+ 7100 PH  0810 LA9PTA     59   27 ES7GM      59  176 VP VP 2
+ 7147 PH  0814 LA9PTA     59   28 ES1O       59   40 TL TL 2
+ 7070 PH  0817 LA9PTA     59   29 YL2SM      59  152 AU    2
+ 7062 PH  0817 LA9PTA     59   30 YL3FT      59  137 OE OE 2
+ 7176 PH  0822 LA9PTA     59   31 YL9T       59  139 VK VK 2
