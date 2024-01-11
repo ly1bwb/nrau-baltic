@@ -142,6 +142,6 @@ onUnmounted(() => {
 	<div ref="mapContainer" class="h-[500px] w-full" />
 </template>
 
-<style scoped>
+<style>
 @import "mapbox-gl/dist/mapbox-gl.css";
 </style>
