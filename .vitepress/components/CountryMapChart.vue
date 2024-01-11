@@ -102,8 +102,10 @@ onMounted(() => {
 	map.value = markRaw(
 		new mapboxgl.Map({
 			container: mapContainer.value,
-			center: [8, 62],
-			zoom: 3.5,
+			bounds: [
+				[-14, 68],
+				[26, 55],
+			],
 		}) as Map,
 	);
 
@@ -139,7 +141,14 @@ onUnmounted(() => {
 </script>
 
 <template>
-	<div ref="mapContainer" class="h-[500px] w-full" />
+	<div class="h-[500px] w-full relative">
+		<div ref="mapContainer" class="h-full" />
+		<div
+			class="absolute top-4 left-4 px-2 lg:px-4 py-1 lg:py-2 border border-gray-900/10 dark:border-gray-300/10 bg-white text-gray-700 dark:bg-gray-800 dark:text-gray-200 rounded-md"
+		>
+			{{ props.selectedYear }}
+		</div>
+	</div>
 </template>
 
 <style>

@@ -12,7 +12,7 @@ const selectedYear = ref<number>(2023);
 
 # Countries
 
-The sum of best 10 CW scores and best 10 SSB scores of each country
+Country score is the sum of best 10 CW scores and best 10 SSB scores of each country
 <CountryLineChart @highlightYear="(year) => selectedYear = year" />
 
 <CountryMapChart :selectedYear="selectedYear" />
