@@ -54,7 +54,7 @@ const interpolateResultsExpression = computed(() => [
 	["linear"],
 	[
 		"match",
-		["get", "name_en"],
+		["get", "name"],
 		...flatMap(countryScores[props.selectedYear], (score, countryName) => [
 			countryName,
 			score,
@@ -70,7 +70,7 @@ const interpolateResultsExpression = computed(() => [
 const loadCountryData = () => {
 	map.value?.addSource("countries", {
 		type: "vector",
-		url: "mapbox://mapbox.country-boundaries-v1",
+		url: "https://api.maptiler.com/tiles/countries/tiles.json?key=Ca3fXymYXMqmcNPJQo3P",
 	});
 
 	map.value?.addLayer({
@@ -78,12 +78,13 @@ const loadCountryData = () => {
 		slot: "bottom",
 		type: "fill",
 		source: "countries",
-		"source-layer": "country_boundaries",
+		"source-layer": "administrative",
+		filter: ["==", "level", 0],
 		paint: {
 			"fill-emissive-strength": 0.9,
 			"fill-color": [
 				"match",
-				["get", "name_en"],
+				["get", "name"],
 				...flatMap(countryColorMap, (color, countryName) => [
 					countryName,
 					color,
@@ -106,7 +107,7 @@ onMounted(() => {
 		}) as Map,
 	);
 
-	map.value?.on("style.load", () => {
+	map.value.on("style.load", () => {
 		setMapLightPreset(isDark.value ? "night" : "day");
 	});
 
