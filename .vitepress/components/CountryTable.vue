@@ -18,20 +18,14 @@ const props = defineProps<{
 	year: number;
 }>();
 
-const countriesResults = computed<CountryResult[]>(() => {
+const countryResults = computed<CountryResult[]>(() => {
 	return orderBy(
-		map(groupBy(results[props.year], "COUNTRY"), (countryResults, country) => ({
+		map(groupBy(results[props.year], "COUNTRY"), (countryResult, country) => ({
 			COUNTRY: country as Country,
-			CW_CALLS: filter(countryResults, { MODE: "CW" }).length,
-			PH_CALLS: filter(countryResults, { MODE: "PH" }).length,
-			CW_SCORE: sumBy(
-				take(filter(countryResults, { MODE: "CW" }), 10),
-				"SCORE",
-			),
-			PH_SCORE: sumBy(
-				take(filter(countryResults, { MODE: "PH" }), 10),
-				"SCORE",
-			),
+			CW_CALLS: filter(countryResult, { MODE: "CW" }).length,
+			PH_CALLS: filter(countryResult, { MODE: "PH" }).length,
+			CW_SCORE: sumBy(take(filter(countryResult, { MODE: "CW" }), 10), "SCORE"),
+			PH_SCORE: sumBy(take(filter(countryResult, { MODE: "PH" }), 10), "SCORE"),
 		})),
 		(result) => result.CW_SCORE + result.PH_SCORE,
 		"desc",
@@ -79,7 +73,7 @@ const columns = [
 
 <template>
 	<Table
-		:data="countriesResults"
+		:data="countryResults"
 		:columns="columns"
 		:table-options="{
 			initialState: { sorting: [{ id: 'SCORE', desc: true }] },

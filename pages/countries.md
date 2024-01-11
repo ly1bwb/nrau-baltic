@@ -7,7 +7,7 @@ import { ref } from 'vue';
 import CountryLineChart from '@/components/CountryLineChart.vue'
 import CountryMapChart from '@/components/CountryMapChart.vue'
 import Listbox from '@/theme/Listbox.vue'
-import CountriesTable from '@/components/CountriesTable.vue'
+import CountryTable from '@/components/CountryTable.vue'
 
 import { data as results } from "@/results.data";
 
@@ -24,4 +24,4 @@ Country score is the sum of best 10 CW scores and best 10 SSB scores of each cou
 
 <Listbox v-model="selectedYear" :items="availableYears" class="w-28 sm:w-24 my-4" />
 
-<CountriesTable :year="selectedYear" />
+<CountryTable :year="selectedYear" />
