@@ -50,11 +50,13 @@ const navigationItems = site.value.themeConfig.nav;
 						</a>
 					</div>
 					<div class="py-2">
-						<ThemeSwitch
-							class="flex w-full items-center rounded-md p-2 transition duration-150 ease-in-out hover:bg-gray-200 dark:hover:bg-gray-700"
-							aria-hidden="true"
-							><span class="ml-2">Change theme</span></ThemeSwitch
-						>
+						<ClientOnly>
+							<ThemeSwitch
+								class="flex w-full items-center rounded-md p-2 transition duration-150 ease-in-out hover:bg-gray-200 dark:hover:bg-gray-700"
+								aria-hidden="true"
+								><span class="ml-2">Change theme</span></ThemeSwitch
+							>
+						</ClientOnly>
 					</div>
 				</div>
 			</PopoverPanel>

@@ -20,6 +20,8 @@ const navigationItems = site.value.themeConfig.nav;
 			}"
 			>{{ text }}</a
 		>
-		<ThemeSwitch />
+		<ClientOnly>
+			<ThemeSwitch />
+		</ClientOnly>
 	</div>
 </template>
