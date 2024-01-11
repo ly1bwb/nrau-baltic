@@ -9,7 +9,7 @@ import {
 	GridComponent,
 } from "echarts/components";
 import { SVGRenderer } from "echarts/renderers";
-import type { ComposeOption } from "echarts/core";
+import type { ComposeOption, Payload } from "echarts/core";
 import type { LineSeriesOption } from "echarts/charts";
 import type {
 	TitleComponentOption,
@@ -24,6 +24,27 @@ import { useDark } from "@vueuse/core";
 
 import { data as results } from "@/results.data.js";
 import { COUNTRIES } from "@/counties";
+
+type EChartsOption = ComposeOption<
+	| TitleComponentOption
+	| TooltipComponentOption
+	| LegendComponentOption
+	| ToolboxComponentOption
+	| GridComponentOption
+	| LineSeriesOption
+>;
+
+const emit = defineEmits<{ highlightYear: [year: number] }>();
+
+use([
+	TitleComponent,
+	TooltipComponent,
+	LegendComponent,
+	ToolboxComponent,
+	GridComponent,
+	LineChart,
+	SVGRenderer,
+]);
 
 const availableYears = Object.keys(results).map(Number);
 const countryScores: LineSeriesOption[] = COUNTRIES.map((country) => ({
@@ -48,39 +69,16 @@ const countryScores: LineSeriesOption[] = COUNTRIES.map((country) => ({
 	}),
 }));
 
-use([
-	TitleComponent,
-	TooltipComponent,
-	LegendComponent,
-	ToolboxComponent,
-	GridComponent,
-	LineChart,
-	SVGRenderer,
-]);
-
-type EChartsOption = ComposeOption<
-	| TitleComponentOption
-	| TooltipComponentOption
-	| LegendComponentOption
-	| ToolboxComponentOption
-	| GridComponentOption
-	| LineSeriesOption
->;
-
 const isDark = useDark({ storageKey: "vitepress-theme-appearance" });
 
 const option = ref<EChartsOption>({
 	backgroundColor: "transparent",
-	title: {
-		text: "National competition",
-	},
 	tooltip: {
 		trigger: "axis",
 		order: "valueDesc",
 	},
 	legend: {
 		data: COUNTRIES,
-		width: "50%",
 	},
 	grid: {
 		left: "3%",
@@ -98,15 +96,23 @@ const option = ref<EChartsOption>({
 	},
 	series: countryScores,
 });
+
+const handleHighlight = (payload: Payload) => {
+	const highlightedYear = availableYears[payload.batch?.[0].dataIndex];
+
+	if (highlightedYear) {
+		emit("highlightYear", highlightedYear);
+	}
+};
 </script>
 
 <template>
 	<div class="h-80 w-full">
 		<VChart
-			class="chart"
 			:option="option"
 			autoresize
 			:theme="isDark ? 'dark' : ''"
+			@highlight="handleHighlight"
 		/>
 	</div>
 </template>
