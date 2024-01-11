@@ -15,11 +15,10 @@ titleTemplate: false
 
 # NRAU-Baltic contest
 
-<ClientOnly>
-  <template v-if="!hasContestStarted">
-    <h3>Contest starts in <CountdownTimer :date="contestDate" /></h3>
-  </template>
-</ClientOnly>
+
+<template v-if="!hasContestStarted">
+  <h3>Contest starts in <ClientOnly><CountdownTimer :date="contestDate" /></ClientOnly></h3>
+</template>
 
 Welcome to the NRAU-Baltic contest 2024 on the 14th of January.
 
