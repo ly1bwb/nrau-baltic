@@ -41,7 +41,7 @@ The results of the national competition will also be listed.
 ## Message
 
 RS(T) + serial number starting from 001 + 2 letters showing Fylke / Lan / Province / Region, e.g. 59(9) 001 VN.
-See the abbreviation list at end of rules.
+See the abbreviation list at end of rules. The Fylke / Lan / Province / Region must be where the station is located.
 Note - Use different serial numbers for CW and SSB, as they are two separate contests. Multi operator stations may use separate numbers per band
 
 ## Points
