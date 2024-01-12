@@ -21,7 +21,7 @@ defineProps({
 	<Listbox v-model="model" class="not-prose">
 		<div class="relative">
 			<ListboxButton
-				class="relative w-full py-2 pl-3 pr-10 text-left sm:text-sm rounded-lg text-gray-700 dark:text-gray-200 bg-white dark:bg-gray-800 border border-gray-900/10 dark:border-gray-300/10"
+				class="relative w-full py-2 pl-3 pr-10 text-left text-base sm:text-sm rounded-lg text-gray-700 dark:text-gray-200 bg-white dark:bg-gray-800 border border-gray-900/10 dark:border-gray-300/10"
 			>
 				<span class="block truncate">{{ model }}</span>
 				<span
