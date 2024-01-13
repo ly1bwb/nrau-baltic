@@ -1,17 +1,17 @@
 import { zipObject } from "lodash-es";
 
-export type Country = keyof typeof COUNTIES;
+export type Country = keyof typeof REGIONS;
 
-export type CountyCode = {
-	[K in keyof typeof COUNTIES]: keyof (typeof COUNTIES)[K];
-}[keyof typeof COUNTIES];
+export type RegionCode = {
+	[K in keyof typeof REGIONS]: keyof (typeof REGIONS)[K];
+}[keyof typeof REGIONS];
 
-export type County = {
+export type Region = {
 	name: string;
 	isActive: boolean;
 };
 
-export const COUNTIES = {
+export const REGIONS = {
 	Denmark: {
 		BH: {
 			name: "Bornholm",
@@ -570,7 +570,7 @@ export const COUNTIES = {
 	},
 } as const;
 
-export const COUNTRIES = Object.keys(COUNTIES) as Country[];
+export const COUNTRIES = Object.keys(REGIONS) as Country[];
 
 const colorList = [
 	"#5470c6",
@@ -585,13 +585,13 @@ const colorList = [
 
 export const countryColorMap = zipObject(COUNTRIES, colorList);
 
-export const findCountry = (county: CountyCode): Country | undefined => {
-	const country = Object.entries(COUNTIES).find(([_, counties]) =>
-		Object.keys(counties).includes(county),
+export const findCountry = (regionCode: RegionCode): Country | undefined => {
+	const country = Object.entries(REGIONS).find(([_, regions]) =>
+		Object.keys(regions).includes(regionCode),
 	)?.[0] as Country;
 
 	if (!country) {
-		throw Error(`Could not find country for ${county} county`);
+		throw Error(`Could not find country for ${regionCode} region`);
 	}
 
 	return country;

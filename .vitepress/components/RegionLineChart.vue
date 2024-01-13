@@ -23,7 +23,7 @@ import { ref } from "vue";
 import { useDark } from "@vueuse/core";
 
 import { data as results } from "@/results.data.js";
-import { COUNTIES, COUNTRIES, type County } from "@/counties";
+import { REGIONS } from "@/regions";
 import {
 	filter,
 	flatMap,
@@ -60,22 +60,19 @@ const availableYears = Object.keys(results).map(Number);
 
 const regionScores: LineSeriesOption[] = take(
 	orderBy(
-		flatMap(COUNTIES, (counties, country) =>
-			map(pickBy(counties, "isActive"), (county, countyCode) => {
-				const countyResult = map(results, (yearResult) =>
-					sumBy(filter(yearResult, { COUNTY: countyCode }), "SCORE"),
+		flatMap(REGIONS, (regions) =>
+			map(pickBy(regions, "isActive"), (region, regionCode) => {
+				const regionResult = map(results, (yearResult) =>
+					sumBy(filter(yearResult, { COUNTY: regionCode }), "SCORE"),
 				);
 				return {
-					...county,
+					...region,
 					type: "line",
-					country,
-					countyCode,
-					data: countyResult,
-					totalScore: sum(countyResult),
+					data: regionResult,
 				};
 			}),
 		),
-		"totalScore",
+		(regionScore) => sum(regionScore.data),
 		"desc",
 	),
 	8,

@@ -23,7 +23,7 @@ import { ref } from "vue";
 import { useDark } from "@vueuse/core";
 
 import { data as results } from "@/results.data.js";
-import { COUNTRIES } from "@/counties";
+import { COUNTRIES } from "@/regions";
 
 type EChartsOption = ComposeOption<
 	| TitleComponentOption

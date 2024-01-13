@@ -16,7 +16,7 @@ interface Map extends mapboxgl.Map {
 }
 
 import { data as results } from "@/results.data.js";
-import { countryColorMap } from "@/counties";
+import { countryColorMap } from "@/regions";
 import {
 	filter,
 	flatMap,

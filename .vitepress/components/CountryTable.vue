@@ -4,7 +4,7 @@ import { createColumnHelper } from "@tanstack/vue-table";
 import Table from "@/theme/Table.vue";
 import { data as results } from "@/results.data";
 import { filter, groupBy, map, orderBy, sumBy, take } from "lodash-es";
-import type { Country } from "@/counties";
+import type { Country } from "@/regions";
 
 type CountryResult = {
 	COUNTRY: Country;
