@@ -23,7 +23,17 @@ import { ref } from "vue";
 import { useDark } from "@vueuse/core";
 
 import { data as results } from "@/results.data.js";
-import { COUNTRIES } from "@/counties";
+import { COUNTIES, COUNTRIES, type County } from "@/counties";
+import {
+	filter,
+	flatMap,
+	map,
+	pickBy,
+	sumBy,
+	sum,
+	orderBy,
+	take,
+} from "lodash-es";
 
 type EChartsOption = ComposeOption<
 	| TitleComponentOption
@@ -47,27 +57,29 @@ use([
 ]);
 
 const availableYears = Object.keys(results).map(Number);
-const countryScores: LineSeriesOption[] = COUNTRIES.map((country) => ({
-	name: country,
-	type: "line",
-	data: Object.values(results).map((yearResult) => {
-		const countryResults = yearResult.filter(
-			(result) => result.COUNTRY === country,
-		);
-		const countryCWResults = countryResults
-			.filter((result) => result.MODE === "CW")
-			.slice(0, 10);
 
-		const countryPHResults = countryResults
-			.filter((result) => result.MODE === "PH")
-			.slice(0, 10);
-
-		return [...countryCWResults, ...countryPHResults].reduce(
-			(scoreSum, result) => scoreSum + result.SCORE,
-			0,
-		);
-	}),
-}));
+const regionScores: LineSeriesOption[] = take(
+	orderBy(
+		flatMap(COUNTIES, (counties, country) =>
+			map(pickBy(counties, "isActive"), (county, countyCode) => {
+				const countyResult = map(results, (yearResult) =>
+					sumBy(filter(yearResult, { COUNTY: countyCode }), "SCORE"),
+				);
+				return {
+					...county,
+					type: "line",
+					country,
+					countyCode,
+					data: countyResult,
+					totalScore: sum(countyResult),
+				};
+			}),
+		),
+		"totalScore",
+		"desc",
+	),
+	8,
+);
 
 const isDark = useDark({ storageKey: "vitepress-theme-appearance" });
 
@@ -92,7 +104,7 @@ const option = ref<EChartsOption>({
 	yAxis: {
 		type: "value",
 	},
-	series: countryScores,
+	series: regionScores,
 });
 
 const handleHighlight = (payload: Payload) => {
@@ -105,7 +117,7 @@ const handleHighlight = (payload: Payload) => {
 </script>
 
 <template>
-	<div class="h-80 w-full">
+	<div class="h-[500px] w-full">
 		<VChart
 			:option="option"
 			autoresize
