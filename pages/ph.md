@@ -15,6 +15,6 @@ const selectedYear = ref(Math.max(...availableYears));
 
 # PH results
 
-<Listbox v-model="selectedYear" :items="availableYears" class="w-24 mb-4" />
+<Listbox v-model="selectedYear" :items="availableYears" class="w-28 mb-4" />
 
 <PhTable :year="selectedYear" />

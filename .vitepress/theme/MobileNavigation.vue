@@ -14,7 +14,7 @@ const navigationItems = site.value.themeConfig.nav;
 <template>
 	<Popover class="relative">
 		<PopoverButton
-			title="Atidaryti meniu"
+			title="Open navigation menu"
 			class="p-2 text-gray-700 dark:text-gray-200"
 		>
 			<MenuIcon />
@@ -32,23 +32,24 @@ const navigationItems = site.value.themeConfig.nav;
 				class="absolute right-0 mt-3 w-screen max-w-[15rem] pl-8 sm:px-0"
 				v-slot="{ close }"
 			>
-				<div
+				<nav
 					class="divide-y divide-gray-100 dark:divide-gray-700 px-4 py-2 rounded-lg shadow-lg border border-gray-900/10 dark:border-gray-300/10 text-base font-semibold bg-white text-gray-700 dark:bg-gray-800 dark:text-gray-200"
 				>
-					<div class="py-2">
-						<a
-							v-for="{ text, link } of navigationItems"
-							:href="link"
-							:key="text"
-							class="flex w-full items-center rounded-md p-2 transition duration-150 ease-in-out hover:bg-gray-200 dark:hover:bg-gray-700"
-							:class="{
-								'text-blue-600 dark:text-blue-300': route.path === link,
-							}"
-							@click="close"
-						>
-							{{ text }}
-						</a>
-					</div>
+					<ul class="py-2">
+						<li v-for="{ text, link } of navigationItems">
+							<a
+								:href="link"
+								:key="text"
+								class="flex w-full items-center rounded-md p-2 transition duration-150 ease-in-out hover:bg-gray-200 dark:hover:bg-gray-700"
+								:class="{
+									'text-blue-600 dark:text-blue-300': route.path === link,
+								}"
+								@click="close"
+							>
+								{{ text }}
+							</a>
+						</li>
+					</ul>
 					<div class="py-2">
 						<ClientOnly>
 							<ThemeSwitch
@@ -58,7 +59,7 @@ const navigationItems = site.value.themeConfig.nav;
 							>
 						</ClientOnly>
 					</div>
-				</div>
+				</nav>
 			</PopoverPanel>
 		</transition>
 	</Popover>

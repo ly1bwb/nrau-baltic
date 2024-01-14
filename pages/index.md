@@ -4,7 +4,7 @@ titleTemplate: false
 ---
 
 <script setup lang="ts">
-  import CountdownTimer from '@/components/CountdownTimer.vue'
+  import ContestTimer from '@/components/ContestTimer.vue'
   import { computed } from 'vue';
 
   const contestDate = new Date('2024-01-14T06:30:00Z')
@@ -15,16 +15,13 @@ titleTemplate: false
 
 # NRAU-Baltic contest
 
+<ClientOnly><ContestTimer /></ClientOnly>
 
-<template v-if="!hasContestStarted">
-  <h3>Contest starts in <ClientOnly><CountdownTimer :date="contestDate" /></ClientOnly></h3>
-</template>
+<a class="text-4xl font-bold" href="https://logs.nraubaltic.eu/submit/65947b7f2f903b1b56c43a15">SUBMIT YOUR LOG HERE >></a>
 
 Welcome to the NRAU-Baltic contest 2024 on the 14th of January.
 
 This year's contest host is [SSA](https://www.ssa.se/) (Sweden). Log upload and results can be found on the website https://<span>logs.nraubaltic.eu/</span>.
-
-<a class="text-4xl font-bold" href="https://logs.nraubaltic.eu/submit/65947b7f2f903b1b56c43a15">SUBMIT YOUR LOG HERE >></a>
 
 Supported contesting software that include the most recent NRAU-Baltic contest rule updates:
 
