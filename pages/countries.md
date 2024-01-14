@@ -22,6 +22,6 @@ Country score is the sum of best 10 CW scores and best 10 SSB scores of each cou
 
 <CountryMapChart :selectedYear="selectedYear" />
 
-<Listbox v-model="selectedYear" :items="availableYears" class="w-28 sm:w-24 my-4" />
+<Listbox v-model="selectedYear" :items="availableYears" class="w-28 my-4" />
 
 <CountryTable :year="selectedYear" />
