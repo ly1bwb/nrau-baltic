@@ -24,7 +24,7 @@ const { page, frontmatter } = useData();
 					src="/logo.svg"
 					alt="NRAU-Baltic contest logo. Elongated rhombus shape, white antenna and ground electronics symbols, letters NRAU in the middle, on a blue background."
 				/>
-				<span aria-hidden>NRAU-Baltic</span>
+				<span aria-hidden="true">NRAU-Baltic</span>
 			</a>
 			<Navigation class="hidden lg:flex" />
 			<MobileNavigation class="lg:hidden" />

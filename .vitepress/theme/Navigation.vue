@@ -23,7 +23,7 @@ const navigationItems = site.value.themeConfig.nav;
 				>
 			</li>
 			<ClientOnly>
-				<ThemeSwitch aria-hidden />
+				<ThemeSwitch aria-hidden="true" />
 			</ClientOnly>
 		</ul>
 	</nav>

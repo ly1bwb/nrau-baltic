@@ -54,7 +54,7 @@ const navigationItems = site.value.themeConfig.nav;
 						<ClientOnly>
 							<ThemeSwitch
 								class="flex w-full items-center rounded-md p-2 transition duration-150 ease-in-out hover:bg-gray-200 dark:hover:bg-gray-700"
-								aria-hidden
+								aria-hidden="true"
 								><span class="ml-2">Change theme</span></ThemeSwitch
 							>
 						</ClientOnly>
