@@ -12,7 +12,7 @@ const { page, frontmatter } = useData();
 	<div
 		class="sticky top-0 z-10 w-full backdrop-blur py-4 border-b border-gray-900/10 bg-white supports-backdrop-blur:bg-white/95 dark:border-gray-300/10 dark:bg-gray-900/75"
 	>
-		<nav
+		<div
 			class="flex justify-between items-center max-w-3xl mx-auto px-4 sm:px-6 xl:max-w-5xl xl:px-0"
 		>
 			<a
@@ -22,13 +22,13 @@ const { page, frontmatter } = useData();
 				<img
 					class="w-10 h-[78px]"
 					src="/logo.svg"
-					alt="NRAU-Baltic contest logo"
+					alt="NRAU-Baltic contest logo. Elongated rhombus shape, white antenna and ground electronics symbols, letters NRAU in the middle, on a blue background."
 				/>
-				NRAU-Baltic
+				<span aria-hidden>NRAU-Baltic</span>
 			</a>
 			<Navigation class="hidden lg:flex" />
 			<MobileNavigation class="lg:hidden" />
-		</nav>
+		</div>
 	</div>
 	<main
 		class="max-w-3xl xl:max-w-5xl mx-auto my-8 lg:my-16 px-4 sm:px-6 xl:px-0"
