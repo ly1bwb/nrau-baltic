@@ -17,11 +17,11 @@ titleTemplate: false
 
 <ClientOnly><ContestTimer /></ClientOnly>
 
+<a class="text-4xl font-bold" href="https://logs.nraubaltic.eu/submit/65947b7f2f903b1b56c43a15">SUBMIT YOUR LOG HERE >></a>
+
 Welcome to the NRAU-Baltic contest 2024 on the 14th of January.
 
 This year's contest host is [SSA](https://www.ssa.se/) (Sweden). Log upload and results can be found on the website https://<span>logs.nraubaltic.eu/</span>.
-
-<a class="text-4xl font-bold" href="https://logs.nraubaltic.eu/submit/65947b7f2f903b1b56c43a15">SUBMIT YOUR LOG HERE >></a>
 
 Supported contesting software that include the most recent NRAU-Baltic contest rule updates:
 
