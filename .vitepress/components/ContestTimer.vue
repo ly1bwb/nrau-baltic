@@ -8,7 +8,14 @@ const cwStart = new Date("2024-01-14T09:00:00Z");
 const cwEnd = new Date("2024-01-14T11:00:00Z");
 
 const intervalId = ref<NodeJS.Timer>();
-const timeLeft = ref();
+const timeLeft = ref(
+	formatDuration(
+		intervalToDuration({
+			start: Date.now(),
+			end: cwEnd,
+		}),
+	),
+);
 
 onMounted(() => {
 	intervalId.value = setInterval(() => {
@@ -27,6 +34,6 @@ onUnmounted(() => {
 </script>
 
 <template>
-	<h3>CW contest is in progress!</h3>
-	<h3>Time left: {{ timeLeft }}</h3>
+	<h2 class="text-blue-600 dark:text-blue-300">CW contest is in progress!</h2>
+	<h3 class="text-blue-600 dark:text-blue-300">Time left: {{ timeLeft }}</h3>
 </template>
