@@ -4,7 +4,7 @@ titleTemplate: false
 ---
 
 <script setup lang="ts">
-  import CountdownTimer from '@/components/CountdownTimer.vue'
+  import ContestTimer from '@/components/ContestTimer.vue'
   import { computed } from 'vue';
 
   const contestDate = new Date('2024-01-14T06:30:00Z')
@@ -15,10 +15,7 @@ titleTemplate: false
 
 # NRAU-Baltic contest
 
-
-<template v-if="!hasContestStarted">
-  <h3>Contest starts in <ClientOnly><CountdownTimer :date="contestDate" /></ClientOnly></h3>
-</template>
+<ClientOnly><ContestTimer /></ClientOnly>
 
 Welcome to the NRAU-Baltic contest 2024 on the 14th of January.
 
