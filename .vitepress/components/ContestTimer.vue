@@ -66,5 +66,7 @@ onUnmounted(() => {
 	<h2 class="text-blue-600 dark:text-blue-300">
 		{{ periodName }} is in progress!
 	</h2>
-	<h3 class="text-blue-600 dark:text-blue-300">Time left: {{ timeLeft }}</h3>
+	<h3 class="text-blue-600 dark:text-blue-300 tabular-nums">
+		Time left: {{ timeLeft }}
+	</h3>
 </template>
