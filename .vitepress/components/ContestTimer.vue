@@ -33,10 +33,11 @@ const timeLeftEnd = computed(() => {
 	if (isLogSubmitInProgress.value) return logSubmitEnd;
 });
 
-const periodName = computed(() => {
-	if (isSsbInProgress.value) return "SSB contest";
-	if (isCwInProgress.value) return "CW contest";
-	if (isLogSubmitInProgress.value) return "Log submit";
+const periodMessage = computed(() => {
+	if (isSsbInProgress.value) return "SSB contest is in progress!";
+	if (isCwInProgress.value) return "CW contest is in progress!";
+	if (isLogSubmitInProgress.value)
+		return "Contest has ended 🎉 Please submit your log!";
 });
 
 const timeLeft = computed(() => {
@@ -64,7 +65,7 @@ onUnmounted(() => {
 
 <template>
 	<h2 class="text-blue-600 dark:text-blue-300">
-		{{ periodName }} is in progress!
+		{{ periodMessage }}
 	</h2>
 	<h3 class="text-blue-600 dark:text-blue-300 tabular-nums">
 		Time left: {{ timeLeft }}
