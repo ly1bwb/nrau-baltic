@@ -5,12 +5,6 @@ titleTemplate: false
 
 <script setup lang="ts">
   import ContestTimer from '@/components/ContestTimer.vue'
-  import { computed } from 'vue';
-
-  const contestDate = new Date('2024-01-14T06:30:00Z')
-  const now = new Date()
-
-  const hasContestStarted = computed(() => now.getTime() > contestDate.getTime())
 </script>
 
 # NRAU-Baltic contest

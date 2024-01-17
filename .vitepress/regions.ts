@@ -21,6 +21,17 @@ export const COUNTRIES = [
 	"Sweden",
 ] as const;
 
+export const COUNTRY_FLAGS = {
+	Denmark: "🇩🇰",
+	Estonia: "🇪🇪",
+	Finland: "🇫🇮",
+	Iceland: "🇮🇸",
+	Latvia: "🇱🇻",
+	Lithuania: "🇱🇹",
+	Norway: "🇳🇴",
+	Sweden: "🇸🇪",
+};
+
 export const REGIONS = {
 	BH: {
 		name: "Bornholm",

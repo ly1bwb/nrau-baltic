@@ -7,7 +7,9 @@ import {
 	addWeeks,
 	addHours,
 	isFuture,
+	subMonths,
 } from "date-fns";
+import { COUNTRY_FLAGS } from "@/regions";
 
 const ssbStart = new Date("2024-01-14T06:30:00Z");
 const ssbEnd = addHours(ssbStart, 2);
@@ -17,6 +19,10 @@ const logSubmitEnd = addWeeks(cwEnd, 1);
 
 const intervalId = ref<NodeJS.Timer>();
 const now = ref(Date.now());
+
+const isMonthLeftToStart = computed(() =>
+	isWithinInterval(now.value, { start: subMonths(ssbStart, 1), end: ssbStart }),
+);
 
 const isSsbInProgress = computed(() =>
 	isWithinInterval(now.value, { start: ssbStart, end: ssbEnd }),
@@ -29,12 +35,15 @@ const isLogSubmitInProgress = computed(() =>
 );
 
 const timeLeftEnd = computed(() => {
+	if (isMonthLeftToStart.value) return ssbStart;
 	if (isSsbInProgress.value) return ssbEnd;
 	if (isCwInProgress.value) return cwEnd;
 	if (isLogSubmitInProgress.value) return logSubmitEnd;
 });
 
 const periodMessage = computed(() => {
+	if (isMonthLeftToStart.value)
+		return `Get ready for contest! ${Object.values(COUNTRY_FLAGS).join("")}`;
 	if (isSsbInProgress.value) return "SSB contest is in progress!";
 	if (isCwInProgress.value) return "CW contest is in progress!";
 	if (isLogSubmitInProgress.value)

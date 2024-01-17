@@ -4,7 +4,7 @@ import { createColumnHelper } from "@tanstack/vue-table";
 import Table from "@/theme/Table.vue";
 import { data as results } from "@/results.data";
 import { filter, groupBy, map, orderBy, sumBy, take } from "lodash-es";
-import type { Country } from "@/regions";
+import { COUNTRY_FLAGS, type Country } from "@/regions";
 
 type CountryResult = {
 	COUNTRY: Country;
@@ -39,9 +39,12 @@ const columns = [
 		header: "Pos",
 		cell: ({ row }) => row.index + 1,
 	}),
-	columnHelper.accessor("COUNTRY", {
-		header: "Country",
-	}),
+	columnHelper.accessor(
+		(row) => `${COUNTRY_FLAGS[row.COUNTRY]} ${row.COUNTRY}`,
+		{
+			header: "Country",
+		},
+	),
 	columnHelper.group({
 		header: "CW",
 		columns: [

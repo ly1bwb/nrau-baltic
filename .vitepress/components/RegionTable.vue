@@ -4,7 +4,13 @@ import { createColumnHelper } from "@tanstack/vue-table";
 import Table from "@/theme/Table.vue";
 import { data as results } from "@/results.data";
 import { groupBy, map, orderBy, sumBy } from "lodash-es";
-import { type Country, type Region, type RegionCode, REGIONS } from "@/regions";
+import {
+	type Country,
+	type Region,
+	type RegionCode,
+	REGIONS,
+	COUNTRY_FLAGS,
+} from "@/regions";
 
 type RegionResult = {
 	COUNTRY: Country;
@@ -48,9 +54,12 @@ const columns = [
 	columnHelper.accessor("REGION_NAME", {
 		header: "Name",
 	}),
-	columnHelper.accessor("COUNTRY", {
-		header: "Country",
-	}),
+	columnHelper.accessor(
+		(row) => `${COUNTRY_FLAGS[row.COUNTRY]} ${row.COUNTRY}`,
+		{
+			header: "Country",
+		},
+	),
 	columnHelper.accessor("STATION_COUNT", {
 		header: "Stations",
 	}),
