@@ -60,18 +60,17 @@ const availableYears = Object.keys(results).map(Number);
 
 const regionScores: LineSeriesOption[] = take(
 	orderBy(
-		flatMap(REGIONS, (regions) =>
-			map(pickBy(regions, "isActive"), (region, regionCode) => {
-				const regionResult = map(results, (yearResult) =>
-					sumBy(filter(yearResult, { COUNTY: regionCode }), "SCORE"),
-				);
-				return {
-					...region,
-					type: "line",
-					data: regionResult,
-				};
-			}),
-		),
+		map(pickBy(REGIONS, "isActive"), (region, regionCode) => {
+			const regionResult = map(results, (yearResult) =>
+				sumBy(filter(yearResult, { COUNTY: regionCode }), "SCORE"),
+			);
+
+			return {
+				...region,
+				type: "line",
+				data: regionResult,
+			};
+		}),
 		(regionScore) => sum(regionScore.data),
 		"desc",
 	),
