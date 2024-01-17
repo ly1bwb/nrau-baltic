@@ -6,6 +6,7 @@ import {
 	isWithinInterval,
 	addWeeks,
 	addHours,
+	isFuture,
 } from "date-fns";
 
 const ssbStart = new Date("2024-01-14T06:30:00Z");
@@ -64,10 +65,12 @@ onUnmounted(() => {
 </script>
 
 <template>
-	<h2 class="text-blue-600 dark:text-blue-300">
-		{{ periodMessage }}
-	</h2>
-	<h3 class="text-blue-600 dark:text-blue-300 tabular-nums">
-		Time left: {{ timeLeft }}
-	</h3>
+	<template v-if="isFuture(logSubmitEnd)">
+		<h2 class="text-blue-600 dark:text-blue-300">
+			{{ periodMessage }}
+		</h2>
+		<h3 class="text-blue-600 dark:text-blue-300 tabular-nums">
+			Time left: {{ timeLeft }}
+		</h3>
+	</template>
 </template>
