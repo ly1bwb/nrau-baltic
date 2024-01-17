@@ -48,6 +48,9 @@ const columns = [
 	columnHelper.accessor("REGION_NAME", {
 		header: "Name",
 	}),
+	columnHelper.accessor("COUNTRY", {
+		header: "Country",
+	}),
 	columnHelper.accessor("STATION_COUNT", {
 		header: "Stations",
 	}),
