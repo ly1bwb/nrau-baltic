@@ -1,7 +1,7 @@
 import fs, { type PathOrFileDescriptor } from "node:fs";
 import { parse } from "csv-parse/sync";
 import path from "node:path";
-import { findCountry, type Country, type CountyCode } from "./counties";
+import { type Country, type RegionCode, REGIONS } from "./regions";
 
 export interface Result {
 	MODE: "CW" | "PH";
@@ -14,7 +14,7 @@ export interface Result {
 	MULT_40m: number;
 	SCORE: number;
 	POWER: "LOW" | "HIGH" | "MULTI";
-	COUNTY: CountyCode;
+	COUNTY: RegionCode;
 	CHECKLOG: "Y" | "N";
 	COUNTRY: Country;
 }
@@ -35,7 +35,10 @@ export default {
 					cast: true,
 				}) as Result[]
 			)
-				.map((result) => ({ ...result, COUNTRY: findCountry(result.COUNTY) }))
+				.map((result) => ({
+					...result,
+					COUNTRY: REGIONS[result.COUNTY].country,
+				}))
 				.sort((a, b) => b.SCORE - a.SCORE);
 
 			return {
