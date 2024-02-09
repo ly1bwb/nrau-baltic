@@ -3,19 +3,21 @@ title: NRAU-Baltic
 titleTemplate: false
 ---
 
-<script setup lang="ts">
+<!-- script setup lang="ts">
   import ContestTimer from '@/components/ContestTimer.vue'
-</script>
+</script -->
 
-# NRAU-Baltic contest
+# NRAU-Baltic contest preliminary results
 
-<ClientOnly><ContestTimer /></ClientOnly>
-
-<a class="text-4xl font-bold" href="https://logs.nraubaltic.eu/submit/65947b7f2f903b1b56c43a15">SUBMIT YOUR LOG HERE >></a>
+<!-- ClientOnly><ContestTimer /></ClientOnly -->
 
 Welcome to the NRAU-Baltic contest 2024 on the 14th of January.
 
-This year's contest host is [SSA](https://www.ssa.se/) (Sweden). Log upload and results can be found on the website https://<span>logs.nraubaltic.eu/</span>.
+The preliminary results are published for NRAU Baltic 2024 contest.
+
+You can check them out here: [Preliminary NRAU 2024 results](https://logs.nraubaltic.eu/results/65947b7f2f903b1b56c43a15/preliminary)
+
+This year's contest host is [SSA](https://www.ssa.se/) (Sweden).
 
 Supported contesting software that include the most recent NRAU-Baltic contest rule updates:
 
