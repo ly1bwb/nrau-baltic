@@ -120,7 +120,7 @@ export default defineConfigWithTheme<ThemeConfig>({
 			"meta",
 			{
 				property: "og:image",
-				content: "https://nrau-baltic.eu/og.png",
+				content: "https://nraubaltic.eu/og.png",
 			},
 		],
 		[
