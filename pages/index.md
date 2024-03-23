@@ -13,7 +13,7 @@ titleTemplate: false
 
 The final results for 2024 NRAU-Baltic contest are published 🎉 See results for [CW](/cw), [PH](/ph), and [Mixed](/mixed) categories. 
 
-Congratulations to LY9A in CW, ES7A in PH, and ES7A in Mixed! Latvia won the national competition ahead of Lithuania with small margin of only 2.5 % - CONGRATULATIONS!
+Congratulations to LY9A in CW, ES7A in PH, and ES7A in Mixed! Latvia won the national competition ahead of Lithuania with a small margin of only 2.5 % - CONGRATULATIONS!
 
 <div class="text-sm">You can also view preliminary results here: <a href="https://logs.nraubaltic.eu/results/65947b7f2f903b1b56c43a15/preliminary">Preliminary NRAU-Baltic 2024 results</a></div>
 
