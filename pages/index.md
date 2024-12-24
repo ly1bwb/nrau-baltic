@@ -3,9 +3,11 @@ title: NRAU-Baltic
 titleTemplate: false
 ---
 
-<!-- script setup lang="ts">
+# NRAU-Baltic Contest 2025 is coming!
+
+<script setup lang="ts">
   import ContestTimer from '@/components/ContestTimer.vue'
-</script -->
+</script>
 
 # NRAU-Baltic contest
 
