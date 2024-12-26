@@ -11,7 +11,7 @@ import {
 } from "date-fns";
 import { COUNTRY_FLAGS } from "@/regions";
 
-const ssbStart = new Date("2024-01-14T06:30:00Z");
+const ssbStart = new Date("2025-01-12T06:30:00Z");
 const ssbEnd = addHours(ssbStart, 2);
 const cwStart = addHours(ssbEnd, 0.5);
 const cwEnd = addHours(cwStart, 2);
