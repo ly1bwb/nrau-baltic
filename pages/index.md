@@ -15,6 +15,10 @@ titleTemplate: false
 
 NRAU-Baltic Working Group kindly invites all radio amateurs of the Nordics and Baltics to participate in the annual **NRAU-Baltic contest 2025**, on the 12th of January, 2025.
 
+**[SUBMIT YOUR LOGS FOR 2025 HERE >>](https://logs.nraubaltic.eu/submit/6777b7bc8a96487522d6b473)**
+
+[NRAU-Baltic contest rules](/rules)
+
 Supported contesting software that include the most recent NRAU-Baltic contest rule updates:
 
 * **DXLog.net**: version 2.6.11 ([full download](http://www.dxlog.net/sw/files/DXLog.net-2.6.11.msi))
