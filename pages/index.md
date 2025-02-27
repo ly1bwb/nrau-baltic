@@ -5,33 +5,21 @@ titleTemplate: false
 
 # Welcome to NRAU-Baltic contest page!
 
-## NRAU-Baltic contest 2025 is coming!
-
 <script setup lang="ts">
   import ContestTimer from '@/components/ContestTimer.vue'
 </script>
 
 <ClientOnly><ContestTimer /></ClientOnly>
 
-NRAU-Baltic Working Group kindly invites all radio amateurs of the Nordics and Baltics to participate in the annual **NRAU-Baltic contest 2025**, on the 12th of January, 2025.
+## NRAU-Baltic contest 2025 results!
 
-**[SUBMIT YOUR LOGS FOR 2025 HERE >>](https://logs.nraubaltic.eu/submit/6777b7bc8a96487522d6b473)**
+On behalf of the NRAU-Baltic Working Group, we proudly announce the final results of the NRAU-Baltic contest 2025! 🎉
 
-[NRAU-Baltic contest rules](/rules)
+Sincere congratulations to the winning team 🥇 Latvia 🇱🇻 !!!
 
-Supported contesting software that include the most recent NRAU-Baltic contest rule updates:
+All the scores are now available on our website: [by country](/countries) and results for [CW](/cw), [PH](/ph), and [Mixed](/mixed) categories. 
 
-* **DXLog.net**: version 2.6.11 ([full download](http://www.dxlog.net/sw/files/DXLog.net-2.6.11.msi))
-
-* **N1MM Logger+**: update 1.0.10386 ([update download](https://n1mmwp.hamdocs.com/mmfile/get/file/N1MM-Logger-FullInstaller-1.0.10386.exe))
-
-Happy holidays!
-
-## NRAU-Baltic contest 2024 results
-
-The final results for 2024 NRAU-Baltic contest are published 🎉 See results for [CW](/cw), [PH](/ph), and [Mixed](/mixed) categories. 
-
-_73, Ingo SM5AJV SSA HF Contest Manager_
+Please also check out the link to [final results](https://logs.nraubaltic.eu/results/6777b7bc8a96487522d6b473/final?eventId=6777b7bc8a96487522d6b473) and the [soapbox](https://logs.nraubaltic.eu/results/6777b7bc8a96487522d6b473/soapbox) on the submission website. 
 
 ## NRAU-Baltic contest schedule 2025-2031
 
