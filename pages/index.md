@@ -15,6 +15,8 @@ titleTemplate: false
 
 NRAU-Baltic Working Group kindly invites all radio amateurs of the Nordics and Baltics to participate in the annual **NRAU-Baltic contest 2026**, on the 11th of January, 2026.
 
+<h2 style="color: red;">Important notice! Contest time has been adjusted by 30 minutes. New time time SSB: 0600-0800 UTC; CW: 0630-0830 UTC</h2>
+
 This year the contest is hosted by **EDR - Denmark**.
 
 _- Arne OZ4VW_
