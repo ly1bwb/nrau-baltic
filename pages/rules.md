@@ -12,8 +12,8 @@ There is also a national competition between nations.
 
 Sunday morning, each year, on the 2nd full weekend of January.
 
-- SSB: 0630-0830 UTC
-- CW: 0900-1100 UTC
+- SSB: 0600-0800 UTC
+- CW: 0830-1030 UTC
 
 The CW and SSB parts are separate contests. Also mixed mode results (CW+SSB) will be listed.
 
