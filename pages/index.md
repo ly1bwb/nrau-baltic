@@ -11,6 +11,14 @@ titleTemplate: false
 
 <ClientOnly><ContestTimer /></ClientOnly>
 
+## NRAU-Baltic contest 2026
+
+NRAU-Baltic Working Group kindly invites all radio amateurs of the Nordics and Baltics to participate in the annual **NRAU-Baltic contest 2026**, on the 11th of January, 2026.
+
+This year the contest is hosted by **EDR - Denmark**.
+
+_- Arne OZ4VW_
+
 ## NRAU-Baltic contest 2025 results!
 
 On behalf of the NRAU-Baltic Working Group, we proudly announce the final results of the NRAU-Baltic contest 2025! 🎉
