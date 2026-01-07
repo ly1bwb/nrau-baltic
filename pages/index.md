@@ -17,6 +17,8 @@ NRAU-Baltic Working Group kindly invites all radio amateurs of the Nordics and B
 
 <h2 style="color: red;">Important notice! Contest time has been adjusted by 30 minutes. New time SSB 0600-0800 / CW 0830-1030 UTC</h2>
 
+**[SUBMIT YOUR LOGS FOR 2026 HERE >>](https://logs.nraubaltic.eu/submit/695e6295dd20b3166a0ce861)**
+
 This year the contest is hosted by **EDR - Denmark**.
 
 _- Arne OZ4VW_
