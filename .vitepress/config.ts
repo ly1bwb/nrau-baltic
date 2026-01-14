@@ -22,6 +22,7 @@ export default defineConfigWithTheme<ThemeConfig>({
 	themeConfig: {
 		nav: [
 			{ text: "Home", link: "/" },
+			{ text: "News", link: "/news" },
 			{ text: "Rules", link: "/rules" },
 			{ text: "CW", link: "/cw" },
 			{ text: "PH", link: "/ph" },
