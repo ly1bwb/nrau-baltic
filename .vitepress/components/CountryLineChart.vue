@@ -19,7 +19,7 @@ import type {
 	GridComponentOption,
 } from "echarts/components";
 import VChart from "vue-echarts";
-import { ref } from "vue";
+import { computed } from "vue";
 import { useDark } from "@vueuse/core";
 
 import { data as results } from "@/results.data.js";
@@ -34,6 +34,7 @@ type EChartsOption = ComposeOption<
 	| LineSeriesOption
 >;
 
+const props = defineProps<{ stacked?: boolean }>();
 const emit = defineEmits<{ highlightYear: [year: number] }>();
 
 use([
@@ -71,7 +72,7 @@ const countryScores: LineSeriesOption[] = COUNTRIES.map((country) => ({
 
 const isDark = useDark({ storageKey: "vitepress-theme-appearance" });
 
-const option = ref<EChartsOption>({
+const option = computed<EChartsOption>(() => ({
 	backgroundColor: "transparent",
 	tooltip: {
 		trigger: "axis",
@@ -92,8 +93,15 @@ const option = ref<EChartsOption>({
 	yAxis: {
 		type: "value",
 	},
-	series: countryScores,
-});
+	// Every field is set in both states, because the option is merged
+	// (not replaced) so that toggling animates
+	series: countryScores.map((series) => ({
+		...series,
+		stack: props.stacked ? "total" : undefined,
+		areaStyle: { opacity: props.stacked ? 0.7 : 0 },
+		emphasis: { focus: props.stacked ? "series" : "none" },
+	})),
+}));
 
 const handleHighlight = (payload: Payload) => {
 	const highlightedYear = availableYears[payload.batch?.[0].dataIndex];
@@ -110,6 +118,7 @@ const handleHighlight = (payload: Payload) => {
 			:option="option"
 			autoresize
 			:theme="isDark ? 'dark' : ''"
+			:update-options="{ notMerge: false }"
 			@highlight="handleHighlight"
 		/>
 	</div>
